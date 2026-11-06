@@ -12256,7 +12256,7 @@ MonoBehaviour:
   mainMenuButton: {fileID: 1916211377}
   player: {fileID: 927702523}
   spawner: {fileID: 651614714}
-  stageSceneName: SampleScene
+  stageSceneName: Stage1
   mainMenuSceneName: MainMenu
   showDelay: 0.3
   fadeDuration: 0.6
