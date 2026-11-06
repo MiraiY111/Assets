@@ -12308,7 +12308,7 @@ MonoBehaviour:
   nextStageButton: {fileID: 1445033041}
   mainMenuButton: {fileID: 825093931}
   spawner: {fileID: 651614714}
-  nextStageSceneName: 
+  nextStageSceneName: Stage2
   mainMenuSceneName: MainMenu
   showDelay: 0.5
   fadeDuration: 0.6
