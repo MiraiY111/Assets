@@ -10,9 +10,21 @@ public class PlayerHealth : MonoBehaviour, IDamageable
     [SerializeField] private string deathClipName = "Orc_Death";
     [SerializeField] private float deathLengthFallback = 0.8f;
 
+    // [SPIKE] kedip saat kebal panjang (dipakai SpikeTrap lewat TakeDamageBlink)
+    [Header("Kedip saat kebal")]
+    [Tooltip("Jeda antar ganti terlihat/samar (detik).")]
+    [SerializeField] private float blinkInterval = 0.1f;
+    [Tooltip("Transparansi saat samar. 0 = hilang total, 1 = tidak berubah.")]
+    [Range(0f, 1f)][SerializeField] private float blinkAlpha = 0.25f;
+    [Tooltip("Opsional: material siluet putih untuk kilatan awal. Kosong = tanpa kilatan putih, hanya berkedip.")]
+    [SerializeField] private Material whiteFlashMaterial;
+    [SerializeField] private float whiteFlashTime = 0.1f;
+
     public int CurrentHP { get; private set; }
     public int MaxHP => maxHP;
     public bool IsDead { get; private set; }
+    /// <summary>True selama masa kebal setelah terkena damage. [SPIKE]</summary>
+    public bool IsInvulnerable => Time.time < invulnerableUntil;
 
     public event Action<int, int> OnHealthChanged; // (current, max) untuk HUD
     public event Action OnDied;                    // dipanggil setelah animasi Death selesai
@@ -22,27 +34,61 @@ public class PlayerHealth : MonoBehaviour, IDamageable
     Animator anim;
     float invulnerableUntil;
 
+    // [SPIKE]
+    Color baseColor = Color.white;
+    Material baseMaterial;
+    Coroutine blinkRoutine;
+
     void Awake()
     {
         CurrentHP = maxHP;
         sr = GetComponent<SpriteRenderer>();
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
+
+        // [SPIKE]
+        if (sr != null)
+        {
+            baseColor = sr.color;
+            baseMaterial = sr.sharedMaterial;
+        }
     }
 
+    // damage biasa (monster, boss, cart): kebal singkat, kilatan merah. Perilaku lama, tidak berubah.
     public void TakeDamage(int amount)
     {
-        if (IsDead || Time.time < invulnerableUntil) return;
+        ApplyDamage(amount, invulnerableTime, false);
+    }
+
+    /// <summary>
+    /// [SPIKE] Damage dengan kebal lebih lama (immuneTime detik). Selama kebal Player berkedip
+    /// dan tidak bisa dilukai sumber apa pun.
+    /// </summary>
+    public void TakeDamageBlink(int amount, float immuneTime)
+    {
+        ApplyDamage(amount, immuneTime, true);
+    }
+
+    void ApplyDamage(int amount, float immuneTime, bool blink)
+    {
+        if (IsDead || IsInvulnerable) return;
 
         CurrentHP = Mathf.Max(0, CurrentHP - amount);
-        invulnerableUntil = Time.time + invulnerableTime;
+        invulnerableUntil = Time.time + Mathf.Max(immuneTime, invulnerableTime);
         Debug.Log($"Player HP: {CurrentHP}/{maxHP}");
         OnHealthChanged?.Invoke(CurrentHP, maxHP);
 
         if (CurrentHP <= 0) { StartCoroutine(DieRoutine()); return; }
 
         SetTriggerSafe("Hurt");
-        if (sr != null) StartCoroutine(Flash());
+        if (sr == null) return;
+
+        if (blink)
+        {
+            StopBlink();
+            blinkRoutine = StartCoroutine(BlinkRoutine(Mathf.Max(immuneTime, invulnerableTime)));
+        }
+        else StartCoroutine(Flash());
     }
 
     /// <summary>Pulihkan HP, tidak melebihi MaxHP. Diabaikan kalau player sudah mati.</summary>
@@ -68,6 +114,7 @@ public class PlayerHealth : MonoBehaviour, IDamageable
     IEnumerator DieRoutine()
     {
         IsDead = true;
+        StopBlink();   // [SPIKE] animasi Death tampil penuh, bukan samar
 
         var controller = GetComponent<PlayerController>();
         if (controller != null) controller.enabled = false; // stop input dan gerak
@@ -105,6 +152,55 @@ public class PlayerHealth : MonoBehaviour, IDamageable
         sr.color = Color.red;
         yield return new WaitForSeconds(flashTime);
         if (sr != null && !IsDead) sr.color = original;
+    }
+
+    // [SPIKE] kilatan putih (kalau material diisi), lalu berkedip samar/terlihat sampai kebal habis
+    IEnumerator BlinkRoutine(float duration)
+    {
+        float end = Time.time + duration;
+
+        if (whiteFlashMaterial != null)
+        {
+            sr.sharedMaterial = whiteFlashMaterial;
+            yield return new WaitForSeconds(whiteFlashTime);
+            sr.sharedMaterial = baseMaterial;
+        }
+
+        bool faded = false;
+        while (Time.time < end && !IsDead)
+        {
+            faded = !faded;
+            SetAlpha(faded ? blinkAlpha : 1f);
+            yield return new WaitForSeconds(Mathf.Max(0.02f, blinkInterval));
+        }
+
+        RestoreVisual();
+        blinkRoutine = null;
+    }
+
+    void StopBlink()
+    {
+        if (blinkRoutine != null)
+        {
+            StopCoroutine(blinkRoutine);
+            blinkRoutine = null;
+        }
+        RestoreVisual();
+    }
+
+    void SetAlpha(float a)
+    {
+        if (sr == null) return;
+        Color c = baseColor;
+        c.a = baseColor.a * a;
+        sr.color = c;
+    }
+
+    void RestoreVisual()
+    {
+        if (sr == null) return;
+        sr.color = baseColor;
+        sr.sharedMaterial = baseMaterial;
     }
 
     void SetTriggerSafe(string param)
