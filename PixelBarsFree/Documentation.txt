@@ -1,0 +1,31 @@
+Pixel Bars Free
+
+Documentation. Pixel-art status bars for UGUI: 1 frame style (wood) and 3 fills
+(health, mana, stamina), in six shapes, with hearts, shields and stars.
+
+  Resources/Pixel Bars Free/Frames/<style>/<shape>.png   the empty frames: bar, thin, vbar, boss, orb, ring
+  Resources/Pixel Bars Free/Fills/<fill>/<shape>.png     the fills, each its frame's size; trail/ the damage trail
+  Resources/Pixel Bars Free/Pips/                        hearts, shields and stars, 16x16 (mini hearts 9x8)
+  Sheets/<style>/                    12 sprite sheets (bars filling and taking a hit, orbs filling,
+                                     hearts), sliced into their frames, listed in sheets.json
+  Font/Pixel_UI.fontsettings   the pixel font as a UGUI (legacy Text) font, crisp at size 8
+  Demo/PixelBarsFreeDemo.unity   a HUD of every shape; hit, heal, cast and strike, and switch the style
+
+Every sprite is point filtered, uncompressed and 100 pixels per unit, the stretching shapes 9-sliced.
+Keep the canvas at a whole-number scale (the demo's BarsDemo.Scale is one way): an art pixel is a
+canvas unit, and a bar 12 units high (thin 7, boss 16) is its frame's height.
+
+PixelStatBar: put it on a RectTransform under a Canvas and set shape, style, fill and value (of
+maxValue). It builds its frame, fill and trail as hidden children, in the editor too. A drop flashes
+the fill and leaves a trail that holds trailHold seconds, then drains; at or below `low` the fill
+pulses; `segments` marks the track; Settle() skips the animation. Orbs (32x32) and rings (20x20)
+don't stretch: scale them by whole numbers.
+
+PixelHearts: a row of icons for value of maxValue, perIcon points each (4: quarters, 2: halves);
+the icons a drop empties blink.
+
+Needs Unity 6.3 or later, any render pipeline. The demo runs on either input handler.
+
+
+Each file carries its type's prefix (T_ texture, M_ material, PF_ prefab, L_ scene, SH_ shader, AN_ clip,
+AC_ controller, A_ audio, SM_ mesh, F_ font, DA_ data asset); this guide names files without it.

@@ -1,0 +1,2914 @@
+fileFormatVersion: 2
+guid: ed094a51666b16a45829986f8286529b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4040778490763550803
+    second: ember_atlas_0
+  - first:
+      213: -9044641433896144811
+    second: ember_atlas_1
+  - first:
+      213: -5629597402349437659
+    second: ember_atlas_2
+  - first:
+      213: -2559120246891086866
+    second: ember_atlas_3
+  - first:
+      213: -290180920824763519
+    second: ember_atlas_4
+  - first:
+      213: -1329194836820393886
+    second: ember_atlas_5
+  - first:
+      213: 8965249293137464002
+    second: ember_atlas_6
+  - first:
+      213: -2605691031504863336
+    second: ember_atlas_7
+  - first:
+      213: 3035142444595510868
+    second: ember_atlas_8
+  - first:
+      213: -2752705046369081383
+    second: ember_atlas_9
+  - first:
+      213: 8533681051711022468
+    second: ember_atlas_10
+  - first:
+      213: 4829207407310249667
+    second: ember_atlas_11
+  - first:
+      213: 7147203063233161920
+    second: ember_atlas_12
+  - first:
+      213: -5736172868081704132
+    second: ember_atlas_13
+  - first:
+      213: -370946759513212595
+    second: ember_atlas_14
+  - first:
+      213: 7294573410724871422
+    second: ember_atlas_15
+  - first:
+      213: -7981443557188175070
+    second: ember_atlas_16
+  - first:
+      213: -2889492936228034607
+    second: ember_atlas_17
+  - first:
+      213: -2244278128100353712
+    second: ember_atlas_18
+  - first:
+      213: -6241310600876804680
+    second: ember_atlas_19
+  - first:
+      213: 6520852365047108098
+    second: ember_atlas_20
+  - first:
+      213: 1495756451318417525
+    second: ember_atlas_21
+  - first:
+      213: -904085256848862257
+    second: ember_atlas_22
+  - first:
+      213: -8895628107078440595
+    second: ember_atlas_23
+  - first:
+      213: -3452613323298330559
+    second: ember_atlas_24
+  - first:
+      213: 6960015992232983664
+    second: ember_atlas_25
+  - first:
+      213: 3712764563175970127
+    second: ember_atlas_26
+  - first:
+      213: 6574202357846748418
+    second: ember_atlas_27
+  - first:
+      213: 962734327421559481
+    second: ember_atlas_28
+  - first:
+      213: -182699359230339722
+    second: ember_atlas_29
+  - first:
+      213: 8252753483436968766
+    second: ember_atlas_30
+  - first:
+      213: 3014125862645654132
+    second: ember_atlas_31
+  - first:
+      213: 5441113192250515781
+    second: ember_atlas_32
+  - first:
+      213: -3675096846381405271
+    second: ember_atlas_33
+  - first:
+      213: -3460895926422890714
+    second: ember_atlas_34
+  - first:
+      213: -4836327000089550009
+    second: ember_atlas_35
+  - first:
+      213: -8990443587966001678
+    second: ember_atlas_36
+  - first:
+      213: 319923102626455241
+    second: ember_atlas_37
+  - first:
+      213: 2349839381381532521
+    second: ember_atlas_38
+  - first:
+      213: -4223089360367811296
+    second: ember_atlas_39
+  - first:
+      213: 8079851927460219908
+    second: ember_atlas_40
+  - first:
+      213: -6980089653958282729
+    second: ember_atlas_41
+  - first:
+      213: 783618750349126578
+    second: ember_atlas_42
+  - first:
+      213: 53218488080320159
+    second: ember_atlas_43
+  - first:
+      213: -7033256492139733792
+    second: ember_atlas_44
+  - first:
+      213: 9032290122765964906
+    second: ember_atlas_45
+  - first:
+      213: -8097973838192041948
+    second: ember_atlas_46
+  - first:
+      213: -1166753405379553218
+    second: ember_atlas_47
+  - first:
+      213: 8673564497594294469
+    second: ember_atlas_48
+  - first:
+      213: 3937871691520561991
+    second: ember_atlas_49
+  - first:
+      213: -734328222485043499
+    second: ember_atlas_50
+  - first:
+      213: -3054307392563786568
+    second: ember_atlas_51
+  - first:
+      213: 3912215696169971416
+    second: ember_atlas_52
+  - first:
+      213: -4173588434563671757
+    second: ember_atlas_53
+  - first:
+      213: 5899175367171126942
+    second: ember_atlas_54
+  - first:
+      213: 2332863311109129224
+    second: ember_atlas_55
+  - first:
+      213: 5947790271908386687
+    second: ember_atlas_56
+  - first:
+      213: -1360878327496378135
+    second: ember_atlas_57
+  - first:
+      213: -5677621896107615543
+    second: ember_atlas_58
+  - first:
+      213: -5059423943927931468
+    second: ember_atlas_59
+  - first:
+      213: 103599183337601594
+    second: ember_atlas_60
+  - first:
+      213: -2090797935618870840
+    second: ember_atlas_61
+  - first:
+      213: 3732894844538056795
+    second: ember_atlas_62
+  - first:
+      213: -6047991784450980149
+    second: ember_atlas_63
+  - first:
+      213: -5041569949840690255
+    second: ember_atlas_64
+  - first:
+      213: 1247619199591208073
+    second: ember_atlas_65
+  - first:
+      213: -5837152159766064597
+    second: ember_atlas_66
+  - first:
+      213: -1906372774320301901
+    second: ember_atlas_67
+  - first:
+      213: -4706824928476985048
+    second: ember_atlas_68
+  - first:
+      213: -1363445803834895402
+    second: ember_atlas_69
+  - first:
+      213: -3546798075327038085
+    second: ember_atlas_70
+  - first:
+      213: -1443064950446150706
+    second: ember_atlas_71
+  - first:
+      213: 4904396446857739204
+    second: ember_atlas_72
+  - first:
+      213: 108021513751043963
+    second: ember_atlas_73
+  - first:
+      213: 903401160300371526
+    second: ember_atlas_74
+  - first:
+      213: -3575016657818715690
+    second: ember_atlas_75
+  - first:
+      213: 2326548192472126041
+    second: ember_atlas_76
+  - first:
+      213: 5310622208513095444
+    second: ember_atlas_77
+  - first:
+      213: -3925072860627824834
+    second: ember_atlas_78
+  - first:
+      213: -2882576938721849315
+    second: ember_atlas_79
+  - first:
+      213: -7212518296416393939
+    second: ember_atlas_80
+  - first:
+      213: -7815508246159329301
+    second: ember_atlas_81
+  - first:
+      213: -3218878257408364006
+    second: ember_atlas_82
+  - first:
+      213: 1192795132878756164
+    second: ember_atlas_83
+  - first:
+      213: 5459098907091757667
+    second: ember_atlas_84
+  - first:
+      213: 2039787133116236409
+    second: ember_atlas_85
+  - first:
+      213: -4318753880854200393
+    second: ember_atlas_86
+  - first:
+      213: -4280574558143713477
+    second: ember_atlas_87
+  - first:
+      213: -7372899390338606240
+    second: ember_atlas_88
+  - first:
+      213: 410110949135801782
+    second: ember_atlas_89
+  - first:
+      213: 952276263054704727
+    second: ember_atlas_90
+  - first:
+      213: 407004226419461920
+    second: ember_atlas_91
+  - first:
+      213: -4525136418881111957
+    second: ember_atlas_92
+  - first:
+      213: -6399049856377451699
+    second: ember_atlas_93
+  - first:
+      213: 36759254262679959
+    second: ember_atlas_94
+  - first:
+      213: 7597520473308123638
+    second: ember_atlas_95
+  - first:
+      213: -9132763933513344805
+    second: ember_atlas_96
+  - first:
+      213: -820642549949818299
+    second: ember_atlas_97
+  - first:
+      213: -6010435621806256172
+    second: ember_atlas_98
+  - first:
+      213: 7021189241019750584
+    second: ember_atlas_99
+  - first:
+      213: -4196158002454176189
+    second: ember_atlas_100
+  - first:
+      213: 1259215066852277376
+    second: ember_atlas_101
+  - first:
+      213: 1217687062465475848
+    second: ember_atlas_102
+  - first:
+      213: -8476409949036867113
+    second: ember_atlas_103
+  - first:
+      213: -4028566160019978758
+    second: ember_atlas_104
+  - first:
+      213: 5794571005273702248
+    second: ember_atlas_105
+  - first:
+      213: 5730672825040692012
+    second: ember_atlas_106
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ember_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1013
+        width: 140
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350200ed0aab31830800000000000000
+      internalID: 4040778490763550803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1013
+        width: 139
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55037d3598afa7280800000000000000
+      internalID: -9044641433896144811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1013
+        width: 138
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dff7c4df6afd1b0800000000000000
+      internalID: -5629597402349437659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1013
+        width: 136
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebfb8ab1bd2c7cd0800000000000000
+      internalID: -2559120246891086866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1013
+        width: 135
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18be4ad6df119fbf0800000000000000
+      internalID: -290180920824763519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1013
+        width: 135
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260890a9650cd8de0800000000000000
+      internalID: -1329194836820393886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1013
+        width: 137
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cac7407bb6fa6c70800000000000000
+      internalID: 8965249293137464002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1013
+        width: 139
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f3bb8ffc9b6dbd0800000000000000
+      internalID: -2605691031504863336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 868
+        width: 139
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e73d4f8fdfe1a20800000000000000
+      internalID: 3035142444595510868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 869
+        width: 140
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7eeb3485d6cc9d0800000000000000
+      internalID: -2752705046369081383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 869
+        width: 140
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485a7b104b9bd6670800000000000000
+      internalID: 8533681051711022468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 868
+        width: 139
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce996bfc8ac40340800000000000000
+      internalID: 4829207407310249667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 868
+        width: 137
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0caa8998157ff2360800000000000000
+      internalID: 7147203063233161920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 869
+        width: 136
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33a1c30b250560b0800000000000000
+      internalID: -5736172868081704132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 869
+        width: 136
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49f1a833e12adaf0800000000000000
+      internalID: -370946759513212595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 868
+        width: 138
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efcf3466ed78b3560800000000000000
+      internalID: 7294573410724871422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 724
+        width: 150
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bf7fa4f573c3190800000000000000
+      internalID: -7981443557188175070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 724
+        width: 150
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7a023db7576e7d0800000000000000
+      internalID: -2889492936228034607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 725
+        width: 150
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0595665eee8bad0e0800000000000000
+      internalID: -2244278128100353712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 724
+        width: 150
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5bbdd83196269a0800000000000000
+      internalID: -6241310600876804680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 724
+        width: 150
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20216635da8be7a50800000000000000
+      internalID: 6520852365047108098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_21
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 724
+        width: 149
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578455f419ef1c410800000000000000
+      internalID: 1495756451318417525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 725
+        width: 149
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc31bdabf3b0473f0800000000000000
+      internalID: -904085256848862257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_23
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 724
+        width: 149
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69eb9f1e516c8480800000000000000
+      internalID: -8895628107078440595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 581
+        width: 138
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148a506a97ad510d0800000000000000
+      internalID: -3452613323298330559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_25
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 594
+        width: 145
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cb5105ba1f69060800000000000000
+      internalID: 6960015992232983664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_26
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 623
+        width: 149
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4513caf2b3668330800000000000000
+      internalID: 3712764563175970127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_27
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 618
+        width: 150
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20dadfc76324c3b50800000000000000
+      internalID: 6574202357846748418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_28
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 590
+        width: 144
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2690f15c15c5d00800000000000000
+      internalID: 962734327421559481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_29
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 581
+        width: 136
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675526896ebe67df0800000000000000
+      internalID: -182699359230339722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 437
+        width: 136
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bc027719ba78270800000000000000
+      internalID: 8252753483436968766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_31
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 437
+        width: 132
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472ef47a08354d920800000000000000
+      internalID: 3014125862645654132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_32
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 452
+        width: 148
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541a8cebe97b28b40800000000000000
+      internalID: 5441113192250515781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_33
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 457
+        width: 159
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab2744c3ee6ffcc0800000000000000
+      internalID: -3675096846381405271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_34
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 448
+        width: 161
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62797f4dd7d68ffc0800000000000000
+      internalID: -3460895926422890714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_35
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 436
+        width: 146
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7432806a73ae1ecb0800000000000000
+      internalID: -4836327000089550009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_36
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 436
+        width: 138
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd191ea0378b3380800000000000000
+      internalID: -8990443587966001678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_37
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 293
+        width: 141
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce9d77ed58907400800000000000000
+      internalID: 319923102626455241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_38
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 293
+        width: 141
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b4876a77e4c9020800000000000000
+      internalID: 2349839381381532521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_39
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 293
+        width: 147
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0258b840a929465c0800000000000000
+      internalID: -4223089360367811296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_40
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 293
+        width: 141
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c8506e486612070800000000000000
+      internalID: 8079851927460219908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_41
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 368
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712ff6b117db12f90800000000000000
+      internalID: -6980089653958282729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_42
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 293
+        width: 159
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb25e50a19ffda00800000000000000
+      internalID: 783618750349126578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_43
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 370
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96c285dee11db000800000000000000
+      internalID: 53218488080320159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_44
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 293
+        width: 151
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec1dc3fb7ad46e90800000000000000
+      internalID: -7033256492139733792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_45
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 358
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a661cb3f204295d70800000000000000
+      internalID: 9032290122765964906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_46
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 363
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4202826f2b73e9f80800000000000000
+      internalID: -8097973838192041948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_47
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 368
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38dfd3a5fbdecfe0800000000000000
+      internalID: -1166753405379553218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_48
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 293
+        width: 142
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c02c8fb4f0be5870800000000000000
+      internalID: 8673564497594294469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_49
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 358
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7435620907126a630800000000000000
+      internalID: 3937871691520561991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_50
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 363
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d62c3e4f542fc5f0800000000000000
+      internalID: -734328222485043499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_51
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 293
+        width: 142
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcc26fdb9bec95d0800000000000000
+      internalID: -3054307392563786568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_52
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 359
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de2be6a27bfa4630800000000000000
+      internalID: 3912215696169971416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 148
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339572f6e6f6416c0800000000000000
+      internalID: -4173588434563671757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 148
+        width: 139
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9638f3cdb41ed150800000000000000
+      internalID: 5899175367171126942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_55
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 148
+        width: 134
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804833842deff5020800000000000000
+      internalID: 2332863311109129224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_56
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 149
+        width: 137
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f779f935dbbca8250800000000000000
+      internalID: 5947790271908386687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_57
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 141
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8fc031f503d1de0800000000000000
+      internalID: -1360878327496378135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_58
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 4
+        width: 141
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca968187f80531b0800000000000000
+      internalID: -5677621896107615543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_59
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 5
+        width: 138
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdd11e9ab059c9b0800000000000000
+      internalID: -5059423943927931468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_60
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 5
+        width: 123
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3abbd988ee007100800000000000000
+      internalID: 103599183337601594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_61
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 5
+        width: 118
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c13156ea5efbf2e0800000000000000
+      internalID: -2090797935618870840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_62
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 51
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50f3985518edc330800000000000000
+      internalID: 3732894844538056795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_63
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 43
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc681530487311ca0800000000000000
+      internalID: -6047991784450980149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_64
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 50
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3367d87deb80ab0800000000000000
+      internalID: -5041569949840690255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_65
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 67
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98457964d0f605110800000000000000
+      internalID: 1247619199591208073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_66
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 58
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b225d3989054efea0800000000000000
+      internalID: -5837152159766064597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_67
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 31
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b89929ef043b85e0800000000000000
+      internalID: -1906372774320301901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_68
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 54
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8290d265aaffdaeb0800000000000000
+      internalID: -4706824928476985048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_69
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 31
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d39ce7e341141de0800000000000000
+      internalID: -1363445803834895402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_70
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 70
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7db71631fd37cec0800000000000000
+      internalID: -3546798075327038085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_71
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 73
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb27d0c21439fbe0800000000000000
+      internalID: -1443064950446150706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_72
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 50
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbb4a4759aef0440800000000000000
+      internalID: 4904396446857739204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_73
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 65
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f1b339ef4cf7100800000000000000
+      internalID: 108021513751043963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_74
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 37
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e1161a196898c00800000000000000
+      internalID: 903401160300371526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_75
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 50
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d97c9c7a4df26ec0800000000000000
+      internalID: -3575016657818715690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_76
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 62
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952d025214f894020800000000000000
+      internalID: 2326548192472126041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_77
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 43
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41739b203ce13b940800000000000000
+      internalID: 5310622208513095444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_78
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 42
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f80c877075789c0800000000000000
+      internalID: -3925072860627824834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_79
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 35
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1050c9fb870ff7d0800000000000000
+      internalID: -2882576938721849315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_80
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 25
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25681ea2dcf7eb90800000000000000
+      internalID: -7212518296416393939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_81
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 33
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7798098acb98390800000000000000
+      internalID: -7815508246159329301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_82
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 29
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1232fb774f3453d0800000000000000
+      internalID: -3218878257408364006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_83
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 41
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4499d098ad8ad8010800000000000000
+      internalID: 1192795132878756164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_84
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 33
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a6dee488d92cb40800000000000000
+      internalID: 5459098907091757667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_85
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 37
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9724ece1797ce4c10800000000000000
+      internalID: 2039787133116236409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_86
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 26
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf78532a34b014c0800000000000000
+      internalID: -4318753880854200393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_87
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 17
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fe44b6e185894c0800000000000000
+      internalID: -4280574558143713477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_88
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 18
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b5c2a51133ea990800000000000000
+      internalID: -7372899390338606240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_89
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 23
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bddcb14cb101b500800000000000000
+      internalID: 410110949135801782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_90
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 5
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7508963473a273d00800000000000000
+      internalID: 952276263054704727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_91
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 26
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f80d10038f5a500800000000000000
+      internalID: 407004226419461920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_92
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 15
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b687868f66c7331c0800000000000000
+      internalID: -4525136418881111957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_93
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 22
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b8b9a2f020237a0800000000000000
+      internalID: -6399049856377451699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_94
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 14
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7990984d858928000800000000000000
+      internalID: 36759254262679959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_95
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 21
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1d949fd90df6960800000000000000
+      internalID: 7597520473308123638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_96
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 10
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd810750797e14180800000000000000
+      internalID: -9132763933513344805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_97
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 14
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a9ba2e2fd7c94f0800000000000000
+      internalID: -820642549949818299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_98
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 7
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df42e885a4a69ca0800000000000000
+      internalID: -6010435621806256172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_99
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 15
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8d6c33a66407160800000000000000
+      internalID: 7021189241019750584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_100
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 10
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e5e4a678044c5c0800000000000000
+      internalID: -4196158002454176189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_101
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 14
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cbc838e61a97110800000000000000
+      internalID: 1259215066852277376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_102
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 5
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805f7d58ee716e010800000000000000
+      internalID: 1217687062465475848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_103
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 14
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d11211bf0ebd5a80800000000000000
+      internalID: -8476409949036867113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_104
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 15
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af589d5fb68a718c0800000000000000
+      internalID: -4028566160019978758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_105
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 6
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ffd1bd0a37a6050800000000000000
+      internalID: 5794571005273702248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_atlas_106
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 9
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23e88c6290778f40800000000000000
+      internalID: 5730672825040692012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ember_atlas_0: 4040778490763550803
+      ember_atlas_1: -9044641433896144811
+      ember_atlas_10: 8533681051711022468
+      ember_atlas_100: -4196158002454176189
+      ember_atlas_101: 1259215066852277376
+      ember_atlas_102: 1217687062465475848
+      ember_atlas_103: -8476409949036867113
+      ember_atlas_104: -4028566160019978758
+      ember_atlas_105: 5794571005273702248
+      ember_atlas_106: 5730672825040692012
+      ember_atlas_11: 4829207407310249667
+      ember_atlas_12: 7147203063233161920
+      ember_atlas_13: -5736172868081704132
+      ember_atlas_14: -370946759513212595
+      ember_atlas_15: 7294573410724871422
+      ember_atlas_16: -7981443557188175070
+      ember_atlas_17: -2889492936228034607
+      ember_atlas_18: -2244278128100353712
+      ember_atlas_19: -6241310600876804680
+      ember_atlas_2: -5629597402349437659
+      ember_atlas_20: 6520852365047108098
+      ember_atlas_21: 1495756451318417525
+      ember_atlas_22: -904085256848862257
+      ember_atlas_23: -8895628107078440595
+      ember_atlas_24: -3452613323298330559
+      ember_atlas_25: 6960015992232983664
+      ember_atlas_26: 3712764563175970127
+      ember_atlas_27: 6574202357846748418
+      ember_atlas_28: 962734327421559481
+      ember_atlas_29: -182699359230339722
+      ember_atlas_3: -2559120246891086866
+      ember_atlas_30: 8252753483436968766
+      ember_atlas_31: 3014125862645654132
+      ember_atlas_32: 5441113192250515781
+      ember_atlas_33: -3675096846381405271
+      ember_atlas_34: -3460895926422890714
+      ember_atlas_35: -4836327000089550009
+      ember_atlas_36: -8990443587966001678
+      ember_atlas_37: 319923102626455241
+      ember_atlas_38: 2349839381381532521
+      ember_atlas_39: -4223089360367811296
+      ember_atlas_4: -290180920824763519
+      ember_atlas_40: 8079851927460219908
+      ember_atlas_41: -6980089653958282729
+      ember_atlas_42: 783618750349126578
+      ember_atlas_43: 53218488080320159
+      ember_atlas_44: -7033256492139733792
+      ember_atlas_45: 9032290122765964906
+      ember_atlas_46: -8097973838192041948
+      ember_atlas_47: -1166753405379553218
+      ember_atlas_48: 8673564497594294469
+      ember_atlas_49: 3937871691520561991
+      ember_atlas_5: -1329194836820393886
+      ember_atlas_50: -734328222485043499
+      ember_atlas_51: -3054307392563786568
+      ember_atlas_52: 3912215696169971416
+      ember_atlas_53: -4173588434563671757
+      ember_atlas_54: 5899175367171126942
+      ember_atlas_55: 2332863311109129224
+      ember_atlas_56: 5947790271908386687
+      ember_atlas_57: -1360878327496378135
+      ember_atlas_58: -5677621896107615543
+      ember_atlas_59: -5059423943927931468
+      ember_atlas_6: 8965249293137464002
+      ember_atlas_60: 103599183337601594
+      ember_atlas_61: -2090797935618870840
+      ember_atlas_62: 3732894844538056795
+      ember_atlas_63: -6047991784450980149
+      ember_atlas_64: -5041569949840690255
+      ember_atlas_65: 1247619199591208073
+      ember_atlas_66: -5837152159766064597
+      ember_atlas_67: -1906372774320301901
+      ember_atlas_68: -4706824928476985048
+      ember_atlas_69: -1363445803834895402
+      ember_atlas_7: -2605691031504863336
+      ember_atlas_70: -3546798075327038085
+      ember_atlas_71: -1443064950446150706
+      ember_atlas_72: 4904396446857739204
+      ember_atlas_73: 108021513751043963
+      ember_atlas_74: 903401160300371526
+      ember_atlas_75: -3575016657818715690
+      ember_atlas_76: 2326548192472126041
+      ember_atlas_77: 5310622208513095444
+      ember_atlas_78: -3925072860627824834
+      ember_atlas_79: -2882576938721849315
+      ember_atlas_8: 3035142444595510868
+      ember_atlas_80: -7212518296416393939
+      ember_atlas_81: -7815508246159329301
+      ember_atlas_82: -3218878257408364006
+      ember_atlas_83: 1192795132878756164
+      ember_atlas_84: 5459098907091757667
+      ember_atlas_85: 2039787133116236409
+      ember_atlas_86: -4318753880854200393
+      ember_atlas_87: -4280574558143713477
+      ember_atlas_88: -7372899390338606240
+      ember_atlas_89: 410110949135801782
+      ember_atlas_9: -2752705046369081383
+      ember_atlas_90: 952276263054704727
+      ember_atlas_91: 407004226419461920
+      ember_atlas_92: -4525136418881111957
+      ember_atlas_93: -6399049856377451699
+      ember_atlas_94: 36759254262679959
+      ember_atlas_95: 7597520473308123638
+      ember_atlas_96: -9132763933513344805
+      ember_atlas_97: -820642549949818299
+      ember_atlas_98: -6010435621806256172
+      ember_atlas_99: 7021189241019750584
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

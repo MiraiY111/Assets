@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 723f3fe589cea68459d3b7ebb280e926
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6409129228522765128
+    second: Neon Pixel Sci-Fi UI Button Sheet_0
+  - first:
+      213: 7892303283489978966
+    second: Neon Pixel Sci-Fi UI Button Sheet_1
+  - first:
+      213: -7602225795588160834
+    second: Neon Pixel Sci-Fi UI Button Sheet_2
+  - first:
+      213: 6927278186700386982
+    second: Neon Pixel Sci-Fi UI Button Sheet_3
+  - first:
+      213: -5842648292788963275
+    second: Neon Pixel Sci-Fi UI Button Sheet_4
+  - first:
+      213: -6893730046339979500
+    second: Neon Pixel Sci-Fi UI Button Sheet_5
+  - first:
+      213: 7574125139480750641
+    second: Neon Pixel Sci-Fi UI Button Sheet_6
+  - first:
+      213: 863331877687510556
+    second: Neon Pixel Sci-Fi UI Button Sheet_7
+  - first:
+      213: -6674019686882676345
+    second: Neon Pixel Sci-Fi UI Button Sheet_8
+  - first:
+      213: -1605842757672048234
+    second: Neon Pixel Sci-Fi UI Button Sheet_9
+  - first:
+      213: -9089564744655218206
+    second: Neon Pixel Sci-Fi UI Button Sheet_10
+  - first:
+      213: 5808779097804001846
+    second: Neon Pixel Sci-Fi UI Button Sheet_11
+  - first:
+      213: 2871321958047802604
+    second: Neon Pixel Sci-Fi UI Button Sheet_12
+  - first:
+      213: -2476199696139595989
+    second: Neon Pixel Sci-Fi UI Button Sheet_13
+  - first:
+      213: -454380490964786784
+    second: Neon Pixel Sci-Fi UI Button Sheet_14
+  - first:
+      213: -4852708324631395304
+    second: Neon Pixel Sci-Fi UI Button Sheet_15
+  - first:
+      213: -1310691874677284071
+    second: Neon Pixel Sci-Fi UI Button Sheet_16
+  - first:
+      213: -2561388127733025603
+    second: Neon Pixel Sci-Fi UI Button Sheet_17
+  - first:
+      213: 1648525473115429460
+    second: Neon Pixel Sci-Fi UI Button Sheet_18
+  - first:
+      213: -6688164504000532279
+    second: Neon Pixel Sci-Fi UI Button Sheet_19
+  - first:
+      213: -589639204979734543
+    second: Neon Pixel Sci-Fi UI Button Sheet_20
+  - first:
+      213: -6631609130377545813
+    second: Neon Pixel Sci-Fi UI Button Sheet_21
+  - first:
+      213: 9184382972680537685
+    second: Neon Pixel Sci-Fi UI Button Sheet_22
+  - first:
+      213: 5895456745894335646
+    second: Neon Pixel Sci-Fi UI Button Sheet_23
+  - first:
+      213: -6099265224382051841
+    second: Neon Pixel Sci-Fi UI Button Sheet_24
+  - first:
+      213: -5614295834959119353
+    second: Neon Pixel Sci-Fi UI Button Sheet_25
+  - first:
+      213: -2082901260190919146
+    second: Neon Pixel Sci-Fi UI Button Sheet_26
+  - first:
+      213: -2133692327504008666
+    second: Neon Pixel Sci-Fi UI Button Sheet_27
+  - first:
+      213: -7255675377955184270
+    second: Neon Pixel Sci-Fi UI Button Sheet_28
+  - first:
+      213: 3472716628345365538
+    second: Neon Pixel Sci-Fi UI Button Sheet_29
+  - first:
+      213: -85600602504345759
+    second: Neon Pixel Sci-Fi UI Button Sheet_30
+  - first:
+      213: -615357671668590076
+    second: Neon Pixel Sci-Fi UI Button Sheet_31
+  - first:
+      213: 2450307634179986399
+    second: Neon Pixel Sci-Fi UI Button Sheet_32
+  - first:
+      213: -933573815459774387
+    second: Neon Pixel Sci-Fi UI Button Sheet_33
+  - first:
+      213: -5408803655721390581
+    second: Neon Pixel Sci-Fi UI Button Sheet_34
+  - first:
+      213: -3034870896808140220
+    second: Neon Pixel Sci-Fi UI Button Sheet_35
+  - first:
+      213: -7506090441842009900
+    second: Neon Pixel Sci-Fi UI Button Sheet_36
+  - first:
+      213: -282375796836410224
+    second: Neon Pixel Sci-Fi UI Button Sheet_37
+  - first:
+      213: -3594861660067383666
+    second: Neon Pixel Sci-Fi UI Button Sheet_38
+  - first:
+      213: -3795035286509372556
+    second: Neon Pixel Sci-Fi UI Button Sheet_39
+  - first:
+      213: 2874283430255926051
+    second: Neon Pixel Sci-Fi UI Button Sheet_40
+  - first:
+      213: 6878664583947568674
+    second: Neon Pixel Sci-Fi UI Button Sheet_41
+  - first:
+      213: -8892995617576821899
+    second: Neon Pixel Sci-Fi UI Button Sheet_42
+  - first:
+      213: -4298421855680644798
+    second: Neon Pixel Sci-Fi UI Button Sheet_43
+  - first:
+      213: -1242958291881968675
+    second: Neon Pixel Sci-Fi UI Button Sheet_44
+  - first:
+      213: 3212566487593937918
+    second: Neon Pixel Sci-Fi UI Button Sheet_45
+  - first:
+      213: -8804519224580727338
+    second: Neon Pixel Sci-Fi UI Button Sheet_46
+  - first:
+      213: 6274255365073991145
+    second: Neon Pixel Sci-Fi UI Button Sheet_47
+  - first:
+      213: -6452538589289514479
+    second: Neon Pixel Sci-Fi UI Button Sheet_48
+  - first:
+      213: -7399001072676756054
+    second: Neon Pixel Sci-Fi UI Button Sheet_49
+  - first:
+      213: 5888134920995994640
+    second: Neon Pixel Sci-Fi UI Button Sheet_50
+  - first:
+      213: -3817770745087025440
+    second: Neon Pixel Sci-Fi UI Button Sheet_51
+  - first:
+      213: -7081967691867682166
+    second: Neon Pixel Sci-Fi UI Button Sheet_52
+  - first:
+      213: -8375226828704044556
+    second: Neon Pixel Sci-Fi UI Button Sheet_53
+  - first:
+      213: -5850855268119192832
+    second: Neon Pixel Sci-Fi UI Button Sheet_54
+  - first:
+      213: -1416754022296842382
+    second: Neon Pixel Sci-Fi UI Button Sheet_55
+  - first:
+      213: -7247931224189549306
+    second: Neon Pixel Sci-Fi UI Button Sheet_56
+  - first:
+      213: 2359948479654411550
+    second: Neon Pixel Sci-Fi UI Button Sheet_57
+  - first:
+      213: -8965501227004041689
+    second: Neon Pixel Sci-Fi UI Button Sheet_58
+  - first:
+      213: -4421321372093591809
+    second: Neon Pixel Sci-Fi UI Button Sheet_59
+  - first:
+      213: -2294030862163587388
+    second: Neon Pixel Sci-Fi UI Button Sheet_60
+  - first:
+      213: -4749783304760306279
+    second: Neon Pixel Sci-Fi UI Button Sheet_61
+  - first:
+      213: 3425855133037843582
+    second: Neon Pixel Sci-Fi UI Button Sheet_62
+  - first:
+      213: 1199595229128214906
+    second: Neon Pixel Sci-Fi UI Button Sheet_63
+  - first:
+      213: -8335218281094059403
+    second: Neon Pixel Sci-Fi UI Button Sheet_64
+  - first:
+      213: -1660510626245773806
+    second: Neon Pixel Sci-Fi UI Button Sheet_65
+  - first:
+      213: 3322194847154637601
+    second: Neon Pixel Sci-Fi UI Button Sheet_66
+  - first:
+      213: -6906576299967891276
+    second: Neon Pixel Sci-Fi UI Button Sheet_67
+  - first:
+      213: 3277186211318217620
+    second: Neon Pixel Sci-Fi UI Button Sheet_68
+  - first:
+      213: 4004045766760099368
+    second: Neon Pixel Sci-Fi UI Button Sheet_69
+  - first:
+      213: 4141916385664150842
+    second: Neon Pixel Sci-Fi UI Button Sheet_70
+  - first:
+      213: 7726252874156263047
+    second: Neon Pixel Sci-Fi UI Button Sheet_71
+  - first:
+      213: -4604504501636510222
+    second: Neon Pixel Sci-Fi UI Button Sheet_72
+  - first:
+      213: 8499787509748432726
+    second: Neon Pixel Sci-Fi UI Button Sheet_73
+  - first:
+      213: -2344026520560494168
+    second: Neon Pixel Sci-Fi UI Button Sheet_74
+  - first:
+      213: -3407548997833362243
+    second: Neon Pixel Sci-Fi UI Button Sheet_75
+  - first:
+      213: 7809292773369100852
+    second: Neon Pixel Sci-Fi UI Button Sheet_76
+  - first:
+      213: -5147367434856162377
+    second: Neon Pixel Sci-Fi UI Button Sheet_77
+  - first:
+      213: 918792419066021183
+    second: Neon Pixel Sci-Fi UI Button Sheet_78
+  - first:
+      213: 4078353684617342566
+    second: Neon Pixel Sci-Fi UI Button Sheet_79
+  - first:
+      213: -6612523780722333441
+    second: Neon Pixel Sci-Fi UI Button Sheet_80
+  - first:
+      213: -3886904245140898267
+    second: Neon Pixel Sci-Fi UI Button Sheet_81
+  - first:
+      213: 6407455914232870441
+    second: Neon Pixel Sci-Fi UI Button Sheet_82
+  - first:
+      213: -4940396516859167653
+    second: Neon Pixel Sci-Fi UI Button Sheet_83
+  - first:
+      213: -941789668965490353
+    second: Neon Pixel Sci-Fi UI Button Sheet_84
+  - first:
+      213: -2849248982608057968
+    second: Neon Pixel Sci-Fi UI Button Sheet_85
+  - first:
+      213: -4435455854956741606
+    second: Neon Pixel Sci-Fi UI Button Sheet_86
+  - first:
+      213: -9053939620544526062
+    second: Neon Pixel Sci-Fi UI Button Sheet_87
+  - first:
+      213: -3353477999409755743
+    second: Neon Pixel Sci-Fi UI Button Sheet_88
+  - first:
+      213: 4945262883530215144
+    second: Neon Pixel Sci-Fi UI Button Sheet_89
+  - first:
+      213: 640908116883592387
+    second: Neon Pixel Sci-Fi UI Button Sheet_90
+  - first:
+      213: -8064204239816354454
+    second: Neon Pixel Sci-Fi UI Button Sheet_91
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neon Pixel Sci-Fi UI Button Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 630
+        width: 507
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4c3567ce23e07a0800000000000000
+      internalID: -6409129228522765128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Pixel Sci-Fi UI Button Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 150
+        width: 508
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc95980ec92458478d4477ed1d48bdb
+      internalID: 7892303283489978966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Pixel Sci-Fi UI Button Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 150
+        width: 508
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4802d069e75aa4094541720e405d4e
+      internalID: -7602225795588160834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Pixel Sci-Fi UI Button Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 630
+        width: 508
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e85199749cd30d428406327a29301d3
+      internalID: 6927278186700386982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Pixel Sci-Fi UI Button Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 150
+        width: 504
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4120107c4601824fb8a71ed5df3959c
+      internalID: -5842648292788963275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Pixel Sci-Fi UI Button Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 630
+        width: 508
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c50db120ca0bb14d93ec6d153b04b2e
+      internalID: -6893730046339979500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6f8ee4242f69ad84fb87d35f94b265d7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1535.0,"y":1024.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Neon Pixel Sci-Fi UI Button Sheet_0: -6409129228522765128
+      Neon Pixel Sci-Fi UI Button Sheet_1: 7892303283489978966
+      Neon Pixel Sci-Fi UI Button Sheet_2: -7602225795588160834
+      Neon Pixel Sci-Fi UI Button Sheet_3: 6927278186700386982
+      Neon Pixel Sci-Fi UI Button Sheet_4: -5842648292788963275
+      Neon Pixel Sci-Fi UI Button Sheet_5: -6893730046339979500
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

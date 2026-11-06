@@ -1,0 +1,1276 @@
+fileFormatVersion: 2
+guid: aa21f9df754a93e4bb89060ba1effa89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2207873821368806690
+    second: Retro Save Changes Dialog_0
+  - first:
+      213: -4727996309102449396
+    second: Retro Save Changes Dialog_1
+  - first:
+      213: 5513687138351385590
+    second: Retro Save Changes Dialog_2
+  - first:
+      213: 2858577686835835014
+    second: Retro Save Changes Dialog_3
+  - first:
+      213: -2675062790325445737
+    second: Retro Save Changes Dialog_4
+  - first:
+      213: 5616499987101567128
+    second: Retro Save Changes Dialog_5
+  - first:
+      213: 1313996643353517865
+    second: Retro Save Changes Dialog_6
+  - first:
+      213: 6521873051257543053
+    second: Retro Save Changes Dialog_7
+  - first:
+      213: 2161523467059132882
+    second: Retro Save Changes Dialog_8
+  - first:
+      213: -3795741324230456570
+    second: Retro Save Changes Dialog_9
+  - first:
+      213: -8949435083083577433
+    second: Retro Save Changes Dialog_10
+  - first:
+      213: -57978731300445180
+    second: Retro Save Changes Dialog_11
+  - first:
+      213: 4878697947138410411
+    second: Retro Save Changes Dialog_12
+  - first:
+      213: 6824430391236443454
+    second: Retro Save Changes Dialog_13
+  - first:
+      213: -2553379496193835095
+    second: Retro Save Changes Dialog_14
+  - first:
+      213: -4687697636978003646
+    second: Retro Save Changes Dialog_15
+  - first:
+      213: -4164008353436049626
+    second: Retro Save Changes Dialog_16
+  - first:
+      213: -515419285422997767
+    second: Retro Save Changes Dialog_17
+  - first:
+      213: -4393779549112801906
+    second: Retro Save Changes Dialog_18
+  - first:
+      213: 8432755045682507722
+    second: Retro Save Changes Dialog_19
+  - first:
+      213: -6587085887276964775
+    second: Retro Save Changes Dialog_20
+  - first:
+      213: 8462506975435684662
+    second: Retro Save Changes Dialog_21
+  - first:
+      213: -5671396293478403498
+    second: Retro Save Changes Dialog_22
+  - first:
+      213: -8907564249197068456
+    second: Retro Save Changes Dialog_23
+  - first:
+      213: 2328906702210581620
+    second: Retro Save Changes Dialog_24
+  - first:
+      213: -2574943941587672851
+    second: Retro Save Changes Dialog_25
+  - first:
+      213: -2566251840003377211
+    second: Retro Save Changes Dialog_26
+  - first:
+      213: -2803570912036196070
+    second: Retro Save Changes Dialog_27
+  - first:
+      213: 1472460929585791628
+    second: Retro Save Changes Dialog_28
+  - first:
+      213: -4273697677029101158
+    second: Retro Save Changes Dialog_29
+  - first:
+      213: 546554481466339989
+    second: Retro Save Changes Dialog_30
+  - first:
+      213: 1059226936069760675
+    second: Retro Save Changes Dialog_31
+  - first:
+      213: 3797722137745068013
+    second: Retro Save Changes Dialog_32
+  - first:
+      213: -8559024651799372847
+    second: Retro Save Changes Dialog_33
+  - first:
+      213: -197523620925349438
+    second: Retro Save Changes Dialog_34
+  - first:
+      213: 7429470590936649637
+    second: Retro Save Changes Dialog_35
+  - first:
+      213: 538866357702272453
+    second: Retro Save Changes Dialog_36
+  - first:
+      213: -5441753038698046646
+    second: Retro Save Changes Dialog_37
+  - first:
+      213: -5773289320226967607
+    second: Retro Save Changes Dialog_38
+  - first:
+      213: -8821583042816525128
+    second: Retro Save Changes Dialog_39
+  - first:
+      213: -3772865761045311781
+    second: Retro Save Changes Dialog_40
+  - first:
+      213: -7320976765715365358
+    second: Retro Save Changes Dialog_41
+  - first:
+      213: -2786275012429244464
+    second: Retro Save Changes Dialog_42
+  - first:
+      213: -9178185672457297779
+    second: Retro Save Changes Dialog_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_0
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 941
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed29d60157e0c51e0800000000000000
+      internalID: -2207873821368806690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 949
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d27982868c26eb0800000000000000
+      internalID: -4727996309102449396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 981
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb03145d3d848c40800000000000000
+      internalID: 5513687138351385590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_3
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 960
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68035b2c245bba720800000000000000
+      internalID: 2858577686835835014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 981
+        width: 89
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b59c6b09440ead0800000000000000
+      internalID: -2675062790325445737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_5
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 983
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898cc241bf0d1fd40800000000000000
+      internalID: 5616499987101567128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_6
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 989
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f542b3cf04c3210800000000000000
+      internalID: 1313996643353517865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_7
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 979
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89166a5cf8528a50800000000000000
+      internalID: 6521873051257543053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_8
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 969
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9fabb14264ffd10800000000000000
+      internalID: 2161523467059132882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_9
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 919
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b09f55061d25bc0800000000000000
+      internalID: -3795741324230456570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_10
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 959
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7826445383dc380800000000000000
+      internalID: -8949435083083577433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_11
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 977
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4042f4ca6a4023ff0800000000000000
+      internalID: -57978731300445180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_12
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 981
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7cc993fed94b340800000000000000
+      internalID: 4878697947138410411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_13
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 961
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d3700984f35be50800000000000000
+      internalID: 6824430391236443454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_14
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 965
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afb99860e2909cd0800000000000000
+      internalID: -2553379496193835095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_15
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 957
+        width: 99
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241fc7de5d3f1feb0800000000000000
+      internalID: -4687697636978003646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_16
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 981
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f5fa3e6787636c0800000000000000
+      internalID: -4164008353436049626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 1507
+        height: 869
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fef9f504ecd8d8f0800000000000000
+      internalID: -515419285422997767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_18
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 135
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8561c187c82603c0800000000000000
+      internalID: -4393779549112801906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_19
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 135
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfe9cf090a270570800000000000000
+      internalID: 8432755045682507722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_20
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 133
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9542edf0948f594a0800000000000000
+      internalID: -6587085887276964775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_21
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 143
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bfb14024dd07570800000000000000
+      internalID: 8462506975435684662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_22
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 55
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652b0c29e172b41b0800000000000000
+      internalID: -5671396293478403498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_23
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 145
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fb3a87289f16480800000000000000
+      internalID: -8907564249197068456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_24
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 63
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474c94c7e40f15020800000000000000
+      internalID: 2328906702210581620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_25
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 65
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de06f15b026f34cd0800000000000000
+      internalID: -2574943941587672851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_26
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 69
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7f7605c87d26cd0800000000000000
+      internalID: -2566251840003377211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_27
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 146
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11f6750c17b719d0800000000000000
+      internalID: -2803570912036196070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_28
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 63
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c824a9df96b3f6410800000000000000
+      internalID: 1472460929585791628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_29
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 142
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91b4431b96c0b4c0800000000000000
+      internalID: -4273697677029101158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_30
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 129
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592f236b760c59700800000000000000
+      internalID: 546554481466339989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_31
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 127
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6a6fc494123be00800000000000000
+      internalID: 1059226936069760675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_32
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 141
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def8eefb92834b430800000000000000
+      internalID: 3797722137745068013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_33
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 71
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbdfa54d6c383980800000000000000
+      internalID: -8559024651799372847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_34
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 147
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1eef33051424df0800000000000000
+      internalID: -197523620925349438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_35
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 143
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af8df1b328ca1760800000000000000
+      internalID: 7429470590936649637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_36
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 68
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5a048e8107a7700800000000000000
+      internalID: 538866357702272453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_37
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 145
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b100561720b74b0800000000000000
+      internalID: -5441753038698046646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_38
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 69
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfa05293f721efa0800000000000000
+      internalID: -5773289320226967607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_39
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 145
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcbf4816f0739580800000000000000
+      internalID: -8821583042816525128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_40
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde09af649614abc0800000000000000
+      internalID: -3772865761045311781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_41
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 55
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212c5a67b6aa66a90800000000000000
+      internalID: -7320976765715365358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_42
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 33
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d79b9573a92559d0800000000000000
+      internalID: -2786275012429244464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Save Changes Dialog_43
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 43
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d806a9e42c880a080800000000000000
+      internalID: -9178185672457297779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Retro Save Changes Dialog_0: -2207873821368806690
+      Retro Save Changes Dialog_1: -4727996309102449396
+      Retro Save Changes Dialog_10: -8949435083083577433
+      Retro Save Changes Dialog_11: -57978731300445180
+      Retro Save Changes Dialog_12: 4878697947138410411
+      Retro Save Changes Dialog_13: 6824430391236443454
+      Retro Save Changes Dialog_14: -2553379496193835095
+      Retro Save Changes Dialog_15: -4687697636978003646
+      Retro Save Changes Dialog_16: -4164008353436049626
+      Retro Save Changes Dialog_17: -515419285422997767
+      Retro Save Changes Dialog_18: -4393779549112801906
+      Retro Save Changes Dialog_19: 8432755045682507722
+      Retro Save Changes Dialog_2: 5513687138351385590
+      Retro Save Changes Dialog_20: -6587085887276964775
+      Retro Save Changes Dialog_21: 8462506975435684662
+      Retro Save Changes Dialog_22: -5671396293478403498
+      Retro Save Changes Dialog_23: -8907564249197068456
+      Retro Save Changes Dialog_24: 2328906702210581620
+      Retro Save Changes Dialog_25: -2574943941587672851
+      Retro Save Changes Dialog_26: -2566251840003377211
+      Retro Save Changes Dialog_27: -2803570912036196070
+      Retro Save Changes Dialog_28: 1472460929585791628
+      Retro Save Changes Dialog_29: -4273697677029101158
+      Retro Save Changes Dialog_3: 2858577686835835014
+      Retro Save Changes Dialog_30: 546554481466339989
+      Retro Save Changes Dialog_31: 1059226936069760675
+      Retro Save Changes Dialog_32: 3797722137745068013
+      Retro Save Changes Dialog_33: -8559024651799372847
+      Retro Save Changes Dialog_34: -197523620925349438
+      Retro Save Changes Dialog_35: 7429470590936649637
+      Retro Save Changes Dialog_36: 538866357702272453
+      Retro Save Changes Dialog_37: -5441753038698046646
+      Retro Save Changes Dialog_38: -5773289320226967607
+      Retro Save Changes Dialog_39: -8821583042816525128
+      Retro Save Changes Dialog_4: -2675062790325445737
+      Retro Save Changes Dialog_40: -3772865761045311781
+      Retro Save Changes Dialog_41: -7320976765715365358
+      Retro Save Changes Dialog_42: -2786275012429244464
+      Retro Save Changes Dialog_43: -9178185672457297779
+      Retro Save Changes Dialog_5: 5616499987101567128
+      Retro Save Changes Dialog_6: 1313996643353517865
+      Retro Save Changes Dialog_7: 6521873051257543053
+      Retro Save Changes Dialog_8: 2161523467059132882
+      Retro Save Changes Dialog_9: -3795741324230456570
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

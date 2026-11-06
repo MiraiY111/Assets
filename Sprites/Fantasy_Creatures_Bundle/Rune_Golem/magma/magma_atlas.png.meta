@@ -1,0 +1,3174 @@
+fileFormatVersion: 2
+guid: b71145fe11997c148985b4f9c6cbcf9f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3736165928267749184
+    second: magma_atlas_0
+  - first:
+      213: -7262444161714242470
+    second: magma_atlas_1
+  - first:
+      213: -6018406973725791319
+    second: magma_atlas_2
+  - first:
+      213: -828957311590943137
+    second: magma_atlas_3
+  - first:
+      213: -1023977289948504688
+    second: magma_atlas_4
+  - first:
+      213: 1845642989306679503
+    second: magma_atlas_5
+  - first:
+      213: 4247550750113386807
+    second: magma_atlas_6
+  - first:
+      213: 2066931443420252326
+    second: magma_atlas_7
+  - first:
+      213: 8970653810083954648
+    second: magma_atlas_8
+  - first:
+      213: 2267183056539822310
+    second: magma_atlas_9
+  - first:
+      213: 2644864800561930139
+    second: magma_atlas_10
+  - first:
+      213: -3836735965385732124
+    second: magma_atlas_11
+  - first:
+      213: 8781083551552792537
+    second: magma_atlas_12
+  - first:
+      213: 9128175499052990310
+    second: magma_atlas_13
+  - first:
+      213: -7769985378300676483
+    second: magma_atlas_14
+  - first:
+      213: 9112773333468051466
+    second: magma_atlas_15
+  - first:
+      213: -183042806943390075
+    second: magma_atlas_16
+  - first:
+      213: -1449283500421130890
+    second: magma_atlas_17
+  - first:
+      213: 4368653060801631098
+    second: magma_atlas_18
+  - first:
+      213: 5529334743321619737
+    second: magma_atlas_19
+  - first:
+      213: 3339172109276284783
+    second: magma_atlas_20
+  - first:
+      213: -2945665161208057768
+    second: magma_atlas_21
+  - first:
+      213: 3417135172533089385
+    second: magma_atlas_22
+  - first:
+      213: -627503597863448201
+    second: magma_atlas_23
+  - first:
+      213: -6094176196926828400
+    second: magma_atlas_24
+  - first:
+      213: 2854287802056718082
+    second: magma_atlas_25
+  - first:
+      213: 1535770514048408474
+    second: magma_atlas_26
+  - first:
+      213: 1240734037415814657
+    second: magma_atlas_27
+  - first:
+      213: 951901008265627027
+    second: magma_atlas_28
+  - first:
+      213: 3864312077192220455
+    second: magma_atlas_29
+  - first:
+      213: 6810985481387572727
+    second: magma_atlas_30
+  - first:
+      213: 6108703294332682154
+    second: magma_atlas_31
+  - first:
+      213: 2213336092889992375
+    second: magma_atlas_32
+  - first:
+      213: -7548298686443437607
+    second: magma_atlas_33
+  - first:
+      213: -1767426085850103592
+    second: magma_atlas_34
+  - first:
+      213: -9214041239909173273
+    second: magma_atlas_35
+  - first:
+      213: 2889224193087346945
+    second: magma_atlas_36
+  - first:
+      213: -6641103286073265302
+    second: magma_atlas_37
+  - first:
+      213: 315909862849633387
+    second: magma_atlas_38
+  - first:
+      213: 5363066857725510817
+    second: magma_atlas_39
+  - first:
+      213: 4570082095972237189
+    second: magma_atlas_40
+  - first:
+      213: 2898713695536294637
+    second: magma_atlas_41
+  - first:
+      213: -1258041901666926277
+    second: magma_atlas_42
+  - first:
+      213: -765145142961727167
+    second: magma_atlas_43
+  - first:
+      213: 5008377893639569384
+    second: magma_atlas_44
+  - first:
+      213: 6960515437575803963
+    second: magma_atlas_45
+  - first:
+      213: -6481105237946816014
+    second: magma_atlas_46
+  - first:
+      213: -6000323650369372680
+    second: magma_atlas_47
+  - first:
+      213: 7571101714001269119
+    second: magma_atlas_48
+  - first:
+      213: 4801975204211378065
+    second: magma_atlas_49
+  - first:
+      213: -7207488346600313559
+    second: magma_atlas_50
+  - first:
+      213: -4386001287490812964
+    second: magma_atlas_51
+  - first:
+      213: -2332761859864367756
+    second: magma_atlas_52
+  - first:
+      213: -8538843316921356915
+    second: magma_atlas_53
+  - first:
+      213: -2851175212334107523
+    second: magma_atlas_54
+  - first:
+      213: 9160920192783070556
+    second: magma_atlas_55
+  - first:
+      213: 6583686749110018439
+    second: magma_atlas_56
+  - first:
+      213: 7703944382092244015
+    second: magma_atlas_57
+  - first:
+      213: -1383692983805520607
+    second: magma_atlas_58
+  - first:
+      213: 5127953030578589729
+    second: magma_atlas_59
+  - first:
+      213: -4249418650775072630
+    second: magma_atlas_60
+  - first:
+      213: 890575719354711012
+    second: magma_atlas_61
+  - first:
+      213: 4269270092185423689
+    second: magma_atlas_62
+  - first:
+      213: -6364888046761217491
+    second: magma_atlas_63
+  - first:
+      213: 2591005240345433886
+    second: magma_atlas_64
+  - first:
+      213: -2886962496433398828
+    second: magma_atlas_65
+  - first:
+      213: 6446670883988856664
+    second: magma_atlas_66
+  - first:
+      213: 4617588584463814094
+    second: magma_atlas_67
+  - first:
+      213: 4801507483536045678
+    second: magma_atlas_68
+  - first:
+      213: 2610115575481017208
+    second: magma_atlas_69
+  - first:
+      213: -3706481122667955669
+    second: magma_atlas_70
+  - first:
+      213: -4480530323417607341
+    second: magma_atlas_71
+  - first:
+      213: 3020267994811875309
+    second: magma_atlas_72
+  - first:
+      213: 7184769627791450972
+    second: magma_atlas_73
+  - first:
+      213: 3326750830022530984
+    second: magma_atlas_74
+  - first:
+      213: -1254250559424741384
+    second: magma_atlas_75
+  - first:
+      213: 1659197506529950588
+    second: magma_atlas_76
+  - first:
+      213: 2721202073955380106
+    second: magma_atlas_77
+  - first:
+      213: -3015944466891371027
+    second: magma_atlas_78
+  - first:
+      213: -2975312391958997743
+    second: magma_atlas_79
+  - first:
+      213: -1170724360040344961
+    second: magma_atlas_80
+  - first:
+      213: 7434041690858601339
+    second: magma_atlas_81
+  - first:
+      213: 2021153767149577380
+    second: magma_atlas_82
+  - first:
+      213: 5893125942074859562
+    second: magma_atlas_83
+  - first:
+      213: -3922090136754495789
+    second: magma_atlas_84
+  - first:
+      213: 2164929671985215662
+    second: magma_atlas_85
+  - first:
+      213: -4217513340632640036
+    second: magma_atlas_86
+  - first:
+      213: -1762978923674880614
+    second: magma_atlas_87
+  - first:
+      213: 6279464608271175815
+    second: magma_atlas_88
+  - first:
+      213: -6828069714584935315
+    second: magma_atlas_89
+  - first:
+      213: -6969456779515423671
+    second: magma_atlas_90
+  - first:
+      213: 8157279896140977926
+    second: magma_atlas_91
+  - first:
+      213: -1206632513966010660
+    second: magma_atlas_92
+  - first:
+      213: -29740958133498823
+    second: magma_atlas_93
+  - first:
+      213: -8273120246300586301
+    second: magma_atlas_94
+  - first:
+      213: -902389972771179821
+    second: magma_atlas_95
+  - first:
+      213: -7828043458164153262
+    second: magma_atlas_96
+  - first:
+      213: -1833969856748464315
+    second: magma_atlas_97
+  - first:
+      213: -2384531580006404465
+    second: magma_atlas_98
+  - first:
+      213: 5646493073260770665
+    second: magma_atlas_99
+  - first:
+      213: -8173351578240510623
+    second: magma_atlas_100
+  - first:
+      213: -6925837956532123622
+    second: magma_atlas_101
+  - first:
+      213: -1623034195459827740
+    second: magma_atlas_102
+  - first:
+      213: -3165173091474008319
+    second: magma_atlas_103
+  - first:
+      213: 3770600384789880585
+    second: magma_atlas_104
+  - first:
+      213: -5228449631511484276
+    second: magma_atlas_105
+  - first:
+      213: 2437622262167520252
+    second: magma_atlas_106
+  - first:
+      213: -5769354769234220982
+    second: magma_atlas_107
+  - first:
+      213: -3016967013878941042
+    second: magma_atlas_108
+  - first:
+      213: 3071206809680273102
+    second: magma_atlas_109
+  - first:
+      213: 3941856364556054002
+    second: magma_atlas_110
+  - first:
+      213: -4630763201583764963
+    second: magma_atlas_111
+  - first:
+      213: -7109555929847652563
+    second: magma_atlas_112
+  - first:
+      213: -1149642991512127750
+    second: magma_atlas_113
+  - first:
+      213: -5981167714129026896
+    second: magma_atlas_114
+  - first:
+      213: -1521579299937823541
+    second: magma_atlas_115
+  - first:
+      213: -8985308361060963308
+    second: magma_atlas_116
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magma_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1107
+        width: 92
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0471150ed1789d330800000000000000
+      internalID: 3736165928267749184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1208
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cb9e3538d963b90800000000000000
+      internalID: -7262444161714242470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1107
+        width: 91
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab27598eb25a7ca0800000000000000
+      internalID: -6018406973725791319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1204
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56b8a497b3fe74f0800000000000000
+      internalID: -828957311590943137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1107
+        width: 90
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d5d8e741a1ac1f0800000000000000
+      internalID: -1023977289948504688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1202
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc090d7258a0d9910800000000000000
+      internalID: 1845642989306679503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1107
+        width: 89
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731d3f917e452fa30800000000000000
+      internalID: 4247550750113386807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1202
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8462c52373fac10800000000000000
+      internalID: 2066931443420252326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1107
+        width: 89
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dffe099c1a2e7c70800000000000000
+      internalID: 8970653810083954648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1204
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e827d55af6a67f10800000000000000
+      internalID: 2267183056539822310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1107
+        width: 91
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f9d64e58274b420800000000000000
+      internalID: 2644864800561930139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1207
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efc736a7fc21cac0800000000000000
+      internalID: -3836735965385732124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 1107
+        width: 92
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7645947fcacd970800000000000000
+      internalID: 8781083551552792537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1210
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f3a74d04bcdae70800000000000000
+      internalID: 9128175499052990310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1107
+        width: 92
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76b86037777b2490800000000000000
+      internalID: -7769985378300676483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1210
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08f304b013177e70800000000000000
+      internalID: 9112773333468051466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 923
+        width: 88
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586e2717983b57df0800000000000000
+      internalID: -183042806943390075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 923
+        width: 76
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6755092c55c13ebe0800000000000000
+      internalID: -1449283500421130890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1054
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73110c00d290ac30800000000000000
+      internalID: 4368653060801631098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 923
+        width: 82
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d29e347a42cbc40800000000000000
+      internalID: 5529334743321619737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1054
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f670e49775f175e20800000000000000
+      internalID: 3339172109276284783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_21
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 923
+        width: 84
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85033f68425ee17d0800000000000000
+      internalID: -2945665161208057768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1050
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964f35ca55a1c6f20800000000000000
+      internalID: 3417135172533089385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_23
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 923
+        width: 89
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771d11a6dc8aa47f0800000000000000
+      internalID: -627503597863448201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 923
+        width: 111
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090198789032d6ba0800000000000000
+      internalID: -6094176196926828400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_25
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 923
+        width: 114
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207325022a77c9720800000000000000
+      internalID: 2854287802056718082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_26
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 923
+        width: 103
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bdf5a4527205510800000000000000
+      internalID: 1535770514048408474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_27
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1023
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106e7e88809f73110800000000000000
+      internalID: 1240734037415814657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_28
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1022
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39542037ce4d53d00800000000000000
+      internalID: 951901008265627027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_29
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1022
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f4b463c5bc0a530800000000000000
+      internalID: 3864312077192220455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_30
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1020
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdf27c853b758e50800000000000000
+      internalID: 6810985481387572727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_31
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1019
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf35f8e74976c450800000000000000
+      internalID: 6108703294332682154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 739
+        width: 90
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc4241237957be10800000000000000
+      internalID: 2213336092889992375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_33
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 865
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1cdf7565e0f3790800000000000000
+      internalID: -7548298686443437607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_34
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 739
+        width: 89
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d04522d657d877e0800000000000000
+      internalID: -1767426085850103592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_35
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 739
+        width: 82
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7f9657f46212080800000000000000
+      internalID: -9214041239909173273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_36
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 870
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1099f698816981820800000000000000
+      internalID: 2889224193087346945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_37
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 739
+        width: 113
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a637ce45fbf06d3a0800000000000000
+      internalID: -6641103286073265302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_38
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 739
+        width: 83
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cd134b856526400800000000000000
+      internalID: 315909862849633387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_39
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 860
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4466174e07d6a40800000000000000
+      internalID: 5363066857725510817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_40
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 739
+        width: 87
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f3cc4f3713c6f30800000000000000
+      internalID: 4570082095972237189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_41
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 738
+        width: 96
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea20008fbc4a3820800000000000000
+      internalID: 2898713695536294637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_42
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 865
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31069a4e898a8ee0800000000000000
+      internalID: -1258041901666926277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_43
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 737
+        width: 105
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1499620eb88a165f0800000000000000
+      internalID: -765145142961727167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_44
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 836
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef3e43a825518540800000000000000
+      internalID: 5008377893639569384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_45
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 839
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34145e79e7b89060800000000000000
+      internalID: 6960515437575803963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_46
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 838
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9a14cdf1d7e06a0800000000000000
+      internalID: -6481105237946816014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_47
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 832
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdbb5a5e619abca0800000000000000
+      internalID: -6000323650369372680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_48
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 836
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71956d35e4f11960800000000000000
+      internalID: 7571101714001269119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_49
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 840
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197c04b910b04a240800000000000000
+      internalID: 4801975204211378065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_50
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 841
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92dee12298bd9fb90800000000000000
+      internalID: -7207488346600313559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_51
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 746
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd344ba211bc123c0800000000000000
+      internalID: -4386001287490812964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_52
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 755
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d643da27d50afd0800000000000000
+      internalID: -2332761859864367756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_53
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 746
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d2f267e3fef7980800000000000000
+      internalID: -8538843316921356915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_54
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 749
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d743d6420479e68d0800000000000000
+      internalID: -2851175212334107523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_55
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 751
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55b982f060222f70800000000000000
+      internalID: 9160920192783070556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_56
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 555
+        width: 93
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78126296734fd5b50800000000000000
+      internalID: 6583686749110018439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_57
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 685
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2479f72998e9ea60800000000000000
+      internalID: 7703944382092244015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_58
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 555
+        width: 93
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1255216ff822ccce0800000000000000
+      internalID: -1383692983805520607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_59
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 685
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120568cbc162a2740800000000000000
+      internalID: 5127953030578589729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_60
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 555
+        width: 100
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80d1a260480705c0800000000000000
+      internalID: -4249418650775072630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_61
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 555
+        width: 100
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebb9b5f5e5fb5c00800000000000000
+      internalID: 890575719354711012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_62
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 555
+        width: 79
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f49ee778e7f3b30800000000000000
+      internalID: 4269270092185423689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_63
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 680
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22faa94b006ba7a0800000000000000
+      internalID: -6364888046761217491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_64
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 555
+        width: 89
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1717f1d98915f320800000000000000
+      internalID: 2591005240345433886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_65
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 656
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db5630c7e27fe7d0800000000000000
+      internalID: -2886962496433398828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_66
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 653
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f5208530d277950800000000000000
+      internalID: 6446670883988856664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_67
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 651
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd4ddf3a58f41040800000000000000
+      internalID: 4617588584463814094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_68
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 653
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66bb86ed9162a240800000000000000
+      internalID: 4801507483536045678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_69
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 371
+        width: 102
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873a243794ef83420800000000000000
+      internalID: 2610115575481017208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_70
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 371
+        width: 111
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a7fa48e0fef8cc0800000000000000
+      internalID: -3706481122667955669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_71
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 371
+        width: 119
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353d353e865f1d1c0800000000000000
+      internalID: -4480530323417607341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_72
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 371
+        width: 119
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def3e3d3db52ae920800000000000000
+      internalID: 3020267994811875309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_73
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 371
+        width: 163
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c536681f8ed65b360800000000000000
+      internalID: 7184769627791450972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_74
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 371
+        width: 178
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a79ab7014efa2e20800000000000000
+      internalID: 3326750830022530984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_75
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 371
+        width: 165
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff3722f2c1089ee0800000000000000
+      internalID: -1254250559424741384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_76
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 371
+        width: 170
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b7ee46757a60710800000000000000
+      internalID: 1659197506529950588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_77
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 371
+        width: 84
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8baa246ed6a3c520800000000000000
+      internalID: 2721202073955380106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_78
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 501
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded82ac8c763526d0800000000000000
+      internalID: -3015944466891371027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_79
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 467
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1155775b42195b6d0800000000000000
+      internalID: -2975312391958997743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_80
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 469
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7216e5b560c0cfe0800000000000000
+      internalID: -1170724360040344961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_81
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 448
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b3215d7850b2760800000000000000
+      internalID: 7434041690858601339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_82
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 449
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4a46784a49c0c10800000000000000
+      internalID: 2021153767149577380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_83
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 450
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20e20a32d698c150800000000000000
+      internalID: 5893125942074859562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_84
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 451
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de5fadfccfe199c0800000000000000
+      internalID: -3922090136754495789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_85
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 187
+        width: 91
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8b16ef0106b0e10800000000000000
+      internalID: 2164929671985215662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_86
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 317
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5de1846f16875c0800000000000000
+      internalID: -4217513340632640036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_87
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 187
+        width: 93
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95bbd37204a887e0800000000000000
+      internalID: -1762978923674880614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_88
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 315
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78014ab8ac3252750800000000000000
+      internalID: 6279464608271175815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_89
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 187
+        width: 90
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64ef8075c2dd31a0800000000000000
+      internalID: -6828069714584935315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_90
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 313
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9449b8b1cf3874f90800000000000000
+      internalID: -6969456779515423671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_91
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 187
+        width: 88
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6071beea8da743170800000000000000
+      internalID: 8157279896140977926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_92
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 312
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde8e9e1f1e214fe0800000000000000
+      internalID: -1206632513966010660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_93
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 287
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c4c2391c6569ff0800000000000000
+      internalID: -29740958133498823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_94
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 283
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce492708f8ff2d80800000000000000
+      internalID: -8273120246300586301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_95
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 282
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d27910d9111a73f0800000000000000
+      internalID: -902389972771179821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_96
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 284
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2542ec513f33d5390800000000000000
+      internalID: -7828043458164153262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_97
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 3
+        width: 82
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547dbbfc12e6c86e0800000000000000
+      internalID: -1833969856748464315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_98
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 133
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e640a692178eed0800000000000000
+      internalID: -2384531580006404465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_99
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 3
+        width: 86
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9657962a88f5c5e40800000000000000
+      internalID: 5646493073260770665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_100
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 128
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165989a3b0c629e80800000000000000
+      internalID: -8173351578240510623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_101
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 3
+        width: 90
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a184cfcb21b72ef90800000000000000
+      internalID: -6925837956532123622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_102
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 119
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e71e499ff2d979e0800000000000000
+      internalID: -1623034195459827740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_103
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 104
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1071116d7db0314d0800000000000000
+      internalID: -3165173091474008319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_104
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 99
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f1a5d821dd35430800000000000000
+      internalID: 3770600384789880585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_105
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 90
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c886cbbf2c0d077b0800000000000000
+      internalID: -5228449631511484276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_106
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 3
+        width: 95
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf34419488c24d120800000000000000
+      internalID: 2437622262167520252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_107
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 109
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48a69c97622fefa0800000000000000
+      internalID: -5769354769234220982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_108
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 111
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8abca64c749126d0800000000000000
+      internalID: -3016967013878941042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_109
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 82
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eced0ca425e1f9a20800000000000000
+      internalID: 3071206809680273102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_110
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 11
+        width: 120
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fde9fc8a7944b630800000000000000
+      internalID: 3941856364556054002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_111
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 25
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a26aa27693cbfb0800000000000000
+      internalID: -4630763201583764963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_112
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 9
+        width: 134
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f98a2cc88c55d90800000000000000
+      internalID: -7109555929847652563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_113
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 5
+        width: 143
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6f6605ac5ab00f0800000000000000
+      internalID: -1149642991512127750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_114
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 5
+        width: 143
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0ed4157af9efca0800000000000000
+      internalID: -5981167714129026896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_115
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 12
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc45e9930b342eae0800000000000000
+      internalID: -1521579299937823541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_atlas_116
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 12
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c2d9dd6a5cd4380800000000000000
+      internalID: -8985308361060963308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      magma_atlas_0: 3736165928267749184
+      magma_atlas_1: -7262444161714242470
+      magma_atlas_10: 2644864800561930139
+      magma_atlas_100: -8173351578240510623
+      magma_atlas_101: -6925837956532123622
+      magma_atlas_102: -1623034195459827740
+      magma_atlas_103: -3165173091474008319
+      magma_atlas_104: 3770600384789880585
+      magma_atlas_105: -5228449631511484276
+      magma_atlas_106: 2437622262167520252
+      magma_atlas_107: -5769354769234220982
+      magma_atlas_108: -3016967013878941042
+      magma_atlas_109: 3071206809680273102
+      magma_atlas_11: -3836735965385732124
+      magma_atlas_110: 3941856364556054002
+      magma_atlas_111: -4630763201583764963
+      magma_atlas_112: -7109555929847652563
+      magma_atlas_113: -1149642991512127750
+      magma_atlas_114: -5981167714129026896
+      magma_atlas_115: -1521579299937823541
+      magma_atlas_116: -8985308361060963308
+      magma_atlas_12: 8781083551552792537
+      magma_atlas_13: 9128175499052990310
+      magma_atlas_14: -7769985378300676483
+      magma_atlas_15: 9112773333468051466
+      magma_atlas_16: -183042806943390075
+      magma_atlas_17: -1449283500421130890
+      magma_atlas_18: 4368653060801631098
+      magma_atlas_19: 5529334743321619737
+      magma_atlas_2: -6018406973725791319
+      magma_atlas_20: 3339172109276284783
+      magma_atlas_21: -2945665161208057768
+      magma_atlas_22: 3417135172533089385
+      magma_atlas_23: -627503597863448201
+      magma_atlas_24: -6094176196926828400
+      magma_atlas_25: 2854287802056718082
+      magma_atlas_26: 1535770514048408474
+      magma_atlas_27: 1240734037415814657
+      magma_atlas_28: 951901008265627027
+      magma_atlas_29: 3864312077192220455
+      magma_atlas_3: -828957311590943137
+      magma_atlas_30: 6810985481387572727
+      magma_atlas_31: 6108703294332682154
+      magma_atlas_32: 2213336092889992375
+      magma_atlas_33: -7548298686443437607
+      magma_atlas_34: -1767426085850103592
+      magma_atlas_35: -9214041239909173273
+      magma_atlas_36: 2889224193087346945
+      magma_atlas_37: -6641103286073265302
+      magma_atlas_38: 315909862849633387
+      magma_atlas_39: 5363066857725510817
+      magma_atlas_4: -1023977289948504688
+      magma_atlas_40: 4570082095972237189
+      magma_atlas_41: 2898713695536294637
+      magma_atlas_42: -1258041901666926277
+      magma_atlas_43: -765145142961727167
+      magma_atlas_44: 5008377893639569384
+      magma_atlas_45: 6960515437575803963
+      magma_atlas_46: -6481105237946816014
+      magma_atlas_47: -6000323650369372680
+      magma_atlas_48: 7571101714001269119
+      magma_atlas_49: 4801975204211378065
+      magma_atlas_5: 1845642989306679503
+      magma_atlas_50: -7207488346600313559
+      magma_atlas_51: -4386001287490812964
+      magma_atlas_52: -2332761859864367756
+      magma_atlas_53: -8538843316921356915
+      magma_atlas_54: -2851175212334107523
+      magma_atlas_55: 9160920192783070556
+      magma_atlas_56: 6583686749110018439
+      magma_atlas_57: 7703944382092244015
+      magma_atlas_58: -1383692983805520607
+      magma_atlas_59: 5127953030578589729
+      magma_atlas_6: 4247550750113386807
+      magma_atlas_60: -4249418650775072630
+      magma_atlas_61: 890575719354711012
+      magma_atlas_62: 4269270092185423689
+      magma_atlas_63: -6364888046761217491
+      magma_atlas_64: 2591005240345433886
+      magma_atlas_65: -2886962496433398828
+      magma_atlas_66: 6446670883988856664
+      magma_atlas_67: 4617588584463814094
+      magma_atlas_68: 4801507483536045678
+      magma_atlas_69: 2610115575481017208
+      magma_atlas_7: 2066931443420252326
+      magma_atlas_70: -3706481122667955669
+      magma_atlas_71: -4480530323417607341
+      magma_atlas_72: 3020267994811875309
+      magma_atlas_73: 7184769627791450972
+      magma_atlas_74: 3326750830022530984
+      magma_atlas_75: -1254250559424741384
+      magma_atlas_76: 1659197506529950588
+      magma_atlas_77: 2721202073955380106
+      magma_atlas_78: -3015944466891371027
+      magma_atlas_79: -2975312391958997743
+      magma_atlas_8: 8970653810083954648
+      magma_atlas_80: -1170724360040344961
+      magma_atlas_81: 7434041690858601339
+      magma_atlas_82: 2021153767149577380
+      magma_atlas_83: 5893125942074859562
+      magma_atlas_84: -3922090136754495789
+      magma_atlas_85: 2164929671985215662
+      magma_atlas_86: -4217513340632640036
+      magma_atlas_87: -1762978923674880614
+      magma_atlas_88: 6279464608271175815
+      magma_atlas_89: -6828069714584935315
+      magma_atlas_9: 2267183056539822310
+      magma_atlas_90: -6969456779515423671
+      magma_atlas_91: 8157279896140977926
+      magma_atlas_92: -1206632513966010660
+      magma_atlas_93: -29740958133498823
+      magma_atlas_94: -8273120246300586301
+      magma_atlas_95: -902389972771179821
+      magma_atlas_96: -7828043458164153262
+      magma_atlas_97: -1833969856748464315
+      magma_atlas_98: -2384531580006404465
+      magma_atlas_99: 5646493073260770665
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2342 @@
+fileFormatVersion: 2
+guid: 235436f34f58df34a9ea8c8ea1725be0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1503133960964285088
+    second: aether_atlas_0
+  - first:
+      213: -36563165162232418
+    second: aether_atlas_1
+  - first:
+      213: -959935783146392013
+    second: aether_atlas_2
+  - first:
+      213: -9217674004842192335
+    second: aether_atlas_3
+  - first:
+      213: -6887070953487047639
+    second: aether_atlas_4
+  - first:
+      213: 384608464448622007
+    second: aether_atlas_5
+  - first:
+      213: -9144316002067807132
+    second: aether_atlas_6
+  - first:
+      213: -2474799101646585221
+    second: aether_atlas_7
+  - first:
+      213: 4966817058391293386
+    second: aether_atlas_8
+  - first:
+      213: 3611130728904374837
+    second: aether_atlas_9
+  - first:
+      213: 6421298615366442268
+    second: aether_atlas_10
+  - first:
+      213: 2799523225305790399
+    second: aether_atlas_11
+  - first:
+      213: 2563474301120452548
+    second: aether_atlas_12
+  - first:
+      213: 2760483013251495380
+    second: aether_atlas_13
+  - first:
+      213: -4818699847675597009
+    second: aether_atlas_14
+  - first:
+      213: -8992412606014990479
+    second: aether_atlas_15
+  - first:
+      213: -7704707461635361390
+    second: aether_atlas_16
+  - first:
+      213: -2811446118001560170
+    second: aether_atlas_17
+  - first:
+      213: -3927147636824721167
+    second: aether_atlas_18
+  - first:
+      213: 4251339437981870805
+    second: aether_atlas_19
+  - first:
+      213: 576915097849490193
+    second: aether_atlas_20
+  - first:
+      213: 8336267386626561998
+    second: aether_atlas_21
+  - first:
+      213: -2044011506576597614
+    second: aether_atlas_22
+  - first:
+      213: -6620119564605870385
+    second: aether_atlas_23
+  - first:
+      213: 5547212481018778624
+    second: aether_atlas_24
+  - first:
+      213: -1307399935236374575
+    second: aether_atlas_25
+  - first:
+      213: -4589581803232454337
+    second: aether_atlas_26
+  - first:
+      213: 5791977072641197311
+    second: aether_atlas_27
+  - first:
+      213: 4383805556288531293
+    second: aether_atlas_28
+  - first:
+      213: -8160149625679272991
+    second: aether_atlas_29
+  - first:
+      213: -4210318664159570234
+    second: aether_atlas_30
+  - first:
+      213: -9217348583358559759
+    second: aether_atlas_31
+  - first:
+      213: -8699695145050939027
+    second: aether_atlas_32
+  - first:
+      213: -2853082550499266603
+    second: aether_atlas_33
+  - first:
+      213: 7482410640782222948
+    second: aether_atlas_34
+  - first:
+      213: 5001622404935386513
+    second: aether_atlas_35
+  - first:
+      213: -5931576828205192267
+    second: aether_atlas_36
+  - first:
+      213: 973414414286599418
+    second: aether_atlas_37
+  - first:
+      213: -4553525640475233398
+    second: aether_atlas_38
+  - first:
+      213: -1336408437618332877
+    second: aether_atlas_39
+  - first:
+      213: 7238943873773847601
+    second: aether_atlas_40
+  - first:
+      213: -769779666396735458
+    second: aether_atlas_41
+  - first:
+      213: -3545699414620553094
+    second: aether_atlas_42
+  - first:
+      213: -6791291587815327162
+    second: aether_atlas_43
+  - first:
+      213: 8419858417561355800
+    second: aether_atlas_44
+  - first:
+      213: -6157286905425754808
+    second: aether_atlas_45
+  - first:
+      213: -5025443158260872744
+    second: aether_atlas_46
+  - first:
+      213: 1432875971142402884
+    second: aether_atlas_47
+  - first:
+      213: -4952598344373149835
+    second: aether_atlas_48
+  - first:
+      213: 8740470739810809029
+    second: aether_atlas_49
+  - first:
+      213: -4084573502274329106
+    second: aether_atlas_50
+  - first:
+      213: 2127055976592639060
+    second: aether_atlas_51
+  - first:
+      213: -5166235683871123790
+    second: aether_atlas_52
+  - first:
+      213: -3500393119360317437
+    second: aether_atlas_53
+  - first:
+      213: -6965372377875583467
+    second: aether_atlas_54
+  - first:
+      213: -1996124712212463953
+    second: aether_atlas_55
+  - first:
+      213: 7185782915737983136
+    second: aether_atlas_56
+  - first:
+      213: 5065764735524883251
+    second: aether_atlas_57
+  - first:
+      213: -3628297720430656588
+    second: aether_atlas_58
+  - first:
+      213: 6747607868663884516
+    second: aether_atlas_59
+  - first:
+      213: 2304484285750030183
+    second: aether_atlas_60
+  - first:
+      213: 6534446382046427026
+    second: aether_atlas_61
+  - first:
+      213: 2616471753414749428
+    second: aether_atlas_62
+  - first:
+      213: -1609362136875911391
+    second: aether_atlas_63
+  - first:
+      213: 6779529249955153936
+    second: aether_atlas_64
+  - first:
+      213: -9109004497906604332
+    second: aether_atlas_65
+  - first:
+      213: 8399910835453570938
+    second: aether_atlas_66
+  - first:
+      213: 310315117971801382
+    second: aether_atlas_67
+  - first:
+      213: 6291267100366520206
+    second: aether_atlas_68
+  - first:
+      213: 4828988457320868437
+    second: aether_atlas_69
+  - first:
+      213: 3443256481632225391
+    second: aether_atlas_70
+  - first:
+      213: -8303344388424649056
+    second: aether_atlas_71
+  - first:
+      213: -5830065394086370091
+    second: aether_atlas_72
+  - first:
+      213: -6720228235534021554
+    second: aether_atlas_73
+  - first:
+      213: -7583409122988482828
+    second: aether_atlas_74
+  - first:
+      213: -2273110289348810429
+    second: aether_atlas_75
+  - first:
+      213: 7130284673301665956
+    second: aether_atlas_76
+  - first:
+      213: 1081817447126520975
+    second: aether_atlas_77
+  - first:
+      213: 5076236238815173842
+    second: aether_atlas_78
+  - first:
+      213: -1344917637363097946
+    second: aether_atlas_79
+  - first:
+      213: 150093961847804725
+    second: aether_atlas_80
+  - first:
+      213: -3905788276669276173
+    second: aether_atlas_81
+  - first:
+      213: 8211855424282434634
+    second: aether_atlas_82
+  - first:
+      213: 1084343173048907288
+    second: aether_atlas_83
+  - first:
+      213: 8150193154530699449
+    second: aether_atlas_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aether_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 942
+        width: 99
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a22a11af543cd410800000000000000
+      internalID: 1503133960964285088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 945
+        width: 99
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9524a8bef91e7ff0800000000000000
+      internalID: -36563165162232418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 948
+        width: 99
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3367f5ebd7f9da2f0800000000000000
+      internalID: -959935783146392013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 950
+        width: 95
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1326706745e341080800000000000000
+      internalID: -9217674004842192335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 949
+        width: 95
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9246e7205753c60a0800000000000000
+      internalID: -6887070953487047639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 945
+        width: 95
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd81155c57665500800000000000000
+      internalID: 384608464448622007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 942
+        width: 99
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46404d67b0dd81180800000000000000
+      internalID: -9144316002067807132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 940
+        width: 99
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7246ef345fb7add0800000000000000
+      internalID: -2474799101646585221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 762
+        width: 99
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd73cd9ccdade440800000000000000
+      internalID: 4966817058391293386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 771
+        width: 95
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ab7dde3405d1230800000000000000
+      internalID: 3611130728904374837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 779
+        width: 87
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ddf95b1190d1950800000000000000
+      internalID: 6421298615366442268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 784
+        width: 83
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7bec87a87e9d620800000000000000
+      internalID: 2799523225305790399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 775
+        width: 83
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c790258b4a439320800000000000000
+      internalID: 2563474301120452548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 766
+        width: 91
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5fa55cca43f4620800000000000000
+      internalID: 2760483013251495380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 762
+        width: 99
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f2114e40a802db0800000000000000
+      internalID: -4818699847675597009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 761
+        width: 99
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1775bb0f068843380800000000000000
+      internalID: -8992412606014990479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 578
+        width: 107
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2953cea8261631590800000000000000
+      internalID: -7704707461635361390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 723
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695bd5fb6acbbf8d0800000000000000
+      internalID: -2811446118001560170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 571
+        width: 142
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f83c8ef708ff79c0800000000000000
+      internalID: -3927147636824721167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 722
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5daa48cb1bacffa30800000000000000
+      internalID: 4251339437981870805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 724
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11be0e0993d910800800000000000000
+      internalID: 576915097849490193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_21
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 561
+        width: 164
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7dc8c450f50b370800000000000000
+      internalID: 8336267386626561998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 562
+        width: 148
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29dd0b94d5632a3e0800000000000000
+      internalID: -2044011506576597614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_23
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 717
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcead05b45c9024a0800000000000000
+      internalID: -6620119564605870385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 576
+        width: 99
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004dcb07c58abfc40800000000000000
+      internalID: 5547212481018778624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_25
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 581
+        width: 91
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dffdd09fae2bdde0800000000000000
+      internalID: -1307399935236374575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_26
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 706
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f399bb6aaa78e40c0800000000000000
+      internalID: -4589581803232454337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_27
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 697
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff44cf9d57c316050800000000000000
+      internalID: 5791977072641197311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_28
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 566
+        width: 115
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b26f25de766dc30800000000000000
+      internalID: 4383805556288531293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_29
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 574
+        width: 99
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3a957562351ce80800000000000000
+      internalID: -8160149625679272991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_30
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 395
+        width: 95
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6529f6b71f195c0800000000000000
+      internalID: -4210318664159570234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_31
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 400
+        width: 87
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f986fd8c46651080800000000000000
+      internalID: -9217348583358559759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_32
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 401
+        width: 83
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d616c09cb59744780800000000000000
+      internalID: -8699695145050939027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_33
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 391
+        width: 99
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df20ae5980d768d0800000000000000
+      internalID: -2853082550499266603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_34
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 394
+        width: 99
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4666d6395dcd6d760800000000000000
+      internalID: 7482410640782222948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_35
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 394
+        width: 119
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1950fcad315596540800000000000000
+      internalID: 5001622404935386513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_36
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 393
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb24e43d4eceada0800000000000000
+      internalID: -5931576828205192267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_37
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 392
+        width: 173
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af43cce9043428d00800000000000000
+      internalID: 973414414286599418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_38
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 214
+        width: 85
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8337db3e80aec0c0800000000000000
+      internalID: -4553525640475233398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_39
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 207
+        width: 91
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bace84b9f147de0800000000000000
+      internalID: -1336408437618332877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_40
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 205
+        width: 103
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134c7418915e57460800000000000000
+      internalID: 7238943873773847601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_41
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 206
+        width: 101
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e189a1dc8713155f0800000000000000
+      internalID: -769779666396735458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_42
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 24
+        width: 99
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a704b371b252bcec0800000000000000
+      internalID: -3545699414620553094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_43
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 30
+        width: 99
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a3b2e584c70c1a0800000000000000
+      internalID: -6791291587815327162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_44
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 34
+        width: 107
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816c3d5de9859d470800000000000000
+      internalID: 8419858417561355800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_45
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 42
+        width: 115
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8450fe5ae2cec8aa0800000000000000
+      internalID: -6157286905425754808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_46
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 44
+        width: 119
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d981f0d21a024ab0800000000000000
+      internalID: -5025443158260872744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_47
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443c223aa1992e310800000000000000
+      internalID: 1432875971142402884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_48
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 106
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f5378bb06d44bb0800000000000000
+      internalID: -4952598344373149835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_49
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 121
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c47e1034d36c4970800000000000000
+      internalID: 8740470739810809029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_50
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 33
+        width: 97
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee527f96a0ea057c0800000000000000
+      internalID: -4084573502274329106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_51
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 44
+        width: 121
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4540d2e1422d48d10800000000000000
+      internalID: 2127055976592639060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_52
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 38
+        width: 91
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b61ae47408dd48b0800000000000000
+      internalID: -5166235683871123790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_53
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3088e4af00b1c6fc0800000000000000
+      internalID: -3500393119360317437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_54
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 86
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e6868f9b6065f90800000000000000
+      internalID: -6965372377875583467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_55
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 52
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae723176275c44e0800000000000000
+      internalID: -1996124712212463953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_56
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 73
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a812ad6d7709b360800000000000000
+      internalID: 7185782915737983136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_57
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 68
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b49a8ff263d4640800000000000000
+      internalID: 5065764735524883251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_58
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 38
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b30f526272b5adc0800000000000000
+      internalID: -3628297720430656588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_59
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 49
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea675f2b9154ad50800000000000000
+      internalID: 6747607868663884516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_60
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 70
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fa99a8f3c2bff10800000000000000
+      internalID: 2304484285750030183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_61
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 68
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297b6bd0d540faa50800000000000000
+      internalID: 6534446382046427026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_62
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 70
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc212372339f4420800000000000000
+      internalID: 2616471753414749428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_63
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 75
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1273c8cc9a56aa9e0800000000000000
+      internalID: -1609362136875911391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_64
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 75
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01882ffeee9b51e50800000000000000
+      internalID: 6779529249955153936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_65
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 68
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d667d4bba0569180800000000000000
+      internalID: -9109004497906604332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_66
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 64
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f2a24766a729470800000000000000
+      internalID: 8399910835453570938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_67
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 79
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6258427a4f57e4400800000000000000
+      internalID: 310315117971801382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_68
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 77
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fb27068121f4750800000000000000
+      internalID: 6291267100366520206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_69
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 69
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a6217ba63040340800000000000000
+      internalID: 4828988457320868437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_70
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 47
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f680042e687e8cf20800000000000000
+      internalID: 3443256481632225391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_71
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 64
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a63730954894cc80800000000000000
+      internalID: -8303344388424649056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_72
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 54
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d42f20c962771fa0800000000000000
+      internalID: -5830065394086370091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_73
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 48
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cc17b6604fcb2a0800000000000000
+      internalID: -6720228235534021554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_74
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 53
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe90ddc49152c690800000000000000
+      internalID: -7583409122988482828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_75
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 41
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349241c3c3a4470e0800000000000000
+      internalID: -2273110289348810429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_76
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 44
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8de8be12cd3f260800000000000000
+      internalID: 7130284673301665956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_77
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 44
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84dbc78c33630f00800000000000000
+      internalID: 1081817447126520975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_78
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 57
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc1b82d6f9627640800000000000000
+      internalID: 5076236238815173842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_79
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 42
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae90d4d884e55de0800000000000000
+      internalID: -1344917637363097946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_80
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 42
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5339edeb9ad351200800000000000000
+      internalID: 150093961847804725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_81
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 45
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff1e31914adbc9c0800000000000000
+      internalID: -3905788276669276173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_82
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 43
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c1837000f56f170800000000000000
+      internalID: 8211855424282434634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_83
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 43
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816333cee5c5c0f00800000000000000
+      internalID: 1084343173048907288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aether_atlas_84
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 48
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b86f921e7d4b1170800000000000000
+      internalID: 8150193154530699449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      aether_atlas_0: 1503133960964285088
+      aether_atlas_1: -36563165162232418
+      aether_atlas_10: 6421298615366442268
+      aether_atlas_11: 2799523225305790399
+      aether_atlas_12: 2563474301120452548
+      aether_atlas_13: 2760483013251495380
+      aether_atlas_14: -4818699847675597009
+      aether_atlas_15: -8992412606014990479
+      aether_atlas_16: -7704707461635361390
+      aether_atlas_17: -2811446118001560170
+      aether_atlas_18: -3927147636824721167
+      aether_atlas_19: 4251339437981870805
+      aether_atlas_2: -959935783146392013
+      aether_atlas_20: 576915097849490193
+      aether_atlas_21: 8336267386626561998
+      aether_atlas_22: -2044011506576597614
+      aether_atlas_23: -6620119564605870385
+      aether_atlas_24: 5547212481018778624
+      aether_atlas_25: -1307399935236374575
+      aether_atlas_26: -4589581803232454337
+      aether_atlas_27: 5791977072641197311
+      aether_atlas_28: 4383805556288531293
+      aether_atlas_29: -8160149625679272991
+      aether_atlas_3: -9217674004842192335
+      aether_atlas_30: -4210318664159570234
+      aether_atlas_31: -9217348583358559759
+      aether_atlas_32: -8699695145050939027
+      aether_atlas_33: -2853082550499266603
+      aether_atlas_34: 7482410640782222948
+      aether_atlas_35: 5001622404935386513
+      aether_atlas_36: -5931576828205192267
+      aether_atlas_37: 973414414286599418
+      aether_atlas_38: -4553525640475233398
+      aether_atlas_39: -1336408437618332877
+      aether_atlas_4: -6887070953487047639
+      aether_atlas_40: 7238943873773847601
+      aether_atlas_41: -769779666396735458
+      aether_atlas_42: -3545699414620553094
+      aether_atlas_43: -6791291587815327162
+      aether_atlas_44: 8419858417561355800
+      aether_atlas_45: -6157286905425754808
+      aether_atlas_46: -5025443158260872744
+      aether_atlas_47: 1432875971142402884
+      aether_atlas_48: -4952598344373149835
+      aether_atlas_49: 8740470739810809029
+      aether_atlas_5: 384608464448622007
+      aether_atlas_50: -4084573502274329106
+      aether_atlas_51: 2127055976592639060
+      aether_atlas_52: -5166235683871123790
+      aether_atlas_53: -3500393119360317437
+      aether_atlas_54: -6965372377875583467
+      aether_atlas_55: -1996124712212463953
+      aether_atlas_56: 7185782915737983136
+      aether_atlas_57: 5065764735524883251
+      aether_atlas_58: -3628297720430656588
+      aether_atlas_59: 6747607868663884516
+      aether_atlas_6: -9144316002067807132
+      aether_atlas_60: 2304484285750030183
+      aether_atlas_61: 6534446382046427026
+      aether_atlas_62: 2616471753414749428
+      aether_atlas_63: -1609362136875911391
+      aether_atlas_64: 6779529249955153936
+      aether_atlas_65: -9109004497906604332
+      aether_atlas_66: 8399910835453570938
+      aether_atlas_67: 310315117971801382
+      aether_atlas_68: 6291267100366520206
+      aether_atlas_69: 4828988457320868437
+      aether_atlas_7: -2474799101646585221
+      aether_atlas_70: 3443256481632225391
+      aether_atlas_71: -8303344388424649056
+      aether_atlas_72: -5830065394086370091
+      aether_atlas_73: -6720228235534021554
+      aether_atlas_74: -7583409122988482828
+      aether_atlas_75: -2273110289348810429
+      aether_atlas_76: 7130284673301665956
+      aether_atlas_77: 1081817447126520975
+      aether_atlas_78: 5076236238815173842
+      aether_atlas_79: -1344917637363097946
+      aether_atlas_8: 4966817058391293386
+      aether_atlas_80: 150093961847804725
+      aether_atlas_81: -3905788276669276173
+      aether_atlas_82: 8211855424282434634
+      aether_atlas_83: 1084343173048907288
+      aether_atlas_84: 8150193154530699449
+      aether_atlas_9: 3611130728904374837
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2914 @@
+fileFormatVersion: 2
+guid: 2c3c3da900ddc5e4ea9ea62dc9acfaef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3327029961792478456
+    second: spirit_atlas_0
+  - first:
+      213: 2137056680084400264
+    second: spirit_atlas_1
+  - first:
+      213: -5610180295343464007
+    second: spirit_atlas_2
+  - first:
+      213: 4070845110937062180
+    second: spirit_atlas_3
+  - first:
+      213: -4849153923259852449
+    second: spirit_atlas_4
+  - first:
+      213: 2429132857714106568
+    second: spirit_atlas_5
+  - first:
+      213: -8145261160313759757
+    second: spirit_atlas_6
+  - first:
+      213: -5361917763393334318
+    second: spirit_atlas_7
+  - first:
+      213: -3792202999501181438
+    second: spirit_atlas_8
+  - first:
+      213: 4794673169737505161
+    second: spirit_atlas_9
+  - first:
+      213: 9117424885394383994
+    second: spirit_atlas_10
+  - first:
+      213: 4787058663048593146
+    second: spirit_atlas_11
+  - first:
+      213: -2643683140238219201
+    second: spirit_atlas_12
+  - first:
+      213: 7643307289370115202
+    second: spirit_atlas_13
+  - first:
+      213: 6970046167929385380
+    second: spirit_atlas_14
+  - first:
+      213: 7848951223141968397
+    second: spirit_atlas_15
+  - first:
+      213: -2276200084496632089
+    second: spirit_atlas_16
+  - first:
+      213: -3259911785888710004
+    second: spirit_atlas_17
+  - first:
+      213: -8534892992875486146
+    second: spirit_atlas_18
+  - first:
+      213: 4500488392696533387
+    second: spirit_atlas_19
+  - first:
+      213: -8314629954849174125
+    second: spirit_atlas_20
+  - first:
+      213: 2441091091231434280
+    second: spirit_atlas_21
+  - first:
+      213: -3008878486916101294
+    second: spirit_atlas_22
+  - first:
+      213: 6862907523103045833
+    second: spirit_atlas_23
+  - first:
+      213: 2785521962321504246
+    second: spirit_atlas_24
+  - first:
+      213: -37605127929216349
+    second: spirit_atlas_25
+  - first:
+      213: 1595078268275833995
+    second: spirit_atlas_26
+  - first:
+      213: -2839617928841872419
+    second: spirit_atlas_27
+  - first:
+      213: -5673146731681561481
+    second: spirit_atlas_28
+  - first:
+      213: 3907378020158804399
+    second: spirit_atlas_29
+  - first:
+      213: 163501696975214980
+    second: spirit_atlas_30
+  - first:
+      213: 7436533570094184604
+    second: spirit_atlas_31
+  - first:
+      213: 8864918976881717710
+    second: spirit_atlas_32
+  - first:
+      213: -8222230757708987755
+    second: spirit_atlas_33
+  - first:
+      213: 8967752519053755699
+    second: spirit_atlas_34
+  - first:
+      213: 4504116299054109502
+    second: spirit_atlas_35
+  - first:
+      213: 4584688080170374693
+    second: spirit_atlas_36
+  - first:
+      213: -2418428624438450342
+    second: spirit_atlas_37
+  - first:
+      213: -1386142715187889403
+    second: spirit_atlas_38
+  - first:
+      213: -5886127567568905272
+    second: spirit_atlas_39
+  - first:
+      213: -7397744065960635268
+    second: spirit_atlas_40
+  - first:
+      213: 2962652995098862913
+    second: spirit_atlas_41
+  - first:
+      213: -1291250891839077948
+    second: spirit_atlas_42
+  - first:
+      213: -2780686046394678876
+    second: spirit_atlas_43
+  - first:
+      213: 6476200890341132071
+    second: spirit_atlas_44
+  - first:
+      213: -702011132973135872
+    second: spirit_atlas_45
+  - first:
+      213: 841066943999621702
+    second: spirit_atlas_46
+  - first:
+      213: 4117112520391419710
+    second: spirit_atlas_47
+  - first:
+      213: -3031043920530588419
+    second: spirit_atlas_48
+  - first:
+      213: 618475458466477892
+    second: spirit_atlas_49
+  - first:
+      213: 7940153057598823793
+    second: spirit_atlas_50
+  - first:
+      213: -671757816472000709
+    second: spirit_atlas_51
+  - first:
+      213: 2242482939779123727
+    second: spirit_atlas_52
+  - first:
+      213: 1352827404330838886
+    second: spirit_atlas_53
+  - first:
+      213: -2668545729263047137
+    second: spirit_atlas_54
+  - first:
+      213: -8145132395418136643
+    second: spirit_atlas_55
+  - first:
+      213: -4483453898174580896
+    second: spirit_atlas_56
+  - first:
+      213: 7469049125175668958
+    second: spirit_atlas_57
+  - first:
+      213: 1566820550567023397
+    second: spirit_atlas_58
+  - first:
+      213: 4233604004238146345
+    second: spirit_atlas_59
+  - first:
+      213: -8700940592042146379
+    second: spirit_atlas_60
+  - first:
+      213: -3829028077392867148
+    second: spirit_atlas_61
+  - first:
+      213: -8644378201351648073
+    second: spirit_atlas_62
+  - first:
+      213: 3213105220486714271
+    second: spirit_atlas_63
+  - first:
+      213: -8252539267930908401
+    second: spirit_atlas_64
+  - first:
+      213: -7833463862037878748
+    second: spirit_atlas_65
+  - first:
+      213: 2386106996716248425
+    second: spirit_atlas_66
+  - first:
+      213: 5556631685359371891
+    second: spirit_atlas_67
+  - first:
+      213: -5172361487675699934
+    second: spirit_atlas_68
+  - first:
+      213: -688382223608401465
+    second: spirit_atlas_69
+  - first:
+      213: -724657306702683333
+    second: spirit_atlas_70
+  - first:
+      213: -5126849262624821594
+    second: spirit_atlas_71
+  - first:
+      213: 161676061229267376
+    second: spirit_atlas_72
+  - first:
+      213: 3231009980307770229
+    second: spirit_atlas_73
+  - first:
+      213: 9055510018507614766
+    second: spirit_atlas_74
+  - first:
+      213: -7676094329036421090
+    second: spirit_atlas_75
+  - first:
+      213: 2022575936243737145
+    second: spirit_atlas_76
+  - first:
+      213: -7230689023848175901
+    second: spirit_atlas_77
+  - first:
+      213: 5761611335328156201
+    second: spirit_atlas_78
+  - first:
+      213: -8100046002667149661
+    second: spirit_atlas_79
+  - first:
+      213: -6659416339730870408
+    second: spirit_atlas_80
+  - first:
+      213: 8790937413393230375
+    second: spirit_atlas_81
+  - first:
+      213: 6500588992947280302
+    second: spirit_atlas_82
+  - first:
+      213: -6008450962328644021
+    second: spirit_atlas_83
+  - first:
+      213: 5599089153120058714
+    second: spirit_atlas_84
+  - first:
+      213: 1703416006085034312
+    second: spirit_atlas_85
+  - first:
+      213: -3249632595320780459
+    second: spirit_atlas_86
+  - first:
+      213: 3711749230503179840
+    second: spirit_atlas_87
+  - first:
+      213: -2453104693029661660
+    second: spirit_atlas_88
+  - first:
+      213: 7617182506755599994
+    second: spirit_atlas_89
+  - first:
+      213: -4623859763834389143
+    second: spirit_atlas_90
+  - first:
+      213: -4552227157387490628
+    second: spirit_atlas_91
+  - first:
+      213: 369384761067654825
+    second: spirit_atlas_92
+  - first:
+      213: -5317408802988715914
+    second: spirit_atlas_93
+  - first:
+      213: -8679969661686372017
+    second: spirit_atlas_94
+  - first:
+      213: 1654570746321260340
+    second: spirit_atlas_95
+  - first:
+      213: 5306784873082867323
+    second: spirit_atlas_96
+  - first:
+      213: 6778782651185193945
+    second: spirit_atlas_97
+  - first:
+      213: 2091133479766659471
+    second: spirit_atlas_98
+  - first:
+      213: -100943091132826733
+    second: spirit_atlas_99
+  - first:
+      213: -2614406099395880465
+    second: spirit_atlas_100
+  - first:
+      213: -3428841707051194062
+    second: spirit_atlas_101
+  - first:
+      213: 5872321973725211957
+    second: spirit_atlas_102
+  - first:
+      213: -7364429706240701165
+    second: spirit_atlas_103
+  - first:
+      213: 1102890683291086535
+    second: spirit_atlas_104
+  - first:
+      213: 8723194647221984354
+    second: spirit_atlas_105
+  - first:
+      213: 1049662386761477764
+    second: spirit_atlas_106
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spirit_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1013
+        width: 140
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcd8b57f1cfb2e20800000000000000
+      internalID: 3327029961792478456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1013
+        width: 139
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8886e495ab958ad10800000000000000
+      internalID: 2137056680084400264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1013
+        width: 138
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b12822deb2a422b0800000000000000
+      internalID: -5610180295343464007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1013
+        width: 136
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b0a056f0c8e7830800000000000000
+      internalID: 4070845110937062180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1013
+        width: 135
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5997eed23854bcb0800000000000000
+      internalID: -4849153923259852449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1013
+        width: 135
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c06748c67306b120800000000000000
+      internalID: 2429132857714106568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1013
+        width: 137
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f756b0512836fe80800000000000000
+      internalID: -8145261160313759757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1013
+        width: 139
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3551ee334a695b0800000000000000
+      internalID: -5361917763393334318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 868
+        width: 139
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20eaf82c6736f5bc0800000000000000
+      internalID: -3792202999501181438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 869
+        width: 140
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989dc4838d91a8240800000000000000
+      internalID: 4794673169737505161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 869
+        width: 140
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a742d3880a9978e70800000000000000
+      internalID: 9117424885394383994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 868
+        width: 139
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afeb7f9bd7c0f6240800000000000000
+      internalID: 4787058663048593146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 868
+        width: 137
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f386967d030cf4bd0800000000000000
+      internalID: -2643683140238219201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 869
+        width: 136
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c3f04db7b721a60800000000000000
+      internalID: 7643307289370115202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 869
+        width: 136
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1f0839f049ab060800000000000000
+      internalID: 6970046167929385380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 868
+        width: 138
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0aaeba4d831dec60800000000000000
+      internalID: 7848951223141968397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 724
+        width: 150
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e63ddd35105960e0800000000000000
+      internalID: -2276200084496632089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 724
+        width: 150
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c828ef2a08772c2d0800000000000000
+      internalID: -3259911785888710004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 725
+        width: 150
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34afa3fa08fd8980800000000000000
+      internalID: -8534892992875486146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 724
+        width: 150
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81127a3952f47e30800000000000000
+      internalID: 4500488392696533387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 724
+        width: 150
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d846edb108c9c80800000000000000
+      internalID: -8314629954849174125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_21
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 724
+        width: 149
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826683df96f70e120800000000000000
+      internalID: 2441091091231434280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 725
+        width: 149
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b0d0735f05e36d0800000000000000
+      internalID: -3008878486916101294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_23
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 724
+        width: 149
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8b9e0f702fd3f50800000000000000
+      internalID: 6862907523103045833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 581
+        width: 138
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7e836677928a620800000000000000
+      internalID: 2785521962321504246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_25
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 594
+        width: 145
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2cb0cd5566a7ff0800000000000000
+      internalID: -37605127929216349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_26
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 623
+        width: 149
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cb681eb3bd22610800000000000000
+      internalID: 1595078268275833995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_27
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 618
+        width: 150
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbbc85e986a798d0800000000000000
+      internalID: -2839617928841872419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_28
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 590
+        width: 144
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774c37bea1fe441b0800000000000000
+      internalID: -5673146731681561481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_29
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 581
+        width: 136
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa11cbe6b9bc93630800000000000000
+      internalID: 3907378020158804399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 437
+        width: 136
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48991685defd44200800000000000000
+      internalID: 163501696975214980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_31
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 437
+        width: 132
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c983bbda1efd33760800000000000000
+      internalID: 7436533570094184604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_32
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 452
+        width: 148
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec177a357d4860b70800000000000000
+      internalID: 8864918976881717710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_33
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 457
+        width: 159
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592077960b4c4ed80800000000000000
+      internalID: -8222230757708987755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_34
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 448
+        width: 161
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33540d3276bd37c70800000000000000
+      internalID: 8967752519053755699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_35
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 436
+        width: 146
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33da2009e5d18e30800000000000000
+      internalID: 4504116299054109502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_36
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 436
+        width: 138
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526d588a48510af30800000000000000
+      internalID: 4584688080170374693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_37
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 293
+        width: 141
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57a5bdbaf3007ed0800000000000000
+      internalID: -2418428624438450342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_38
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 293
+        width: 141
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bfa3d6b8e63cce0800000000000000
+      internalID: -1386142715187889403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_39
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 293
+        width: 147
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbdb60d926405ea0800000000000000
+      internalID: -5886127567568905272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_40
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 293
+        width: 141
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74992987fee55990800000000000000
+      internalID: -7397744065960635268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_41
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 368
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1456d95c3357d1920800000000000000
+      internalID: 2962652995098862913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_42
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 293
+        width: 159
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1860cb72e841ee0800000000000000
+      internalID: -1291250891839077948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_43
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 370
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a182c406c40969d0800000000000000
+      internalID: -2780686046394678876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_44
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 293
+        width: 151
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7270adab56610e950800000000000000
+      internalID: 6476200890341132071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_45
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 358
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00844ce0894f146f0800000000000000
+      internalID: -702011132973135872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_46
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 363
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64abb6dede11cab00800000000000000
+      internalID: 841066943999621702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_47
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 368
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e376e3e160ce22930800000000000000
+      internalID: 4117112520391419710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_48
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 293
+        width: 142
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcba2a0d919fe5d0800000000000000
+      internalID: -3031043920530588419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_49
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 358
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447f0341724459800800000000000000
+      internalID: 618475458466477892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_50
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 363
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17dd86c1327113e60800000000000000
+      internalID: 7940153057598823793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_51
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 293
+        width: 142
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37281633df6da6f0800000000000000
+      internalID: -671757816472000709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_52
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 359
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a88604a56ee1f10800000000000000
+      internalID: 2242482939779123727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 148
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bad8d4b5536c210800000000000000
+      internalID: 1352827404330838886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 148
+        width: 139
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ee36c3ccb67fad0800000000000000
+      internalID: -2668545729263047137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_55
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 148
+        width: 134
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf439abd3da6fe80800000000000000
+      internalID: -8145132395418136643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_56
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 149
+        width: 137
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067b6781f6297c1c0800000000000000
+      internalID: -4483453898174580896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_57
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 141
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0b90c4b9467a760800000000000000
+      internalID: 7469049125175668958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_58
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 4
+        width: 141
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52354574df67eb510800000000000000
+      internalID: 1566820550567023397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_59
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 5
+        width: 138
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b39484968c0ca30800000000000000
+      internalID: 4233604004238146345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_60
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 5
+        width: 123
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b50d8f81ac004780800000000000000
+      internalID: -8700940592042146379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_61
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 5
+        width: 118
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0500c204f8cdac0800000000000000
+      internalID: -3829028077392867148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_62
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 51
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc0e4463dff80880800000000000000
+      internalID: -8644378201351648073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_63
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 43
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93501d9c2e379c20800000000000000
+      internalID: 3213105220486714271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_64
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 50
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0914087247197d80800000000000000
+      internalID: -8252539267930908401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_65
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 67
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4286f56fe12f94390800000000000000
+      internalID: -7833463862037878748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_66
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 58
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d985fdba72d1120800000000000000
+      internalID: 2386106996716248425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_67
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 31
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3768689d31f1d1d40800000000000000
+      internalID: 5556631685359371891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_68
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 54
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dcd2d91a41838b0800000000000000
+      internalID: -5172361487675699934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_69
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 31
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1b02cc3006276f0800000000000000
+      internalID: -688382223608401465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_70
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 70
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33681ad40081f5f0800000000000000
+      internalID: -724657306702683333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_71
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 73
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae264442c5c9d8b0800000000000000
+      internalID: -5126849262624821594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_72
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 50
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9314665836e3200800000000000000
+      internalID: 161676061229267376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_73
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 65
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b8cfd557ad6dc20800000000000000
+      internalID: 3231009980307770229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_74
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 37
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a23293262abad70800000000000000
+      internalID: 9055510018507614766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_75
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 50
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18c46f90e8097590800000000000000
+      internalID: -7676094329036421090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_76
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 62
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932af031912a11c10800000000000000
+      internalID: 2022575936243737145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_77
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 43
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6a63484ae67ab90800000000000000
+      internalID: -7230689023848175901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_78
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 42
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a4910bbfa55ff40800000000000000
+      internalID: 5761611335328156201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_79
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 35
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6a3b2931bd69f80800000000000000
+      internalID: -8100046002667149661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_80
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 25
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fc8e24f100593a0800000000000000
+      internalID: -6659416339730870408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_81
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 33
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72aaef7400faff970800000000000000
+      internalID: 8790937413393230375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_82
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 29
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9df6b5f3bb63a50800000000000000
+      internalID: 6500588992947280302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_83
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 41
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b461c041fa1bd9ca0800000000000000
+      internalID: -6008450962328644021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_84
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 33
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5db6756be5f3bd40800000000000000
+      internalID: 5599089153120058714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_85
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 37
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841c96b15dfb3a710800000000000000
+      internalID: 1703416006085034312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_86
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 26
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559cf513f5cf6e2d0800000000000000
+      internalID: -3249632595320780459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_87
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 17
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046b87b6248c28330800000000000000
+      internalID: 3711749230503179840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_88
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 18
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4249f1f5742d4fdd0800000000000000
+      internalID: -2453104693029661660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_89
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 23
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7eac70e12ba5b960800000000000000
+      internalID: 7617182506755599994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_90
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 5
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dfd650b00c4dfb0800000000000000
+      internalID: -4623859763834389143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_91
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 26
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba4803e48d33d0c0800000000000000
+      internalID: -4552227157387490628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_92
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 15
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae41ecab71502500800000000000000
+      internalID: 369384761067654825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_93
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 22
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6709254ddd4c436b0800000000000000
+      internalID: -5317408802988715914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_94
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 14
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f492406c49d8a8780800000000000000
+      internalID: -8679969661686372017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_95
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 21
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f4b36d35736f610800000000000000
+      internalID: 1654570746321260340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_96
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 10
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e458bb9bc75a940800000000000000
+      internalID: 5306784873082867323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_97
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 14
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3697dd7e2131e50800000000000000
+      internalID: 6778782651185193945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_98
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 7
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f811b6f02d2350d10800000000000000
+      internalID: 2091133479766659471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_99
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 15
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b7f7e1bc0699ef0800000000000000
+      internalID: -100943091132826733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_100
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 10
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9d4ea1183c7bbd0800000000000000
+      internalID: -2614406099395880465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_101
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 14
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2396b2c52ae4a60d0800000000000000
+      internalID: -3428841707051194062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_102
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 5
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53dac92e8bdae7150800000000000000
+      internalID: 5872321973725211957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_103
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 14
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d403a533a4cc990800000000000000
+      internalID: -7364429706240701165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_104
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 15
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce27abab314e4f00800000000000000
+      internalID: 1102890683291086535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_105
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 6
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c514e60530f0970800000000000000
+      internalID: 8723194647221984354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_atlas_106
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 9
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ea1012166219e00800000000000000
+      internalID: 1049662386761477764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spirit_atlas_0: 3327029961792478456
+      spirit_atlas_1: 2137056680084400264
+      spirit_atlas_10: 9117424885394383994
+      spirit_atlas_100: -2614406099395880465
+      spirit_atlas_101: -3428841707051194062
+      spirit_atlas_102: 5872321973725211957
+      spirit_atlas_103: -7364429706240701165
+      spirit_atlas_104: 1102890683291086535
+      spirit_atlas_105: 8723194647221984354
+      spirit_atlas_106: 1049662386761477764
+      spirit_atlas_11: 4787058663048593146
+      spirit_atlas_12: -2643683140238219201
+      spirit_atlas_13: 7643307289370115202
+      spirit_atlas_14: 6970046167929385380
+      spirit_atlas_15: 7848951223141968397
+      spirit_atlas_16: -2276200084496632089
+      spirit_atlas_17: -3259911785888710004
+      spirit_atlas_18: -8534892992875486146
+      spirit_atlas_19: 4500488392696533387
+      spirit_atlas_2: -5610180295343464007
+      spirit_atlas_20: -8314629954849174125
+      spirit_atlas_21: 2441091091231434280
+      spirit_atlas_22: -3008878486916101294
+      spirit_atlas_23: 6862907523103045833
+      spirit_atlas_24: 2785521962321504246
+      spirit_atlas_25: -37605127929216349
+      spirit_atlas_26: 1595078268275833995
+      spirit_atlas_27: -2839617928841872419
+      spirit_atlas_28: -5673146731681561481
+      spirit_atlas_29: 3907378020158804399
+      spirit_atlas_3: 4070845110937062180
+      spirit_atlas_30: 163501696975214980
+      spirit_atlas_31: 7436533570094184604
+      spirit_atlas_32: 8864918976881717710
+      spirit_atlas_33: -8222230757708987755
+      spirit_atlas_34: 8967752519053755699
+      spirit_atlas_35: 4504116299054109502
+      spirit_atlas_36: 4584688080170374693
+      spirit_atlas_37: -2418428624438450342
+      spirit_atlas_38: -1386142715187889403
+      spirit_atlas_39: -5886127567568905272
+      spirit_atlas_4: -4849153923259852449
+      spirit_atlas_40: -7397744065960635268
+      spirit_atlas_41: 2962652995098862913
+      spirit_atlas_42: -1291250891839077948
+      spirit_atlas_43: -2780686046394678876
+      spirit_atlas_44: 6476200890341132071
+      spirit_atlas_45: -702011132973135872
+      spirit_atlas_46: 841066943999621702
+      spirit_atlas_47: 4117112520391419710
+      spirit_atlas_48: -3031043920530588419
+      spirit_atlas_49: 618475458466477892
+      spirit_atlas_5: 2429132857714106568
+      spirit_atlas_50: 7940153057598823793
+      spirit_atlas_51: -671757816472000709
+      spirit_atlas_52: 2242482939779123727
+      spirit_atlas_53: 1352827404330838886
+      spirit_atlas_54: -2668545729263047137
+      spirit_atlas_55: -8145132395418136643
+      spirit_atlas_56: -4483453898174580896
+      spirit_atlas_57: 7469049125175668958
+      spirit_atlas_58: 1566820550567023397
+      spirit_atlas_59: 4233604004238146345
+      spirit_atlas_6: -8145261160313759757
+      spirit_atlas_60: -8700940592042146379
+      spirit_atlas_61: -3829028077392867148
+      spirit_atlas_62: -8644378201351648073
+      spirit_atlas_63: 3213105220486714271
+      spirit_atlas_64: -8252539267930908401
+      spirit_atlas_65: -7833463862037878748
+      spirit_atlas_66: 2386106996716248425
+      spirit_atlas_67: 5556631685359371891
+      spirit_atlas_68: -5172361487675699934
+      spirit_atlas_69: -688382223608401465
+      spirit_atlas_7: -5361917763393334318
+      spirit_atlas_70: -724657306702683333
+      spirit_atlas_71: -5126849262624821594
+      spirit_atlas_72: 161676061229267376
+      spirit_atlas_73: 3231009980307770229
+      spirit_atlas_74: 9055510018507614766
+      spirit_atlas_75: -7676094329036421090
+      spirit_atlas_76: 2022575936243737145
+      spirit_atlas_77: -7230689023848175901
+      spirit_atlas_78: 5761611335328156201
+      spirit_atlas_79: -8100046002667149661
+      spirit_atlas_8: -3792202999501181438
+      spirit_atlas_80: -6659416339730870408
+      spirit_atlas_81: 8790937413393230375
+      spirit_atlas_82: 6500588992947280302
+      spirit_atlas_83: -6008450962328644021
+      spirit_atlas_84: 5599089153120058714
+      spirit_atlas_85: 1703416006085034312
+      spirit_atlas_86: -3249632595320780459
+      spirit_atlas_87: 3711749230503179840
+      spirit_atlas_88: -2453104693029661660
+      spirit_atlas_89: 7617182506755599994
+      spirit_atlas_9: 4794673169737505161
+      spirit_atlas_90: -4623859763834389143
+      spirit_atlas_91: -4552227157387490628
+      spirit_atlas_92: 369384761067654825
+      spirit_atlas_93: -5317408802988715914
+      spirit_atlas_94: -8679969661686372017
+      spirit_atlas_95: 1654570746321260340
+      spirit_atlas_96: 5306784873082867323
+      spirit_atlas_97: 6778782651185193945
+      spirit_atlas_98: 2091133479766659471
+      spirit_atlas_99: -100943091132826733
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

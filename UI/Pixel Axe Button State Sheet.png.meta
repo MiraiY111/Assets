@@ -1,0 +1,864 @@
+fileFormatVersion: 2
+guid: 6942cd0c30e7b9a4eb6c53c2d2fff005
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5078583902234587550
+    second: Pixel Axe Button State Sheet_0
+  - first:
+      213: 206059881067350832
+    second: Pixel Axe Button State Sheet_1
+  - first:
+      213: 207450733986760092
+    second: Pixel Axe Button State Sheet_2
+  - first:
+      213: 8036688453979879681
+    second: Pixel Axe Button State Sheet_3
+  - first:
+      213: -3659806529102011349
+    second: Pixel Axe Button State Sheet_4
+  - first:
+      213: 3464641846396334740
+    second: Pixel Axe Button State Sheet_5
+  - first:
+      213: -1765300581973845723
+    second: Pixel Axe Button State Sheet_6
+  - first:
+      213: -2069367620774691143
+    second: Pixel Axe Button State Sheet_7
+  - first:
+      213: 96235676345083296
+    second: Pixel Axe Button State Sheet_8
+  - first:
+      213: 4277891303882872901
+    second: Pixel Axe Button State Sheet_9
+  - first:
+      213: -3807590410928896443
+    second: Pixel Axe Button State Sheet_10
+  - first:
+      213: 509236500789892357
+    second: Pixel Axe Button State Sheet_11
+  - first:
+      213: 7616050855076014619
+    second: Pixel Axe Button State Sheet_12
+  - first:
+      213: 8584431326733184585
+    second: Pixel Axe Button State Sheet_13
+  - first:
+      213: -5439061499780552152
+    second: Pixel Axe Button State Sheet_14
+  - first:
+      213: 8825558410800388274
+    second: Pixel Axe Button State Sheet_15
+  - first:
+      213: 5810675702291745415
+    second: Pixel Axe Button State Sheet_16
+  - first:
+      213: 3313959935522493847
+    second: Pixel Axe Button State Sheet_17
+  - first:
+      213: 5685868626480708973
+    second: Pixel Axe Button State Sheet_18
+  - first:
+      213: 780570761873255431
+    second: Pixel Axe Button State Sheet_19
+  - first:
+      213: 5814116062497067483
+    second: Pixel Axe Button State Sheet_20
+  - first:
+      213: 8085682539985608026
+    second: Pixel Axe Button State Sheet_21
+  - first:
+      213: 8022727692973499917
+    second: Pixel Axe Button State Sheet_22
+  - first:
+      213: -2706490669855933684
+    second: Pixel Axe Button State Sheet_23
+  - first:
+      213: 7548727916880960435
+    second: Pixel Axe Button State Sheet_24
+  - first:
+      213: -2246684337708921592
+    second: Pixel Axe Button State Sheet_25
+  - first:
+      213: 8447681310763272665
+    second: Pixel Axe Button State Sheet_26
+  - first:
+      213: -2343008124515384597
+    second: Pixel Axe Button State Sheet_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixel Axe Button State Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 528
+        width: 431
+        height: 548
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91b5bec621ca7640800000000000000
+      internalID: 5078583902234587550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Axe Button State Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 405
+        width: 439
+        height: 669
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b8a7dbe521cd200800000000000000
+      internalID: 206059881067350832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Axe Button State Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 992
+        width: 197
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95ccabe75301e200800000000000000
+      internalID: 207450733986760092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Axe Button State Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 957
+        width: 179
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10934f5919d088f60800000000000000
+      internalID: 8036688453979879681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Axe Button State Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1065
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24283e2a51c53dc0800000000000000
+      internalID: -3659806529102011349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Axe Button State Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1048
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49238602761e41030800000000000000
+      internalID: 3464641846396334740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Axe Button State Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1049
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52998a149746087e0800000000000000
+      internalID: -1765300581973845723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Axe Button State Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 951
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be7706ec112843e0800000000000000
+      internalID: -2069367620774691143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Axe Button State Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 963
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5a44776d5e55100800000000000000
+      internalID: 96235676345083296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Axe Button State Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 947
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548dba3c97f1e5b30800000000000000
+      internalID: 4277891303882872901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Axe Button State Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 954
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546466ad1b8b82bc0800000000000000
+      internalID: -3807590410928896443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Axe Button State Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 953
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5059e3046eb211700800000000000000
+      internalID: 509236500789892357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Axe Button State Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 562
+        width: 422
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1aad10b6e5a1b960800000000000000
+      internalID: 7616050855076014619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Axe Button State Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 460
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94eaaa43fc6022770800000000000000
+      internalID: 8584431326733184585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Axe Button State Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 185
+        width: 296
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82aa31222629484b0800000000000000
+      internalID: -5439061499780552152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Axe Button State Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 466
+        width: 217
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8d7346d9eaa7a70800000000000000
+      internalID: 8825558410800388274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Axe Button State Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 153
+        width: 346
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ac714d3caa3a050800000000000000
+      internalID: 5810675702291745415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Axe Button State Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 427
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795d1b4d00d8dfd20800000000000000
+      internalID: 3313959935522493847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Axe Button State Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 443
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6dbbe8046348ee40800000000000000
+      internalID: 5685868626480708973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Axe Button State Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 435
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ce287e8f425da00800000000000000
+      internalID: 780570761873255431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Axe Button State Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 408
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1d70c11c3efa050800000000000000
+      internalID: 5814116062497067483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Axe Button State Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 413
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d9b6a2e6d163070800000000000000
+      internalID: 8085682539985608026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Axe Button State Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 405
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06ef5d9454765f60800000000000000
+      internalID: 8022727692973499917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Axe Button State Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 941
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bf35b431d907ad0800000000000000
+      internalID: -2706490669855933684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Axe Button State Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 65
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb93c7ab0872c860800000000000000
+      internalID: 7548727916880960435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Axe Button State Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 69
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d0d609f7c22d0e0800000000000000
+      internalID: -2246684337708921592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Axe Button State Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 64
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d940c7f4613c3570800000000000000
+      internalID: 8447681310763272665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Axe Button State Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 40
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be208684686fb7fd0800000000000000
+      internalID: -2343008124515384597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 70cb18eea6988db4dbebb0588668cd80
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      - key: SpriteEditor.SliceOnImport
+        value: False
+    nameFileIdTable:
+      Pixel Axe Button State Sheet_0: 5078583902234587550
+      Pixel Axe Button State Sheet_1: 206059881067350832
+      Pixel Axe Button State Sheet_10: -3807590410928896443
+      Pixel Axe Button State Sheet_11: 509236500789892357
+      Pixel Axe Button State Sheet_12: 7616050855076014619
+      Pixel Axe Button State Sheet_13: 8584431326733184585
+      Pixel Axe Button State Sheet_14: -5439061499780552152
+      Pixel Axe Button State Sheet_15: 8825558410800388274
+      Pixel Axe Button State Sheet_16: 5810675702291745415
+      Pixel Axe Button State Sheet_17: 3313959935522493847
+      Pixel Axe Button State Sheet_18: 5685868626480708973
+      Pixel Axe Button State Sheet_19: 780570761873255431
+      Pixel Axe Button State Sheet_2: 207450733986760092
+      Pixel Axe Button State Sheet_20: 5814116062497067483
+      Pixel Axe Button State Sheet_21: 8085682539985608026
+      Pixel Axe Button State Sheet_22: 8022727692973499917
+      Pixel Axe Button State Sheet_23: -2706490669855933684
+      Pixel Axe Button State Sheet_24: 7548727916880960435
+      Pixel Axe Button State Sheet_25: -2246684337708921592
+      Pixel Axe Button State Sheet_26: 8447681310763272665
+      Pixel Axe Button State Sheet_27: -2343008124515384597
+      Pixel Axe Button State Sheet_3: 8036688453979879681
+      Pixel Axe Button State Sheet_4: -3659806529102011349
+      Pixel Axe Button State Sheet_5: 3464641846396334740
+      Pixel Axe Button State Sheet_6: -1765300581973845723
+      Pixel Axe Button State Sheet_7: -2069367620774691143
+      Pixel Axe Button State Sheet_8: 96235676345083296
+      Pixel Axe Button State Sheet_9: 4277891303882872901
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

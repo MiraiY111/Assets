@@ -1,0 +1,6658 @@
+fileFormatVersion: 2
+guid: b2959be0efb3f68408e89c87283559cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4679798803715664948
+    second: iron-weapons_0
+  - first:
+      213: 4629020961009665879
+    second: iron-weapons_1
+  - first:
+      213: 1348474256535321959
+    second: iron-weapons_2
+  - first:
+      213: 6658001232323253617
+    second: iron-weapons_3
+  - first:
+      213: 5033697593027580190
+    second: iron-weapons_4
+  - first:
+      213: -4950266454051658337
+    second: iron-weapons_5
+  - first:
+      213: 8595845369201122023
+    second: iron-weapons_6
+  - first:
+      213: -7667389874882855661
+    second: iron-weapons_7
+  - first:
+      213: -9044167773648784910
+    second: iron-weapons_8
+  - first:
+      213: 2169897564655749341
+    second: iron-weapons_9
+  - first:
+      213: 4433115733926488047
+    second: iron-weapons_10
+  - first:
+      213: 7963379632113559962
+    second: iron-weapons_11
+  - first:
+      213: -5206000513456135665
+    second: iron-weapons_12
+  - first:
+      213: 3340357084365950208
+    second: iron-weapons_13
+  - first:
+      213: 1692815393770169728
+    second: iron-weapons_14
+  - first:
+      213: 6746213754737245569
+    second: iron-weapons_15
+  - first:
+      213: -9127685689255162114
+    second: iron-weapons_16
+  - first:
+      213: -5255903208256094024
+    second: iron-weapons_17
+  - first:
+      213: 5761389726388261602
+    second: iron-weapons_18
+  - first:
+      213: -1611102982599970669
+    second: iron-weapons_19
+  - first:
+      213: -4891016776719567365
+    second: iron-weapons_20
+  - first:
+      213: -6850759051892120080
+    second: iron-weapons_21
+  - first:
+      213: -2732124524450920973
+    second: iron-weapons_22
+  - first:
+      213: 9157468949182126600
+    second: iron-weapons_23
+  - first:
+      213: 1171812882711091139
+    second: iron-weapons_24
+  - first:
+      213: 2829035412739930862
+    second: iron-weapons_25
+  - first:
+      213: -686220073946488011
+    second: iron-weapons_26
+  - first:
+      213: -1647249141073145765
+    second: iron-weapons_27
+  - first:
+      213: -6728076246119988340
+    second: iron-weapons_28
+  - first:
+      213: 5978653076320269561
+    second: iron-weapons_29
+  - first:
+      213: -6936733615165906831
+    second: iron-weapons_30
+  - first:
+      213: -1111347076231004560
+    second: iron-weapons_31
+  - first:
+      213: -112868078659499452
+    second: iron-weapons_32
+  - first:
+      213: -6529624523372071738
+    second: iron-weapons_33
+  - first:
+      213: 6759603003568983376
+    second: iron-weapons_34
+  - first:
+      213: 9194211561422480573
+    second: iron-weapons_35
+  - first:
+      213: 4724073908862229798
+    second: iron-weapons_36
+  - first:
+      213: -5105311075737312905
+    second: iron-weapons_37
+  - first:
+      213: 5843125587564302441
+    second: iron-weapons_38
+  - first:
+      213: 5942539824929534111
+    second: iron-weapons_39
+  - first:
+      213: -7373020414989745199
+    second: iron-weapons_40
+  - first:
+      213: 1265228576894105077
+    second: iron-weapons_41
+  - first:
+      213: -7035200196586178515
+    second: iron-weapons_42
+  - first:
+      213: 89484292879426101
+    second: iron-weapons_43
+  - first:
+      213: 4558824577743223316
+    second: iron-weapons_44
+  - first:
+      213: 3658199175241472246
+    second: iron-weapons_45
+  - first:
+      213: 7657550292254608921
+    second: iron-weapons_46
+  - first:
+      213: -7368534070003627865
+    second: iron-weapons_47
+  - first:
+      213: -2397584062970521755
+    second: iron-weapons_48
+  - first:
+      213: 5015051389514292273
+    second: iron-weapons_49
+  - first:
+      213: -848705206602126273
+    second: iron-weapons_50
+  - first:
+      213: -4782092796120533801
+    second: iron-weapons_51
+  - first:
+      213: -6429781773224325780
+    second: iron-weapons_52
+  - first:
+      213: 755716255013155030
+    second: iron-weapons_53
+  - first:
+      213: -6054855688655918464
+    second: iron-weapons_54
+  - first:
+      213: 1970384613184188950
+    second: iron-weapons_55
+  - first:
+      213: -8835310027268460425
+    second: iron-weapons_56
+  - first:
+      213: 3701830072433021084
+    second: iron-weapons_57
+  - first:
+      213: -801741863018038826
+    second: iron-weapons_58
+  - first:
+      213: 1819851656177181335
+    second: iron-weapons_59
+  - first:
+      213: 1275778827077329741
+    second: iron-weapons_60
+  - first:
+      213: -6945009990631102012
+    second: iron-weapons_61
+  - first:
+      213: -6186041992134453896
+    second: iron-weapons_62
+  - first:
+      213: -3516138224028163137
+    second: iron-weapons_63
+  - first:
+      213: 1584689815989034250
+    second: iron-weapons_64
+  - first:
+      213: 5142368470882404971
+    second: iron-weapons_65
+  - first:
+      213: -4471674816696171189
+    second: iron-weapons_66
+  - first:
+      213: 346638643004481161
+    second: iron-weapons_67
+  - first:
+      213: 1346221791033040626
+    second: iron-weapons_68
+  - first:
+      213: 3962223780691801054
+    second: iron-weapons_69
+  - first:
+      213: -9185142894725400581
+    second: iron-weapons_70
+  - first:
+      213: 8875303379359672610
+    second: iron-weapons_71
+  - first:
+      213: 2984268263475914682
+    second: iron-weapons_72
+  - first:
+      213: -8949284143445483839
+    second: iron-weapons_73
+  - first:
+      213: -8841036866834548010
+    second: iron-weapons_74
+  - first:
+      213: -2647100346809854651
+    second: iron-weapons_75
+  - first:
+      213: -8893350745166720480
+    second: iron-weapons_76
+  - first:
+      213: -6487891772978168164
+    second: iron-weapons_77
+  - first:
+      213: -1235585001979289597
+    second: iron-weapons_78
+  - first:
+      213: 8133850246611297762
+    second: iron-weapons_79
+  - first:
+      213: 4647489919946556908
+    second: iron-weapons_80
+  - first:
+      213: 3378306579017537123
+    second: iron-weapons_81
+  - first:
+      213: -8714065329366212756
+    second: iron-weapons_82
+  - first:
+      213: -3767235421584318426
+    second: iron-weapons_83
+  - first:
+      213: -8782143528741018300
+    second: iron-weapons_84
+  - first:
+      213: -3783000259138801822
+    second: iron-weapons_85
+  - first:
+      213: -4032702751079334967
+    second: iron-weapons_86
+  - first:
+      213: -2950214572079961033
+    second: iron-weapons_87
+  - first:
+      213: -8459088103807708725
+    second: iron-weapons_88
+  - first:
+      213: 7462340984645485385
+    second: iron-weapons_89
+  - first:
+      213: -4723943504775404129
+    second: iron-weapons_90
+  - first:
+      213: -4771116283580308145
+    second: iron-weapons_91
+  - first:
+      213: -1923741943469364997
+    second: iron-weapons_92
+  - first:
+      213: 3061858415403027683
+    second: iron-weapons_93
+  - first:
+      213: -7190157820495888831
+    second: iron-weapons_94
+  - first:
+      213: -3855296780442731527
+    second: iron-weapons_95
+  - first:
+      213: -3951638763926249022
+    second: iron-weapons_96
+  - first:
+      213: -1980875215929469281
+    second: iron-weapons_97
+  - first:
+      213: -4602762666724243775
+    second: iron-weapons_98
+  - first:
+      213: 8580672299091068592
+    second: iron-weapons_99
+  - first:
+      213: -1722834075101837542
+    second: iron-weapons_100
+  - first:
+      213: 1642138822060666721
+    second: iron-weapons_101
+  - first:
+      213: 1372473894721075080
+    second: iron-weapons_102
+  - first:
+      213: -7068613922694970168
+    second: iron-weapons_103
+  - first:
+      213: -8423099764458345428
+    second: iron-weapons_104
+  - first:
+      213: -1018147559045112977
+    second: iron-weapons_105
+  - first:
+      213: -6939108726141436837
+    second: iron-weapons_106
+  - first:
+      213: 6789072381475191626
+    second: iron-weapons_107
+  - first:
+      213: 2129429233824205550
+    second: iron-weapons_108
+  - first:
+      213: 8572584202341272589
+    second: iron-weapons_109
+  - first:
+      213: 9022335590092350462
+    second: iron-weapons_110
+  - first:
+      213: 4248456309350466850
+    second: iron-weapons_111
+  - first:
+      213: 2270982028719284878
+    second: iron-weapons_112
+  - first:
+      213: 7404294890213149493
+    second: iron-weapons_113
+  - first:
+      213: 3184480676801804794
+    second: iron-weapons_114
+  - first:
+      213: 5076700789914178307
+    second: iron-weapons_115
+  - first:
+      213: -5124935805277324313
+    second: iron-weapons_116
+  - first:
+      213: -8753805000617600576
+    second: iron-weapons_117
+  - first:
+      213: 560781322317051925
+    second: iron-weapons_118
+  - first:
+      213: 166163237783545087
+    second: iron-weapons_119
+  - first:
+      213: -3322624679700314195
+    second: iron-weapons_120
+  - first:
+      213: -5920672300521448549
+    second: iron-weapons_121
+  - first:
+      213: -3767282948126853045
+    second: iron-weapons_122
+  - first:
+      213: 2701438851943533196
+    second: iron-weapons_123
+  - first:
+      213: 2412894584416367845
+    second: iron-weapons_124
+  - first:
+      213: 2743086384798214936
+    second: iron-weapons_125
+  - first:
+      213: -1669553635352113245
+    second: iron-weapons_126
+  - first:
+      213: 6919590927911015331
+    second: iron-weapons_127
+  - first:
+      213: -6234419666442018953
+    second: iron-weapons_128
+  - first:
+      213: -422956639705901805
+    second: iron-weapons_129
+  - first:
+      213: -4420451486977807492
+    second: iron-weapons_130
+  - first:
+      213: 7562326838581209193
+    second: iron-weapons_131
+  - first:
+      213: -6526539433333395830
+    second: iron-weapons_132
+  - first:
+      213: -8110172199908087853
+    second: iron-weapons_133
+  - first:
+      213: 721341810303062409
+    second: iron-weapons_134
+  - first:
+      213: -5129178590299351703
+    second: iron-weapons_135
+  - first:
+      213: -2314162289522078131
+    second: iron-weapons_136
+  - first:
+      213: 1322426852054502602
+    second: iron-weapons_137
+  - first:
+      213: -426080728158463176
+    second: iron-weapons_138
+  - first:
+      213: -2036537516635840160
+    second: iron-weapons_139
+  - first:
+      213: -1585819369247080283
+    second: iron-weapons_140
+  - first:
+      213: -3372619045554688089
+    second: iron-weapons_141
+  - first:
+      213: 6534928469119042948
+    second: iron-weapons_142
+  - first:
+      213: 71522204140509088
+    second: iron-weapons_143
+  - first:
+      213: -3035116041439066266
+    second: iron-weapons_144
+  - first:
+      213: -457940155147299596
+    second: iron-weapons_145
+  - first:
+      213: -5559075174834451504
+    second: iron-weapons_146
+  - first:
+      213: 1047759037771995125
+    second: iron-weapons_147
+  - first:
+      213: -5125649212940181460
+    second: iron-weapons_148
+  - first:
+      213: 1981112920140106836
+    second: iron-weapons_149
+  - first:
+      213: -6123529227999610358
+    second: iron-weapons_150
+  - first:
+      213: -4296939332201896466
+    second: iron-weapons_151
+  - first:
+      213: 7003606834513511204
+    second: iron-weapons_152
+  - first:
+      213: -2481345402196034481
+    second: iron-weapons_153
+  - first:
+      213: -6770417872264189129
+    second: iron-weapons_154
+  - first:
+      213: 5971826220834217005
+    second: iron-weapons_155
+  - first:
+      213: -4832762397979960364
+    second: iron-weapons_156
+  - first:
+      213: 1307810436702102721
+    second: iron-weapons_157
+  - first:
+      213: 3826531040259812736
+    second: iron-weapons_158
+  - first:
+      213: -4060649159510044694
+    second: iron-weapons_159
+  - first:
+      213: 8762536116299753676
+    second: iron-weapons_160
+  - first:
+      213: -5850423924726143822
+    second: iron-weapons_161
+  - first:
+      213: 3260026387344862086
+    second: iron-weapons_162
+  - first:
+      213: -6041086817758894310
+    second: iron-weapons_163
+  - first:
+      213: -8880125283741565491
+    second: iron-weapons_164
+  - first:
+      213: 1519596803520369502
+    second: iron-weapons_165
+  - first:
+      213: 173054515844067343
+    second: iron-weapons_166
+  - first:
+      213: 8909887943318294020
+    second: iron-weapons_167
+  - first:
+      213: -7409919040347657753
+    second: iron-weapons_168
+  - first:
+      213: 1275180971453961825
+    second: iron-weapons_169
+  - first:
+      213: -205077366358385760
+    second: iron-weapons_170
+  - first:
+      213: -175724551938010553
+    second: iron-weapons_171
+  - first:
+      213: 1988583954893972710
+    second: iron-weapons_172
+  - first:
+      213: -4422239638001514209
+    second: iron-weapons_173
+  - first:
+      213: 36937999017776152
+    second: iron-weapons_174
+  - first:
+      213: -9171917174821780755
+    second: iron-weapons_175
+  - first:
+      213: -5976195113454781241
+    second: iron-weapons_176
+  - first:
+      213: -4853972349900531909
+    second: iron-weapons_177
+  - first:
+      213: -5846325412251003556
+    second: iron-weapons_178
+  - first:
+      213: -5722570440285306689
+    second: iron-weapons_179
+  - first:
+      213: 7969943623776326184
+    second: iron-weapons_180
+  - first:
+      213: 3126145633411127167
+    second: iron-weapons_181
+  - first:
+      213: 7903846164109044100
+    second: iron-weapons_182
+  - first:
+      213: 6688193628257199114
+    second: iron-weapons_183
+  - first:
+      213: -4344090563421638173
+    second: iron-weapons_184
+  - first:
+      213: -5667364666537748701
+    second: iron-weapons_185
+  - first:
+      213: -8204357690469400496
+    second: iron-weapons_186
+  - first:
+      213: 383535115581042802
+    second: iron-weapons_187
+  - first:
+      213: -966583132777583732
+    second: iron-weapons_188
+  - first:
+      213: 1304180883979049632
+    second: iron-weapons_189
+  - first:
+      213: -130773790593978538
+    second: iron-weapons_190
+  - first:
+      213: 5342211250877207728
+    second: iron-weapons_191
+  - first:
+      213: 6958838316536868394
+    second: iron-weapons_192
+  - first:
+      213: -8721117001474097385
+    second: iron-weapons_193
+  - first:
+      213: 4028778822623785238
+    second: iron-weapons_194
+  - first:
+      213: 8242619235214376373
+    second: iron-weapons_195
+  - first:
+      213: -3876788924256421667
+    second: iron-weapons_196
+  - first:
+      213: 923886080315401921
+    second: iron-weapons_197
+  - first:
+      213: -3393330386520769847
+    second: iron-weapons_198
+  - first:
+      213: -4716572525568343204
+    second: iron-weapons_199
+  - first:
+      213: 4768220846621984111
+    second: iron-weapons_200
+  - first:
+      213: 8134028184177898397
+    second: iron-weapons_201
+  - first:
+      213: -3048567728278907350
+    second: iron-weapons_202
+  - first:
+      213: -170691720074019
+    second: iron-weapons_203
+  - first:
+      213: -2549920814476782707
+    second: iron-weapons_204
+  - first:
+      213: -336386001720142923
+    second: iron-weapons_205
+  - first:
+      213: 8602601545484263336
+    second: iron-weapons_206
+  - first:
+      213: 5165442190181278210
+    second: iron-weapons_207
+  - first:
+      213: -757035597423525127
+    second: iron-weapons_208
+  - first:
+      213: -5567311404756954550
+    second: iron-weapons_209
+  - first:
+      213: 4525042948429701526
+    second: iron-weapons_210
+  - first:
+      213: -1158946106580095387
+    second: iron-weapons_211
+  - first:
+      213: -6498685683507474414
+    second: iron-weapons_212
+  - first:
+      213: -8221378460808699948
+    second: iron-weapons_213
+  - first:
+      213: -4003312320978285257
+    second: iron-weapons_214
+  - first:
+      213: -7403455596609804618
+    second: iron-weapons_215
+  - first:
+      213: -8531908167982299438
+    second: iron-weapons_216
+  - first:
+      213: -5957487553365621607
+    second: iron-weapons_217
+  - first:
+      213: 2411302297170001509
+    second: iron-weapons_218
+  - first:
+      213: -7800364047904717517
+    second: iron-weapons_219
+  - first:
+      213: 8818064393518274142
+    second: iron-weapons_220
+  - first:
+      213: 725533635931996252
+    second: iron-weapons_221
+  - first:
+      213: 6466333560900157681
+    second: iron-weapons_222
+  - first:
+      213: 5345421296479670190
+    second: iron-weapons_223
+  - first:
+      213: 5163673049687533141
+    second: iron-weapons_224
+  - first:
+      213: -8604198394618983912
+    second: iron-weapons_225
+  - first:
+      213: -2915017286933334117
+    second: iron-weapons_226
+  - first:
+      213: 8707783514991256894
+    second: iron-weapons_227
+  - first:
+      213: -7803226633432351494
+    second: iron-weapons_228
+  - first:
+      213: -4080917792270786979
+    second: iron-weapons_229
+  - first:
+      213: 6827464785181723055
+    second: iron-weapons_230
+  - first:
+      213: 475581862950881000
+    second: iron-weapons_231
+  - first:
+      213: -2799929024704507449
+    second: iron-weapons_232
+  - first:
+      213: 1225853186296380139
+    second: iron-weapons_233
+  - first:
+      213: 6210207126413660227
+    second: iron-weapons_234
+  - first:
+      213: -7557328560016425047
+    second: iron-weapons_235
+  - first:
+      213: -1911928494670371076
+    second: iron-weapons_236
+  - first:
+      213: 4794410945469521560
+    second: iron-weapons_237
+  - first:
+      213: -2893296652618093162
+    second: iron-weapons_238
+  - first:
+      213: 3946891484913322857
+    second: iron-weapons_239
+  - first:
+      213: 2185363596185966636
+    second: iron-weapons_240
+  - first:
+      213: -2411199713206951411
+    second: iron-weapons_241
+  - first:
+      213: -838467706961621363
+    second: iron-weapons_242
+  - first:
+      213: 6514124475195560197
+    second: iron-weapons_243
+  - first:
+      213: 1111326736408576992
+    second: iron-weapons_244
+  - first:
+      213: 7878862396880213012
+    second: iron-weapons_245
+  - first:
+      213: 173523137647176337
+    second: iron-weapons_246
+  - first:
+      213: -5699833369555915655
+    second: iron-weapons_247
+  - first:
+      213: -491497630513491017
+    second: iron-weapons_248
+  - first:
+      213: 4102950079620557253
+    second: iron-weapons_249
+  - first:
+      213: 3784370711046706133
+    second: iron-weapons_250
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: iron-weapons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3da3c58c30e0fb0800000000000000
+      internalID: -4679798803715664948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 129
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75781d6d9069d3040800000000000000
+      internalID: 4629020961009665879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 159
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76dfb89113eb6b210800000000000000
+      internalID: 1348474256535321959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 191
+        width: 130
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1759dbe58d8f56c50800000000000000
+      internalID: 6658001232323253617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 175
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11d52b8a494bd540800000000000000
+      internalID: 5033697593027580190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 303
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95e7be33ee1d4bb0800000000000000
+      internalID: -4950266454051658337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 287
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea5b6f02d39a4770800000000000000
+      internalID: 8595845369201122023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d3e294885f79590800000000000000
+      internalID: -7667389874882855661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1f0a2f359ac7280800000000000000
+      internalID: -9044167773648784910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 288
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd88a44a6560d1e10800000000000000
+      internalID: 2169897564655749341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 303
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe722e8b547958d30800000000000000
+      internalID: 4433115733926488047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_11
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 271
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99a5b7659b938e60800000000000000
+      internalID: 7963379632113559962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_12
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 255
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0222f69d1290c7b0800000000000000
+      internalID: -5206000513456135665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 271
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d879cf1155b5e20800000000000000
+      internalID: 3340357084365950208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_14
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 287
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085ebf7b1a61e7710800000000000000
+      internalID: 1692815393770169728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_15
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 303
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18db7fdbaad5f9d50800000000000000
+      internalID: 6746213754737245569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_16
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 239
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe8786e932f35180800000000000000
+      internalID: -9127685689255162114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_17
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 271
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b04f0a01e74f07b0800000000000000
+      internalID: -5255903208256094024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e215f55e6194ff40800000000000000
+      internalID: 5761389726388261602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 159
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3907e819f5634a9e0800000000000000
+      internalID: -1611102982599970669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 271
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf57721c72e9f1cb0800000000000000
+      internalID: -4891016776719567365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 255
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5ad2e60f63de0a0800000000000000
+      internalID: -6850759051892120080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_22
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 255
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f548fd683b851ad0800000000000000
+      internalID: -2732124524450920973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_23
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 239
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a9badad7dd51f70800000000000000
+      internalID: 9157468949182126600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_24
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 191
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c79839bb9d134010800000000000000
+      internalID: 1171812882711091139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_25
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea3d5118b0c24720800000000000000
+      internalID: 2829035412739930862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5336dae7a7e0a76f0800000000000000
+      internalID: -686220073946488011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_27
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 239
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5094c932abc329e0800000000000000
+      internalID: -1647249141073145765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8346401d4211a2a0800000000000000
+      internalID: -6728076246119988340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_29
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 224
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4bd51fb4178f250800000000000000
+      internalID: 5978653076320269561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_30
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 223
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17066868785cbbf90800000000000000
+      internalID: -6936733615165906831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_31
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 223
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ef41be8b3b390f0800000000000000
+      internalID: -1111347076231004560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 223
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a050994130f6ef0800000000000000
+      internalID: -112868078659499452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_33
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 223
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c47ab7671d1265a0800000000000000
+      internalID: -6529624523372071738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_34
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 207
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d846a2e1feecd50800000000000000
+      internalID: 6759603003568983376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 49
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4606cb3b6689f70800000000000000
+      internalID: 9194211561422480573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d9c6ed0384f8140800000000000000
+      internalID: 4724073908862229798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7716fce20aa4629b0800000000000000
+      internalID: -5105311075737312905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_38
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 207
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96014c083c3f61150800000000000000
+      internalID: 5843125587564302441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_39
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 191
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9079806c74287250800000000000000
+      internalID: 5942539824929534111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_40
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 191
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d345da1ff4cda990800000000000000
+      internalID: -7373020414989745199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_41
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5327defaefe8110800000000000000
+      internalID: 1265228576894105077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_42
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 175
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28f8bef1b2fd5e90800000000000000
+      internalID: -7035200196586178515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_43
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 159
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5322e028d79ed3100800000000000000
+      internalID: 89484292879426101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_44
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 191
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a74bdbcc2344f30800000000000000
+      internalID: 4558824577743223316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_45
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 207
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f815e594c884c230800000000000000
+      internalID: 3658199175241472246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_46
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 175
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e468b5b65154a60800000000000000
+      internalID: 7657550292254608921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_47
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 175
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a80212bd45bdb990800000000000000
+      internalID: -7368534070003627865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_48
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 159
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56711876ff11abed0800000000000000
+      internalID: -2397584062970521755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c145afaaa099540800000000000000
+      internalID: 5015051389514292273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ca4797c1bc834f0800000000000000
+      internalID: -848705206602126273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_51
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 175
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4f74440f792adb0800000000000000
+      internalID: -4782092796120533801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_52
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 159
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dceaf2b83d4c6a0800000000000000
+      internalID: -6429781773224325780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_53
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 175
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d03c031ee7dc7a00800000000000000
+      internalID: 755716255013155030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 159
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a2967c4d4d8fba0800000000000000
+      internalID: -6054855688655918464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_55
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 175
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6123dbbbd56385b10800000000000000
+      internalID: 1970384613184188950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_56
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7707738775ca26580800000000000000
+      internalID: -8835310027268460425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_57
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 175
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c909a3676da8f5330800000000000000
+      internalID: 3701830072433021084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_58
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9ff3df504afd4f0800000000000000
+      internalID: -801741863018038826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_59
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 127
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792e8567079614910800000000000000
+      internalID: 1819851656177181335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_60
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 143
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43a8e7751a74b110800000000000000
+      internalID: 1275778827077329741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_61
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9e4e2b53e5e9f90800000000000000
+      internalID: -6945009990631102012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_62
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8751d2d4593c62aa0800000000000000
+      internalID: -6186041992134453896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_63
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 128
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3e0af1aea243fc0800000000000000
+      internalID: -3516138224028163137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_64
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 144
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d9439ddf2fdf510800000000000000
+      internalID: 1584689815989034250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_65
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 145
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a4d1bf0ec5d5740800000000000000
+      internalID: 5142368470882404971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_66
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 145
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45c3c7327b61f1c0800000000000000
+      internalID: -4471674816696171189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_67
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 144
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e94bd52028fc400800000000000000
+      internalID: 346638643004481161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_68
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 143
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe1a6b169dbea210800000000000000
+      internalID: 1346221791033040626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_69
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed37db82985acf630800000000000000
+      internalID: 3962223780691801054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_70
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 143
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf770b4c331d78080800000000000000
+      internalID: -9185142894725400581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_71
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 143
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229ae8076696b2b70800000000000000
+      internalID: 8875303379359672610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_72
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 111
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab724fe9c204a6920800000000000000
+      internalID: 2984268263475914682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_73
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 144
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce55e3ac71cdc380800000000000000
+      internalID: -8949284143445483839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_74
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 128
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dab13abfc35e4580800000000000000
+      internalID: -8841036866834548010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_75
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 143
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545d59f624c934bd0800000000000000
+      internalID: -2647100346809854651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_76
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022d163cd98749480800000000000000
+      internalID: -8893350745166720480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_77
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 143
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ef47a8ec066f5a0800000000000000
+      internalID: -6487891772978168164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_78
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3006933bcf15adee0800000000000000
+      internalID: -1235585001979289597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_79
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e56d7d44bd31e070800000000000000
+      internalID: 8133850246611297762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_80
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 144
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce58f9f65733f7040800000000000000
+      internalID: 4647489919946556908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_81
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36694b04fe722ee20800000000000000
+      internalID: 3378306579017537123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_82
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 143
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f549580cb611780800000000000000
+      internalID: -8714065329366212756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_83
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 127
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620a23ff75718bbc0800000000000000
+      internalID: -3767235421584318426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_84
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44565ea8dfe8f1680800000000000000
+      internalID: -8782143528741018300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_85
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f22d8be45108bc0800000000000000
+      internalID: -3783000259138801822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_86
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbfc2dc636f808c0800000000000000
+      internalID: -4032702751079334967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_87
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c2ef34a7bbe07d0800000000000000
+      internalID: -2950214572079961033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_88
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 128
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc11fc010384b9a80800000000000000
+      internalID: -8459088103807708725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_89
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 112
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94302ae969f8f8760800000000000000
+      internalID: 7462340984645485385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_90
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9529d2396e217eb0800000000000000
+      internalID: -4723943504775404129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_91
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 129
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f452d1fb40799cdb0800000000000000
+      internalID: -4771116283580308145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_92
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 129
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf82df315ee7d45e0800000000000000
+      internalID: -1923741943469364997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_93
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 129
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec43a2a108ed7a20800000000000000
+      internalID: 3061858415403027683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_94
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 128
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e785eae8d673c90800000000000000
+      internalID: -7190157820495888831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_95
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 128
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbf002210c3f7ac0800000000000000
+      internalID: -3855296780442731527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_96
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1238b1b75f829c0800000000000000
+      internalID: -3951638763926249022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_97
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 127
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96162a7c748284e0800000000000000
+      internalID: -1980875215929469281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_98
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 112
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6c878bdb3bf10c0800000000000000
+      internalID: -4602762666724243775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_99
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b68b516efba41770800000000000000
+      internalID: 8580672299091068592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_100
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 50
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17cd9269834718e0800000000000000
+      internalID: -1722834075101837542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_101
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 128
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fedc8ee8c0ac610800000000000000
+      internalID: 1642138822060666721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_102
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887b85e4cb10c0310800000000000000
+      internalID: 1372473894721075080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_103
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 111
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4c263a61d37ed90800000000000000
+      internalID: -7068613922694970168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ca8c744632b1b80800000000000000
+      internalID: -8423099764458345428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_105
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b5f2e7030ded1f0800000000000000
+      internalID: -1018147559045112977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_106
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cb688e06553bf90800000000000000
+      internalID: -6939108726141436837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_107
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b7e346c51a73e50800000000000000
+      internalID: 6789072381475191626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_108
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea8c602b904d8d10800000000000000
+      internalID: 2129429233824205550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_109
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 113
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c4dab99efe7f670800000000000000
+      internalID: 8572584202341272589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_110
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 96
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3a1d3ba66c53d70800000000000000
+      internalID: 9022335590092350462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_111
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 113
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2250a9a018c85fa30800000000000000
+      internalID: 4248456309350466850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_112
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 113
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82eb197f16248f10800000000000000
+      internalID: 2270982028719284878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_113
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 113
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b056719f651c660800000000000000
+      internalID: 7404294890213149493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_114
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 112
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9fddead4c813c20800000000000000
+      internalID: 3184480676801804794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_115
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 112
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30397cd8870147640800000000000000
+      internalID: 5076700789914178307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_116
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 112
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebb3c5c90290e8b0800000000000000
+      internalID: -5124935805277324313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_117
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 112
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c956294bbc348680800000000000000
+      internalID: -8753805000617600576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_118
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518b16934ab48c700800000000000000
+      internalID: 560781322317051925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_119
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff421da95945e4200800000000000000
+      internalID: 166163237783545087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_120
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 96
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da74484357aa3e1d0800000000000000
+      internalID: -3322624679700314195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_121
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b9ce769eb85dda0800000000000000
+      internalID: -5920672300521448549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_122
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48338c5e1ce7bbc0800000000000000
+      internalID: -3767282948126853045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_123
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 95
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a8880b2507d7520800000000000000
+      internalID: 2701438851943533196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4f99827d25c7120800000000000000
+      internalID: 2412894584416367845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_125
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 96
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81bab129886611620800000000000000
+      internalID: 2743086384798214936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_126
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 97
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af006770dd84d8e0800000000000000
+      internalID: -1669553635352113245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_127
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 97
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3d6219943570060800000000000000
+      internalID: 6919590927911015331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_128
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 98
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f93014854ea79a0800000000000000
+      internalID: -6234419666442018953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_129
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 97
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315dfe65d2b512af0800000000000000
+      internalID: -422956639705901805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_130
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 96
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b27db0bc667a2c0800000000000000
+      internalID: -4420451486977807492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_131
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 96
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96829095138c2f860800000000000000
+      internalID: 7562326838581209193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_132
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 96
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e6597e6f21d65a0800000000000000
+      internalID: -6526539433333395830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_133
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 96
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7ea3d8a51e27f80800000000000000
+      internalID: -8110172199908087853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98150ccfd88b20a00800000000000000
+      internalID: 721341810303062409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_135
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 81
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9651ba76f3f71d8b0800000000000000
+      internalID: -5129178590299351703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_136
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 81
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e8e6c98a172efd0800000000000000
+      internalID: -2314162289522078131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_137
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 79
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc852627343a5210800000000000000
+      internalID: 1322426852054502602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_138
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b9970d5d1461af0800000000000000
+      internalID: -426080728158463176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_139
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0612a2d2be3ccb3e0800000000000000
+      internalID: -2036537516635840160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_140
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0081a8fa90ef9e0800000000000000
+      internalID: -1585819369247080283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_141
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 80
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afeef2d8dc0231d0800000000000000
+      internalID: -3372619045554688089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_142
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 81
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4858d62b1dab0ba50800000000000000
+      internalID: 6534928469119042948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_143
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 82
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a71953d0191ef000800000000000000
+      internalID: 71522204140509088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_144
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 80
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6674fe18a0a11e5d0800000000000000
+      internalID: -3035116041439066266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_145
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 80
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4de0cead115a9f0800000000000000
+      internalID: -457940155147299596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_146
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 80
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbcc4ce4923ad2b0800000000000000
+      internalID: -5559075174834451504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_147
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 80
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7da982b436a8e00800000000000000
+      internalID: 1047759037771995125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_148
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 80
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20a07b92390ed8b0800000000000000
+      internalID: -5125649212940181460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_149
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c43e854b35e7b10800000000000000
+      internalID: 1981112920140106836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_150
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a7c596c9ad40ba0800000000000000
+      internalID: -6123529227999610358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_151
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 80
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5a3ba81743e54c0800000000000000
+      internalID: -4296939332201896466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_152
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4230dad2f4fc13160800000000000000
+      internalID: 7003606834513511204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_153
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 80
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c7e01e08d709dd0800000000000000
+      internalID: -2481345402196034481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_154
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 79
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bacbef0d4aa02a0800000000000000
+      internalID: -6770417872264189129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_155
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cdf29ce4030e250800000000000000
+      internalID: 5971826220834217005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_156
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 65
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db1a8044349eecb0800000000000000
+      internalID: -4832762397979960364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_157
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 66
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c46d21c9a6462210800000000000000
+      internalID: 1307810436702102721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_158
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d21b015b19a1530800000000000000
+      internalID: 3826531040259812736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_159
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef4ae98a1da5a7c0800000000000000
+      internalID: -4060649159510044694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_160
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8e39ffb28ca9970800000000000000
+      internalID: 8762536116299753676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_161
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 65
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b46045ff6e1fcea0800000000000000
+      internalID: -5850423924726143822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_162
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 63
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b27181ab0fd3d20800000000000000
+      internalID: 3260026387344862086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_163
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17af2adb8fb92ca0800000000000000
+      internalID: -6041086817758894310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_164
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 64
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd7e957a1573c480800000000000000
+      internalID: -8880125283741565491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_165
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 64
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5396abdd31b61510800000000000000
+      internalID: 1519596803520369502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_166
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 64
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00b9af4a20d66200800000000000000
+      internalID: 173054515844067343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_167
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 64
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ec50ab0e746ab70800000000000000
+      internalID: 8909887943318294020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_168
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 63
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9aca964edaa2990800000000000000
+      internalID: -7409919040347657753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_169
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166d9db565a52b110800000000000000
+      internalID: 1275180971453961825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_170
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab5cbac83b672df0800000000000000
+      internalID: -205077366358385760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_171
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 64
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7429b677373bf8df0800000000000000
+      internalID: -175724551938010553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_172
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e42f7d229ed89b10800000000000000
+      internalID: 1988583954893972710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_173
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 65
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f198441ba7c01a2c0800000000000000
+      internalID: -4422239638001514209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_174
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 64
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8141b261aea338000800000000000000
+      internalID: 36937999017776152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de28175acedc6b080800000000000000
+      internalID: -9171917174821780755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_176
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 48
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc3a12253a401da0800000000000000
+      internalID: -5976195113454781241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b375c9e7dd933acb0800000000000000
+      internalID: -4853972349900531909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_178
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c559071430eaddea0800000000000000
+      internalID: -5846325412251003556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_179
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0c4a801885590b0800000000000000
+      internalID: -5722570440285306689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_180
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822d31fcf7dea9e60800000000000000
+      internalID: 7969943623776326184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_181
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77db9bf3ec426b20800000000000000
+      internalID: 3126145633411127167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_182
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489ad0bb53a10bd60800000000000000
+      internalID: 7903846164109044100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_183
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a042d495bac31dc50800000000000000
+      internalID: 6688193628257199114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_184
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 48
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1702706a0b6b3c0800000000000000
+      internalID: -4344090563421638173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_185
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 47
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327da6edcd97951b0800000000000000
+      internalID: -5667364666537748701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_186
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 31
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050c3592624442e80800000000000000
+      internalID: -8204357690469400496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_187
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270b813d727925500800000000000000
+      internalID: 383535115581042802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_188
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 49
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b68ec03c10692f0800000000000000
+      internalID: -966583132777583732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_189
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 48
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa1d68aa91691210800000000000000
+      internalID: 1304180883979049632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_190
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 48
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fe6b92ee56f2ef0800000000000000
+      internalID: -130773790593978538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_191
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 48
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b491a314d8532a40800000000000000
+      internalID: 5342211250877207728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_192
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 32
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2eae825492c29060800000000000000
+      internalID: 6958838316536868394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_193
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f348a2b4e58f680800000000000000
+      internalID: -8721117001474097385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_194
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6117b196ef819e730800000000000000
+      internalID: 4028778822623785238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_195
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 47
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd31cde58aa36270800000000000000
+      internalID: 8242619235214376373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_196
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 15
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8f6847301e23ac0800000000000000
+      internalID: -3876788924256421667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_197
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6a02ebe7d42dc00800000000000000
+      internalID: 923886080315401921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_198
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9caf3e9fdf778e0d0800000000000000
+      internalID: -3393330386520769847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_199
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 48
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53c128074e5b8eb0800000000000000
+      internalID: -4716572525568343204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_200
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65048dc89f1c2240800000000000000
+      internalID: 4768220846621984111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_201
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9370fe998fd1e070800000000000000
+      internalID: 8134028184177898397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_202
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26573a9dcf41b5d0800000000000000
+      internalID: -3048567728278907350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_203
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddca8acb1c46ffff0800000000000000
+      internalID: -170691720074019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_204
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 47
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d839cbf778cdc9cd0800000000000000
+      internalID: -2549920814476782707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_205
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 31
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b39e04b6bae45bf0800000000000000
+      internalID: -336386001720142923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_206
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afd0dee684926770800000000000000
+      internalID: 8602601545484263336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_207
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2022295ed465fa740800000000000000
+      internalID: 5165442190181278210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_208
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 32
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2ce3592287e75f0800000000000000
+      internalID: -757035597423525127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_209
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a421b7536cfecb2b0800000000000000
+      internalID: -5567311404756954550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_210
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691e98e369e2cce30800000000000000
+      internalID: 4525042948429701526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_211
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ea87b08a89aefe0800000000000000
+      internalID: -1158946106580095387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_212
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 16
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210de976dc700d5a0800000000000000
+      internalID: -6498685683507474414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_213
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 32
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df137f39dbc7ed80800000000000000
+      internalID: -8221378460808699948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_214
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d052f87a06178c0800000000000000
+      internalID: -4003312320978285257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_215
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6e1bd2c54a14990800000000000000
+      internalID: -7403455596609804618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_216
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 32
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d64927a9b2989980800000000000000
+      internalID: -8531908167982299438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_217
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 32
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994c4d362a0c25da0800000000000000
+      internalID: -5957487553365621607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_218
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 32
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56eb6e4e9aaa67120800000000000000
+      internalID: 2411302297170001509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_219
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 16
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33549edf93a8fb390800000000000000
+      internalID: -7800364047904717517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_220
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e565d2688de006a70800000000000000
+      internalID: 8818064393518274142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_221
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 15
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5003527ffc911a00800000000000000
+      internalID: 725533635931996252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_222
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f004a01d180db950800000000000000
+      internalID: 6466333560900157681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_223
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 31
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf8a7f0950ce2a40800000000000000
+      internalID: 5345421296479670190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_224
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 15
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55622e6c74d09a740800000000000000
+      internalID: 5163673049687533141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81acfb7a52fb79880800000000000000
+      internalID: -8604198394618983912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_226
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 16
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b973732d837cb87d0800000000000000
+      internalID: -2915017286933334117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_227
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e356e0898f248d870800000000000000
+      internalID: 8707783514991256894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_228
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcb56c58be55b390800000000000000
+      internalID: -7803226633432351494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_229
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ed02ab3eaad57c0800000000000000
+      internalID: -4080917792270786979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_230
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9ce357c0700ce50800000000000000
+      internalID: 6827464785181723055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_231
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e64ec24f2b999600800000000000000
+      internalID: 475581862950881000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_232
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c19e2ef267a429d0800000000000000
+      internalID: -2799929024704507449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_233
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 17
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beaf9f36afa130110800000000000000
+      internalID: 1225853186296380139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_234
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 16
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3405c777a761f2650800000000000000
+      internalID: 6210207126413660227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_235
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 16
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af7e4117b9fe1790800000000000000
+      internalID: -7557328560016425047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_236
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 16
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6a937f9277775e0800000000000000
+      internalID: -1911928494670371076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_237
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e94ff5a5b298240800000000000000
+      internalID: 4794410945469521560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_238
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d2fd61602f8d7d0800000000000000
+      internalID: -2893296652618093162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_239
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bc54dd4ec26c630800000000000000
+      internalID: 3946891484913322857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_240
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c281cb7bc98f35e10800000000000000
+      internalID: 2185363596185966636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_241
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02a6cbc2a2b98ed0800000000000000
+      internalID: -2411199713206951411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_242
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e8aea101a2d54f0800000000000000
+      internalID: -838467706961621363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_243
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50195b662b1d66a50800000000000000
+      internalID: 6514124475195560197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_244
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3070957c93c6f00800000000000000
+      internalID: 1111326736408576992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_245
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4145a302b97575d60800000000000000
+      internalID: 7878862396880213012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_246
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a65c3df5a786200800000000000000
+      internalID: 173523137647176337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_247
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ca3b8dfbf16e0b0800000000000000
+      internalID: -5699833369555915655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_248
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b31c455289dd29f0800000000000000
+      internalID: -491497630513491017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_249
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9a1faeb5b90f830800000000000000
+      internalID: 4102950079620557253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron-weapons_250
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3d45a7c19c48430800000000000000
+      internalID: 3784370711046706133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      iron-weapons_0: -4679798803715664948
+      iron-weapons_1: 4629020961009665879
+      iron-weapons_10: 4433115733926488047
+      iron-weapons_100: -1722834075101837542
+      iron-weapons_101: 1642138822060666721
+      iron-weapons_102: 1372473894721075080
+      iron-weapons_103: -7068613922694970168
+      iron-weapons_104: -8423099764458345428
+      iron-weapons_105: -1018147559045112977
+      iron-weapons_106: -6939108726141436837
+      iron-weapons_107: 6789072381475191626
+      iron-weapons_108: 2129429233824205550
+      iron-weapons_109: 8572584202341272589
+      iron-weapons_11: 7963379632113559962
+      iron-weapons_110: 9022335590092350462
+      iron-weapons_111: 4248456309350466850
+      iron-weapons_112: 2270982028719284878
+      iron-weapons_113: 7404294890213149493
+      iron-weapons_114: 3184480676801804794
+      iron-weapons_115: 5076700789914178307
+      iron-weapons_116: -5124935805277324313
+      iron-weapons_117: -8753805000617600576
+      iron-weapons_118: 560781322317051925
+      iron-weapons_119: 166163237783545087
+      iron-weapons_12: -5206000513456135665
+      iron-weapons_120: -3322624679700314195
+      iron-weapons_121: -5920672300521448549
+      iron-weapons_122: -3767282948126853045
+      iron-weapons_123: 2701438851943533196
+      iron-weapons_124: 2412894584416367845
+      iron-weapons_125: 2743086384798214936
+      iron-weapons_126: -1669553635352113245
+      iron-weapons_127: 6919590927911015331
+      iron-weapons_128: -6234419666442018953
+      iron-weapons_129: -422956639705901805
+      iron-weapons_13: 3340357084365950208
+      iron-weapons_130: -4420451486977807492
+      iron-weapons_131: 7562326838581209193
+      iron-weapons_132: -6526539433333395830
+      iron-weapons_133: -8110172199908087853
+      iron-weapons_134: 721341810303062409
+      iron-weapons_135: -5129178590299351703
+      iron-weapons_136: -2314162289522078131
+      iron-weapons_137: 1322426852054502602
+      iron-weapons_138: -426080728158463176
+      iron-weapons_139: -2036537516635840160
+      iron-weapons_14: 1692815393770169728
+      iron-weapons_140: -1585819369247080283
+      iron-weapons_141: -3372619045554688089
+      iron-weapons_142: 6534928469119042948
+      iron-weapons_143: 71522204140509088
+      iron-weapons_144: -3035116041439066266
+      iron-weapons_145: -457940155147299596
+      iron-weapons_146: -5559075174834451504
+      iron-weapons_147: 1047759037771995125
+      iron-weapons_148: -5125649212940181460
+      iron-weapons_149: 1981112920140106836
+      iron-weapons_15: 6746213754737245569
+      iron-weapons_150: -6123529227999610358
+      iron-weapons_151: -4296939332201896466
+      iron-weapons_152: 7003606834513511204
+      iron-weapons_153: -2481345402196034481
+      iron-weapons_154: -6770417872264189129
+      iron-weapons_155: 5971826220834217005
+      iron-weapons_156: -4832762397979960364
+      iron-weapons_157: 1307810436702102721
+      iron-weapons_158: 3826531040259812736
+      iron-weapons_159: -4060649159510044694
+      iron-weapons_16: -9127685689255162114
+      iron-weapons_160: 8762536116299753676
+      iron-weapons_161: -5850423924726143822
+      iron-weapons_162: 3260026387344862086
+      iron-weapons_163: -6041086817758894310
+      iron-weapons_164: -8880125283741565491
+      iron-weapons_165: 1519596803520369502
+      iron-weapons_166: 173054515844067343
+      iron-weapons_167: 8909887943318294020
+      iron-weapons_168: -7409919040347657753
+      iron-weapons_169: 1275180971453961825
+      iron-weapons_17: -5255903208256094024
+      iron-weapons_170: -205077366358385760
+      iron-weapons_171: -175724551938010553
+      iron-weapons_172: 1988583954893972710
+      iron-weapons_173: -4422239638001514209
+      iron-weapons_174: 36937999017776152
+      iron-weapons_175: -9171917174821780755
+      iron-weapons_176: -5976195113454781241
+      iron-weapons_177: -4853972349900531909
+      iron-weapons_178: -5846325412251003556
+      iron-weapons_179: -5722570440285306689
+      iron-weapons_18: 5761389726388261602
+      iron-weapons_180: 7969943623776326184
+      iron-weapons_181: 3126145633411127167
+      iron-weapons_182: 7903846164109044100
+      iron-weapons_183: 6688193628257199114
+      iron-weapons_184: -4344090563421638173
+      iron-weapons_185: -5667364666537748701
+      iron-weapons_186: -8204357690469400496
+      iron-weapons_187: 383535115581042802
+      iron-weapons_188: -966583132777583732
+      iron-weapons_189: 1304180883979049632
+      iron-weapons_19: -1611102982599970669
+      iron-weapons_190: -130773790593978538
+      iron-weapons_191: 5342211250877207728
+      iron-weapons_192: 6958838316536868394
+      iron-weapons_193: -8721117001474097385
+      iron-weapons_194: 4028778822623785238
+      iron-weapons_195: 8242619235214376373
+      iron-weapons_196: -3876788924256421667
+      iron-weapons_197: 923886080315401921
+      iron-weapons_198: -3393330386520769847
+      iron-weapons_199: -4716572525568343204
+      iron-weapons_2: 1348474256535321959
+      iron-weapons_20: -4891016776719567365
+      iron-weapons_200: 4768220846621984111
+      iron-weapons_201: 8134028184177898397
+      iron-weapons_202: -3048567728278907350
+      iron-weapons_203: -170691720074019
+      iron-weapons_204: -2549920814476782707
+      iron-weapons_205: -336386001720142923
+      iron-weapons_206: 8602601545484263336
+      iron-weapons_207: 5165442190181278210
+      iron-weapons_208: -757035597423525127
+      iron-weapons_209: -5567311404756954550
+      iron-weapons_21: -6850759051892120080
+      iron-weapons_210: 4525042948429701526
+      iron-weapons_211: -1158946106580095387
+      iron-weapons_212: -6498685683507474414
+      iron-weapons_213: -8221378460808699948
+      iron-weapons_214: -4003312320978285257
+      iron-weapons_215: -7403455596609804618
+      iron-weapons_216: -8531908167982299438
+      iron-weapons_217: -5957487553365621607
+      iron-weapons_218: 2411302297170001509
+      iron-weapons_219: -7800364047904717517
+      iron-weapons_22: -2732124524450920973
+      iron-weapons_220: 8818064393518274142
+      iron-weapons_221: 725533635931996252
+      iron-weapons_222: 6466333560900157681
+      iron-weapons_223: 5345421296479670190
+      iron-weapons_224: 5163673049687533141
+      iron-weapons_225: -8604198394618983912
+      iron-weapons_226: -2915017286933334117
+      iron-weapons_227: 8707783514991256894
+      iron-weapons_228: -7803226633432351494
+      iron-weapons_229: -4080917792270786979
+      iron-weapons_23: 9157468949182126600
+      iron-weapons_230: 6827464785181723055
+      iron-weapons_231: 475581862950881000
+      iron-weapons_232: -2799929024704507449
+      iron-weapons_233: 1225853186296380139
+      iron-weapons_234: 6210207126413660227
+      iron-weapons_235: -7557328560016425047
+      iron-weapons_236: -1911928494670371076
+      iron-weapons_237: 4794410945469521560
+      iron-weapons_238: -2893296652618093162
+      iron-weapons_239: 3946891484913322857
+      iron-weapons_24: 1171812882711091139
+      iron-weapons_240: 2185363596185966636
+      iron-weapons_241: -2411199713206951411
+      iron-weapons_242: -838467706961621363
+      iron-weapons_243: 6514124475195560197
+      iron-weapons_244: 1111326736408576992
+      iron-weapons_245: 7878862396880213012
+      iron-weapons_246: 173523137647176337
+      iron-weapons_247: -5699833369555915655
+      iron-weapons_248: -491497630513491017
+      iron-weapons_249: 4102950079620557253
+      iron-weapons_25: 2829035412739930862
+      iron-weapons_250: 3784370711046706133
+      iron-weapons_26: -686220073946488011
+      iron-weapons_27: -1647249141073145765
+      iron-weapons_28: -6728076246119988340
+      iron-weapons_29: 5978653076320269561
+      iron-weapons_3: 6658001232323253617
+      iron-weapons_30: -6936733615165906831
+      iron-weapons_31: -1111347076231004560
+      iron-weapons_32: -112868078659499452
+      iron-weapons_33: -6529624523372071738
+      iron-weapons_34: 6759603003568983376
+      iron-weapons_35: 9194211561422480573
+      iron-weapons_36: 4724073908862229798
+      iron-weapons_37: -5105311075737312905
+      iron-weapons_38: 5843125587564302441
+      iron-weapons_39: 5942539824929534111
+      iron-weapons_4: 5033697593027580190
+      iron-weapons_40: -7373020414989745199
+      iron-weapons_41: 1265228576894105077
+      iron-weapons_42: -7035200196586178515
+      iron-weapons_43: 89484292879426101
+      iron-weapons_44: 4558824577743223316
+      iron-weapons_45: 3658199175241472246
+      iron-weapons_46: 7657550292254608921
+      iron-weapons_47: -7368534070003627865
+      iron-weapons_48: -2397584062970521755
+      iron-weapons_49: 5015051389514292273
+      iron-weapons_5: -4950266454051658337
+      iron-weapons_50: -848705206602126273
+      iron-weapons_51: -4782092796120533801
+      iron-weapons_52: -6429781773224325780
+      iron-weapons_53: 755716255013155030
+      iron-weapons_54: -6054855688655918464
+      iron-weapons_55: 1970384613184188950
+      iron-weapons_56: -8835310027268460425
+      iron-weapons_57: 3701830072433021084
+      iron-weapons_58: -801741863018038826
+      iron-weapons_59: 1819851656177181335
+      iron-weapons_6: 8595845369201122023
+      iron-weapons_60: 1275778827077329741
+      iron-weapons_61: -6945009990631102012
+      iron-weapons_62: -6186041992134453896
+      iron-weapons_63: -3516138224028163137
+      iron-weapons_64: 1584689815989034250
+      iron-weapons_65: 5142368470882404971
+      iron-weapons_66: -4471674816696171189
+      iron-weapons_67: 346638643004481161
+      iron-weapons_68: 1346221791033040626
+      iron-weapons_69: 3962223780691801054
+      iron-weapons_7: -7667389874882855661
+      iron-weapons_70: -9185142894725400581
+      iron-weapons_71: 8875303379359672610
+      iron-weapons_72: 2984268263475914682
+      iron-weapons_73: -8949284143445483839
+      iron-weapons_74: -8841036866834548010
+      iron-weapons_75: -2647100346809854651
+      iron-weapons_76: -8893350745166720480
+      iron-weapons_77: -6487891772978168164
+      iron-weapons_78: -1235585001979289597
+      iron-weapons_79: 8133850246611297762
+      iron-weapons_8: -9044167773648784910
+      iron-weapons_80: 4647489919946556908
+      iron-weapons_81: 3378306579017537123
+      iron-weapons_82: -8714065329366212756
+      iron-weapons_83: -3767235421584318426
+      iron-weapons_84: -8782143528741018300
+      iron-weapons_85: -3783000259138801822
+      iron-weapons_86: -4032702751079334967
+      iron-weapons_87: -2950214572079961033
+      iron-weapons_88: -8459088103807708725
+      iron-weapons_89: 7462340984645485385
+      iron-weapons_9: 2169897564655749341
+      iron-weapons_90: -4723943504775404129
+      iron-weapons_91: -4771116283580308145
+      iron-weapons_92: -1923741943469364997
+      iron-weapons_93: 3061858415403027683
+      iron-weapons_94: -7190157820495888831
+      iron-weapons_95: -3855296780442731527
+      iron-weapons_96: -3951638763926249022
+      iron-weapons_97: -1980875215929469281
+      iron-weapons_98: -4602762666724243775
+      iron-weapons_99: 8580672299091068592
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: dd4153e6b5e112043a08c2c6d7ce2d08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3943430212961911728
+    second: slam_sheet_0
+  - first:
+      213: 3163624762682363327
+    second: slam_sheet_1
+  - first:
+      213: -3999925900399360488
+    second: slam_sheet_2
+  - first:
+      213: 3887583708211332204
+    second: slam_sheet_3
+  - first:
+      213: 895937859376754570
+    second: slam_sheet_4
+  - first:
+      213: 2352047074393317962
+    second: slam_sheet_5
+  - first:
+      213: 9188174659730826210
+    second: slam_sheet_6
+  - first:
+      213: -7879556901678440070
+    second: slam_sheet_7
+  - first:
+      213: -1831260609987886168
+    second: slam_sheet_8
+  - first:
+      213: 8287353271397732935
+    second: slam_sheet_9
+  - first:
+      213: -8792388944184344900
+    second: slam_sheet_10
+  - first:
+      213: 6067923668416754245
+    second: slam_sheet_11
+  - first:
+      213: 466074396764052071
+    second: slam_sheet_12
+  - first:
+      213: -198279126495508846
+    second: slam_sheet_13
+  - first:
+      213: 6943796191597175885
+    second: slam_sheet_14
+  - first:
+      213: -2356747817276759135
+    second: slam_sheet_15
+  - first:
+      213: 2533914793003111686
+    second: slam_sheet_16
+  - first:
+      213: 118459513355704108
+    second: slam_sheet_17
+  - first:
+      213: 6236989367204204713
+    second: slam_sheet_18
+  - first:
+      213: -5049868934096699981
+    second: slam_sheet_19
+  - first:
+      213: -1875314555695559985
+    second: slam_sheet_20
+  - first:
+      213: 4011746982290073482
+    second: slam_sheet_21
+  - first:
+      213: -4900261756954444755
+    second: slam_sheet_22
+  - first:
+      213: 1711700637369899194
+    second: slam_sheet_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: slam_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3
+        width: 90
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cbcdf4d1f1649c0800000000000000
+      internalID: -3943430212961911728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 129
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdcf46c5f377eb20800000000000000
+      internalID: 3163624762682363327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 3
+        width: 89
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816cfca06986d78c0800000000000000
+      internalID: -3999925900399360488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 3
+        width: 82
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64488a09c873f530800000000000000
+      internalID: 3887583708211332204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 134
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fa9f87cb20f6c00800000000000000
+      internalID: 895937859376754570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 3
+        width: 113
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42e53c3a5624a020800000000000000
+      internalID: 2352047074393317962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 3
+        width: 83
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e360870c24f28f70800000000000000
+      internalID: 9188174659730826210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 124
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71aaffdeb036a290800000000000000
+      internalID: -7879556901678440070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 3
+        width: 87
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3c18a7d2e0696e0800000000000000
+      internalID: -1831260609987886168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 2
+        width: 96
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74255dd54e7920370800000000000000
+      internalID: 8287353271397732935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 129
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbef1ded6d82bf580800000000000000
+      internalID: -8792388944184344900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1
+        width: 105
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5427a2c5d68953450800000000000000
+      internalID: 6067923668416754245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 100
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a960ac134d77600800000000000000
+      internalID: 466074396764052071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 103
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2964cda5f229f3df0800000000000000
+      internalID: -198279126495508846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 102
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d442cd0b8d15d5060800000000000000
+      internalID: 6943796191597175885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 96
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3aa06c8562b4fd0800000000000000
+      internalID: -2356747817276759135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 100
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605de0834164a2320800000000000000
+      internalID: 2533914793003111686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 104
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2715ddbc4ad4a100800000000000000
+      internalID: 118459513355704108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 105
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a05814d8cc3e8650800000000000000
+      internalID: 6236989367204204713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 10
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdb2e4b5f24be9b0800000000000000
+      internalID: -5049868934096699981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 19
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca85a1f85b89f5e0800000000000000
+      internalID: -1875314555695559985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 10
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87252010a69ca730800000000000000
+      internalID: 4011746982290073482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 13
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c7c4e05e5cefbb0800000000000000
+      internalID: -4900261756954444755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slam_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 15
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab81e3429ae21c710800000000000000
+      internalID: 1711700637369899194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      slam_sheet_0: -3943430212961911728
+      slam_sheet_1: 3163624762682363327
+      slam_sheet_10: -8792388944184344900
+      slam_sheet_11: 6067923668416754245
+      slam_sheet_12: 466074396764052071
+      slam_sheet_13: -198279126495508846
+      slam_sheet_14: 6943796191597175885
+      slam_sheet_15: -2356747817276759135
+      slam_sheet_16: 2533914793003111686
+      slam_sheet_17: 118459513355704108
+      slam_sheet_18: 6236989367204204713
+      slam_sheet_19: -5049868934096699981
+      slam_sheet_2: -3999925900399360488
+      slam_sheet_20: -1875314555695559985
+      slam_sheet_21: 4011746982290073482
+      slam_sheet_22: -4900261756954444755
+      slam_sheet_23: 1711700637369899194
+      slam_sheet_3: 3887583708211332204
+      slam_sheet_4: 895937859376754570
+      slam_sheet_5: 2352047074393317962
+      slam_sheet_6: 9188174659730826210
+      slam_sheet_7: -7879556901678440070
+      slam_sheet_8: -1831260609987886168
+      slam_sheet_9: 8287353271397732935
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

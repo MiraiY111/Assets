@@ -1,0 +1,1718 @@
+fileFormatVersion: 2
+guid: 799c856c2a9c55f49adfab4cd4e03a85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5513151272407337940
+    second: venom_atlas_0
+  - first:
+      213: 646811690638107764
+    second: venom_atlas_1
+  - first:
+      213: 9094041891233207271
+    second: venom_atlas_2
+  - first:
+      213: -4664251715570913859
+    second: venom_atlas_3
+  - first:
+      213: -8434948194420036631
+    second: venom_atlas_4
+  - first:
+      213: 3524108544613980767
+    second: venom_atlas_5
+  - first:
+      213: -2111477258784210113
+    second: venom_atlas_6
+  - first:
+      213: -3155121868395398847
+    second: venom_atlas_7
+  - first:
+      213: 5044804555800276113
+    second: venom_atlas_8
+  - first:
+      213: 7648393022934532893
+    second: venom_atlas_9
+  - first:
+      213: -529081463708546020
+    second: venom_atlas_10
+  - first:
+      213: -9173052659220607925
+    second: venom_atlas_11
+  - first:
+      213: -5027700304847358419
+    second: venom_atlas_12
+  - first:
+      213: 2818797928147680144
+    second: venom_atlas_13
+  - first:
+      213: 3091322652247685572
+    second: venom_atlas_14
+  - first:
+      213: 5199291195476967330
+    second: venom_atlas_15
+  - first:
+      213: -5790595731529856426
+    second: venom_atlas_16
+  - first:
+      213: -3346127480761133604
+    second: venom_atlas_17
+  - first:
+      213: 8687042364191370574
+    second: venom_atlas_18
+  - first:
+      213: -6467060839450138898
+    second: venom_atlas_19
+  - first:
+      213: -7648788768631186256
+    second: venom_atlas_20
+  - first:
+      213: -5517278410241413882
+    second: venom_atlas_21
+  - first:
+      213: -5830410075542680804
+    second: venom_atlas_22
+  - first:
+      213: -4946923476860902560
+    second: venom_atlas_23
+  - first:
+      213: -220100048336453665
+    second: venom_atlas_24
+  - first:
+      213: 3106790528395150175
+    second: venom_atlas_25
+  - first:
+      213: -7692044370694222544
+    second: venom_atlas_26
+  - first:
+      213: -8155722573249876295
+    second: venom_atlas_27
+  - first:
+      213: 3673277305826195042
+    second: venom_atlas_28
+  - first:
+      213: 6568059418253006982
+    second: venom_atlas_29
+  - first:
+      213: -6284053357341614278
+    second: venom_atlas_30
+  - first:
+      213: -8001012634671756386
+    second: venom_atlas_31
+  - first:
+      213: -840339448155823891
+    second: venom_atlas_32
+  - first:
+      213: 4093370786913036435
+    second: venom_atlas_33
+  - first:
+      213: -7903021103003856689
+    second: venom_atlas_34
+  - first:
+      213: -653897219659298302
+    second: venom_atlas_35
+  - first:
+      213: 1363867280957845377
+    second: venom_atlas_36
+  - first:
+      213: 2912392816309865734
+    second: venom_atlas_37
+  - first:
+      213: 4469712405414591001
+    second: venom_atlas_38
+  - first:
+      213: 2676946188947756775
+    second: venom_atlas_39
+  - first:
+      213: 6766497087318079613
+    second: venom_atlas_40
+  - first:
+      213: -6765053395575047535
+    second: venom_atlas_41
+  - first:
+      213: 3568853568617615732
+    second: venom_atlas_42
+  - first:
+      213: -8062102851282045250
+    second: venom_atlas_43
+  - first:
+      213: 814878793048006160
+    second: venom_atlas_44
+  - first:
+      213: 7701901553939743701
+    second: venom_atlas_45
+  - first:
+      213: 4037677361010739696
+    second: venom_atlas_46
+  - first:
+      213: -720685447901378164
+    second: venom_atlas_47
+  - first:
+      213: 6674459919482415746
+    second: venom_atlas_48
+  - first:
+      213: -2446659643838226819
+    second: venom_atlas_49
+  - first:
+      213: -3896626867908586272
+    second: venom_atlas_50
+  - first:
+      213: -5352669621259472020
+    second: venom_atlas_51
+  - first:
+      213: 3895787495665541834
+    second: venom_atlas_52
+  - first:
+      213: 1344251933060273744
+    second: venom_atlas_53
+  - first:
+      213: -7579634656958340087
+    second: venom_atlas_54
+  - first:
+      213: -3444647724413894201
+    second: venom_atlas_55
+  - first:
+      213: -7351221215057171847
+    second: venom_atlas_56
+  - first:
+      213: -7330013809127371104
+    second: venom_atlas_57
+  - first:
+      213: 81306722231789853
+    second: venom_atlas_58
+  - first:
+      213: -7861565239174090101
+    second: venom_atlas_59
+  - first:
+      213: -8215455253254232257
+    second: venom_atlas_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: venom_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1321
+        width: 193
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db05d05fd5a28c40800000000000000
+      internalID: 5513151272407337940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1321
+        width: 195
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474ed014ecfe9f800800000000000000
+      internalID: 646811690638107764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1321
+        width: 195
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e31a73fae6843e70800000000000000
+      internalID: 9094041891233207271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1321
+        width: 194
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbda366e6cf354fb0800000000000000
+      internalID: -4664251715570913859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1321
+        width: 194
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb65c4be4b01fa80800000000000000
+      internalID: -8434948194420036631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1321
+        width: 195
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a92afbc0628e030800000000000000
+      internalID: 3524108544613980767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1321
+        width: 192
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f330ad6ce9682b2e0800000000000000
+      internalID: -2111477258784210113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1321
+        width: 192
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149b9339061c634d0800000000000000
+      internalID: -3155121868395398847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1137
+        width: 190
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c6fb5d30fb20640800000000000000
+      internalID: 5044804555800276113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1137
+        width: 194
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13c6927eec842a60800000000000000
+      internalID: 7648393022934532893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1137
+        width: 195
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c8862463358a8f0800000000000000
+      internalID: -529081463708546020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1137
+        width: 195
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c04351535c2b080800000000000000
+      internalID: -9173052659220607925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1137
+        width: 195
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26337ce5350a3ab0800000000000000
+      internalID: -5027700304847358419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1138
+        width: 194
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b79d0f7c16e1720800000000000000
+      internalID: 2818797928147680144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 1138
+        width: 189
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9775dd29596ea20800000000000000
+      internalID: 3091322652247685572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1138
+        width: 187
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af78369bc7972840800000000000000
+      internalID: 5199291195476967330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 976
+        width: 193
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a0540bcdba3afa0800000000000000
+      internalID: -5790595731529856426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 973
+        width: 194
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd55f08e8ca2091d0800000000000000
+      internalID: -3346127480761133604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 969
+        width: 194
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d656a11039e8870800000000000000
+      internalID: 8687042364191370574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 933
+        width: 194
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee62cb33e626046a0800000000000000
+      internalID: -6467060839450138898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 929
+        width: 195
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc9db3d32b0ad590800000000000000
+      internalID: -7648788768631186256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_21
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 929
+        width: 195
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60de0a68480be63b0800000000000000
+      internalID: -5517278410241413882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 967
+        width: 195
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b8b685de8361fa0800000000000000
+      internalID: -5830410075542680804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_23
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 975
+        width: 194
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0636aa6ce4ff85bb0800000000000000
+      internalID: -4946923476860902560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 769
+        width: 186
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdffbd31c2c02fcf0800000000000000
+      internalID: -220100048336453665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_25
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 769
+        width: 180
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f538a8c66898d1b20800000000000000
+      internalID: 3106790528395150175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_26
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 769
+        width: 176
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d4a38266e504590800000000000000
+      internalID: -7692044370694222544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_27
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 769
+        width: 229
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be6ecec78d01de80800000000000000
+      internalID: -8155722573249876295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_28
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 769
+        width: 266
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266364f6f3a1af230800000000000000
+      internalID: 3673277305826195042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_29
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 769
+        width: 265
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68811a8ed3f662b50800000000000000
+      internalID: 6568059418253006982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_30
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 769
+        width: 264
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f5d0e04ce8ac8a0800000000000000
+      internalID: -6284053357341614278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_31
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 769
+        width: 263
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b4af26661b6f090800000000000000
+      internalID: -8001012634671756386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_32
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 769
+        width: 222
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0ace569b38654f0800000000000000
+      internalID: -840339448155823891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_33
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 769
+        width: 190
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398a9e70b039ec830800000000000000
+      internalID: 4093370786913036435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_34
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 585
+        width: 190
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc01a07cd24d25290800000000000000
+      internalID: -7903021103003856689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_35
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 585
+        width: 184
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a879671f3ece6f0800000000000000
+      internalID: -653897219659298302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_36
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 585
+        width: 174
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f2542e01e6de210800000000000000
+      internalID: 1363867280957845377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_37
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 585
+        width: 199
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d8c8ef5d5ea6820800000000000000
+      internalID: 2912392816309865734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_38
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 585
+        width: 208
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ab4ec40cb970e30800000000000000
+      internalID: 4469712405414591001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_39
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 585
+        width: 211
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e61113306c662520800000000000000
+      internalID: 2676946188947756775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_40
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 585
+        width: 199
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d783f4f104d67ed50800000000000000
+      internalID: 6766497087318079613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401
+        width: 184
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19af23e87c3bd12a0800000000000000
+      internalID: -6765053395575047535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_42
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 401
+        width: 183
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47196dc796d178130800000000000000
+      internalID: 3568853568617615732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_43
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 401
+        width: 185
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb67baeeb28ad1090800000000000000
+      internalID: -8062102851282045250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_44
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 401
+        width: 184
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e10a2e1f70f4b00800000000000000
+      internalID: 814878793048006160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 217
+        width: 187
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d38b9928a6a2ea60800000000000000
+      internalID: 7701901553939743701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_46
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 217
+        width: 210
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f98ea4da26b80830800000000000000
+      internalID: 4037677361010739696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_47
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 217
+        width: 212
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c898b0b476c9ff5f0800000000000000
+      internalID: -720685447901378164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_48
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 217
+        width: 214
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ae4581fe170ac50800000000000000
+      internalID: 6674459919482415746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_49
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 217
+        width: 186
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e1db25408bb0ed0800000000000000
+      internalID: -2446659643838226819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_50
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 217
+        width: 206
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4d01442866ce9c0800000000000000
+      internalID: -3896626867908586272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_51
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 217
+        width: 207
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63fdc0d65f77b5b0800000000000000
+      internalID: -5352669621259472020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_52
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 217
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2ad87261e901630800000000000000
+      internalID: 3895787495665541834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 184
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05690bec20eb7a210800000000000000
+      internalID: 1344251933060273744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_54
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 33
+        width: 180
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90422c8207abfc690800000000000000
+      internalID: -7579634656958340087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_55
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 33
+        width: 181
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1c3f925272230d0800000000000000
+      internalID: -3444647724413894201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_56
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 33
+        width: 182
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97aa33bd0473bf990800000000000000
+      internalID: -7351221215057171847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_57
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 33
+        width: 181
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae4144d64f864a90800000000000000
+      internalID: -7330013809127371104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_58
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 32
+        width: 178
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d192a78780cd02100800000000000000
+      internalID: 81306722231789853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_59
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 31
+        width: 175
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82387c311c16e290800000000000000
+      internalID: -7861565239174090101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venom_atlas_60
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 31
+        width: 173
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f372aa979f6dcfd80800000000000000
+      internalID: -8215455253254232257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      venom_atlas_0: 5513151272407337940
+      venom_atlas_1: 646811690638107764
+      venom_atlas_10: -529081463708546020
+      venom_atlas_11: -9173052659220607925
+      venom_atlas_12: -5027700304847358419
+      venom_atlas_13: 2818797928147680144
+      venom_atlas_14: 3091322652247685572
+      venom_atlas_15: 5199291195476967330
+      venom_atlas_16: -5790595731529856426
+      venom_atlas_17: -3346127480761133604
+      venom_atlas_18: 8687042364191370574
+      venom_atlas_19: -6467060839450138898
+      venom_atlas_2: 9094041891233207271
+      venom_atlas_20: -7648788768631186256
+      venom_atlas_21: -5517278410241413882
+      venom_atlas_22: -5830410075542680804
+      venom_atlas_23: -4946923476860902560
+      venom_atlas_24: -220100048336453665
+      venom_atlas_25: 3106790528395150175
+      venom_atlas_26: -7692044370694222544
+      venom_atlas_27: -8155722573249876295
+      venom_atlas_28: 3673277305826195042
+      venom_atlas_29: 6568059418253006982
+      venom_atlas_3: -4664251715570913859
+      venom_atlas_30: -6284053357341614278
+      venom_atlas_31: -8001012634671756386
+      venom_atlas_32: -840339448155823891
+      venom_atlas_33: 4093370786913036435
+      venom_atlas_34: -7903021103003856689
+      venom_atlas_35: -653897219659298302
+      venom_atlas_36: 1363867280957845377
+      venom_atlas_37: 2912392816309865734
+      venom_atlas_38: 4469712405414591001
+      venom_atlas_39: 2676946188947756775
+      venom_atlas_4: -8434948194420036631
+      venom_atlas_40: 6766497087318079613
+      venom_atlas_41: -6765053395575047535
+      venom_atlas_42: 3568853568617615732
+      venom_atlas_43: -8062102851282045250
+      venom_atlas_44: 814878793048006160
+      venom_atlas_45: 7701901553939743701
+      venom_atlas_46: 4037677361010739696
+      venom_atlas_47: -720685447901378164
+      venom_atlas_48: 6674459919482415746
+      venom_atlas_49: -2446659643838226819
+      venom_atlas_5: 3524108544613980767
+      venom_atlas_50: -3896626867908586272
+      venom_atlas_51: -5352669621259472020
+      venom_atlas_52: 3895787495665541834
+      venom_atlas_53: 1344251933060273744
+      venom_atlas_54: -7579634656958340087
+      venom_atlas_55: -3444647724413894201
+      venom_atlas_56: -7351221215057171847
+      venom_atlas_57: -7330013809127371104
+      venom_atlas_58: 81306722231789853
+      venom_atlas_59: -7861565239174090101
+      venom_atlas_6: -2111477258784210113
+      venom_atlas_60: -8215455253254232257
+      venom_atlas_7: -3155121868395398847
+      venom_atlas_8: 5044804555800276113
+      venom_atlas_9: 7648393022934532893
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

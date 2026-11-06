@@ -1,0 +1,6658 @@
+fileFormatVersion: 2
+guid: 4b0412bcfbff7fd439c7e365a7c0f4da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1905933834665521019
+    second: gold-weapons_0
+  - first:
+      213: 8174608188897188461
+    second: gold-weapons_1
+  - first:
+      213: 6238116933950925910
+    second: gold-weapons_2
+  - first:
+      213: 2210483702078467282
+    second: gold-weapons_3
+  - first:
+      213: 3460831115010701942
+    second: gold-weapons_4
+  - first:
+      213: -5986545415610579692
+    second: gold-weapons_5
+  - first:
+      213: -2586661507180773294
+    second: gold-weapons_6
+  - first:
+      213: -4498214908311353761
+    second: gold-weapons_7
+  - first:
+      213: -1553935593000684742
+    second: gold-weapons_8
+  - first:
+      213: 3472438424519599631
+    second: gold-weapons_9
+  - first:
+      213: 6914914089097429177
+    second: gold-weapons_10
+  - first:
+      213: -1883960649779687261
+    second: gold-weapons_11
+  - first:
+      213: -2355628863456073386
+    second: gold-weapons_12
+  - first:
+      213: 9018435581327666687
+    second: gold-weapons_13
+  - first:
+      213: -3205136102384682532
+    second: gold-weapons_14
+  - first:
+      213: 4032454062490896566
+    second: gold-weapons_15
+  - first:
+      213: -837300393569484884
+    second: gold-weapons_16
+  - first:
+      213: 4550281246712341186
+    second: gold-weapons_17
+  - first:
+      213: -4018951858728000357
+    second: gold-weapons_18
+  - first:
+      213: 1140062121788856217
+    second: gold-weapons_19
+  - first:
+      213: 3523752570273647069
+    second: gold-weapons_20
+  - first:
+      213: -8914967497536722857
+    second: gold-weapons_21
+  - first:
+      213: -4101284205733087137
+    second: gold-weapons_22
+  - first:
+      213: 2882216673082257998
+    second: gold-weapons_23
+  - first:
+      213: -2086952551925607790
+    second: gold-weapons_24
+  - first:
+      213: -1442977660432416841
+    second: gold-weapons_25
+  - first:
+      213: 8865733067915368387
+    second: gold-weapons_26
+  - first:
+      213: 6271771213756453874
+    second: gold-weapons_27
+  - first:
+      213: -6471359234266837958
+    second: gold-weapons_28
+  - first:
+      213: 8683223747756072704
+    second: gold-weapons_29
+  - first:
+      213: -6050906573939048973
+    second: gold-weapons_30
+  - first:
+      213: -8580552468826936123
+    second: gold-weapons_31
+  - first:
+      213: -8123818742193405433
+    second: gold-weapons_32
+  - first:
+      213: -7418015008271027852
+    second: gold-weapons_33
+  - first:
+      213: 1504378410544037038
+    second: gold-weapons_34
+  - first:
+      213: -4326994636152675940
+    second: gold-weapons_35
+  - first:
+      213: -6667017234293926446
+    second: gold-weapons_36
+  - first:
+      213: 6838901173528819810
+    second: gold-weapons_37
+  - first:
+      213: 1969747246246123741
+    second: gold-weapons_38
+  - first:
+      213: 501180634233470403
+    second: gold-weapons_39
+  - first:
+      213: -8004388646486122631
+    second: gold-weapons_40
+  - first:
+      213: 2567707153473479255
+    second: gold-weapons_41
+  - first:
+      213: -1593200500415492537
+    second: gold-weapons_42
+  - first:
+      213: -4919679175835964102
+    second: gold-weapons_43
+  - first:
+      213: 6802924041777357535
+    second: gold-weapons_44
+  - first:
+      213: -5961481629301535199
+    second: gold-weapons_45
+  - first:
+      213: 1922800221363866481
+    second: gold-weapons_46
+  - first:
+      213: 8756382426516318964
+    second: gold-weapons_47
+  - first:
+      213: 8685134899594422313
+    second: gold-weapons_48
+  - first:
+      213: 2295269140831383492
+    second: gold-weapons_49
+  - first:
+      213: 1893261960757571506
+    second: gold-weapons_50
+  - first:
+      213: -1990837666390284220
+    second: gold-weapons_51
+  - first:
+      213: 6926400936164767855
+    second: gold-weapons_52
+  - first:
+      213: 2118241069509231525
+    second: gold-weapons_53
+  - first:
+      213: -4168828082128527982
+    second: gold-weapons_54
+  - first:
+      213: -6186327085895993568
+    second: gold-weapons_55
+  - first:
+      213: -8780686201739336819
+    second: gold-weapons_56
+  - first:
+      213: -1558300662094971625
+    second: gold-weapons_57
+  - first:
+      213: 1214038502288415461
+    second: gold-weapons_58
+  - first:
+      213: -4587590535112690862
+    second: gold-weapons_59
+  - first:
+      213: -863062842323169588
+    second: gold-weapons_60
+  - first:
+      213: 5890440736990480630
+    second: gold-weapons_61
+  - first:
+      213: 4633720482336301986
+    second: gold-weapons_62
+  - first:
+      213: 6388404810512469413
+    second: gold-weapons_63
+  - first:
+      213: -8833640968178443678
+    second: gold-weapons_64
+  - first:
+      213: -6568906794552435961
+    second: gold-weapons_65
+  - first:
+      213: -6254484872985194438
+    second: gold-weapons_66
+  - first:
+      213: 5827843312712506769
+    second: gold-weapons_67
+  - first:
+      213: -2870226563727409146
+    second: gold-weapons_68
+  - first:
+      213: 3531717221239560935
+    second: gold-weapons_69
+  - first:
+      213: -4632620282924087048
+    second: gold-weapons_70
+  - first:
+      213: 5573329464490209346
+    second: gold-weapons_71
+  - first:
+      213: -3679180459655921046
+    second: gold-weapons_72
+  - first:
+      213: -7730677979063140216
+    second: gold-weapons_73
+  - first:
+      213: 6865990864323785218
+    second: gold-weapons_74
+  - first:
+      213: 7809376963486592200
+    second: gold-weapons_75
+  - first:
+      213: 421772304866624907
+    second: gold-weapons_76
+  - first:
+      213: -4732489465642301017
+    second: gold-weapons_77
+  - first:
+      213: -8289787020405260535
+    second: gold-weapons_78
+  - first:
+      213: 3857315279285857090
+    second: gold-weapons_79
+  - first:
+      213: -6645364623025065361
+    second: gold-weapons_80
+  - first:
+      213: 4576580772700846084
+    second: gold-weapons_81
+  - first:
+      213: -2194558455683963032
+    second: gold-weapons_82
+  - first:
+      213: -102890356473425970
+    second: gold-weapons_83
+  - first:
+      213: 2411172305924563803
+    second: gold-weapons_84
+  - first:
+      213: 5411252276296147619
+    second: gold-weapons_85
+  - first:
+      213: 8915179528884182108
+    second: gold-weapons_86
+  - first:
+      213: 3369140258444391067
+    second: gold-weapons_87
+  - first:
+      213: -118121218451804095
+    second: gold-weapons_88
+  - first:
+      213: 1990507978039947536
+    second: gold-weapons_89
+  - first:
+      213: -6936535489502238276
+    second: gold-weapons_90
+  - first:
+      213: 4201060964923298171
+    second: gold-weapons_91
+  - first:
+      213: 6800948890676040116
+    second: gold-weapons_92
+  - first:
+      213: -5918832981497412247
+    second: gold-weapons_93
+  - first:
+      213: 6203275751280822924
+    second: gold-weapons_94
+  - first:
+      213: -872815016699007673
+    second: gold-weapons_95
+  - first:
+      213: 2664950393724876607
+    second: gold-weapons_96
+  - first:
+      213: 3265770669868947320
+    second: gold-weapons_97
+  - first:
+      213: -4331765766272022257
+    second: gold-weapons_98
+  - first:
+      213: 6268159461684142598
+    second: gold-weapons_99
+  - first:
+      213: 6977634621885827106
+    second: gold-weapons_100
+  - first:
+      213: 3966608862814107059
+    second: gold-weapons_101
+  - first:
+      213: -3542441343636555608
+    second: gold-weapons_102
+  - first:
+      213: 389089611275002183
+    second: gold-weapons_103
+  - first:
+      213: -5274607433012605751
+    second: gold-weapons_104
+  - first:
+      213: -7969086734371494514
+    second: gold-weapons_105
+  - first:
+      213: 6130101312219343658
+    second: gold-weapons_106
+  - first:
+      213: 1936714532965508649
+    second: gold-weapons_107
+  - first:
+      213: -7683367455205917477
+    second: gold-weapons_108
+  - first:
+      213: 9170325694891118536
+    second: gold-weapons_109
+  - first:
+      213: -2095437444552797624
+    second: gold-weapons_110
+  - first:
+      213: -11683258665343238
+    second: gold-weapons_111
+  - first:
+      213: -5631654120144682420
+    second: gold-weapons_112
+  - first:
+      213: -4776218006639354219
+    second: gold-weapons_113
+  - first:
+      213: -6070795392981620709
+    second: gold-weapons_114
+  - first:
+      213: -513147015615682406
+    second: gold-weapons_115
+  - first:
+      213: -8589235688385623088
+    second: gold-weapons_116
+  - first:
+      213: 4617513681038431477
+    second: gold-weapons_117
+  - first:
+      213: -5696491578103685845
+    second: gold-weapons_118
+  - first:
+      213: 5392617843802568278
+    second: gold-weapons_119
+  - first:
+      213: 6027049230052892181
+    second: gold-weapons_120
+  - first:
+      213: -4285805352438714755
+    second: gold-weapons_121
+  - first:
+      213: -2178511315065988829
+    second: gold-weapons_122
+  - first:
+      213: -6414028681926377177
+    second: gold-weapons_123
+  - first:
+      213: -7922323818402620024
+    second: gold-weapons_124
+  - first:
+      213: 6140558723320977103
+    second: gold-weapons_125
+  - first:
+      213: 6423961654731131931
+    second: gold-weapons_126
+  - first:
+      213: -1881575548489159792
+    second: gold-weapons_127
+  - first:
+      213: -1325116449037197572
+    second: gold-weapons_128
+  - first:
+      213: 481769838594400367
+    second: gold-weapons_129
+  - first:
+      213: -7415565165333033548
+    second: gold-weapons_130
+  - first:
+      213: -8534605282793770682
+    second: gold-weapons_131
+  - first:
+      213: -9135307147533091634
+    second: gold-weapons_132
+  - first:
+      213: 9203673784806206460
+    second: gold-weapons_133
+  - first:
+      213: -116585678034417637
+    second: gold-weapons_134
+  - first:
+      213: -1727736315470931731
+    second: gold-weapons_135
+  - first:
+      213: -310234195133882926
+    second: gold-weapons_136
+  - first:
+      213: -2130645972857461972
+    second: gold-weapons_137
+  - first:
+      213: 8572222387059970257
+    second: gold-weapons_138
+  - first:
+      213: 3103589454011953778
+    second: gold-weapons_139
+  - first:
+      213: 6541006012111475584
+    second: gold-weapons_140
+  - first:
+      213: -21195930082436838
+    second: gold-weapons_141
+  - first:
+      213: -8261247866413621621
+    second: gold-weapons_142
+  - first:
+      213: -344576331288475899
+    second: gold-weapons_143
+  - first:
+      213: 7646044946964059108
+    second: gold-weapons_144
+  - first:
+      213: -8806971049297063290
+    second: gold-weapons_145
+  - first:
+      213: 7860738454552555998
+    second: gold-weapons_146
+  - first:
+      213: 8058946482573763308
+    second: gold-weapons_147
+  - first:
+      213: -4745701707164574893
+    second: gold-weapons_148
+  - first:
+      213: 5224545734473555773
+    second: gold-weapons_149
+  - first:
+      213: -5551853285119671379
+    second: gold-weapons_150
+  - first:
+      213: 880998092809234127
+    second: gold-weapons_151
+  - first:
+      213: -433503751601192892
+    second: gold-weapons_152
+  - first:
+      213: -3057157823770188798
+    second: gold-weapons_153
+  - first:
+      213: -7500212513469401823
+    second: gold-weapons_154
+  - first:
+      213: 165278917045283335
+    second: gold-weapons_155
+  - first:
+      213: 4459881756502987877
+    second: gold-weapons_156
+  - first:
+      213: 5188464724782921596
+    second: gold-weapons_157
+  - first:
+      213: 6997516469208288206
+    second: gold-weapons_158
+  - first:
+      213: -4500956543004775082
+    second: gold-weapons_159
+  - first:
+      213: 1680975132923127542
+    second: gold-weapons_160
+  - first:
+      213: 3209524714636333586
+    second: gold-weapons_161
+  - first:
+      213: 7107348364128833109
+    second: gold-weapons_162
+  - first:
+      213: 2097709687033514639
+    second: gold-weapons_163
+  - first:
+      213: -5750506789097297132
+    second: gold-weapons_164
+  - first:
+      213: 8542800335244798900
+    second: gold-weapons_165
+  - first:
+      213: -4151801542903916260
+    second: gold-weapons_166
+  - first:
+      213: 6936563926278005792
+    second: gold-weapons_167
+  - first:
+      213: 4038007733648623643
+    second: gold-weapons_168
+  - first:
+      213: -6781867963514711905
+    second: gold-weapons_169
+  - first:
+      213: 6952722800884094944
+    second: gold-weapons_170
+  - first:
+      213: 7235867735334129583
+    second: gold-weapons_171
+  - first:
+      213: 7990054062407279147
+    second: gold-weapons_172
+  - first:
+      213: 1984286264378023756
+    second: gold-weapons_173
+  - first:
+      213: 4276692781194443332
+    second: gold-weapons_174
+  - first:
+      213: 7513220519116116949
+    second: gold-weapons_175
+  - first:
+      213: -2999484852956167724
+    second: gold-weapons_176
+  - first:
+      213: -8895681159889734417
+    second: gold-weapons_177
+  - first:
+      213: -3038156768328715932
+    second: gold-weapons_178
+  - first:
+      213: -5838695048421428961
+    second: gold-weapons_179
+  - first:
+      213: -2393576389398989453
+    second: gold-weapons_180
+  - first:
+      213: 8703176388349541576
+    second: gold-weapons_181
+  - first:
+      213: 3535973425906317110
+    second: gold-weapons_182
+  - first:
+      213: -8600402645345249527
+    second: gold-weapons_183
+  - first:
+      213: -8852296367226407519
+    second: gold-weapons_184
+  - first:
+      213: -4004143988811932835
+    second: gold-weapons_185
+  - first:
+      213: -8128284285213494914
+    second: gold-weapons_186
+  - first:
+      213: -8647918162662469181
+    second: gold-weapons_187
+  - first:
+      213: 5972726570217662731
+    second: gold-weapons_188
+  - first:
+      213: 1198572063820811871
+    second: gold-weapons_189
+  - first:
+      213: -3852491116809017138
+    second: gold-weapons_190
+  - first:
+      213: 387479489335314769
+    second: gold-weapons_191
+  - first:
+      213: 3711132055459878468
+    second: gold-weapons_192
+  - first:
+      213: -3693417058648483407
+    second: gold-weapons_193
+  - first:
+      213: -40377523009518594
+    second: gold-weapons_194
+  - first:
+      213: -3858109533552563288
+    second: gold-weapons_195
+  - first:
+      213: 2820234181594555849
+    second: gold-weapons_196
+  - first:
+      213: -620532249951031663
+    second: gold-weapons_197
+  - first:
+      213: 8701316269640401707
+    second: gold-weapons_198
+  - first:
+      213: 1083311214475329576
+    second: gold-weapons_199
+  - first:
+      213: 3090740668941467365
+    second: gold-weapons_200
+  - first:
+      213: 9179878194373510
+    second: gold-weapons_201
+  - first:
+      213: -3916966863878626332
+    second: gold-weapons_202
+  - first:
+      213: -616177923906179092
+    second: gold-weapons_203
+  - first:
+      213: -1060487827777257533
+    second: gold-weapons_204
+  - first:
+      213: -5347082718019239514
+    second: gold-weapons_205
+  - first:
+      213: -5974093262530301970
+    second: gold-weapons_206
+  - first:
+      213: -7098115541349111150
+    second: gold-weapons_207
+  - first:
+      213: -7636714580086776653
+    second: gold-weapons_208
+  - first:
+      213: 5366902932813169704
+    second: gold-weapons_209
+  - first:
+      213: 7527675144283696830
+    second: gold-weapons_210
+  - first:
+      213: -5270224198087940974
+    second: gold-weapons_211
+  - first:
+      213: 1117695594008317741
+    second: gold-weapons_212
+  - first:
+      213: 9200919468357023005
+    second: gold-weapons_213
+  - first:
+      213: -7052485364261068094
+    second: gold-weapons_214
+  - first:
+      213: -3946632212429444482
+    second: gold-weapons_215
+  - first:
+      213: 6723458587886312345
+    second: gold-weapons_216
+  - first:
+      213: 8674635070054013458
+    second: gold-weapons_217
+  - first:
+      213: 3406516672522879623
+    second: gold-weapons_218
+  - first:
+      213: -939543639810275911
+    second: gold-weapons_219
+  - first:
+      213: 6346350430312590930
+    second: gold-weapons_220
+  - first:
+      213: 9174358538634355580
+    second: gold-weapons_221
+  - first:
+      213: -3799383854795258732
+    second: gold-weapons_222
+  - first:
+      213: 4519585303837062983
+    second: gold-weapons_223
+  - first:
+      213: -736106413411199520
+    second: gold-weapons_224
+  - first:
+      213: -7687286525486324008
+    second: gold-weapons_225
+  - first:
+      213: -8749749509112431760
+    second: gold-weapons_226
+  - first:
+      213: 5802991550908303324
+    second: gold-weapons_227
+  - first:
+      213: -5675515560409025329
+    second: gold-weapons_228
+  - first:
+      213: 1972409692912371895
+    second: gold-weapons_229
+  - first:
+      213: 2540405494207965567
+    second: gold-weapons_230
+  - first:
+      213: -9190565780164204695
+    second: gold-weapons_231
+  - first:
+      213: -6899752410504599041
+    second: gold-weapons_232
+  - first:
+      213: -8701109522857475728
+    second: gold-weapons_233
+  - first:
+      213: 6129708539274663649
+    second: gold-weapons_234
+  - first:
+      213: -7207072199651218834
+    second: gold-weapons_235
+  - first:
+      213: -5181500757129808072
+    second: gold-weapons_236
+  - first:
+      213: -1140201768760824802
+    second: gold-weapons_237
+  - first:
+      213: -7791011473830635060
+    second: gold-weapons_238
+  - first:
+      213: -1433771419454103542
+    second: gold-weapons_239
+  - first:
+      213: -8567791617450767
+    second: gold-weapons_240
+  - first:
+      213: -4077685089936349795
+    second: gold-weapons_241
+  - first:
+      213: -4637717780312122056
+    second: gold-weapons_242
+  - first:
+      213: 6259388536257672578
+    second: gold-weapons_243
+  - first:
+      213: 2169635010717449700
+    second: gold-weapons_244
+  - first:
+      213: 3091234359902027917
+    second: gold-weapons_245
+  - first:
+      213: 2272467570462181529
+    second: gold-weapons_246
+  - first:
+      213: 8985666758788235985
+    second: gold-weapons_247
+  - first:
+      213: -5585177753481687723
+    second: gold-weapons_248
+  - first:
+      213: -7049474293548994344
+    second: gold-weapons_249
+  - first:
+      213: 5580784359395802465
+    second: gold-weapons_250
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gold-weapons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5801d538643cc85e0800000000000000
+      internalID: -1905933834665521019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 129
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a573d36da027170800000000000000
+      internalID: 8174608188897188461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 159
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c6e7bec4e329650800000000000000
+      internalID: 6238116933950925910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 191
+        width: 130
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc6d2427373dae10800000000000000
+      internalID: 2210483702078467282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 175
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67af4d51097570030800000000000000
+      internalID: 3460831115010701942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 303
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415c9ce99a48beca0800000000000000
+      internalID: -5986545415610579692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 287
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250405e50155a1cd0800000000000000
+      internalID: -2586661507180773294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f564cba9f512391c0800000000000000
+      internalID: -4498214908311353761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33bb5fafcf4f6ae0800000000000000
+      internalID: -1553935593000684742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 288
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0668ed6954903030800000000000000
+      internalID: 3472438424519599631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 303
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b00ffc2ab5b6ff50800000000000000
+      internalID: 6914914089097429177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_11
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 271
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0511b45c3dad5e0800000000000000
+      internalID: -1883960649779687261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_12
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 255
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6592b0387002f4fd0800000000000000
+      internalID: -2355628863456073386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 271
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd67c6216be72d70800000000000000
+      internalID: 9018435581327666687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_14
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 287
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9b49842b11583d0800000000000000
+      internalID: -3205136102384682532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_15
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 303
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8c9dfda9726f730800000000000000
+      internalID: 4032454062490896566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_16
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 239
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caffefe6abf4164f0800000000000000
+      internalID: -837300393569484884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_17
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 271
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2296a7fa8d52f30800000000000000
+      internalID: 4550281246712341186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b942f1be390d938c0800000000000000
+      internalID: -4018951858728000357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 159
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9975a1f957052df00800000000000000
+      internalID: 1140062121788856217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 271
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9c7830b42e6e030800000000000000
+      internalID: 3523752570273647069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 255
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758ab256b4ca74480800000000000000
+      internalID: -8914967497536722857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_22
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 255
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58fb529ebf4517c0800000000000000
+      internalID: -4101284205733087137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_23
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 239
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42b6c42bc0bff720800000000000000
+      internalID: 2882216673082257998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_24
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 191
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292116f06b7a903e0800000000000000
+      internalID: -2086952551925607790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_25
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bff91b867389fbe0800000000000000
+      internalID: -1442977660432416841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7978aa049690b70800000000000000
+      internalID: 8865733067915368387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_27
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 239
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3597c80bec90750800000000000000
+      internalID: 6271771213756453874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cc49b201d1136a0800000000000000
+      internalID: -6471359234266837958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_29
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 224
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f9c3e2ef1018870800000000000000
+      internalID: 8683223747756072704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_30
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 223
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd7943b78cd60ca0800000000000000
+      internalID: -6050906573939048973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_31
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 223
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc28f6cdf0cbe880800000000000000
+      internalID: -8580552468826936123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 223
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702c6e355e5624f80800000000000000
+      internalID: -8123818742193405433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_33
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 223
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4713d7df6aaed0990800000000000000
+      internalID: -7418015008271027852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_34
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 207
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac7e30a130a0e410800000000000000
+      internalID: 1504378410544037038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 49
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c916917cd4d63f3c0800000000000000
+      internalID: -4326994636152675940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5d086162ff973a0800000000000000
+      internalID: -6667017234293926446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268ff2e1268a8ee50800000000000000
+      internalID: 6838901173528819810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_38
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 207
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8ddcd2fa2f55b10800000000000000
+      internalID: 1969747246246123741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_39
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 191
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd7ac7a12d84f600800000000000000
+      internalID: 501180634233470403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_40
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 191
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f56026fe2bae090800000000000000
+      internalID: -8004388646486122631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_41
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75224024d0452a320800000000000000
+      internalID: 2567707153473479255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_42
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 175
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e82c40690d3e9e0800000000000000
+      internalID: -1593200500415492537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_43
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 159
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d296bead9c9bbb0800000000000000
+      internalID: -4919679175835964102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_44
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 191
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2aa106f57d86e50800000000000000
+      internalID: 6802924041777357535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_45
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 207
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e077e1b00944da0800000000000000
+      internalID: -5961481629301535199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_46
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 175
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b8f682d982faa10800000000000000
+      internalID: 1922800221363866481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_47
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 175
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa6af17c6be48970800000000000000
+      internalID: 8756382426516318964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_48
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 159
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9286ca4ec2cc78870800000000000000
+      internalID: 8685134899594422313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfab2b6f1f6adf10800000000000000
+      internalID: 2295269140831383492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfe6bde8b7364a10800000000000000
+      internalID: 1893261960757571506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_51
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 175
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448e659b0bf1f54e0800000000000000
+      internalID: -1990837666390284220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_52
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 159
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68b80c24f48f1060800000000000000
+      internalID: 6926400936164767855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_53
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 175
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3cdb0a701856d10800000000000000
+      internalID: 2118241069509231525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 159
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d5e0b52f85526c0800000000000000
+      internalID: -4168828082128527982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_55
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 175
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027baccba40c52aa0800000000000000
+      internalID: -6186327085895993568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_56
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83272deb6cb42680800000000000000
+      internalID: -8780686201739336819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_57
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 175
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71db296ddcdcf5ae0800000000000000
+      internalID: -1558300662094971625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_58
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea5c88e59129d010800000000000000
+      internalID: 1214038502288415461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_59
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 127
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253f9a3e6ba9550c0800000000000000
+      internalID: -4587590535112690862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_60
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 143
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce0d78eae8c504f0800000000000000
+      internalID: -863062842323169588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_61
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8cec234ac0fb150800000000000000
+      internalID: 5890440736990480630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_62
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a36b1a6a384e4040800000000000000
+      internalID: 4633720482336301986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_63
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 128
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad0ef3f35c28a850800000000000000
+      internalID: 6388404810512469413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_64
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 144
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ad262975a986580800000000000000
+      internalID: -8833640968178443678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_65
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 145
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b5d0ce21e86d4a0800000000000000
+      internalID: -6568906794552435961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_66
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 145
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30d9ac452b9339a0800000000000000
+      internalID: -6254484872985194438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_67
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 144
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d5ddc9d98a0e050800000000000000
+      internalID: 5827843312712506769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_68
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 143
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600432cb528ea28d0800000000000000
+      internalID: -2870226563727409146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_69
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea1d13d91e230130800000000000000
+      internalID: 3531717221239560935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_70
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 143
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f84a09b560a5bfb0800000000000000
+      internalID: -4632620282924087048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_71
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 143
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24038238e91785d40800000000000000
+      internalID: 5573329464490209346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_72
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 111
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6286a57ddce0fcc0800000000000000
+      internalID: -3679180459655921046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_73
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 144
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880c101465d17b490800000000000000
+      internalID: -7730677979063140216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_74
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 128
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202b8134056e84f50800000000000000
+      internalID: 6865990864323785218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_75
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 143
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccacb1f8fa706c60800000000000000
+      internalID: 7809376963486592200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_76
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b854ca73daf6ad500800000000000000
+      internalID: 421772304866624907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_77
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 143
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9cc11a7e1d25eb0800000000000000
+      internalID: -4732489465642301017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_78
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fb91940a2c4fc80800000000000000
+      internalID: -8289787020405260535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_79
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b25804fcfe78530800000000000000
+      internalID: 3857315279285857090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_80
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 144
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62b4a1851ce6c3a0800000000000000
+      internalID: -6645364623025065361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_81
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40877ba07f7438f30800000000000000
+      internalID: 4576580772700846084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_82
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 143
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867a02a36bc5b81e0800000000000000
+      internalID: -2194558455683963032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_83
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 127
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf869314c5729ef0800000000000000
+      internalID: -102890356473425970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_84
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53a4e2ff64367120800000000000000
+      internalID: 2411172305924563803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_85
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2e7a67641a81b40800000000000000
+      internalID: 5411252276296147619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_86
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cd9fffb8419bb70800000000000000
+      internalID: 8915179528884182108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_87
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92bb0fe63791ce20800000000000000
+      internalID: 3369140258444391067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_88
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 128
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1407ebda0695c5ef0800000000000000
+      internalID: -118121218451804095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_89
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 112
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011f6a9b574bf9b10800000000000000
+      internalID: 1990507978039947536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_90
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9245049b97cbf90800000000000000
+      internalID: -6936535489502238276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_91
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 129
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71530e70ba2d4a30800000000000000
+      internalID: 4201060964923298171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_92
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 129
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1155cabf2d16e50800000000000000
+      internalID: 6800948890676040116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_93
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 129
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9650bfc33c41cdda0800000000000000
+      internalID: -5918832981497412247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_94
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 128
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a43eeed66761650800000000000000
+      internalID: 6203275751280822924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_95
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 128
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d670fdd5323e3f0800000000000000
+      internalID: -872815016699007673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_96
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37320a734ecbf420800000000000000
+      internalID: 2664950393724876607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_97
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 127
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8779d671f19525d20800000000000000
+      internalID: 3265770669868947320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_98
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 112
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09882b7cf972e3c0800000000000000
+      internalID: -4331765766272022257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_99
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602ef2df1d9fcf650800000000000000
+      internalID: 6268159461684142598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_100
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 50
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228c8f138b985d060800000000000000
+      internalID: 6977634621885827106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_101
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 128
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b573f6aeb93c0730800000000000000
+      internalID: 3966608862814107059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_102
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8b2eadd58b6dec0800000000000000
+      internalID: -3542441343636555608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_103
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 111
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74167d1a0f2566500800000000000000
+      internalID: 389089611275002183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc06a95c74dcc6b0800000000000000
+      internalID: -5274607433012605751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_105
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85628d46dd186190800000000000000
+      internalID: -7969086734371494514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_106
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b6dff2aae721550800000000000000
+      internalID: 6130101312219343658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_107
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926eeb84b9790ea10800000000000000
+      internalID: 1936714532965508649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_108
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc77a9f1023f5590800000000000000
+      internalID: -7683367455205917477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_109
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 113
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf4f9e02aa834f70800000000000000
+      internalID: 9170325694891118536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_110
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 96
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842d06c0fb28be2e0800000000000000
+      internalID: -2095437444552797624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_111
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 113
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6ee6d532e76dff0800000000000000
+      internalID: -11683258665343238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_112
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 113
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4249ee5a6858d1b0800000000000000
+      internalID: -5631654120144682420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_113
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 113
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59edf68470777bdb0800000000000000
+      internalID: -4776218006639354219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_114
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 112
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18a04921c330cba0800000000000000
+      internalID: -6070795392981620709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_115
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 112
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98eca0128fe0e8f0800000000000000
+      internalID: -513147015615682406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_116
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 112
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbcaad26a7ecc880800000000000000
+      internalID: -8589235688385623088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_117
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 112
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f45dcf6a34b41040800000000000000
+      internalID: 4617513681038431477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_118
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d102d471ff1f0b0800000000000000
+      internalID: -5696491578103685845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_119
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656f84d8b5d66da40800000000000000
+      internalID: 5392617843802568278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_120
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 96
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e1811975164a350800000000000000
+      internalID: 6027049230052892181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_121
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e2c673db2c584c0800000000000000
+      internalID: -4285805352438714755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_122
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329925e408f54c1e0800000000000000
+      internalID: -2178511315065988829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_123
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 95
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7218c9295eaccf6a0800000000000000
+      internalID: -6414028681926377177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88dde7026704e0290800000000000000
+      internalID: -7922323818402620024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_125
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 96
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc619f1ff95a73550800000000000000
+      internalID: 6140558723320977103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_126
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 97
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ccaf0e61f762950800000000000000
+      internalID: 6423961654731131931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_127
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 97
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b2e36f10d43e5e0800000000000000
+      internalID: -1881575548489159792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_128
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 98
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe5c114c9d3c9de0800000000000000
+      internalID: -1325116449037197572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_129
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 97
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60aaec9d179fa600800000000000000
+      internalID: 481769838594400367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_130
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 96
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd409f75ce961990800000000000000
+      internalID: -7415565165333033548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_131
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 96
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641b7eca6bdfe8980800000000000000
+      internalID: -8534605282793770682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_132
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 96
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccf33ddc8ed83180800000000000000
+      internalID: -9135307147533091634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_133
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 96
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbe2fb4b840abf70800000000000000
+      internalID: 9203673784806206460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b184cda81fdc16ef0800000000000000
+      internalID: -116585678034417637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_135
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 81
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de810da99f8d508e0800000000000000
+      internalID: -1727736315470931731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_136
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 81
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd9dd9a4a3d1bbf0800000000000000
+      internalID: -310234195133882926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_137
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 79
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23e6bdb6cc6e62e0800000000000000
+      internalID: -2130645972857461972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_138
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d05c5ce7d6a6f670800000000000000
+      internalID: 8572222387059970257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_139
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272f7073a2a221b20800000000000000
+      internalID: 3103589454011953778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_140
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0835991ff4256ca50800000000000000
+      internalID: 6541006012111475584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_141
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 80
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1990c4f962b4bff0800000000000000
+      internalID: -21195930082436838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_142
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 81
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e56f0e5d62a5d80800000000000000
+      internalID: -8261247866413621621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_143
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 82
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5070b8ff6a1d73bf0800000000000000
+      internalID: -344576331288475899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_144
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 80
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e396786e553c1a60800000000000000
+      internalID: 7646044946964059108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_145
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 80
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682df73fd7a57c580800000000000000
+      internalID: -8806971049297063290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_146
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 80
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1bbd7f9f3f61d60800000000000000
+      internalID: 7860738454552555998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_147
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 80
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce261b5b02127df60800000000000000
+      internalID: 8058946482573763308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_148
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 80
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b9d7ee071e32eb0800000000000000
+      internalID: -4745701707164574893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_149
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f14182aa0518840800000000000000
+      internalID: 5224545734473555773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_150
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da34b572adad3f2b0800000000000000
+      internalID: -5551853285119671379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_151
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 80
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6e0b1091fe93c00800000000000000
+      internalID: 880998092809234127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_152
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440030d72a2ebf9f0800000000000000
+      internalID: -433503751601192892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_153
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 80
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2042fd3282bc295d0800000000000000
+      internalID: -3057157823770188798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_154
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 79
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12577b2f474e9e790800000000000000
+      internalID: -7500212513469401823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_155
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a6853ac403b4200800000000000000
+      internalID: 165278917045283335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_156
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 65
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5641b9cf3dea4ed30800000000000000
+      internalID: 4459881756502987877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_157
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 66
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77b4527d21210840800000000000000
+      internalID: 5188464724782921596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_158
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb0b11872c2c1160800000000000000
+      internalID: 6997516469208288206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_159
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65deab80fd36981c0800000000000000
+      internalID: -4500956543004775082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_160
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6e52a2af5045710800000000000000
+      internalID: 1680975132923127542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_161
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 65
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2125cb129b58a8c20800000000000000
+      internalID: 3209524714636333586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_162
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 63
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e4ada4eaf52a260800000000000000
+      internalID: 7107348364128833109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_163
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a4781a8df8c1d10800000000000000
+      internalID: 2097709687033514639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_164
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 64
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b2265fa881230b0800000000000000
+      internalID: -5750506789097297132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_165
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 64
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbaa59a4af1e8670800000000000000
+      internalID: 8542800335244798900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_166
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 64
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c191b417e76d166c0800000000000000
+      internalID: -4151801542903916260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_167
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 64
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024e693b320a34060800000000000000
+      internalID: 6936563926278005792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_168
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 63
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b180864b3a2e90830800000000000000
+      internalID: 4038007733648623643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_169
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f909a11e407f1e1a0800000000000000
+      internalID: -6781867963514711905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_170
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e79470ec880d7060800000000000000
+      internalID: 6952722800884094944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_171
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 64
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf0d463e57fa6460800000000000000
+      internalID: 7235867735334129583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_172
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22e3fd26df52ee60800000000000000
+      internalID: 7990054062407279147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_173
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 65
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f50f028d9998b10800000000000000
+      internalID: 1984286264378023756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_174
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 64
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a7294fc6dd95b30800000000000000
+      internalID: 4276692781194443332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d397116142544860800000000000000
+      internalID: 7513220519116116949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_176
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 48
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1026e0b60bf56d0800000000000000
+      internalID: -2999484852956167724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe433adcd113c8480800000000000000
+      internalID: -8895681159889734417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_178
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46171db148c46d5d0800000000000000
+      internalID: -3038156768328715932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_179
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f113207c9c9c8fea0800000000000000
+      internalID: -5838695048421428961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_180
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3757c1f94fe48ced0800000000000000
+      internalID: -2393576389398989453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_181
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc342550d4e7c870800000000000000
+      internalID: 8703176388349541576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_182
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637fd52b81d421130800000000000000
+      internalID: 3535973425906317110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_183
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907ddd66c5b35a880800000000000000
+      internalID: -8600402645345249527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_184
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 48
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a53df00b53562580800000000000000
+      internalID: -8852296367226407519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_185
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 47
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b595dc14c6e68c0800000000000000
+      internalID: -4004143988811932835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_186
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 31
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71b5721288823f80800000000000000
+      internalID: -8128284285213494914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_187
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1dadbef3c6cf780800000000000000
+      internalID: -8647918162662469181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_188
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 49
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b096c56bb2363e250800000000000000
+      internalID: 5972726570217662731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_189
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 48
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e0fb511fe22a010800000000000000
+      internalID: 1198572063820811871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_190
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 48
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8204a9db3398ac0800000000000000
+      internalID: -3852491116809017138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_191
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 48
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159c497ea8a906500800000000000000
+      internalID: 387479489335314769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_192
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 32
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446504821f6908330800000000000000
+      internalID: 3711132055459878468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_193
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b993e3f0c85ebcc0800000000000000
+      internalID: -3693417058648483407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_194
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef38b145bdc807ff0800000000000000
+      internalID: -40377523009518594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_195
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 47
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab2d0402dd357ac0800000000000000
+      internalID: -3858109533552563288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_196
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 15
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5ab51cb0c732720800000000000000
+      internalID: 2820234181594555849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_197
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19eaef5d43d6367f0800000000000000
+      internalID: -620532249951031663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_198
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b234e32bb0941c870800000000000000
+      internalID: 8701316269640401707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_199
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 48
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820cff75fc1b80f00800000000000000
+      internalID: 1083311214475329576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_200
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eefb11534484ea20800000000000000
+      internalID: 3090740668941467365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_201
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6836bd2fc0d902000800000000000000
+      internalID: 9179878194373510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_202
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3e989e36324a9c0800000000000000
+      internalID: -3916966863878626332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_203
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef622f5175e277f0800000000000000
+      internalID: -616177923906179092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_204
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 47
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cff5b870f36841f0800000000000000
+      internalID: -1060487827777257533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_205
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 31
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a145d719985bc5b0800000000000000
+      internalID: -5347082718019239514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_206
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefa3df64d1c71da0800000000000000
+      internalID: -5974093262530301970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_207
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ae437c58d6e7d90800000000000000
+      internalID: -7098115541349111150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_208
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 32
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc91eaec80f40690800000000000000
+      internalID: -7636714580086776653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_209
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824c45648c11b7a40800000000000000
+      internalID: 5366902932813169704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_210
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe219f09aca77860800000000000000
+      internalID: 7527675144283696830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_211
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294ec42c3076cd6b0800000000000000
+      internalID: -5270224198087940974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_212
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 16
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f82ef883ad28f00800000000000000
+      internalID: 1117695594008317741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_213
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 32
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d157566028b30bf70800000000000000
+      internalID: 9200919468357023005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_214
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2e3974de9802e90800000000000000
+      internalID: -7052485364261068094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_215
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a6707b9eeba39c0800000000000000
+      internalID: -3946632212429444482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_216
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 32
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b530996f58e4d50800000000000000
+      internalID: 6723458587886312345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_217
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 32
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a17b2d2ae726870800000000000000
+      internalID: 8674635070054013458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_218
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 32
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7820c2b7dd0664f20800000000000000
+      internalID: 3406516672522879623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_219
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 16
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5812a990216f2f0800000000000000
+      internalID: -939543639810275911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_220
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25eedea8714c21850800000000000000
+      internalID: 6346350430312590930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_221
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 15
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c736f59ab7ed15f70800000000000000
+      internalID: 9174358538634355580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_222
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49403999380e54bc0800000000000000
+      internalID: -3799383854795258732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_223
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 31
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747b84753eac8be30800000000000000
+      internalID: 4519585303837062983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_224
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 15
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e51db7fd13d8c5f0800000000000000
+      internalID: -736106413411199520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6adb152a5415590800000000000000
+      internalID: -7687286525486324008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_226
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 16
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b74bbfd25a29680800000000000000
+      internalID: -8749749509112431760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_227
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd78b7ae11e588050800000000000000
+      internalID: 5802991550908303324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_228
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc43e900ba48c31b0800000000000000
+      internalID: -5675515560409025329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_229
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b844995a286f5b10800000000000000
+      internalID: 1972409692912371895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_230
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7967bb5655514320800000000000000
+      internalID: 2540405494207965567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_231
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967a37cdd1d847080800000000000000
+      internalID: -9190565780164204695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_232
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff96ab53db72f30a0800000000000000
+      internalID: -6899752410504599041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_233
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 17
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071cf4a4df27f3780800000000000000
+      internalID: -8701109522857475728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_234
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 16
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6152c9079111550800000000000000
+      internalID: 6129708539274663649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_235
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 16
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a2235e4065bfb90800000000000000
+      internalID: -7207072199651218834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_236
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 16
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8373cdf938c9718b0800000000000000
+      internalID: -5181500757129808072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_237
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c2db848803d20f0800000000000000
+      internalID: -1140201768760824802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_238
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc91555d754c0e390800000000000000
+      internalID: -7791011473830635060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_239
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00a45e8d783a1ce0800000000000000
+      internalID: -1433771419454103542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_240
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcd12093af81eff0800000000000000
+      internalID: -8567791617450767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_241
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95ef64e3072967c0800000000000000
+      internalID: -4077685089936349795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_242
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d9bff104483afb0800000000000000
+      internalID: -4637717780312122056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_243
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2857ac6c5b0ddd650800000000000000
+      internalID: 6259388536257672578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_244
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed701a0c871c1e10800000000000000
+      internalID: 2169635010717449700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_245
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d804173b54546ea20800000000000000
+      internalID: 3091234359902027917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_246
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9984efc173d698f10800000000000000
+      internalID: 2272467570462181529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_247
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2cb9b1f4083bc70800000000000000
+      internalID: 8985666758788235985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_248
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d4f4cbc667d72b0800000000000000
+      internalID: -5585177753481687723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_249
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0b3cfca7c3b2e90800000000000000
+      internalID: -7049474293548994344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-weapons_250
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16db7dd7ecde27d40800000000000000
+      internalID: 5580784359395802465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gold-weapons_0: -1905933834665521019
+      gold-weapons_1: 8174608188897188461
+      gold-weapons_10: 6914914089097429177
+      gold-weapons_100: 6977634621885827106
+      gold-weapons_101: 3966608862814107059
+      gold-weapons_102: -3542441343636555608
+      gold-weapons_103: 389089611275002183
+      gold-weapons_104: -5274607433012605751
+      gold-weapons_105: -7969086734371494514
+      gold-weapons_106: 6130101312219343658
+      gold-weapons_107: 1936714532965508649
+      gold-weapons_108: -7683367455205917477
+      gold-weapons_109: 9170325694891118536
+      gold-weapons_11: -1883960649779687261
+      gold-weapons_110: -2095437444552797624
+      gold-weapons_111: -11683258665343238
+      gold-weapons_112: -5631654120144682420
+      gold-weapons_113: -4776218006639354219
+      gold-weapons_114: -6070795392981620709
+      gold-weapons_115: -513147015615682406
+      gold-weapons_116: -8589235688385623088
+      gold-weapons_117: 4617513681038431477
+      gold-weapons_118: -5696491578103685845
+      gold-weapons_119: 5392617843802568278
+      gold-weapons_12: -2355628863456073386
+      gold-weapons_120: 6027049230052892181
+      gold-weapons_121: -4285805352438714755
+      gold-weapons_122: -2178511315065988829
+      gold-weapons_123: -6414028681926377177
+      gold-weapons_124: -7922323818402620024
+      gold-weapons_125: 6140558723320977103
+      gold-weapons_126: 6423961654731131931
+      gold-weapons_127: -1881575548489159792
+      gold-weapons_128: -1325116449037197572
+      gold-weapons_129: 481769838594400367
+      gold-weapons_13: 9018435581327666687
+      gold-weapons_130: -7415565165333033548
+      gold-weapons_131: -8534605282793770682
+      gold-weapons_132: -9135307147533091634
+      gold-weapons_133: 9203673784806206460
+      gold-weapons_134: -116585678034417637
+      gold-weapons_135: -1727736315470931731
+      gold-weapons_136: -310234195133882926
+      gold-weapons_137: -2130645972857461972
+      gold-weapons_138: 8572222387059970257
+      gold-weapons_139: 3103589454011953778
+      gold-weapons_14: -3205136102384682532
+      gold-weapons_140: 6541006012111475584
+      gold-weapons_141: -21195930082436838
+      gold-weapons_142: -8261247866413621621
+      gold-weapons_143: -344576331288475899
+      gold-weapons_144: 7646044946964059108
+      gold-weapons_145: -8806971049297063290
+      gold-weapons_146: 7860738454552555998
+      gold-weapons_147: 8058946482573763308
+      gold-weapons_148: -4745701707164574893
+      gold-weapons_149: 5224545734473555773
+      gold-weapons_15: 4032454062490896566
+      gold-weapons_150: -5551853285119671379
+      gold-weapons_151: 880998092809234127
+      gold-weapons_152: -433503751601192892
+      gold-weapons_153: -3057157823770188798
+      gold-weapons_154: -7500212513469401823
+      gold-weapons_155: 165278917045283335
+      gold-weapons_156: 4459881756502987877
+      gold-weapons_157: 5188464724782921596
+      gold-weapons_158: 6997516469208288206
+      gold-weapons_159: -4500956543004775082
+      gold-weapons_16: -837300393569484884
+      gold-weapons_160: 1680975132923127542
+      gold-weapons_161: 3209524714636333586
+      gold-weapons_162: 7107348364128833109
+      gold-weapons_163: 2097709687033514639
+      gold-weapons_164: -5750506789097297132
+      gold-weapons_165: 8542800335244798900
+      gold-weapons_166: -4151801542903916260
+      gold-weapons_167: 6936563926278005792
+      gold-weapons_168: 4038007733648623643
+      gold-weapons_169: -6781867963514711905
+      gold-weapons_17: 4550281246712341186
+      gold-weapons_170: 6952722800884094944
+      gold-weapons_171: 7235867735334129583
+      gold-weapons_172: 7990054062407279147
+      gold-weapons_173: 1984286264378023756
+      gold-weapons_174: 4276692781194443332
+      gold-weapons_175: 7513220519116116949
+      gold-weapons_176: -2999484852956167724
+      gold-weapons_177: -8895681159889734417
+      gold-weapons_178: -3038156768328715932
+      gold-weapons_179: -5838695048421428961
+      gold-weapons_18: -4018951858728000357
+      gold-weapons_180: -2393576389398989453
+      gold-weapons_181: 8703176388349541576
+      gold-weapons_182: 3535973425906317110
+      gold-weapons_183: -8600402645345249527
+      gold-weapons_184: -8852296367226407519
+      gold-weapons_185: -4004143988811932835
+      gold-weapons_186: -8128284285213494914
+      gold-weapons_187: -8647918162662469181
+      gold-weapons_188: 5972726570217662731
+      gold-weapons_189: 1198572063820811871
+      gold-weapons_19: 1140062121788856217
+      gold-weapons_190: -3852491116809017138
+      gold-weapons_191: 387479489335314769
+      gold-weapons_192: 3711132055459878468
+      gold-weapons_193: -3693417058648483407
+      gold-weapons_194: -40377523009518594
+      gold-weapons_195: -3858109533552563288
+      gold-weapons_196: 2820234181594555849
+      gold-weapons_197: -620532249951031663
+      gold-weapons_198: 8701316269640401707
+      gold-weapons_199: 1083311214475329576
+      gold-weapons_2: 6238116933950925910
+      gold-weapons_20: 3523752570273647069
+      gold-weapons_200: 3090740668941467365
+      gold-weapons_201: 9179878194373510
+      gold-weapons_202: -3916966863878626332
+      gold-weapons_203: -616177923906179092
+      gold-weapons_204: -1060487827777257533
+      gold-weapons_205: -5347082718019239514
+      gold-weapons_206: -5974093262530301970
+      gold-weapons_207: -7098115541349111150
+      gold-weapons_208: -7636714580086776653
+      gold-weapons_209: 5366902932813169704
+      gold-weapons_21: -8914967497536722857
+      gold-weapons_210: 7527675144283696830
+      gold-weapons_211: -5270224198087940974
+      gold-weapons_212: 1117695594008317741
+      gold-weapons_213: 9200919468357023005
+      gold-weapons_214: -7052485364261068094
+      gold-weapons_215: -3946632212429444482
+      gold-weapons_216: 6723458587886312345
+      gold-weapons_217: 8674635070054013458
+      gold-weapons_218: 3406516672522879623
+      gold-weapons_219: -939543639810275911
+      gold-weapons_22: -4101284205733087137
+      gold-weapons_220: 6346350430312590930
+      gold-weapons_221: 9174358538634355580
+      gold-weapons_222: -3799383854795258732
+      gold-weapons_223: 4519585303837062983
+      gold-weapons_224: -736106413411199520
+      gold-weapons_225: -7687286525486324008
+      gold-weapons_226: -8749749509112431760
+      gold-weapons_227: 5802991550908303324
+      gold-weapons_228: -5675515560409025329
+      gold-weapons_229: 1972409692912371895
+      gold-weapons_23: 2882216673082257998
+      gold-weapons_230: 2540405494207965567
+      gold-weapons_231: -9190565780164204695
+      gold-weapons_232: -6899752410504599041
+      gold-weapons_233: -8701109522857475728
+      gold-weapons_234: 6129708539274663649
+      gold-weapons_235: -7207072199651218834
+      gold-weapons_236: -5181500757129808072
+      gold-weapons_237: -1140201768760824802
+      gold-weapons_238: -7791011473830635060
+      gold-weapons_239: -1433771419454103542
+      gold-weapons_24: -2086952551925607790
+      gold-weapons_240: -8567791617450767
+      gold-weapons_241: -4077685089936349795
+      gold-weapons_242: -4637717780312122056
+      gold-weapons_243: 6259388536257672578
+      gold-weapons_244: 2169635010717449700
+      gold-weapons_245: 3091234359902027917
+      gold-weapons_246: 2272467570462181529
+      gold-weapons_247: 8985666758788235985
+      gold-weapons_248: -5585177753481687723
+      gold-weapons_249: -7049474293548994344
+      gold-weapons_25: -1442977660432416841
+      gold-weapons_250: 5580784359395802465
+      gold-weapons_26: 8865733067915368387
+      gold-weapons_27: 6271771213756453874
+      gold-weapons_28: -6471359234266837958
+      gold-weapons_29: 8683223747756072704
+      gold-weapons_3: 2210483702078467282
+      gold-weapons_30: -6050906573939048973
+      gold-weapons_31: -8580552468826936123
+      gold-weapons_32: -8123818742193405433
+      gold-weapons_33: -7418015008271027852
+      gold-weapons_34: 1504378410544037038
+      gold-weapons_35: -4326994636152675940
+      gold-weapons_36: -6667017234293926446
+      gold-weapons_37: 6838901173528819810
+      gold-weapons_38: 1969747246246123741
+      gold-weapons_39: 501180634233470403
+      gold-weapons_4: 3460831115010701942
+      gold-weapons_40: -8004388646486122631
+      gold-weapons_41: 2567707153473479255
+      gold-weapons_42: -1593200500415492537
+      gold-weapons_43: -4919679175835964102
+      gold-weapons_44: 6802924041777357535
+      gold-weapons_45: -5961481629301535199
+      gold-weapons_46: 1922800221363866481
+      gold-weapons_47: 8756382426516318964
+      gold-weapons_48: 8685134899594422313
+      gold-weapons_49: 2295269140831383492
+      gold-weapons_5: -5986545415610579692
+      gold-weapons_50: 1893261960757571506
+      gold-weapons_51: -1990837666390284220
+      gold-weapons_52: 6926400936164767855
+      gold-weapons_53: 2118241069509231525
+      gold-weapons_54: -4168828082128527982
+      gold-weapons_55: -6186327085895993568
+      gold-weapons_56: -8780686201739336819
+      gold-weapons_57: -1558300662094971625
+      gold-weapons_58: 1214038502288415461
+      gold-weapons_59: -4587590535112690862
+      gold-weapons_6: -2586661507180773294
+      gold-weapons_60: -863062842323169588
+      gold-weapons_61: 5890440736990480630
+      gold-weapons_62: 4633720482336301986
+      gold-weapons_63: 6388404810512469413
+      gold-weapons_64: -8833640968178443678
+      gold-weapons_65: -6568906794552435961
+      gold-weapons_66: -6254484872985194438
+      gold-weapons_67: 5827843312712506769
+      gold-weapons_68: -2870226563727409146
+      gold-weapons_69: 3531717221239560935
+      gold-weapons_7: -4498214908311353761
+      gold-weapons_70: -4632620282924087048
+      gold-weapons_71: 5573329464490209346
+      gold-weapons_72: -3679180459655921046
+      gold-weapons_73: -7730677979063140216
+      gold-weapons_74: 6865990864323785218
+      gold-weapons_75: 7809376963486592200
+      gold-weapons_76: 421772304866624907
+      gold-weapons_77: -4732489465642301017
+      gold-weapons_78: -8289787020405260535
+      gold-weapons_79: 3857315279285857090
+      gold-weapons_8: -1553935593000684742
+      gold-weapons_80: -6645364623025065361
+      gold-weapons_81: 4576580772700846084
+      gold-weapons_82: -2194558455683963032
+      gold-weapons_83: -102890356473425970
+      gold-weapons_84: 2411172305924563803
+      gold-weapons_85: 5411252276296147619
+      gold-weapons_86: 8915179528884182108
+      gold-weapons_87: 3369140258444391067
+      gold-weapons_88: -118121218451804095
+      gold-weapons_89: 1990507978039947536
+      gold-weapons_9: 3472438424519599631
+      gold-weapons_90: -6936535489502238276
+      gold-weapons_91: 4201060964923298171
+      gold-weapons_92: 6800948890676040116
+      gold-weapons_93: -5918832981497412247
+      gold-weapons_94: 6203275751280822924
+      gold-weapons_95: -872815016699007673
+      gold-weapons_96: 2664950393724876607
+      gold-weapons_97: 3265770669868947320
+      gold-weapons_98: -4331765766272022257
+      gold-weapons_99: 6268159461684142598
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

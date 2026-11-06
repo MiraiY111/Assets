@@ -1,0 +1,2914 @@
+fileFormatVersion: 2
+guid: 50dd433e67d0ac947913d343f98ff83c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1166317658637479563
+    second: shadow_atlas_0
+  - first:
+      213: 7552861331438915305
+    second: shadow_atlas_1
+  - first:
+      213: -986963853424666090
+    second: shadow_atlas_2
+  - first:
+      213: -3276171732494767401
+    second: shadow_atlas_3
+  - first:
+      213: 1309516312856252169
+    second: shadow_atlas_4
+  - first:
+      213: 5436166341497493576
+    second: shadow_atlas_5
+  - first:
+      213: -6928016305059987865
+    second: shadow_atlas_6
+  - first:
+      213: 8223343000609906483
+    second: shadow_atlas_7
+  - first:
+      213: 2453469698072933179
+    second: shadow_atlas_8
+  - first:
+      213: 8193415494695734724
+    second: shadow_atlas_9
+  - first:
+      213: 8563864592473069959
+    second: shadow_atlas_10
+  - first:
+      213: -1566390320864151326
+    second: shadow_atlas_11
+  - first:
+      213: -1399327387623778225
+    second: shadow_atlas_12
+  - first:
+      213: -4534062696808080078
+    second: shadow_atlas_13
+  - first:
+      213: -3853559226015917204
+    second: shadow_atlas_14
+  - first:
+      213: -5523592586070680975
+    second: shadow_atlas_15
+  - first:
+      213: 7503540475349390304
+    second: shadow_atlas_16
+  - first:
+      213: 241673938905163908
+    second: shadow_atlas_17
+  - first:
+      213: 3468531501341410348
+    second: shadow_atlas_18
+  - first:
+      213: 8909771925916805353
+    second: shadow_atlas_19
+  - first:
+      213: -8668717747217690432
+    second: shadow_atlas_20
+  - first:
+      213: 894750325501206641
+    second: shadow_atlas_21
+  - first:
+      213: -6527203681873040434
+    second: shadow_atlas_22
+  - first:
+      213: 3521934972781029027
+    second: shadow_atlas_23
+  - first:
+      213: -2641785825137638181
+    second: shadow_atlas_24
+  - first:
+      213: 7670816582431192262
+    second: shadow_atlas_25
+  - first:
+      213: -4452425088674065621
+    second: shadow_atlas_26
+  - first:
+      213: 3088429129408245525
+    second: shadow_atlas_27
+  - first:
+      213: 3632868199289194935
+    second: shadow_atlas_28
+  - first:
+      213: -5060185146006433619
+    second: shadow_atlas_29
+  - first:
+      213: 3353033087198018443
+    second: shadow_atlas_30
+  - first:
+      213: -3112230967671070385
+    second: shadow_atlas_31
+  - first:
+      213: 7791120051813364957
+    second: shadow_atlas_32
+  - first:
+      213: 7650347664704699253
+    second: shadow_atlas_33
+  - first:
+      213: 2589193506497081711
+    second: shadow_atlas_34
+  - first:
+      213: -5075849142645625784
+    second: shadow_atlas_35
+  - first:
+      213: 7333383916382732256
+    second: shadow_atlas_36
+  - first:
+      213: -3988977938255216437
+    second: shadow_atlas_37
+  - first:
+      213: 6146224823623580922
+    second: shadow_atlas_38
+  - first:
+      213: 401147993827032622
+    second: shadow_atlas_39
+  - first:
+      213: 6388343674318659751
+    second: shadow_atlas_40
+  - first:
+      213: 8513894785120533792
+    second: shadow_atlas_41
+  - first:
+      213: -8117741749017987539
+    second: shadow_atlas_42
+  - first:
+      213: -5925909988595832315
+    second: shadow_atlas_43
+  - first:
+      213: -6634200795425581911
+    second: shadow_atlas_44
+  - first:
+      213: -9127462252377287981
+    second: shadow_atlas_45
+  - first:
+      213: -8943459541447018542
+    second: shadow_atlas_46
+  - first:
+      213: 7723644175204789810
+    second: shadow_atlas_47
+  - first:
+      213: -7837287535774685684
+    second: shadow_atlas_48
+  - first:
+      213: 1053025611659527585
+    second: shadow_atlas_49
+  - first:
+      213: 5988596083592087950
+    second: shadow_atlas_50
+  - first:
+      213: -7211829426422055811
+    second: shadow_atlas_51
+  - first:
+      213: 5191949267249614573
+    second: shadow_atlas_52
+  - first:
+      213: -1608231506179625236
+    second: shadow_atlas_53
+  - first:
+      213: -1256827135757312247
+    second: shadow_atlas_54
+  - first:
+      213: -5422977187958957489
+    second: shadow_atlas_55
+  - first:
+      213: -6510459894511643938
+    second: shadow_atlas_56
+  - first:
+      213: 3608459278559309966
+    second: shadow_atlas_57
+  - first:
+      213: 3972027903640724927
+    second: shadow_atlas_58
+  - first:
+      213: 6977260288372501443
+    second: shadow_atlas_59
+  - first:
+      213: 2554380079581055133
+    second: shadow_atlas_60
+  - first:
+      213: -7582416276313520160
+    second: shadow_atlas_61
+  - first:
+      213: 3342054229432602928
+    second: shadow_atlas_62
+  - first:
+      213: 2568071720211770490
+    second: shadow_atlas_63
+  - first:
+      213: 3275536020209368692
+    second: shadow_atlas_64
+  - first:
+      213: 4971575018108162276
+    second: shadow_atlas_65
+  - first:
+      213: 23646890470656304
+    second: shadow_atlas_66
+  - first:
+      213: 5726898512410846545
+    second: shadow_atlas_67
+  - first:
+      213: 4463263193758842188
+    second: shadow_atlas_68
+  - first:
+      213: 6247561657594447736
+    second: shadow_atlas_69
+  - first:
+      213: 6727412852829506184
+    second: shadow_atlas_70
+  - first:
+      213: -6015810687099319650
+    second: shadow_atlas_71
+  - first:
+      213: -2498842215006634909
+    second: shadow_atlas_72
+  - first:
+      213: -4494472820598884072
+    second: shadow_atlas_73
+  - first:
+      213: 3701621623140383175
+    second: shadow_atlas_74
+  - first:
+      213: -8786499004042119675
+    second: shadow_atlas_75
+  - first:
+      213: 5662224827874394523
+    second: shadow_atlas_76
+  - first:
+      213: -3383353926059736073
+    second: shadow_atlas_77
+  - first:
+      213: -3437016908395275387
+    second: shadow_atlas_78
+  - first:
+      213: -1188275894274256141
+    second: shadow_atlas_79
+  - first:
+      213: 5678353297171518459
+    second: shadow_atlas_80
+  - first:
+      213: 3221542587253757138
+    second: shadow_atlas_81
+  - first:
+      213: 6406041888583312224
+    second: shadow_atlas_82
+  - first:
+      213: 3175416131605785007
+    second: shadow_atlas_83
+  - first:
+      213: 609569022296234324
+    second: shadow_atlas_84
+  - first:
+      213: 1103331123293846948
+    second: shadow_atlas_85
+  - first:
+      213: 3309836916677326130
+    second: shadow_atlas_86
+  - first:
+      213: 7831871730353294871
+    second: shadow_atlas_87
+  - first:
+      213: 6714843872626726568
+    second: shadow_atlas_88
+  - first:
+      213: -4240132451490087124
+    second: shadow_atlas_89
+  - first:
+      213: 4740258398072539729
+    second: shadow_atlas_90
+  - first:
+      213: -161271569123095352
+    second: shadow_atlas_91
+  - first:
+      213: 8386117567463716607
+    second: shadow_atlas_92
+  - first:
+      213: 8972671345380418618
+    second: shadow_atlas_93
+  - first:
+      213: -1821694099778423770
+    second: shadow_atlas_94
+  - first:
+      213: 218097937856469330
+    second: shadow_atlas_95
+  - first:
+      213: 3507392141832697083
+    second: shadow_atlas_96
+  - first:
+      213: 473994752416976046
+    second: shadow_atlas_97
+  - first:
+      213: 6125238155310081739
+    second: shadow_atlas_98
+  - first:
+      213: -2727438313956726140
+    second: shadow_atlas_99
+  - first:
+      213: 6601684943079710982
+    second: shadow_atlas_100
+  - first:
+      213: -8127370120579687320
+    second: shadow_atlas_101
+  - first:
+      213: 8366508472844431585
+    second: shadow_atlas_102
+  - first:
+      213: -4126738056475711487
+    second: shadow_atlas_103
+  - first:
+      213: 5415086525809818533
+    second: shadow_atlas_104
+  - first:
+      213: 1513419780331507965
+    second: shadow_atlas_105
+  - first:
+      213: 9163460556640228260
+    second: shadow_atlas_106
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shadow_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1013
+        width: 140
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e2a5a2bb79f2010800000000000000
+      internalID: 1166317658637479563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1013
+        width: 139
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee433a3d5721d860800000000000000
+      internalID: 7552861331438915305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1013
+        width: 138
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ad87eba999d42f0800000000000000
+      internalID: -986963853424666090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1013
+        width: 136
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da297dca23b882d0800000000000000
+      internalID: -3276171732494767401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1013
+        width: 135
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f406ff5265c2210800000000000000
+      internalID: 1309516312856252169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1013
+        width: 135
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84894ec4c74217b40800000000000000
+      internalID: 5436166341497493576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1013
+        width: 137
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ef8c270edbadf90800000000000000
+      internalID: -6928016305059987865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1013
+        width: 139
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f5c81d3ee2f1270800000000000000
+      internalID: 8223343000609906483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 868
+        width: 139
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3372dcf0b97c0220800000000000000
+      internalID: 2453469698072933179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 869
+        width: 140
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd458a5bfbd4b170800000000000000
+      internalID: 8193415494695734724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 869
+        width: 140
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78917ea3975f8d670800000000000000
+      internalID: 8563864592473069959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 868
+        width: 139
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e838416d40134ae0800000000000000
+      internalID: -1566390320864151326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 868
+        width: 137
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f489538a727949ce0800000000000000
+      internalID: -1399327387623778225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 869
+        width: 136
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d976feff5c311c0800000000000000
+      internalID: -4534062696808080078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 869
+        width: 136
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b546c0d48658ac0800000000000000
+      internalID: -3853559226015917204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 868
+        width: 138
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a9647eec14853b0800000000000000
+      internalID: -5523592586070680975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 724
+        width: 150
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e357fe8e4ee12860800000000000000
+      internalID: 7503540475349390304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 724
+        width: 150
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48869efba299a5300800000000000000
+      internalID: 241673938905163908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 725
+        width: 150
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2405bdf503b22030800000000000000
+      internalID: 3468531501341410348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 724
+        width: 150
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8e4025c5ed5ab70800000000000000
+      internalID: 8909771925916805353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 724
+        width: 150
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c017f2432782b780800000000000000
+      internalID: -8668717747217690432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_21
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 724
+        width: 149
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1702a223eaaca6c00800000000000000
+      internalID: 894750325501206641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 725
+        width: 149
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbe55d75d6ba65a0800000000000000
+      internalID: -6527203681873040434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_23
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 724
+        width: 149
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a663ae923d60e030800000000000000
+      internalID: 3521934972781029027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 581
+        width: 138
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd44200f9cd765bd0800000000000000
+      internalID: -2641785825137638181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_25
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 594
+        width: 145
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4bcfc3a07347a60800000000000000
+      internalID: 7670816582431192262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_26
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 623
+        width: 149
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b239b88c8fec532c0800000000000000
+      internalID: -4452425088674065621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_27
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 618
+        width: 150
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fe8541eed4cda20800000000000000
+      internalID: 3088429129408245525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_28
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 590
+        width: 144
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b90276216a8a6230800000000000000
+      internalID: 3632868199289194935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_29
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 581
+        width: 136
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da014927b6c96c9b0800000000000000
+      internalID: -5060185146006433619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 437
+        width: 136
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bb192e3dd588e20800000000000000
+      internalID: 3353033087198018443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_31
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 437
+        width: 132
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41eef89c622fc4d0800000000000000
+      internalID: -3112230967671070385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_32
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 452
+        width: 148
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd432c2786e9f1c60800000000000000
+      internalID: 7791120051813364957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_33
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 457
+        width: 159
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b76f2faae7b2a60800000000000000
+      internalID: 7650347664704699253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_34
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 448
+        width: 161
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61b189a6c9aee320800000000000000
+      internalID: 2589193506497081711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_35
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 436
+        width: 146
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ce2270916fe89b0800000000000000
+      internalID: -5075849142645625784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_36
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 436
+        width: 138
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef3e8961d965c560800000000000000
+      internalID: 7333383916382732256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_37
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 293
+        width: 141
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc08d6d13bd44a8c0800000000000000
+      internalID: -3988977938255216437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_38
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 293
+        width: 141
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc75c9b9e6cb4550800000000000000
+      internalID: 6146224823623580922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_39
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 293
+        width: 147
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ebb6a99f9219500800000000000000
+      internalID: 401147993827032622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_40
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 293
+        width: 141
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0a0e299b4f7a850800000000000000
+      internalID: 6388343674318659751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_41
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 368
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02df822d23e672670800000000000000
+      internalID: 8513894785120533792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_42
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 293
+        width: 159
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26bc6f83ecf75f80800000000000000
+      internalID: -8117741749017987539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_43
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 370
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a6ece1340f2cda0800000000000000
+      internalID: -5925909988595832315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_44
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 293
+        width: 151
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a45b0ca6859ee3a0800000000000000
+      internalID: -6634200795425581911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_45
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 358
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2d34ad07db45180800000000000000
+      internalID: -9127462252377287981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_46
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 363
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7f8f87ee272e380800000000000000
+      internalID: -8943459541447018542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_47
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 368
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ea89aa475ef2b60800000000000000
+      internalID: 7723644175204789810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_48
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 293
+        width: 142
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06ad8b828c5c3390800000000000000
+      internalID: -7837287535774685684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_49
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 358
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5ca52f6391d9e00800000000000000
+      internalID: 1053025611659527585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_50
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 363
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e894dc9b864cb1350800000000000000
+      internalID: 5988596083592087950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_51
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 293
+        width: 142
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c7769b85f6aeb90800000000000000
+      internalID: -7211829426422055811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_52
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 359
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee4346b9528d0840800000000000000
+      internalID: 5191949267249614573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 148
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee629547f96ea9e0800000000000000
+      internalID: -1608231506179625236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 148
+        width: 139
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f1d15016ade8ee0800000000000000
+      internalID: -1256827135757312247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_55
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 148
+        width: 134
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ad8aecaf6bdb4b0800000000000000
+      internalID: -5422977187958957489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_56
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 149
+        width: 137
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2d437483336a5a0800000000000000
+      internalID: -6510459894511643938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_57
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 141
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e807dfc6892d31230800000000000000
+      internalID: 3608459278559309966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_58
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 4
+        width: 141
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5e17a655a7f1730800000000000000
+      internalID: 3972027903640724927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_59
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 5
+        width: 138
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbe1e1e34534d060800000000000000
+      internalID: 6977260288372501443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_60
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 5
+        width: 123
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9843c0162bf27320800000000000000
+      internalID: 2554380079581055133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_61
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 5
+        width: 118
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7413fe198d5c690800000000000000
+      internalID: -7582416276313520160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_62
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 51
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0311c6d5d9c516e20800000000000000
+      internalID: 3342054229432602928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_63
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 43
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ce2f09f9f93a320800000000000000
+      internalID: 2568071720211770490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_64
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 50
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e7395e7aa057d20800000000000000
+      internalID: 3275536020209368692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_65
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 67
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e01b8073259ef440800000000000000
+      internalID: 4971575018108162276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_66
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 58
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039cb8ab8b2045000800000000000000
+      internalID: 23646890470656304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_67
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 31
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15526f8cad70a7f40800000000000000
+      internalID: 5726898512410846545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_68
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 54
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d32133a32b0fd30800000000000000
+      internalID: 4463263193758842188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_69
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 31
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87784410a3cc3b650800000000000000
+      internalID: 6247561657594447736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_70
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 70
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88acc46a8529c5d50800000000000000
+      internalID: 6727412852829506184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_71
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 73
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a427f9d0c838ca0800000000000000
+      internalID: -6015810687099319650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_72
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 50
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c77c0be34525dd0800000000000000
+      internalID: -2498842215006634909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_73
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 65
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8193e8b48cc60a1c0800000000000000
+      internalID: -4494472820598884072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_74
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 37
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9ff24114dce5330800000000000000
+      internalID: 3701621623140383175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_75
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 50
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506febc65b5101680800000000000000
+      internalID: -8786499004042119675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_76
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 62
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91c9df2b73449e40800000000000000
+      internalID: 5662224827874394523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_77
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 43
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f349cfa789eb01d0800000000000000
+      internalID: -3383353926059736073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_78
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 42
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b9618f4534d40d0800000000000000
+      internalID: -3437016908395275387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_79
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 35
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f29f92be55628fe0800000000000000
+      internalID: -1188275894274256141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_80
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 25
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf393131d309dce40800000000000000
+      internalID: 5678353297171518459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_81
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 33
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d49d062ae735bc20800000000000000
+      internalID: 3221542587253757138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_82
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 29
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063e7413825d6e850800000000000000
+      internalID: 6406041888583312224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_83
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 41
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9686ac528511c20800000000000000
+      internalID: 3175416131605785007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_84
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 33
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4599c00dbcf957800800000000000000
+      internalID: 609569022296234324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_85
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 37
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adff899fc1df4f00800000000000000
+      internalID: 1103331123293846948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_86
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 26
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235b603b327eeed20800000000000000
+      internalID: 3309836916677326130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_87
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 17
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ec12ef7d560bc60800000000000000
+      internalID: 7831871730353294871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_88
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 18
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6df16eceaef2d50800000000000000
+      internalID: 6714843872626726568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_89
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 23
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fb35420060825c0800000000000000
+      internalID: -4240132451490087124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_90
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 5
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a0da8e5e7c8c140800000000000000
+      internalID: 4740258398072539729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_91
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 26
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc4c02cc5c03cdf0800000000000000
+      internalID: -161271569123095352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_92
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 15
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6765dfe79716470800000000000000
+      internalID: 8386117567463716607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_93
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 22
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34e9b3ac05558c70800000000000000
+      internalID: 8972671345380418618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_94
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 14
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62438453eda08b6e0800000000000000
+      internalID: -1821694099778423770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_95
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 21
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2591e204be6d60300800000000000000
+      internalID: 218097937856469330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_96
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 10
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf43fede192cca030800000000000000
+      internalID: 3507392141832697083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_97
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 14
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac863b47b7f39600800000000000000
+      internalID: 473994752416976046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_98
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 7
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc62deb36a7310550800000000000000
+      internalID: 6125238155310081739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_99
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 15
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48aa1d5dd41362ad0800000000000000
+      internalID: -2727438313956726140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_100
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 10
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601af4f7a75ed9b50800000000000000
+      internalID: 6601684943079710982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_101
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 14
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c59bc9fe7c53f80800000000000000
+      internalID: -8127370120579687320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_102
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 5
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0303ed02fcb1470800000000000000
+      internalID: 8366508472844431585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_103
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 14
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108edae1a91eab6c0800000000000000
+      internalID: -4126738056475711487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_104
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 15
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abf5ee3180462b40800000000000000
+      internalID: 5415086525809818533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_105
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 6
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df095b2954fb00510800000000000000
+      internalID: 1513419780331507965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_atlas_106
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 9
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a318df73d62b2f70800000000000000
+      internalID: 9163460556640228260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      shadow_atlas_0: 1166317658637479563
+      shadow_atlas_1: 7552861331438915305
+      shadow_atlas_10: 8563864592473069959
+      shadow_atlas_100: 6601684943079710982
+      shadow_atlas_101: -8127370120579687320
+      shadow_atlas_102: 8366508472844431585
+      shadow_atlas_103: -4126738056475711487
+      shadow_atlas_104: 5415086525809818533
+      shadow_atlas_105: 1513419780331507965
+      shadow_atlas_106: 9163460556640228260
+      shadow_atlas_11: -1566390320864151326
+      shadow_atlas_12: -1399327387623778225
+      shadow_atlas_13: -4534062696808080078
+      shadow_atlas_14: -3853559226015917204
+      shadow_atlas_15: -5523592586070680975
+      shadow_atlas_16: 7503540475349390304
+      shadow_atlas_17: 241673938905163908
+      shadow_atlas_18: 3468531501341410348
+      shadow_atlas_19: 8909771925916805353
+      shadow_atlas_2: -986963853424666090
+      shadow_atlas_20: -8668717747217690432
+      shadow_atlas_21: 894750325501206641
+      shadow_atlas_22: -6527203681873040434
+      shadow_atlas_23: 3521934972781029027
+      shadow_atlas_24: -2641785825137638181
+      shadow_atlas_25: 7670816582431192262
+      shadow_atlas_26: -4452425088674065621
+      shadow_atlas_27: 3088429129408245525
+      shadow_atlas_28: 3632868199289194935
+      shadow_atlas_29: -5060185146006433619
+      shadow_atlas_3: -3276171732494767401
+      shadow_atlas_30: 3353033087198018443
+      shadow_atlas_31: -3112230967671070385
+      shadow_atlas_32: 7791120051813364957
+      shadow_atlas_33: 7650347664704699253
+      shadow_atlas_34: 2589193506497081711
+      shadow_atlas_35: -5075849142645625784
+      shadow_atlas_36: 7333383916382732256
+      shadow_atlas_37: -3988977938255216437
+      shadow_atlas_38: 6146224823623580922
+      shadow_atlas_39: 401147993827032622
+      shadow_atlas_4: 1309516312856252169
+      shadow_atlas_40: 6388343674318659751
+      shadow_atlas_41: 8513894785120533792
+      shadow_atlas_42: -8117741749017987539
+      shadow_atlas_43: -5925909988595832315
+      shadow_atlas_44: -6634200795425581911
+      shadow_atlas_45: -9127462252377287981
+      shadow_atlas_46: -8943459541447018542
+      shadow_atlas_47: 7723644175204789810
+      shadow_atlas_48: -7837287535774685684
+      shadow_atlas_49: 1053025611659527585
+      shadow_atlas_5: 5436166341497493576
+      shadow_atlas_50: 5988596083592087950
+      shadow_atlas_51: -7211829426422055811
+      shadow_atlas_52: 5191949267249614573
+      shadow_atlas_53: -1608231506179625236
+      shadow_atlas_54: -1256827135757312247
+      shadow_atlas_55: -5422977187958957489
+      shadow_atlas_56: -6510459894511643938
+      shadow_atlas_57: 3608459278559309966
+      shadow_atlas_58: 3972027903640724927
+      shadow_atlas_59: 6977260288372501443
+      shadow_atlas_6: -6928016305059987865
+      shadow_atlas_60: 2554380079581055133
+      shadow_atlas_61: -7582416276313520160
+      shadow_atlas_62: 3342054229432602928
+      shadow_atlas_63: 2568071720211770490
+      shadow_atlas_64: 3275536020209368692
+      shadow_atlas_65: 4971575018108162276
+      shadow_atlas_66: 23646890470656304
+      shadow_atlas_67: 5726898512410846545
+      shadow_atlas_68: 4463263193758842188
+      shadow_atlas_69: 6247561657594447736
+      shadow_atlas_7: 8223343000609906483
+      shadow_atlas_70: 6727412852829506184
+      shadow_atlas_71: -6015810687099319650
+      shadow_atlas_72: -2498842215006634909
+      shadow_atlas_73: -4494472820598884072
+      shadow_atlas_74: 3701621623140383175
+      shadow_atlas_75: -8786499004042119675
+      shadow_atlas_76: 5662224827874394523
+      shadow_atlas_77: -3383353926059736073
+      shadow_atlas_78: -3437016908395275387
+      shadow_atlas_79: -1188275894274256141
+      shadow_atlas_8: 2453469698072933179
+      shadow_atlas_80: 5678353297171518459
+      shadow_atlas_81: 3221542587253757138
+      shadow_atlas_82: 6406041888583312224
+      shadow_atlas_83: 3175416131605785007
+      shadow_atlas_84: 609569022296234324
+      shadow_atlas_85: 1103331123293846948
+      shadow_atlas_86: 3309836916677326130
+      shadow_atlas_87: 7831871730353294871
+      shadow_atlas_88: 6714843872626726568
+      shadow_atlas_89: -4240132451490087124
+      shadow_atlas_9: 8193415494695734724
+      shadow_atlas_90: 4740258398072539729
+      shadow_atlas_91: -161271569123095352
+      shadow_atlas_92: 8386117567463716607
+      shadow_atlas_93: 8972671345380418618
+      shadow_atlas_94: -1821694099778423770
+      shadow_atlas_95: 218097937856469330
+      shadow_atlas_96: 3507392141832697083
+      shadow_atlas_97: 473994752416976046
+      shadow_atlas_98: 6125238155310081739
+      shadow_atlas_99: -2727438313956726140
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

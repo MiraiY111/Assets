@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: e8b767bf8feb4864ba5cf5f690d6bf62
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1235290987911143222
+    second: foxfire_sheet_0
+  - first:
+      213: 2028628652083158783
+    second: foxfire_sheet_1
+  - first:
+      213: 3793537065106734245
+    second: foxfire_sheet_2
+  - first:
+      213: -5342676555982077674
+    second: foxfire_sheet_3
+  - first:
+      213: 5550492425996423825
+    second: foxfire_sheet_4
+  - first:
+      213: 5450180907286383108
+    second: foxfire_sheet_5
+  - first:
+      213: 9198730242161652876
+    second: foxfire_sheet_6
+  - first:
+      213: -3258211777975077936
+    second: foxfire_sheet_7
+  - first:
+      213: 6152574251537605584
+    second: foxfire_sheet_8
+  - first:
+      213: 3524714920992985293
+    second: foxfire_sheet_9
+  - first:
+      213: 4134249631132288942
+    second: foxfire_sheet_10
+  - first:
+      213: 1706523569471305847
+    second: foxfire_sheet_11
+  - first:
+      213: -6359236955568787427
+    second: foxfire_sheet_12
+  - first:
+      213: 4035756444093320
+    second: foxfire_sheet_13
+  - first:
+      213: 2429549333684240710
+    second: foxfire_sheet_14
+  - first:
+      213: -8231416186381368062
+    second: foxfire_sheet_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: foxfire_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5
+        width: 141
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0a05f246d5bdee0800000000000000
+      internalID: -1235290987911143222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxfire_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 5
+        width: 141
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe989cc203272c10800000000000000
+      internalID: 2028628652083158783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxfire_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 5
+        width: 147
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acf6f79cd955a430800000000000000
+      internalID: 3793537065106734245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxfire_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 5
+        width: 141
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61181e2aafffad5b0800000000000000
+      internalID: -5342676555982077674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxfire_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 80
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1925304247f470d40800000000000000
+      internalID: 5550492425996423825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxfire_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 5
+        width: 159
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40acb6ca8aee2ab40800000000000000
+      internalID: 5450180907286383108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxfire_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 82
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8430b41b6478af70800000000000000
+      internalID: 9198730242161652876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxfire_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 5
+        width: 151
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d33dc296a188c2d0800000000000000
+      internalID: -3258211777975077936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxfire_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 70
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d32d1d1fa5526550800000000000000
+      internalID: 6152574251537605584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxfire_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 75
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc05e40cb8d4ae030800000000000000
+      internalID: 3524714920992985293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxfire_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 80
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea70e64a22ecf5930800000000000000
+      internalID: 4134249631132288942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxfire_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 5
+        width: 142
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7783b27152acea710800000000000000
+      internalID: 1706523569471305847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxfire_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 70
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1039cc7ea37fb7a0800000000000000
+      internalID: -6359236955568787427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxfire_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 75
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b0045cf765e0000800000000000000
+      internalID: 4035756444093320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxfire_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 5
+        width: 142
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64149862f3e77b120800000000000000
+      internalID: 2429549333684240710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxfire_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 71
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2058654279224cd80800000000000000
+      internalID: -8231416186381368062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      foxfire_sheet_0: -1235290987911143222
+      foxfire_sheet_1: 2028628652083158783
+      foxfire_sheet_10: 4134249631132288942
+      foxfire_sheet_11: 1706523569471305847
+      foxfire_sheet_12: -6359236955568787427
+      foxfire_sheet_13: 4035756444093320
+      foxfire_sheet_14: 2429549333684240710
+      foxfire_sheet_15: -8231416186381368062
+      foxfire_sheet_2: 3793537065106734245
+      foxfire_sheet_3: -5342676555982077674
+      foxfire_sheet_4: 5550492425996423825
+      foxfire_sheet_5: 5450180907286383108
+      foxfire_sheet_6: 9198730242161652876
+      foxfire_sheet_7: -3258211777975077936
+      foxfire_sheet_8: 6152574251537605584
+      foxfire_sheet_9: 3524714920992985293
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

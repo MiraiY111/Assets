@@ -1,0 +1,3174 @@
+fileFormatVersion: 2
+guid: 8584b8e8e34fe374c9d24f91135b5818
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4580270499566038185
+    second: frost_atlas_0
+  - first:
+      213: -4309726312064941471
+    second: frost_atlas_1
+  - first:
+      213: -7936814614826439369
+    second: frost_atlas_2
+  - first:
+      213: 6706896130540160641
+    second: frost_atlas_3
+  - first:
+      213: 1806611288863698383
+    second: frost_atlas_4
+  - first:
+      213: -1666601656695697147
+    second: frost_atlas_5
+  - first:
+      213: -8010390836967333175
+    second: frost_atlas_6
+  - first:
+      213: 222757697519394160
+    second: frost_atlas_7
+  - first:
+      213: -2577768370743915114
+    second: frost_atlas_8
+  - first:
+      213: 7302628359978435073
+    second: frost_atlas_9
+  - first:
+      213: -7571784230861586482
+    second: frost_atlas_10
+  - first:
+      213: 5897046913482774289
+    second: frost_atlas_11
+  - first:
+      213: 3434139065914403251
+    second: frost_atlas_12
+  - first:
+      213: -1139268639200686717
+    second: frost_atlas_13
+  - first:
+      213: 2469547362626599955
+    second: frost_atlas_14
+  - first:
+      213: -1932953633219928111
+    second: frost_atlas_15
+  - first:
+      213: 337530046414250750
+    second: frost_atlas_16
+  - first:
+      213: 5932257755600478029
+    second: frost_atlas_17
+  - first:
+      213: 3304248273061076266
+    second: frost_atlas_18
+  - first:
+      213: -149127946605436217
+    second: frost_atlas_19
+  - first:
+      213: -1749317713871429626
+    second: frost_atlas_20
+  - first:
+      213: -1530355588264831284
+    second: frost_atlas_21
+  - first:
+      213: 2520996895853147156
+    second: frost_atlas_22
+  - first:
+      213: 7552020848590465523
+    second: frost_atlas_23
+  - first:
+      213: 4084554791640133884
+    second: frost_atlas_24
+  - first:
+      213: 1438341275718857101
+    second: frost_atlas_25
+  - first:
+      213: -7229773004764101780
+    second: frost_atlas_26
+  - first:
+      213: -3125830548492193709
+    second: frost_atlas_27
+  - first:
+      213: -1986835492873594518
+    second: frost_atlas_28
+  - first:
+      213: -6247850372624485422
+    second: frost_atlas_29
+  - first:
+      213: -6869541211510207641
+    second: frost_atlas_30
+  - first:
+      213: 5458220691604808464
+    second: frost_atlas_31
+  - first:
+      213: -5210743626565321181
+    second: frost_atlas_32
+  - first:
+      213: -174822408049006026
+    second: frost_atlas_33
+  - first:
+      213: -6707186687491311377
+    second: frost_atlas_34
+  - first:
+      213: -6957706176371554456
+    second: frost_atlas_35
+  - first:
+      213: -8981039891324746918
+    second: frost_atlas_36
+  - first:
+      213: -8879173952495167172
+    second: frost_atlas_37
+  - first:
+      213: 6676522185173564586
+    second: frost_atlas_38
+  - first:
+      213: 1629835049160381739
+    second: frost_atlas_39
+  - first:
+      213: -2447091661151206582
+    second: frost_atlas_40
+  - first:
+      213: -8366094390361482638
+    second: frost_atlas_41
+  - first:
+      213: -3940492887587096065
+    second: frost_atlas_42
+  - first:
+      213: 3442442793980681176
+    second: frost_atlas_43
+  - first:
+      213: 7135798236031090075
+    second: frost_atlas_44
+  - first:
+      213: 3049795134989419006
+    second: frost_atlas_45
+  - first:
+      213: 1616205723395771713
+    second: frost_atlas_46
+  - first:
+      213: 7953120627311357812
+    second: frost_atlas_47
+  - first:
+      213: -5733407081808777418
+    second: frost_atlas_48
+  - first:
+      213: -6359101380979958784
+    second: frost_atlas_49
+  - first:
+      213: 4752333366535314187
+    second: frost_atlas_50
+  - first:
+      213: 4373602128877155223
+    second: frost_atlas_51
+  - first:
+      213: -4474694075970043179
+    second: frost_atlas_52
+  - first:
+      213: -4369974553140884023
+    second: frost_atlas_53
+  - first:
+      213: -8836399706391188079
+    second: frost_atlas_54
+  - first:
+      213: -2485315539211527321
+    second: frost_atlas_55
+  - first:
+      213: 3456038845270545729
+    second: frost_atlas_56
+  - first:
+      213: 3824116759664535545
+    second: frost_atlas_57
+  - first:
+      213: -9108011965677337166
+    second: frost_atlas_58
+  - first:
+      213: 2667467492123851292
+    second: frost_atlas_59
+  - first:
+      213: -1441207715537781211
+    second: frost_atlas_60
+  - first:
+      213: 6340531411992976539
+    second: frost_atlas_61
+  - first:
+      213: -9013392750536276300
+    second: frost_atlas_62
+  - first:
+      213: -3632956990567565813
+    second: frost_atlas_63
+  - first:
+      213: 7079541517005081801
+    second: frost_atlas_64
+  - first:
+      213: 6451646332236369073
+    second: frost_atlas_65
+  - first:
+      213: 239162000492887968
+    second: frost_atlas_66
+  - first:
+      213: -1506502906901425422
+    second: frost_atlas_67
+  - first:
+      213: -5613672531966369958
+    second: frost_atlas_68
+  - first:
+      213: 8394698215303270355
+    second: frost_atlas_69
+  - first:
+      213: 9025371405468734075
+    second: frost_atlas_70
+  - first:
+      213: -476417732286696018
+    second: frost_atlas_71
+  - first:
+      213: -1460476963120016771
+    second: frost_atlas_72
+  - first:
+      213: -6696472332370534239
+    second: frost_atlas_73
+  - first:
+      213: 7899270463540858711
+    second: frost_atlas_74
+  - first:
+      213: -4861791849035240799
+    second: frost_atlas_75
+  - first:
+      213: 750415671379462081
+    second: frost_atlas_76
+  - first:
+      213: -3537173508035562019
+    second: frost_atlas_77
+  - first:
+      213: -3653815805552474590
+    second: frost_atlas_78
+  - first:
+      213: -2535912241408014539
+    second: frost_atlas_79
+  - first:
+      213: -829079988823344922
+    second: frost_atlas_80
+  - first:
+      213: 4978653780241755053
+    second: frost_atlas_81
+  - first:
+      213: -3186005748314157247
+    second: frost_atlas_82
+  - first:
+      213: 6145852090790282896
+    second: frost_atlas_83
+  - first:
+      213: -8997489616104978999
+    second: frost_atlas_84
+  - first:
+      213: 5549354444314774431
+    second: frost_atlas_85
+  - first:
+      213: 6826237763395152779
+    second: frost_atlas_86
+  - first:
+      213: -1435304779488334930
+    second: frost_atlas_87
+  - first:
+      213: 5660669263839906770
+    second: frost_atlas_88
+  - first:
+      213: -5886650076892238068
+    second: frost_atlas_89
+  - first:
+      213: 5887380871015926764
+    second: frost_atlas_90
+  - first:
+      213: 1986975965989491327
+    second: frost_atlas_91
+  - first:
+      213: 650655022253888294
+    second: frost_atlas_92
+  - first:
+      213: 4979340871270780289
+    second: frost_atlas_93
+  - first:
+      213: -8358935260335470779
+    second: frost_atlas_94
+  - first:
+      213: -7444881434952382906
+    second: frost_atlas_95
+  - first:
+      213: -7987605197700326329
+    second: frost_atlas_96
+  - first:
+      213: -3572749709811210293
+    second: frost_atlas_97
+  - first:
+      213: -5964286572956675526
+    second: frost_atlas_98
+  - first:
+      213: 8718673008754682153
+    second: frost_atlas_99
+  - first:
+      213: 5379430070906939963
+    second: frost_atlas_100
+  - first:
+      213: 8040567943524716221
+    second: frost_atlas_101
+  - first:
+      213: 918743340048877767
+    second: frost_atlas_102
+  - first:
+      213: 653644422195005371
+    second: frost_atlas_103
+  - first:
+      213: -1938885981749550202
+    second: frost_atlas_104
+  - first:
+      213: -8356737309811396596
+    second: frost_atlas_105
+  - first:
+      213: -5152661041115389813
+    second: frost_atlas_106
+  - first:
+      213: 3215728290972379064
+    second: frost_atlas_107
+  - first:
+      213: -4731390319447261671
+    second: frost_atlas_108
+  - first:
+      213: -6848366772103508111
+    second: frost_atlas_109
+  - first:
+      213: -1882482428867045529
+    second: frost_atlas_110
+  - first:
+      213: 3290938955800668188
+    second: frost_atlas_111
+  - first:
+      213: 5567273607734776380
+    second: frost_atlas_112
+  - first:
+      213: -3734170417372825227
+    second: frost_atlas_113
+  - first:
+      213: -8012558109173497762
+    second: frost_atlas_114
+  - first:
+      213: -2511634469883338775
+    second: frost_atlas_115
+  - first:
+      213: 6060690283384078000
+    second: frost_atlas_116
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: frost_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1107
+        width: 92
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aca5d580c3609f30800000000000000
+      internalID: 4580270499566038185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1208
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162073ac0c6c034c0800000000000000
+      internalID: -4309726312064941471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1107
+        width: 91
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d242ba825cad190800000000000000
+      internalID: -7936814614826439369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1204
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186c94efe7ea31d50800000000000000
+      internalID: 6706896130540160641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1107
+        width: 90
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd6ee7356f521910800000000000000
+      internalID: 1806611288863698383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1202
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501539e8f9a0fd8e0800000000000000
+      internalID: -1666601656695697147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1107
+        width: 89
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2a48289ff55d090800000000000000
+      internalID: -8010390836967333175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1202
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d90a712f4671300800000000000000
+      internalID: 222757697519394160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1107
+        width: 89
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d429c035de93cd0800000000000000
+      internalID: -2577768370743915114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1204
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102453b6dc5285560800000000000000
+      internalID: 7302628359978435073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1107
+        width: 91
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf379beb5e9be690800000000000000
+      internalID: -7571784230861586482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1207
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11754f58ce486d150800000000000000
+      internalID: 5897046913482774289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 1107
+        width: 92
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9ae1d194388af20800000000000000
+      internalID: 3434139065914403251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1210
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d43b075318030f0800000000000000
+      internalID: -1139268639200686717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1107
+        width: 92
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c7c59fd38954220800000000000000
+      internalID: 2469547362626599955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1210
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df10ac69e4cc25e0800000000000000
+      internalID: -1932953633219928111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 923
+        width: 88
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2ea85f9c52fa400800000000000000
+      internalID: 337530046414250750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 923
+        width: 76
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f5f9e8ffc935250800000000000000
+      internalID: 5932257755600478029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1054
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2dd0853c4c0bdd20800000000000000
+      internalID: 3304248273061076266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 923
+        width: 82
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2ef743ce03eedf0800000000000000
+      internalID: -149127946605436217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1054
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6002569becc29b7e0800000000000000
+      internalID: -1749317713871429626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_21
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 923
+        width: 84
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6d07d53b513cae0800000000000000
+      internalID: -1530355588264831284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1050
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4147039e1516cf220800000000000000
+      internalID: 2520996895853147156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_23
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 923
+        width: 89
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9249013fa2ec860800000000000000
+      internalID: 7552020848590465523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 923
+        width: 111
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0745d21f04fa830800000000000000
+      internalID: 4084554791640133884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_25
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 923
+        width: 114
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81310505c306f310800000000000000
+      internalID: 1438341275718857101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_26
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 923
+        width: 103
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63c354d1cfaaab90800000000000000
+      internalID: -7229773004764101780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_27
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1023
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350fe017da1de94d0800000000000000
+      internalID: -3125830548492193709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_28
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1022
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69912c55a75d64e0800000000000000
+      internalID: -1986835492873594518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_29
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1022
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3fce9403d2b49a0800000000000000
+      internalID: -6247850372624485422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_30
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1020
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b070e1aac7aa0a0800000000000000
+      internalID: -6869541211510207641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_31
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1019
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013aac4dcce7fbb40800000000000000
+      internalID: 5458220691604808464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 739
+        width: 90
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e71f28748bfa7b0800000000000000
+      internalID: -5210743626565321181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_33
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 865
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ae57532f7e29df0800000000000000
+      internalID: -174822408049006026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_34
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 739
+        width: 89
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8f9d17e394be2a0800000000000000
+      internalID: -6707186687491311377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_35
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 739
+        width: 82
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86705d99813417f90800000000000000
+      internalID: -6957706176371554456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_36
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 870
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53c9fb6dcfec5380800000000000000
+      internalID: -8981039891324746918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_37
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 739
+        width: 113
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39df968556d6c480800000000000000
+      internalID: -8879173952495167172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_38
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 739
+        width: 83
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacf84ebd85c7ac50800000000000000
+      internalID: 6676522185173564586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_39
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 860
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b259fab87565e9610800000000000000
+      internalID: 1629835049160381739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_40
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 739
+        width: 87
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a430344791f2a0ed0800000000000000
+      internalID: -2447091661151206582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_41
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 738
+        width: 96
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a9d193a79a5eb80800000000000000
+      internalID: -8366094390361482638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_42
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 865
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9fa6ba89e8059c0800000000000000
+      internalID: -3940492887587096065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_43
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 737
+        width: 105
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db52d67b7306cf20800000000000000
+      internalID: 3442442793980681176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_44
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 836
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9dfd7740b2770360800000000000000
+      internalID: 7135798236031090075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_45
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 839
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef142ca448c035a20800000000000000
+      internalID: 3049795134989419006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_46
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 838
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d45fada8aed6610800000000000000
+      internalID: 1616205723395771713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_47
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 832
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fa9b6b2192f5e60800000000000000
+      internalID: 7953120627311357812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_48
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 836
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f2410d2a8de60b0800000000000000
+      internalID: -5733407081808777418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_49
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 840
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c5ef76cfeefb7a0800000000000000
+      internalID: -6359101380979958784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_50
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 841
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bd296940ea3f140800000000000000
+      internalID: 4752333366535314187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_51
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 746
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7937d90c6f722bc30800000000000000
+      internalID: 4373602128877155223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_52
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 755
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2c2432271b6e1c0800000000000000
+      internalID: -4474694075970043179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_53
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 746
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd8a8a0c4bba53c0800000000000000
+      internalID: -4369974553140884023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_54
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 749
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19def27c84dce5580800000000000000
+      internalID: -8836399706391188079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_55
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 751
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bd9825fa2628dd0800000000000000
+      internalID: -2485315539211527321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_56
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 555
+        width: 93
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1455d46d40156ff20800000000000000
+      internalID: 3456038845270545729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_57
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 685
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f72c6f8eedf11530800000000000000
+      internalID: 3824116759664535545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_58
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 555
+        width: 93
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b58bcf9f57d99180800000000000000
+      internalID: -9108011965677337166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_59
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 685
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ab1fd1d8fb40520800000000000000
+      internalID: 2667467492123851292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_60
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 555
+        width: 100
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e71d3f73dcffbe0800000000000000
+      internalID: -1441207715537781211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_61
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 555
+        width: 100
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c1c03c9b71ef750800000000000000
+      internalID: 6340531411992976539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_62
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 555
+        width: 79
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b644336c0ff9e280800000000000000
+      internalID: -9013392750536276300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_63
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 680
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06b2f48dd4259dc0800000000000000
+      internalID: -3632956990567565813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_64
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 555
+        width: 89
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccc7bd20859f3260800000000000000
+      internalID: 7079541517005081801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_65
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 656
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc8669282ad88950800000000000000
+      internalID: 6451646332236369073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_66
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 653
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af7623829ca15300800000000000000
+      internalID: 239162000492887968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_67
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 651
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f21c058693d71be0800000000000000
+      internalID: -1506502906901425422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_68
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 653
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fd6ce139a3812b0800000000000000
+      internalID: -5613672531966369958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_69
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 371
+        width: 102
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfc1cfbc85ff7470800000000000000
+      internalID: 8394698215303270355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_70
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 371
+        width: 111
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b729eec897f804d70800000000000000
+      internalID: 9025371405468734075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_71
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 371
+        width: 119
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5ba5eb89c6369f0800000000000000
+      internalID: -476417732286696018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_72
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 371
+        width: 119
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d721792a0f75bbbe0800000000000000
+      internalID: -1460476963120016771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_73
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 371
+        width: 163
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0a2d4a4e95113a0800000000000000
+      internalID: -6696472332370534239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_74
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 371
+        width: 178
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f861c62a8df9d60800000000000000
+      internalID: 7899270463540858711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_75
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 371
+        width: 165
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa6d5a7212778cb0800000000000000
+      internalID: -4861791849035240799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_76
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 371
+        width: 170
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c78576c3130a6a00800000000000000
+      internalID: 750415671379462081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_77
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 371
+        width: 84
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd53e986f6f69eec0800000000000000
+      internalID: -3537173508035562019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_78
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 501
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226465332e90b4dc0800000000000000
+      internalID: -3653815805552474590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_79
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 467
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5378f459041aeccd0800000000000000
+      internalID: -2535912241408014539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_80
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 469
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8bccf84248e74f0800000000000000
+      internalID: -829079988823344922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_81
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 448
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab27fe2c3bb71540800000000000000
+      internalID: 4978653780241755053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_82
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 449
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fc16fe6a809c3d0800000000000000
+      internalID: -3186005748314157247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_83
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 450
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09685a91ae37a4550800000000000000
+      internalID: 6145852090790282896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_84
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 451
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c50cc96dde722380800000000000000
+      internalID: -8997489616104978999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_85
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 187
+        width: 91
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b0e122774430d40800000000000000
+      internalID: 5549354444314774431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_86
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 317
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b668f241babbe50800000000000000
+      internalID: 6826237763395152779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_87
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 187
+        width: 93
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab6d2a58e5c41ce0800000000000000
+      internalID: -1435304779488334930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_88
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 315
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db462634bcbe8e40800000000000000
+      internalID: 5660669263839906770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_89
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 187
+        width: 90
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fefc1a1fa6e4ea0800000000000000
+      internalID: -5886650076892238068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_90
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 313
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb8552a5bd24b150800000000000000
+      internalID: 5887380871015926764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_91
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 187
+        width: 88
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72da061d18239b10800000000000000
+      internalID: 1986975965989491327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_92
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 312
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62354c0ab47970900800000000000000
+      internalID: 650655022253888294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_93
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 287
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18dcda7042c2a1540800000000000000
+      internalID: 4979340871270780289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_94
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 283
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54787331ba81ffb80800000000000000
+      internalID: -8358935260335470779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_95
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 282
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64643c297c77ea890800000000000000
+      internalID: -7444881434952382906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_96
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 284
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c12019463562190800000000000000
+      internalID: -7987605197700326329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_97
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 3
+        width: 82
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7a253711b0b6ec0800000000000000
+      internalID: -3572749709811210293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_98
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 133
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32194846f89a3da0800000000000000
+      internalID: -5964286572956675526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_99
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 3
+        width: 86
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929eb9f68e2fef870800000000000000
+      internalID: 8718673008754682153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_100
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 128
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a6676e52397aa40800000000000000
+      internalID: 5379430070906939963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_101
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 3
+        width: 90
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe0f22a1f5d59f60800000000000000
+      internalID: 8040567943524716221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_102
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 119
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c88e57333800cc00800000000000000
+      internalID: 918743340048877767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_103
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 104
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7495a8326321900800000000000000
+      internalID: 653644422195005371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_104
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 99
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68365d5e871b715e0800000000000000
+      internalID: -1938885981749550202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_105
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 90
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00307f41b7e60c80800000000000000
+      internalID: -8356737309811396596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_106
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 3
+        width: 95
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80a25445121e78b0800000000000000
+      internalID: -5152661041115389813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_107
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 109
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7259dc7df80ac20800000000000000
+      internalID: 3215728290972379064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_108
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 111
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ebf9b8299b65eb0800000000000000
+      internalID: -4731390319447261671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_109
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 82
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f8e2974b6b5f0a0800000000000000
+      internalID: -6848366772103508111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_110
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 11
+        width: 120
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767177b643410e5e0800000000000000
+      internalID: -1882482428867045529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_111
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 25
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c186efd4b83cbad20800000000000000
+      internalID: 3290938955800668188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_112
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 9
+        width: 134
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32507c79dde24d40800000000000000
+      internalID: 5567273607734776380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_113
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 5
+        width: 143
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57978b53acf8d2cc0800000000000000
+      internalID: -3734170417372825227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_114
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 5
+        width: 143
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50c9802adcadc090800000000000000
+      internalID: -8012558109173497762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_115
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 12
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef1af0c1c1e42dd0800000000000000
+      internalID: -2511634469883338775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_atlas_116
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 12
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bef4caa3b5eb1450800000000000000
+      internalID: 6060690283384078000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      frost_atlas_0: 4580270499566038185
+      frost_atlas_1: -4309726312064941471
+      frost_atlas_10: -7571784230861586482
+      frost_atlas_100: 5379430070906939963
+      frost_atlas_101: 8040567943524716221
+      frost_atlas_102: 918743340048877767
+      frost_atlas_103: 653644422195005371
+      frost_atlas_104: -1938885981749550202
+      frost_atlas_105: -8356737309811396596
+      frost_atlas_106: -5152661041115389813
+      frost_atlas_107: 3215728290972379064
+      frost_atlas_108: -4731390319447261671
+      frost_atlas_109: -6848366772103508111
+      frost_atlas_11: 5897046913482774289
+      frost_atlas_110: -1882482428867045529
+      frost_atlas_111: 3290938955800668188
+      frost_atlas_112: 5567273607734776380
+      frost_atlas_113: -3734170417372825227
+      frost_atlas_114: -8012558109173497762
+      frost_atlas_115: -2511634469883338775
+      frost_atlas_116: 6060690283384078000
+      frost_atlas_12: 3434139065914403251
+      frost_atlas_13: -1139268639200686717
+      frost_atlas_14: 2469547362626599955
+      frost_atlas_15: -1932953633219928111
+      frost_atlas_16: 337530046414250750
+      frost_atlas_17: 5932257755600478029
+      frost_atlas_18: 3304248273061076266
+      frost_atlas_19: -149127946605436217
+      frost_atlas_2: -7936814614826439369
+      frost_atlas_20: -1749317713871429626
+      frost_atlas_21: -1530355588264831284
+      frost_atlas_22: 2520996895853147156
+      frost_atlas_23: 7552020848590465523
+      frost_atlas_24: 4084554791640133884
+      frost_atlas_25: 1438341275718857101
+      frost_atlas_26: -7229773004764101780
+      frost_atlas_27: -3125830548492193709
+      frost_atlas_28: -1986835492873594518
+      frost_atlas_29: -6247850372624485422
+      frost_atlas_3: 6706896130540160641
+      frost_atlas_30: -6869541211510207641
+      frost_atlas_31: 5458220691604808464
+      frost_atlas_32: -5210743626565321181
+      frost_atlas_33: -174822408049006026
+      frost_atlas_34: -6707186687491311377
+      frost_atlas_35: -6957706176371554456
+      frost_atlas_36: -8981039891324746918
+      frost_atlas_37: -8879173952495167172
+      frost_atlas_38: 6676522185173564586
+      frost_atlas_39: 1629835049160381739
+      frost_atlas_4: 1806611288863698383
+      frost_atlas_40: -2447091661151206582
+      frost_atlas_41: -8366094390361482638
+      frost_atlas_42: -3940492887587096065
+      frost_atlas_43: 3442442793980681176
+      frost_atlas_44: 7135798236031090075
+      frost_atlas_45: 3049795134989419006
+      frost_atlas_46: 1616205723395771713
+      frost_atlas_47: 7953120627311357812
+      frost_atlas_48: -5733407081808777418
+      frost_atlas_49: -6359101380979958784
+      frost_atlas_5: -1666601656695697147
+      frost_atlas_50: 4752333366535314187
+      frost_atlas_51: 4373602128877155223
+      frost_atlas_52: -4474694075970043179
+      frost_atlas_53: -4369974553140884023
+      frost_atlas_54: -8836399706391188079
+      frost_atlas_55: -2485315539211527321
+      frost_atlas_56: 3456038845270545729
+      frost_atlas_57: 3824116759664535545
+      frost_atlas_58: -9108011965677337166
+      frost_atlas_59: 2667467492123851292
+      frost_atlas_6: -8010390836967333175
+      frost_atlas_60: -1441207715537781211
+      frost_atlas_61: 6340531411992976539
+      frost_atlas_62: -9013392750536276300
+      frost_atlas_63: -3632956990567565813
+      frost_atlas_64: 7079541517005081801
+      frost_atlas_65: 6451646332236369073
+      frost_atlas_66: 239162000492887968
+      frost_atlas_67: -1506502906901425422
+      frost_atlas_68: -5613672531966369958
+      frost_atlas_69: 8394698215303270355
+      frost_atlas_7: 222757697519394160
+      frost_atlas_70: 9025371405468734075
+      frost_atlas_71: -476417732286696018
+      frost_atlas_72: -1460476963120016771
+      frost_atlas_73: -6696472332370534239
+      frost_atlas_74: 7899270463540858711
+      frost_atlas_75: -4861791849035240799
+      frost_atlas_76: 750415671379462081
+      frost_atlas_77: -3537173508035562019
+      frost_atlas_78: -3653815805552474590
+      frost_atlas_79: -2535912241408014539
+      frost_atlas_8: -2577768370743915114
+      frost_atlas_80: -829079988823344922
+      frost_atlas_81: 4978653780241755053
+      frost_atlas_82: -3186005748314157247
+      frost_atlas_83: 6145852090790282896
+      frost_atlas_84: -8997489616104978999
+      frost_atlas_85: 5549354444314774431
+      frost_atlas_86: 6826237763395152779
+      frost_atlas_87: -1435304779488334930
+      frost_atlas_88: 5660669263839906770
+      frost_atlas_89: -5886650076892238068
+      frost_atlas_9: 7302628359978435073
+      frost_atlas_90: 5887380871015926764
+      frost_atlas_91: 1986975965989491327
+      frost_atlas_92: 650655022253888294
+      frost_atlas_93: 4979340871270780289
+      frost_atlas_94: -8358935260335470779
+      frost_atlas_95: -7444881434952382906
+      frost_atlas_96: -7987605197700326329
+      frost_atlas_97: -3572749709811210293
+      frost_atlas_98: -5964286572956675526
+      frost_atlas_99: 8718673008754682153
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

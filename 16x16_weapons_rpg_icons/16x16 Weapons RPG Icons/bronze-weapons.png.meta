@@ -1,0 +1,6658 @@
+fileFormatVersion: 2
+guid: c59678c94899d044d87f1b1473d1b960
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3068738734004285213
+    second: bronze-weapons_0
+  - first:
+      213: 2703846694853627839
+    second: bronze-weapons_1
+  - first:
+      213: -7716644588441565235
+    second: bronze-weapons_2
+  - first:
+      213: 5714993297042100809
+    second: bronze-weapons_3
+  - first:
+      213: 8801481420512833299
+    second: bronze-weapons_4
+  - first:
+      213: 8306477489433890119
+    second: bronze-weapons_5
+  - first:
+      213: -1576483969667886368
+    second: bronze-weapons_6
+  - first:
+      213: -3744816476988988164
+    second: bronze-weapons_7
+  - first:
+      213: 5006077115015181545
+    second: bronze-weapons_8
+  - first:
+      213: 3017720837902734032
+    second: bronze-weapons_9
+  - first:
+      213: -887229209584723837
+    second: bronze-weapons_10
+  - first:
+      213: -2936273895158540955
+    second: bronze-weapons_11
+  - first:
+      213: 84787144687299470
+    second: bronze-weapons_12
+  - first:
+      213: -7055081249740191761
+    second: bronze-weapons_13
+  - first:
+      213: 5195823242881766583
+    second: bronze-weapons_14
+  - first:
+      213: -8975531535819719979
+    second: bronze-weapons_15
+  - first:
+      213: -3009904154233926456
+    second: bronze-weapons_16
+  - first:
+      213: -2982058726201289327
+    second: bronze-weapons_17
+  - first:
+      213: -4688615087013578566
+    second: bronze-weapons_18
+  - first:
+      213: -4463420299115902631
+    second: bronze-weapons_19
+  - first:
+      213: 2872281404647728424
+    second: bronze-weapons_20
+  - first:
+      213: -7411314464446703401
+    second: bronze-weapons_21
+  - first:
+      213: 2852620439116709362
+    second: bronze-weapons_22
+  - first:
+      213: -2072365580491232451
+    second: bronze-weapons_23
+  - first:
+      213: -3271151303077759952
+    second: bronze-weapons_24
+  - first:
+      213: 5882738396465626898
+    second: bronze-weapons_25
+  - first:
+      213: 2886366523555393211
+    second: bronze-weapons_26
+  - first:
+      213: 2385289574240720867
+    second: bronze-weapons_27
+  - first:
+      213: 3170649708344062614
+    second: bronze-weapons_28
+  - first:
+      213: -856377101121894488
+    second: bronze-weapons_29
+  - first:
+      213: -2135828496760714568
+    second: bronze-weapons_30
+  - first:
+      213: 1315436952533928296
+    second: bronze-weapons_31
+  - first:
+      213: 5301815903128972329
+    second: bronze-weapons_32
+  - first:
+      213: -4602265879097472160
+    second: bronze-weapons_33
+  - first:
+      213: 7422393018939966974
+    second: bronze-weapons_34
+  - first:
+      213: 3706077473841997869
+    second: bronze-weapons_35
+  - first:
+      213: 4739926932235478900
+    second: bronze-weapons_36
+  - first:
+      213: 177223473612844805
+    second: bronze-weapons_37
+  - first:
+      213: -8725413909719723424
+    second: bronze-weapons_38
+  - first:
+      213: 4106751819252369295
+    second: bronze-weapons_39
+  - first:
+      213: -5405776742545672921
+    second: bronze-weapons_40
+  - first:
+      213: -7041899622359100366
+    second: bronze-weapons_41
+  - first:
+      213: 92179018804808769
+    second: bronze-weapons_42
+  - first:
+      213: -3888087174001265014
+    second: bronze-weapons_43
+  - first:
+      213: 8310142176648235771
+    second: bronze-weapons_44
+  - first:
+      213: -3690579976524561859
+    second: bronze-weapons_45
+  - first:
+      213: 5530116572781263862
+    second: bronze-weapons_46
+  - first:
+      213: 1247841959413677899
+    second: bronze-weapons_47
+  - first:
+      213: -51069826699853134
+    second: bronze-weapons_48
+  - first:
+      213: -4166954117260752930
+    second: bronze-weapons_49
+  - first:
+      213: -4272126502366068112
+    second: bronze-weapons_50
+  - first:
+      213: -4040693463872887315
+    second: bronze-weapons_51
+  - first:
+      213: 1590906175929382363
+    second: bronze-weapons_52
+  - first:
+      213: -4777023025999669450
+    second: bronze-weapons_53
+  - first:
+      213: 4891329244493043827
+    second: bronze-weapons_54
+  - first:
+      213: 7010878629444520841
+    second: bronze-weapons_55
+  - first:
+      213: -5074928867352612296
+    second: bronze-weapons_56
+  - first:
+      213: 9108667094141059369
+    second: bronze-weapons_57
+  - first:
+      213: -1942735887842229541
+    second: bronze-weapons_58
+  - first:
+      213: -8519962436448456598
+    second: bronze-weapons_59
+  - first:
+      213: -6177369638494553323
+    second: bronze-weapons_60
+  - first:
+      213: 1608833293605811625
+    second: bronze-weapons_61
+  - first:
+      213: -3175772635383157698
+    second: bronze-weapons_62
+  - first:
+      213: -242751786928371794
+    second: bronze-weapons_63
+  - first:
+      213: 4653097619448970618
+    second: bronze-weapons_64
+  - first:
+      213: -4733278672385053573
+    second: bronze-weapons_65
+  - first:
+      213: 5689205392951527859
+    second: bronze-weapons_66
+  - first:
+      213: 1009508307477124216
+    second: bronze-weapons_67
+  - first:
+      213: -8486663078144037321
+    second: bronze-weapons_68
+  - first:
+      213: -1524943969002835720
+    second: bronze-weapons_69
+  - first:
+      213: 2249169463858307791
+    second: bronze-weapons_70
+  - first:
+      213: -2603414780141176290
+    second: bronze-weapons_71
+  - first:
+      213: 3764077246890762371
+    second: bronze-weapons_72
+  - first:
+      213: -6148720646387478545
+    second: bronze-weapons_73
+  - first:
+      213: -3202201046512688362
+    second: bronze-weapons_74
+  - first:
+      213: 5487634693598264639
+    second: bronze-weapons_75
+  - first:
+      213: 3767570873102103690
+    second: bronze-weapons_76
+  - first:
+      213: -6021509131140411378
+    second: bronze-weapons_77
+  - first:
+      213: 787676399955207639
+    second: bronze-weapons_78
+  - first:
+      213: -4604887263617742600
+    second: bronze-weapons_79
+  - first:
+      213: 4870762472266921106
+    second: bronze-weapons_80
+  - first:
+      213: 4399411525544719377
+    second: bronze-weapons_81
+  - first:
+      213: 8555383802877961248
+    second: bronze-weapons_82
+  - first:
+      213: -1210665127600027857
+    second: bronze-weapons_83
+  - first:
+      213: 7459130761398569257
+    second: bronze-weapons_84
+  - first:
+      213: 1572769698448799963
+    second: bronze-weapons_85
+  - first:
+      213: 1451199661598445856
+    second: bronze-weapons_86
+  - first:
+      213: 6642446733915640717
+    second: bronze-weapons_87
+  - first:
+      213: 3013611927507637756
+    second: bronze-weapons_88
+  - first:
+      213: 7872372421238094783
+    second: bronze-weapons_89
+  - first:
+      213: -5500930159269730230
+    second: bronze-weapons_90
+  - first:
+      213: 1026076881507452011
+    second: bronze-weapons_91
+  - first:
+      213: 591441742859423386
+    second: bronze-weapons_92
+  - first:
+      213: 3761901564525018385
+    second: bronze-weapons_93
+  - first:
+      213: -644918590662324066
+    second: bronze-weapons_94
+  - first:
+      213: 3624479461847103044
+    second: bronze-weapons_95
+  - first:
+      213: -4915047476288009934
+    second: bronze-weapons_96
+  - first:
+      213: -7044929468233386290
+    second: bronze-weapons_97
+  - first:
+      213: -3280764646768998731
+    second: bronze-weapons_98
+  - first:
+      213: -2154723416926044317
+    second: bronze-weapons_99
+  - first:
+      213: -7314776412734912350
+    second: bronze-weapons_100
+  - first:
+      213: 5621493800678602652
+    second: bronze-weapons_101
+  - first:
+      213: -4621339762801340304
+    second: bronze-weapons_102
+  - first:
+      213: -2868533996085668980
+    second: bronze-weapons_103
+  - first:
+      213: 2024066304615194111
+    second: bronze-weapons_104
+  - first:
+      213: 8832536249700475736
+    second: bronze-weapons_105
+  - first:
+      213: 6811957301372088464
+    second: bronze-weapons_106
+  - first:
+      213: -2807298242973331372
+    second: bronze-weapons_107
+  - first:
+      213: 4832475711883167706
+    second: bronze-weapons_108
+  - first:
+      213: -8525330446223588505
+    second: bronze-weapons_109
+  - first:
+      213: -8216508313958242306
+    second: bronze-weapons_110
+  - first:
+      213: -3860755384569770283
+    second: bronze-weapons_111
+  - first:
+      213: 2894874800703614913
+    second: bronze-weapons_112
+  - first:
+      213: -1936693478672719550
+    second: bronze-weapons_113
+  - first:
+      213: -2312452973494063021
+    second: bronze-weapons_114
+  - first:
+      213: 8316179624931526017
+    second: bronze-weapons_115
+  - first:
+      213: -684698521509358653
+    second: bronze-weapons_116
+  - first:
+      213: -1007055493682172512
+    second: bronze-weapons_117
+  - first:
+      213: 8524996848284190569
+    second: bronze-weapons_118
+  - first:
+      213: -6323789356027159786
+    second: bronze-weapons_119
+  - first:
+      213: -4854309198376101918
+    second: bronze-weapons_120
+  - first:
+      213: -4802171996291855925
+    second: bronze-weapons_121
+  - first:
+      213: -3651658517853032536
+    second: bronze-weapons_122
+  - first:
+      213: -8760365650302062974
+    second: bronze-weapons_123
+  - first:
+      213: 8765686828200634050
+    second: bronze-weapons_124
+  - first:
+      213: 5671754988053449638
+    second: bronze-weapons_125
+  - first:
+      213: -7020356554452198705
+    second: bronze-weapons_126
+  - first:
+      213: 7254706148181999243
+    second: bronze-weapons_127
+  - first:
+      213: -2050781725940265131
+    second: bronze-weapons_128
+  - first:
+      213: -6774177529877558518
+    second: bronze-weapons_129
+  - first:
+      213: 4122663385453967372
+    second: bronze-weapons_130
+  - first:
+      213: 5940291590214012208
+    second: bronze-weapons_131
+  - first:
+      213: 5109944599925675875
+    second: bronze-weapons_132
+  - first:
+      213: 4822075932402860016
+    second: bronze-weapons_133
+  - first:
+      213: -688252922512989800
+    second: bronze-weapons_134
+  - first:
+      213: 8659386104158458682
+    second: bronze-weapons_135
+  - first:
+      213: -761170568329576838
+    second: bronze-weapons_136
+  - first:
+      213: 8946553652491920923
+    second: bronze-weapons_137
+  - first:
+      213: 1315334410093241788
+    second: bronze-weapons_138
+  - first:
+      213: 2366432619586744714
+    second: bronze-weapons_139
+  - first:
+      213: 395573223456701935
+    second: bronze-weapons_140
+  - first:
+      213: 4087993204262365089
+    second: bronze-weapons_141
+  - first:
+      213: -6238423040486192549
+    second: bronze-weapons_142
+  - first:
+      213: 2996600908449995275
+    second: bronze-weapons_143
+  - first:
+      213: 4028057183518005054
+    second: bronze-weapons_144
+  - first:
+      213: 832331241247827660
+    second: bronze-weapons_145
+  - first:
+      213: 1458389027803339838
+    second: bronze-weapons_146
+  - first:
+      213: -2864255686468487937
+    second: bronze-weapons_147
+  - first:
+      213: -6949577712351969647
+    second: bronze-weapons_148
+  - first:
+      213: -1916328542204663965
+    second: bronze-weapons_149
+  - first:
+      213: 8945663555291888128
+    second: bronze-weapons_150
+  - first:
+      213: -9057206352278479138
+    second: bronze-weapons_151
+  - first:
+      213: -7876255632764059875
+    second: bronze-weapons_152
+  - first:
+      213: -4044593499540719413
+    second: bronze-weapons_153
+  - first:
+      213: -9148356080940563592
+    second: bronze-weapons_154
+  - first:
+      213: -6725454637758736144
+    second: bronze-weapons_155
+  - first:
+      213: 2193502667105827655
+    second: bronze-weapons_156
+  - first:
+      213: 4914762173770098453
+    second: bronze-weapons_157
+  - first:
+      213: -8366634823868697268
+    second: bronze-weapons_158
+  - first:
+      213: 3760842755029866668
+    second: bronze-weapons_159
+  - first:
+      213: 8452429652774329553
+    second: bronze-weapons_160
+  - first:
+      213: 5519515677389439235
+    second: bronze-weapons_161
+  - first:
+      213: -8407612095576655601
+    second: bronze-weapons_162
+  - first:
+      213: -2940840852465132343
+    second: bronze-weapons_163
+  - first:
+      213: 421871725872012179
+    second: bronze-weapons_164
+  - first:
+      213: -499805384124039404
+    second: bronze-weapons_165
+  - first:
+      213: 4791492887528499899
+    second: bronze-weapons_166
+  - first:
+      213: 7608406577552212930
+    second: bronze-weapons_167
+  - first:
+      213: 4009644912158611126
+    second: bronze-weapons_168
+  - first:
+      213: 4574827177737858289
+    second: bronze-weapons_169
+  - first:
+      213: -4289097851244591787
+    second: bronze-weapons_170
+  - first:
+      213: -9015114641091497344
+    second: bronze-weapons_171
+  - first:
+      213: 8981842463046813632
+    second: bronze-weapons_172
+  - first:
+      213: -395995786157816
+    second: bronze-weapons_173
+  - first:
+      213: 6195301425301526324
+    second: bronze-weapons_174
+  - first:
+      213: 7260073218825377010
+    second: bronze-weapons_175
+  - first:
+      213: -7772940322150134591
+    second: bronze-weapons_176
+  - first:
+      213: 4331462879875671285
+    second: bronze-weapons_177
+  - first:
+      213: 1124078299349497726
+    second: bronze-weapons_178
+  - first:
+      213: -7468684708143970591
+    second: bronze-weapons_179
+  - first:
+      213: -2841686968761330459
+    second: bronze-weapons_180
+  - first:
+      213: -1516677950225652208
+    second: bronze-weapons_181
+  - first:
+      213: -8704905646600162977
+    second: bronze-weapons_182
+  - first:
+      213: 2526526016707241683
+    second: bronze-weapons_183
+  - first:
+      213: 6241886233835236657
+    second: bronze-weapons_184
+  - first:
+      213: -3537025100151850334
+    second: bronze-weapons_185
+  - first:
+      213: -5256100724336789384
+    second: bronze-weapons_186
+  - first:
+      213: -8834253893171163627
+    second: bronze-weapons_187
+  - first:
+      213: -399935290922205997
+    second: bronze-weapons_188
+  - first:
+      213: 1107527495793787041
+    second: bronze-weapons_189
+  - first:
+      213: 3271463746731990919
+    second: bronze-weapons_190
+  - first:
+      213: -7274990688760772322
+    second: bronze-weapons_191
+  - first:
+      213: 3335471208510400170
+    second: bronze-weapons_192
+  - first:
+      213: -7414751733592323728
+    second: bronze-weapons_193
+  - first:
+      213: 1184191330925735697
+    second: bronze-weapons_194
+  - first:
+      213: 6966477789761177457
+    second: bronze-weapons_195
+  - first:
+      213: -1313914453003778073
+    second: bronze-weapons_196
+  - first:
+      213: 191627699506813233
+    second: bronze-weapons_197
+  - first:
+      213: 6746461013306082555
+    second: bronze-weapons_198
+  - first:
+      213: -2988872014551664906
+    second: bronze-weapons_199
+  - first:
+      213: 9038818156384215042
+    second: bronze-weapons_200
+  - first:
+      213: -201219307829982246
+    second: bronze-weapons_201
+  - first:
+      213: 8729767600479624209
+    second: bronze-weapons_202
+  - first:
+      213: 4201031251947233305
+    second: bronze-weapons_203
+  - first:
+      213: 2713979890506180373
+    second: bronze-weapons_204
+  - first:
+      213: 479076419602208236
+    second: bronze-weapons_205
+  - first:
+      213: 7602163132533392913
+    second: bronze-weapons_206
+  - first:
+      213: 830001733846676879
+    second: bronze-weapons_207
+  - first:
+      213: 2068720191410713260
+    second: bronze-weapons_208
+  - first:
+      213: 4009627504748159281
+    second: bronze-weapons_209
+  - first:
+      213: -8316801876277359631
+    second: bronze-weapons_210
+  - first:
+      213: 1600281982750182274
+    second: bronze-weapons_211
+  - first:
+      213: -1803831968338967426
+    second: bronze-weapons_212
+  - first:
+      213: 8106270636441140512
+    second: bronze-weapons_213
+  - first:
+      213: -630968244327975403
+    second: bronze-weapons_214
+  - first:
+      213: -6897463332533770899
+    second: bronze-weapons_215
+  - first:
+      213: 2887084879163884156
+    second: bronze-weapons_216
+  - first:
+      213: -7055931517346796713
+    second: bronze-weapons_217
+  - first:
+      213: -1463117752699717665
+    second: bronze-weapons_218
+  - first:
+      213: 8333546819268798465
+    second: bronze-weapons_219
+  - first:
+      213: -3608683714076106310
+    second: bronze-weapons_220
+  - first:
+      213: -1675849938035317491
+    second: bronze-weapons_221
+  - first:
+      213: -4879917029679405990
+    second: bronze-weapons_222
+  - first:
+      213: -1506196187742155379
+    second: bronze-weapons_223
+  - first:
+      213: 9037034551307584555
+    second: bronze-weapons_224
+  - first:
+      213: -1343189588348227141
+    second: bronze-weapons_225
+  - first:
+      213: 2570394971858958200
+    second: bronze-weapons_226
+  - first:
+      213: -4372118929257710539
+    second: bronze-weapons_227
+  - first:
+      213: -746728853613320064
+    second: bronze-weapons_228
+  - first:
+      213: 5884943031303398869
+    second: bronze-weapons_229
+  - first:
+      213: -6650389940527425618
+    second: bronze-weapons_230
+  - first:
+      213: -2297681435540024459
+    second: bronze-weapons_231
+  - first:
+      213: 3836624698529888065
+    second: bronze-weapons_232
+  - first:
+      213: 1151659897365566445
+    second: bronze-weapons_233
+  - first:
+      213: 7233804153478421850
+    second: bronze-weapons_234
+  - first:
+      213: 666797668425010913
+    second: bronze-weapons_235
+  - first:
+      213: -2568211867006821100
+    second: bronze-weapons_236
+  - first:
+      213: -364533401900665976
+    second: bronze-weapons_237
+  - first:
+      213: -2881885761614427639
+    second: bronze-weapons_238
+  - first:
+      213: -4043147316894320965
+    second: bronze-weapons_239
+  - first:
+      213: 5944386210036190503
+    second: bronze-weapons_240
+  - first:
+      213: 4733761301012586408
+    second: bronze-weapons_241
+  - first:
+      213: 709573861065431663
+    second: bronze-weapons_242
+  - first:
+      213: -49048632849232668
+    second: bronze-weapons_243
+  - first:
+      213: -1635740883533462718
+    second: bronze-weapons_244
+  - first:
+      213: -2678457501812154418
+    second: bronze-weapons_245
+  - first:
+      213: 1455803240863181509
+    second: bronze-weapons_246
+  - first:
+      213: -4349923868409388662
+    second: bronze-weapons_247
+  - first:
+      213: -8981218459907128556
+    second: bronze-weapons_248
+  - first:
+      213: 1385331986079511072
+    second: bronze-weapons_249
+  - first:
+      213: 7292597609326795828
+    second: bronze-weapons_250
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bronze-weapons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1faec4ae99569a20800000000000000
+      internalID: 3068738734004285213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 129
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf4ddd4e3ef58520800000000000000
+      internalID: 2703846694853627839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 159
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc70000a1a8f8e490800000000000000
+      internalID: -7716644588441565235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 191
+        width: 130
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942dee3df1cbf4f40800000000000000
+      internalID: 5714993297042100809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 175
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f2ede38b4252a70800000000000000
+      internalID: 8801481420512833299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 303
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d4c7c5449864370800000000000000
+      internalID: 8306477489433890119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 287
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e219d1ae243f1ae0800000000000000
+      internalID: -1576483969667886368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4aa0c414db70cc0800000000000000
+      internalID: -3744816476988988164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e431bedc98297540800000000000000
+      internalID: 5006077115015181545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 288
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d29c7e0d1911e920800000000000000
+      internalID: 3017720837902734032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 303
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3881a501cbdefa3f0800000000000000
+      internalID: -887229209584723837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_11
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 271
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56592db03724047d0800000000000000
+      internalID: -2936273895158540955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_12
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 255
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b2b9875793d2100800000000000000
+      internalID: 84787144687299470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 271
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe787b79bf0571e90800000000000000
+      internalID: -7055081249740191761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_14
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 287
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b49fa3f5b54b1840800000000000000
+      internalID: 5195823242881766583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_15
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 303
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da36216f91807380800000000000000
+      internalID: -8975531535819719979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_16
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 239
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc0aee6e1caa36d0800000000000000
+      internalID: -3009904154233926456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_17
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 271
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1951b6d53699d96d0800000000000000
+      internalID: -2982058726201289327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8b4027b61beeeb0800000000000000
+      internalID: -4688615087013578566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 159
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959cdebd2eebe02c0800000000000000
+      internalID: -4463420299115902631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 271
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825ecf238b46cd720800000000000000
+      internalID: 2872281404647728424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 255
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d890fbe2c8b52990800000000000000
+      internalID: -7411314464446703401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_22
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 255
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdf190fc2b869720800000000000000
+      internalID: 2852620439116709362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_23
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 239
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3be2120c7a7d33e0800000000000000
+      internalID: -2072365580491232451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_24
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 191
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0347e7d98398a92d0800000000000000
+      internalID: -3271151303077759952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_25
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f72eb476fa3a150800000000000000
+      internalID: 5882738396465626898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe29108f0f6e0820800000000000000
+      internalID: 2886366523555393211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_27
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 239
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e79f0fda304a1120800000000000000
+      internalID: 2385289574240720867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6923b056c19600c20800000000000000
+      internalID: 3170649708344062614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_29
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 224
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7c9d550998d14f0800000000000000
+      internalID: -856377101121894488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_30
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 223
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bacb6d5c430c52e0800000000000000
+      internalID: -2135828496760714568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_31
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 223
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869053850fe514210800000000000000
+      internalID: 1315436952533928296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 223
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ce4824975d39940800000000000000
+      internalID: 5301815903128972329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_33
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 223
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b8e7a11977120c0800000000000000
+      internalID: -4602265879097472160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_34
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 207
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5814d0023a10760800000000000000
+      internalID: 7422393018939966974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 49
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28ed6aa3d1ae6330800000000000000
+      internalID: 3706077473841997869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477e3318e6a97c140800000000000000
+      internalID: 4739926932235478900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fed8e6fcf957200800000000000000
+      internalID: 177223473612844805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_38
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 207
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06257e0474a19e680800000000000000
+      internalID: -8725413909719723424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_39
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 191
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f870a37650d1ef830800000000000000
+      internalID: 4106751819252369295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_40
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 191
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7253f7591b2daf4b0800000000000000
+      internalID: -5405776742545672921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_41
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23414516a95264e90800000000000000
+      internalID: -7041899622359100366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_42
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 175
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cca97445c774100800000000000000
+      internalID: 92179018804808769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_43
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 159
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86f6e1b05dba0ac0800000000000000
+      internalID: -3888087174001265014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_44
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 191
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa0c18d74e835370800000000000000
+      internalID: 8310142176648235771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_45
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 207
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32851c901d68ccc0800000000000000
+      internalID: -3690579976524561859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_46
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 175
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbb02f19bbeebc40800000000000000
+      internalID: 5530116572781263862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_47
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 175
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ffda696a9315110800000000000000
+      internalID: 1247841959413677899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_48
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 159
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b280d063409a4ff0800000000000000
+      internalID: -51069826699853134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7425dce410c26c0800000000000000
+      internalID: -4166954117260752930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07240fea49b56b4c0800000000000000
+      internalID: -4272126502366068112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_51
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 175
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de52d9ff3b29ce7c0800000000000000
+      internalID: -4040693463872887315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_52
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 159
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5fe3fecb8041610800000000000000
+      internalID: 1590906175929382363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_53
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 175
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6379d6b1eda94bdb0800000000000000
+      internalID: -4777023025999669450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 159
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378dc71580e71e340800000000000000
+      internalID: 4891329244493043827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_55
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 175
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b0b6fd7f4ab4160800000000000000
+      internalID: 7010878629444520841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_56
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8327211551b3299b0800000000000000
+      internalID: -5074928867352612296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_57
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 175
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921419b567c786e70800000000000000
+      internalID: 9108667094141059369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_58
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2c2c8c0040a05e0800000000000000
+      internalID: -1942735887842229541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_59
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 127
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6071d30e4303c980800000000000000
+      internalID: -8519962436448456598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_60
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 143
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bbf3bfa03954aa0800000000000000
+      internalID: -6177369638494553323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_61
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a532384b59b35610800000000000000
+      internalID: 1608833293605811625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_62
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ca4943d936de3d0800000000000000
+      internalID: -3175772635383157698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_63
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 128
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea70b83398291acf0800000000000000
+      internalID: -242751786928371794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_64
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 144
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7db878b1af139040800000000000000
+      internalID: 4653097619448970618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_65
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 145
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c6e8d1024005eb0800000000000000
+      internalID: -4733278672385053573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_66
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 145
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9cc15892e14fe40800000000000000
+      internalID: 5689205392951527859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_67
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 144
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874daf0057e720e00800000000000000
+      internalID: 1009508307477124216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_68
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 143
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e2dca05e0593a80800000000000000
+      internalID: -8486663078144037321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_69
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f036392a8f46dae0800000000000000
+      internalID: -1524943969002835720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_70
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 143
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc22ee4f5b7a63f10800000000000000
+      internalID: 2249169463858307791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_71
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 143
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1afeaa0d00dedbd0800000000000000
+      internalID: -2603414780141176290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_72
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 111
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380ed082050bc3430800000000000000
+      internalID: 3764077246890762371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_73
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 144
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefc6f0462b5baaa0800000000000000
+      internalID: -6148720646387478545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_74
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 128
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6132a3b3d1f7f83d0800000000000000
+      internalID: -3202201046512688362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_75
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 143
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3db809ddaef72c40800000000000000
+      internalID: 5487634693598264639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_76
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84fb556fb9194430800000000000000
+      internalID: 3767570873102103690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_77
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 143
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00da9a395d4f6ca0800000000000000
+      internalID: -6021509131140411378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_78
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5e94133836eea00800000000000000
+      internalID: 787676399955207639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_79
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f808557e672810c0800000000000000
+      internalID: -4604887263617742600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_80
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 144
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294f5c089ac689340800000000000000
+      internalID: 4870762472266921106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_81
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1143ad03979dd0d30800000000000000
+      internalID: 4399411525544719377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_82
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 143
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024eba78d34dab670800000000000000
+      internalID: 8555383802877961248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_83
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 127
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2782771b7ad23fe0800000000000000
+      internalID: -1210665127600027857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_84
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929c95648e7248760800000000000000
+      internalID: 7459130761398569257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_85
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8f98535b993d510800000000000000
+      internalID: 1572769698448799963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_86
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0211eb74762b32410800000000000000
+      internalID: 1451199661598445856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_87
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83de7e7c16be2c50800000000000000
+      internalID: 6642446733915640717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_88
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 128
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf519fdc41082d920800000000000000
+      internalID: 3013611927507637756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_89
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 112
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb7a7be109404d60800000000000000
+      internalID: 7872372421238094783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_90
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48ae725a25c8a3b0800000000000000
+      internalID: -5500930159269730230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_91
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 129
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b640e72cc7b5d3e00800000000000000
+      internalID: 1026076881507452011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_92
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 129
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e497ca129353800800000000000000
+      internalID: 591441742859423386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_93
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 129
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11dff71aa85f43430800000000000000
+      internalID: 3761901564525018385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_94
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 128
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90d68e65f9cc07f0800000000000000
+      internalID: -644918590662324066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_95
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 128
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44678130edcbc4230800000000000000
+      internalID: 3624479461847103044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_96
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2394ca18c5e3acbb0800000000000000
+      internalID: -4915047476288009934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_97
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 127
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6744a69f16b3e90800000000000000
+      internalID: -7044929468233386290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_98
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 112
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b68cad9fe16872d0800000000000000
+      internalID: -3280764646768998731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_99
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f38e0f772e812e0800000000000000
+      internalID: -2154723416926044317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_100
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 50
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a88783ab91bc7a90800000000000000
+      internalID: -7314776412734912350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_101
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 128
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c973288e3de830e40800000000000000
+      internalID: 5621493800678602652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_102
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07096db78f3bddfb0800000000000000
+      internalID: -4621339762801340304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_103
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 111
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c839e29578be038d0800000000000000
+      internalID: -2868533996085668980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd1d60849de61c10800000000000000
+      internalID: 2024066304615194111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_105
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853682d1ce8739a70800000000000000
+      internalID: 8832536249700475736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_106
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0907965031fe88e50800000000000000
+      internalID: 6811957301372088464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_107
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4501ff82f197a09d0800000000000000
+      internalID: -2807298242973331372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_108
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7cf707e07601340800000000000000
+      internalID: 4832475711883167706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_109
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 113
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7634508d021ffa980800000000000000
+      internalID: -8525330446223588505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_110
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 96
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7a97ca83919fd80800000000000000
+      internalID: -8216508313958242306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_111
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 113
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5deca02de67db6ac0800000000000000
+      internalID: -3860755384569770283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_112
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 113
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf2b252b49ac2820800000000000000
+      internalID: 2894874800703614913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_113
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 113
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241a5ecca8b7f15e0800000000000000
+      internalID: -1936693478672719550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_114
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 112
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3503713c54488efd0800000000000000
+      internalID: -2312452973494063021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_115
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 112
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1858260de41096370800000000000000
+      internalID: 8316179624931526017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_116
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 112
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3133782567f76f0800000000000000
+      internalID: -684698521509358653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_117
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 112
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ade7f53d583602f0800000000000000
+      internalID: -1007055493682172512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_118
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967cd45577fde4670800000000000000
+      internalID: 8524996848284190569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_119
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bda97e5136d38a0800000000000000
+      internalID: -6323789356027159786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_120
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 96
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e791e8d08702acb0800000000000000
+      internalID: -4854309198376101918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_121
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc902ba23024b5db0800000000000000
+      internalID: -4802171996291855925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_122
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af2752ece3b25dc0800000000000000
+      internalID: -3651658517853032536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_123
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 95
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e263ffaddec6680800000000000000
+      internalID: -8760365650302062974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c628374ab9f5a970800000000000000
+      internalID: 8765686828200634050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_125
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 96
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abc9f38c1f16be40800000000000000
+      internalID: 5671754988053449638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_126
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 97
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca9a4fb8eea29e90800000000000000
+      internalID: -7020356554452198705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_127
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 97
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8efa300ec4eda460800000000000000
+      internalID: 7254706148181999243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_128
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 98
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fc771c2e82a83e0800000000000000
+      internalID: -2050781725940265131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_129
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 97
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b073e7d694df1a0800000000000000
+      internalID: -6774177529877558518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_130
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 96
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c083e7a9184a63930800000000000000
+      internalID: 4122663385453967372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_131
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 96
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d42f07ab7207250800000000000000
+      internalID: 5940291590214012208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_132
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 96
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367de7c3a8b2ae640800000000000000
+      internalID: 5109944599925675875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_133
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 96
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff35d613847be240800000000000000
+      internalID: 4822075932402860016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8912dfd0d95d276f0800000000000000
+      internalID: -688252922512989800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_135
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 81
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33915748c15c2870800000000000000
+      internalID: 8659386104158458682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_136
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 81
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ebb35a667cf65f0800000000000000
+      internalID: -761170568329576838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_137
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 79
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1621c4652b882c70800000000000000
+      internalID: 8946553652491920923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_138
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5a4725da1014210800000000000000
+      internalID: 1315334410093241788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_139
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a817d5bfde147d020800000000000000
+      internalID: 2366432619586744714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_140
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedfaca30cb5d7500800000000000000
+      internalID: 395573223456701935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_141
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 80
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7e44009287bb830800000000000000
+      internalID: 4087993204262365089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_142
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 81
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a45391c4bac69a0800000000000000
+      internalID: -6238423040486192549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_143
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 82
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a56c946a0169920800000000000000
+      internalID: 2996600908449995275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_144
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 80
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e371d86baa886e730800000000000000
+      internalID: 4028057183518005054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_145
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 80
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc66902aad80d8b00800000000000000
+      internalID: 832331241247827660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_146
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 80
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c9b8a081d3d3410800000000000000
+      internalID: 1458389027803339838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_147
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 80
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4372ee0ae1048d0800000000000000
+      internalID: -2864255686468487937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_148
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 80
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ef94c14e32e8f90800000000000000
+      internalID: -6949577712351969647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_149
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367e2f01855d765e0800000000000000
+      internalID: -1916328542204663965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_150
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ab45d7b91652c70800000000000000
+      internalID: 8945663555291888128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_151
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 80
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede970b4fc65e4280800000000000000
+      internalID: -9057206352278479138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_152
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fbde07b3be1b290800000000000000
+      internalID: -7876255632764059875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_153
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 80
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8750f24a7bed7c0800000000000000
+      internalID: -4044593499540719413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_154
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 79
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873c0cc4d928a0180800000000000000
+      internalID: -9148356080940563592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_155
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f81363d3a26aa2a0800000000000000
+      internalID: -6725454637758736144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_156
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 65
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bf6b6dd03e07e10800000000000000
+      internalID: 2193502667105827655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_157
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 66
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517e713582eb43440800000000000000
+      internalID: 4914762173770098453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_158
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45b4edb4fdb3eb80800000000000000
+      internalID: -8366634823868697268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_159
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca818a55f82313430800000000000000
+      internalID: 3760842755029866668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_160
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc979e7cff0d4570800000000000000
+      internalID: 8452429652774329553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_161
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 65
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3014ff2d342499c40800000000000000
+      internalID: 5519515677389439235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_162
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 63
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0930e13859225b80800000000000000
+      internalID: -8407612095576655601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_163
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccdbdf63d80037d0800000000000000
+      internalID: -2940840852465132343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_164
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 64
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bd169791acad500800000000000000
+      internalID: 421871725872012179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_165
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 64
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f7576b6a55019f0800000000000000
+      internalID: -499805384124039404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_166
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 64
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba62f0156dce7240800000000000000
+      internalID: 4791492887528499899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_167
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 64
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3ceb1a87d769960800000000000000
+      internalID: 7608406577552212930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_168
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 63
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b69aa8bdce15a730800000000000000
+      internalID: 4009644912158611126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_169
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc2ed5641d0d7f30800000000000000
+      internalID: 4574827177737858289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_170
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555cca99a301a74c0800000000000000
+      internalID: -4289097851244591787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_171
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 64
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08271508ff0e3e280800000000000000
+      internalID: -9015114641091497344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_172
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7cc6ed12ae5ac70800000000000000
+      internalID: 8981842463046813632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_173
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 65
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80165db08d79efff0800000000000000
+      internalID: -395995786157816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_174
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 64
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437919b72d12af550800000000000000
+      internalID: 6195301425301526324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4d9638026f0c460800000000000000
+      internalID: 7260073218825377010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_176
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 48
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc4ee5b5f7f02490800000000000000
+      internalID: -7772940322150134591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4a7c84a827c1c30800000000000000
+      internalID: 4331462879875671285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_178
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77b374f147899f00800000000000000
+      internalID: 1124078299349497726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_179
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6cfa724d6e95890800000000000000
+      internalID: -7468684708143970591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_180
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4df1002cc4098d0800000000000000
+      internalID: -2841686968761330459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_181
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016e122a07da3fae0800000000000000
+      internalID: -1516677950225652208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_182
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51fa1b5f66f13780800000000000000
+      internalID: -8704905646600162977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_183
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d62e9da606001320800000000000000
+      internalID: 2526526016707241683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_184
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 48
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d66207572af9650800000000000000
+      internalID: 6241886233835236657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_185
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 47
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aafecf4966f9eec0800000000000000
+      internalID: -3537025100151850334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_186
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 31
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8787b3e3d349e07b0800000000000000
+      internalID: -5256100724336789384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_187
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ecbe9d3ec666580800000000000000
+      internalID: -8834253893171163627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_188
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 49
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc707bc8f4237af0800000000000000
+      internalID: -399935290922205997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_189
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 48
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a044c5b36abe5f00800000000000000
+      internalID: 1107527495793787041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_190
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 48
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f5787d1f2966d20800000000000000
+      internalID: 3271463746731990919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_191
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 48
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19c32c538a0a0b90800000000000000
+      internalID: -7274990688760772322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_192
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 32
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa62ecd5469f94e20800000000000000
+      internalID: 3335471208510400170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_193
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07984855592891990800000000000000
+      internalID: -7414751733592323728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_194
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fece9cdb71f6010800000000000000
+      internalID: 1184191330925735697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_195
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 47
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1770d5ac3a6eda060800000000000000
+      internalID: 6966477789761177457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_196
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 15
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7457334c904cde0800000000000000
+      internalID: -1313914453003778073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_197
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1399a3e906cc8a200800000000000000
+      internalID: 191627699506813233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_198
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4812d1c8e30ad50800000000000000
+      internalID: 6746461013306082555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_199
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 48
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6ba8d0db46586d0800000000000000
+      internalID: -2988872014551664906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_200
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200e1a83935507d70800000000000000
+      internalID: 9038818156384215042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_201
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb08da0b10253df0800000000000000
+      internalID: -201219307829982246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_202
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c5d4e516d562970800000000000000
+      internalID: 8729767600479624209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_203
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91021a66aaf0d4a30800000000000000
+      internalID: 4201031251947233305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_204
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 47
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517ac25c45ef9a520800000000000000
+      internalID: 2713979890506180373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_205
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 31
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5d7a2277506a600800000000000000
+      internalID: 479076419602208236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_206
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116493f471f408960800000000000000
+      internalID: 7602163132533392913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_207
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85b3eced22c48b00800000000000000
+      internalID: 830001733846676879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_208
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 32
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2b6b4bd0295bc10800000000000000
+      internalID: 2068720191410713260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_209
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131662eb8fe05a730800000000000000
+      internalID: 4009627504748159281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_210
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb8f2102c8c49c80800000000000000
+      internalID: -8316801876277359631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_211
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b48421cf7553610800000000000000
+      internalID: 1600281982750182274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_212
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 16
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7489a4c16087f6e0800000000000000
+      internalID: -1803831968338967426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_213
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 32
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02df04ae1324f7070800000000000000
+      internalID: 8106270636441140512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_214
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516774c89b95e37f0800000000000000
+      internalID: -630968244327975403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_215
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65ea05b4a94740a0800000000000000
+      internalID: -6897463332533770899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_216
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 32
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7207f2b66cf01820800000000000000
+      internalID: 2887084879163884156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_217
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 32
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75baf0d3bab441e90800000000000000
+      internalID: -7055931517346796713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_218
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 32
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7f3c5e726f1bbe0800000000000000
+      internalID: -1463117752699717665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_219
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 16
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1086a99dda4b6a370800000000000000
+      internalID: 8333546819268798465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_220
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1a1cb18416bedc0800000000000000
+      internalID: -3608683714076106310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_221
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 15
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d056b824c5f2eb8e0800000000000000
+      internalID: -1675849938035317491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_222
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a546490015d074cb0800000000000000
+      internalID: -4879917029679405990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_223
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 31
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dc4932c8ae81be0800000000000000
+      internalID: -1506196187742155379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_224
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 15
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24ce9d4b0ff96d70800000000000000
+      internalID: 9037034551307584555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb130889f280c5de0800000000000000
+      internalID: -1343189588348227141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_226
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 16
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8777a1ebb90eba320800000000000000
+      internalID: 2570394971858958200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_227
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c35d19ffc1353c0800000000000000
+      internalID: -4372118929257710539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_228
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088e7d0601613a5f0800000000000000
+      internalID: -746728853613320064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_229
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5ef38d1848ba150800000000000000
+      internalID: 5884943031303398869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_230
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea71809959115b3a0800000000000000
+      internalID: -6650389940527425618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_231
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57390a378eefc10e0800000000000000
+      internalID: -2297681435540024459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_232
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1473d5406dd6e3530800000000000000
+      internalID: 3836624698529888065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_233
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 17
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3998c23948bff00800000000000000
+      internalID: 1151659897365566445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_234
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 16
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d93de1d82a36460800000000000000
+      internalID: 7233804153478421850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_235
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 16
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee088352f0f04900800000000000000
+      internalID: 666797668425010913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_236
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 16
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d9d17f9e0eb5cd0800000000000000
+      internalID: -2568211867006821100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_237
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88332f66dcae0faf0800000000000000
+      internalID: -364533401900665976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_238
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a47bf2b2c7108d0800000000000000
+      internalID: -2881885761614427639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_239
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6b0f1dfead3e7c0800000000000000
+      internalID: -4043147316894320965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_240
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d00f863c3be7250800000000000000
+      internalID: 5944386210036190503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_241
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af985e92d2b1b140800000000000000
+      internalID: 4733761301012586408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_242
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a15bacaa9e8d900800000000000000
+      internalID: 709573861065431663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_243
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec8d4e378eb15ff0800000000000000
+      internalID: -49048632849232668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_244
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243876c355eac49e0800000000000000
+      internalID: -1635740883533462718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_245
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf918ad71534dad0800000000000000
+      internalID: -2678457501812154418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_246
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca238a955d043410800000000000000
+      internalID: 1455803240863181509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_247
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81277fd947f1a3c0800000000000000
+      internalID: -4349923868409388662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_248
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4130e0f256d4c5380800000000000000
+      internalID: -8981218459907128556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_249
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022714ef910b93310800000000000000
+      internalID: 1385331986079511072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-weapons_250
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c59c943e2843560800000000000000
+      internalID: 7292597609326795828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bronze-weapons_0: 3068738734004285213
+      bronze-weapons_1: 2703846694853627839
+      bronze-weapons_10: -887229209584723837
+      bronze-weapons_100: -7314776412734912350
+      bronze-weapons_101: 5621493800678602652
+      bronze-weapons_102: -4621339762801340304
+      bronze-weapons_103: -2868533996085668980
+      bronze-weapons_104: 2024066304615194111
+      bronze-weapons_105: 8832536249700475736
+      bronze-weapons_106: 6811957301372088464
+      bronze-weapons_107: -2807298242973331372
+      bronze-weapons_108: 4832475711883167706
+      bronze-weapons_109: -8525330446223588505
+      bronze-weapons_11: -2936273895158540955
+      bronze-weapons_110: -8216508313958242306
+      bronze-weapons_111: -3860755384569770283
+      bronze-weapons_112: 2894874800703614913
+      bronze-weapons_113: -1936693478672719550
+      bronze-weapons_114: -2312452973494063021
+      bronze-weapons_115: 8316179624931526017
+      bronze-weapons_116: -684698521509358653
+      bronze-weapons_117: -1007055493682172512
+      bronze-weapons_118: 8524996848284190569
+      bronze-weapons_119: -6323789356027159786
+      bronze-weapons_12: 84787144687299470
+      bronze-weapons_120: -4854309198376101918
+      bronze-weapons_121: -4802171996291855925
+      bronze-weapons_122: -3651658517853032536
+      bronze-weapons_123: -8760365650302062974
+      bronze-weapons_124: 8765686828200634050
+      bronze-weapons_125: 5671754988053449638
+      bronze-weapons_126: -7020356554452198705
+      bronze-weapons_127: 7254706148181999243
+      bronze-weapons_128: -2050781725940265131
+      bronze-weapons_129: -6774177529877558518
+      bronze-weapons_13: -7055081249740191761
+      bronze-weapons_130: 4122663385453967372
+      bronze-weapons_131: 5940291590214012208
+      bronze-weapons_132: 5109944599925675875
+      bronze-weapons_133: 4822075932402860016
+      bronze-weapons_134: -688252922512989800
+      bronze-weapons_135: 8659386104158458682
+      bronze-weapons_136: -761170568329576838
+      bronze-weapons_137: 8946553652491920923
+      bronze-weapons_138: 1315334410093241788
+      bronze-weapons_139: 2366432619586744714
+      bronze-weapons_14: 5195823242881766583
+      bronze-weapons_140: 395573223456701935
+      bronze-weapons_141: 4087993204262365089
+      bronze-weapons_142: -6238423040486192549
+      bronze-weapons_143: 2996600908449995275
+      bronze-weapons_144: 4028057183518005054
+      bronze-weapons_145: 832331241247827660
+      bronze-weapons_146: 1458389027803339838
+      bronze-weapons_147: -2864255686468487937
+      bronze-weapons_148: -6949577712351969647
+      bronze-weapons_149: -1916328542204663965
+      bronze-weapons_15: -8975531535819719979
+      bronze-weapons_150: 8945663555291888128
+      bronze-weapons_151: -9057206352278479138
+      bronze-weapons_152: -7876255632764059875
+      bronze-weapons_153: -4044593499540719413
+      bronze-weapons_154: -9148356080940563592
+      bronze-weapons_155: -6725454637758736144
+      bronze-weapons_156: 2193502667105827655
+      bronze-weapons_157: 4914762173770098453
+      bronze-weapons_158: -8366634823868697268
+      bronze-weapons_159: 3760842755029866668
+      bronze-weapons_16: -3009904154233926456
+      bronze-weapons_160: 8452429652774329553
+      bronze-weapons_161: 5519515677389439235
+      bronze-weapons_162: -8407612095576655601
+      bronze-weapons_163: -2940840852465132343
+      bronze-weapons_164: 421871725872012179
+      bronze-weapons_165: -499805384124039404
+      bronze-weapons_166: 4791492887528499899
+      bronze-weapons_167: 7608406577552212930
+      bronze-weapons_168: 4009644912158611126
+      bronze-weapons_169: 4574827177737858289
+      bronze-weapons_17: -2982058726201289327
+      bronze-weapons_170: -4289097851244591787
+      bronze-weapons_171: -9015114641091497344
+      bronze-weapons_172: 8981842463046813632
+      bronze-weapons_173: -395995786157816
+      bronze-weapons_174: 6195301425301526324
+      bronze-weapons_175: 7260073218825377010
+      bronze-weapons_176: -7772940322150134591
+      bronze-weapons_177: 4331462879875671285
+      bronze-weapons_178: 1124078299349497726
+      bronze-weapons_179: -7468684708143970591
+      bronze-weapons_18: -4688615087013578566
+      bronze-weapons_180: -2841686968761330459
+      bronze-weapons_181: -1516677950225652208
+      bronze-weapons_182: -8704905646600162977
+      bronze-weapons_183: 2526526016707241683
+      bronze-weapons_184: 6241886233835236657
+      bronze-weapons_185: -3537025100151850334
+      bronze-weapons_186: -5256100724336789384
+      bronze-weapons_187: -8834253893171163627
+      bronze-weapons_188: -399935290922205997
+      bronze-weapons_189: 1107527495793787041
+      bronze-weapons_19: -4463420299115902631
+      bronze-weapons_190: 3271463746731990919
+      bronze-weapons_191: -7274990688760772322
+      bronze-weapons_192: 3335471208510400170
+      bronze-weapons_193: -7414751733592323728
+      bronze-weapons_194: 1184191330925735697
+      bronze-weapons_195: 6966477789761177457
+      bronze-weapons_196: -1313914453003778073
+      bronze-weapons_197: 191627699506813233
+      bronze-weapons_198: 6746461013306082555
+      bronze-weapons_199: -2988872014551664906
+      bronze-weapons_2: -7716644588441565235
+      bronze-weapons_20: 2872281404647728424
+      bronze-weapons_200: 9038818156384215042
+      bronze-weapons_201: -201219307829982246
+      bronze-weapons_202: 8729767600479624209
+      bronze-weapons_203: 4201031251947233305
+      bronze-weapons_204: 2713979890506180373
+      bronze-weapons_205: 479076419602208236
+      bronze-weapons_206: 7602163132533392913
+      bronze-weapons_207: 830001733846676879
+      bronze-weapons_208: 2068720191410713260
+      bronze-weapons_209: 4009627504748159281
+      bronze-weapons_21: -7411314464446703401
+      bronze-weapons_210: -8316801876277359631
+      bronze-weapons_211: 1600281982750182274
+      bronze-weapons_212: -1803831968338967426
+      bronze-weapons_213: 8106270636441140512
+      bronze-weapons_214: -630968244327975403
+      bronze-weapons_215: -6897463332533770899
+      bronze-weapons_216: 2887084879163884156
+      bronze-weapons_217: -7055931517346796713
+      bronze-weapons_218: -1463117752699717665
+      bronze-weapons_219: 8333546819268798465
+      bronze-weapons_22: 2852620439116709362
+      bronze-weapons_220: -3608683714076106310
+      bronze-weapons_221: -1675849938035317491
+      bronze-weapons_222: -4879917029679405990
+      bronze-weapons_223: -1506196187742155379
+      bronze-weapons_224: 9037034551307584555
+      bronze-weapons_225: -1343189588348227141
+      bronze-weapons_226: 2570394971858958200
+      bronze-weapons_227: -4372118929257710539
+      bronze-weapons_228: -746728853613320064
+      bronze-weapons_229: 5884943031303398869
+      bronze-weapons_23: -2072365580491232451
+      bronze-weapons_230: -6650389940527425618
+      bronze-weapons_231: -2297681435540024459
+      bronze-weapons_232: 3836624698529888065
+      bronze-weapons_233: 1151659897365566445
+      bronze-weapons_234: 7233804153478421850
+      bronze-weapons_235: 666797668425010913
+      bronze-weapons_236: -2568211867006821100
+      bronze-weapons_237: -364533401900665976
+      bronze-weapons_238: -2881885761614427639
+      bronze-weapons_239: -4043147316894320965
+      bronze-weapons_24: -3271151303077759952
+      bronze-weapons_240: 5944386210036190503
+      bronze-weapons_241: 4733761301012586408
+      bronze-weapons_242: 709573861065431663
+      bronze-weapons_243: -49048632849232668
+      bronze-weapons_244: -1635740883533462718
+      bronze-weapons_245: -2678457501812154418
+      bronze-weapons_246: 1455803240863181509
+      bronze-weapons_247: -4349923868409388662
+      bronze-weapons_248: -8981218459907128556
+      bronze-weapons_249: 1385331986079511072
+      bronze-weapons_25: 5882738396465626898
+      bronze-weapons_250: 7292597609326795828
+      bronze-weapons_26: 2886366523555393211
+      bronze-weapons_27: 2385289574240720867
+      bronze-weapons_28: 3170649708344062614
+      bronze-weapons_29: -856377101121894488
+      bronze-weapons_3: 5714993297042100809
+      bronze-weapons_30: -2135828496760714568
+      bronze-weapons_31: 1315436952533928296
+      bronze-weapons_32: 5301815903128972329
+      bronze-weapons_33: -4602265879097472160
+      bronze-weapons_34: 7422393018939966974
+      bronze-weapons_35: 3706077473841997869
+      bronze-weapons_36: 4739926932235478900
+      bronze-weapons_37: 177223473612844805
+      bronze-weapons_38: -8725413909719723424
+      bronze-weapons_39: 4106751819252369295
+      bronze-weapons_4: 8801481420512833299
+      bronze-weapons_40: -5405776742545672921
+      bronze-weapons_41: -7041899622359100366
+      bronze-weapons_42: 92179018804808769
+      bronze-weapons_43: -3888087174001265014
+      bronze-weapons_44: 8310142176648235771
+      bronze-weapons_45: -3690579976524561859
+      bronze-weapons_46: 5530116572781263862
+      bronze-weapons_47: 1247841959413677899
+      bronze-weapons_48: -51069826699853134
+      bronze-weapons_49: -4166954117260752930
+      bronze-weapons_5: 8306477489433890119
+      bronze-weapons_50: -4272126502366068112
+      bronze-weapons_51: -4040693463872887315
+      bronze-weapons_52: 1590906175929382363
+      bronze-weapons_53: -4777023025999669450
+      bronze-weapons_54: 4891329244493043827
+      bronze-weapons_55: 7010878629444520841
+      bronze-weapons_56: -5074928867352612296
+      bronze-weapons_57: 9108667094141059369
+      bronze-weapons_58: -1942735887842229541
+      bronze-weapons_59: -8519962436448456598
+      bronze-weapons_6: -1576483969667886368
+      bronze-weapons_60: -6177369638494553323
+      bronze-weapons_61: 1608833293605811625
+      bronze-weapons_62: -3175772635383157698
+      bronze-weapons_63: -242751786928371794
+      bronze-weapons_64: 4653097619448970618
+      bronze-weapons_65: -4733278672385053573
+      bronze-weapons_66: 5689205392951527859
+      bronze-weapons_67: 1009508307477124216
+      bronze-weapons_68: -8486663078144037321
+      bronze-weapons_69: -1524943969002835720
+      bronze-weapons_7: -3744816476988988164
+      bronze-weapons_70: 2249169463858307791
+      bronze-weapons_71: -2603414780141176290
+      bronze-weapons_72: 3764077246890762371
+      bronze-weapons_73: -6148720646387478545
+      bronze-weapons_74: -3202201046512688362
+      bronze-weapons_75: 5487634693598264639
+      bronze-weapons_76: 3767570873102103690
+      bronze-weapons_77: -6021509131140411378
+      bronze-weapons_78: 787676399955207639
+      bronze-weapons_79: -4604887263617742600
+      bronze-weapons_8: 5006077115015181545
+      bronze-weapons_80: 4870762472266921106
+      bronze-weapons_81: 4399411525544719377
+      bronze-weapons_82: 8555383802877961248
+      bronze-weapons_83: -1210665127600027857
+      bronze-weapons_84: 7459130761398569257
+      bronze-weapons_85: 1572769698448799963
+      bronze-weapons_86: 1451199661598445856
+      bronze-weapons_87: 6642446733915640717
+      bronze-weapons_88: 3013611927507637756
+      bronze-weapons_89: 7872372421238094783
+      bronze-weapons_9: 3017720837902734032
+      bronze-weapons_90: -5500930159269730230
+      bronze-weapons_91: 1026076881507452011
+      bronze-weapons_92: 591441742859423386
+      bronze-weapons_93: 3761901564525018385
+      bronze-weapons_94: -644918590662324066
+      bronze-weapons_95: 3624479461847103044
+      bronze-weapons_96: -4915047476288009934
+      bronze-weapons_97: -7044929468233386290
+      bronze-weapons_98: -3280764646768998731
+      bronze-weapons_99: -2154723416926044317
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

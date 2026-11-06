@@ -1,0 +1,2914 @@
+fileFormatVersion: 2
+guid: 85face9d7d398a0419ccd2d8ac9573ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4135096541596566856
+    second: gold_atlas_0
+  - first:
+      213: 5991102358077972365
+    second: gold_atlas_1
+  - first:
+      213: -7309294327569803181
+    second: gold_atlas_2
+  - first:
+      213: 5133754099706415972
+    second: gold_atlas_3
+  - first:
+      213: 2936755378426409867
+    second: gold_atlas_4
+  - first:
+      213: 6779408775811290468
+    second: gold_atlas_5
+  - first:
+      213: -6763475099087412774
+    second: gold_atlas_6
+  - first:
+      213: 8991189474648914931
+    second: gold_atlas_7
+  - first:
+      213: 1445527355321724926
+    second: gold_atlas_8
+  - first:
+      213: -4449623283182938234
+    second: gold_atlas_9
+  - first:
+      213: -7944595700280766338
+    second: gold_atlas_10
+  - first:
+      213: -6791504020212683779
+    second: gold_atlas_11
+  - first:
+      213: -8517043957839877897
+    second: gold_atlas_12
+  - first:
+      213: -5207264202212975097
+    second: gold_atlas_13
+  - first:
+      213: -1119819664546405847
+    second: gold_atlas_14
+  - first:
+      213: -500763468500670650
+    second: gold_atlas_15
+  - first:
+      213: 8927466883270072772
+    second: gold_atlas_16
+  - first:
+      213: -5579299348851217739
+    second: gold_atlas_17
+  - first:
+      213: 5761534573645016406
+    second: gold_atlas_18
+  - first:
+      213: 5482363797636201972
+    second: gold_atlas_19
+  - first:
+      213: -4024631373960841320
+    second: gold_atlas_20
+  - first:
+      213: -4134400136340500930
+    second: gold_atlas_21
+  - first:
+      213: -1751516161506025024
+    second: gold_atlas_22
+  - first:
+      213: -8896890154354990894
+    second: gold_atlas_23
+  - first:
+      213: 1647757107975309848
+    second: gold_atlas_24
+  - first:
+      213: -2217400979517126381
+    second: gold_atlas_25
+  - first:
+      213: 1218663228761462461
+    second: gold_atlas_26
+  - first:
+      213: 4063124281900191370
+    second: gold_atlas_27
+  - first:
+      213: 5389955639646454859
+    second: gold_atlas_28
+  - first:
+      213: 4931571726295978458
+    second: gold_atlas_29
+  - first:
+      213: 1041564799020873994
+    second: gold_atlas_30
+  - first:
+      213: 3479103727880275829
+    second: gold_atlas_31
+  - first:
+      213: -9195114884121547589
+    second: gold_atlas_32
+  - first:
+      213: 4198088887434589663
+    second: gold_atlas_33
+  - first:
+      213: -8847219958796199895
+    second: gold_atlas_34
+  - first:
+      213: -116733566107941874
+    second: gold_atlas_35
+  - first:
+      213: -7848505020529782700
+    second: gold_atlas_36
+  - first:
+      213: -6034170972326560808
+    second: gold_atlas_37
+  - first:
+      213: 2249267629689621572
+    second: gold_atlas_38
+  - first:
+      213: 5101734873560408762
+    second: gold_atlas_39
+  - first:
+      213: 2060743475333141983
+    second: gold_atlas_40
+  - first:
+      213: 7665549880607286689
+    second: gold_atlas_41
+  - first:
+      213: -6774305630118524482
+    second: gold_atlas_42
+  - first:
+      213: 1148476453744159411
+    second: gold_atlas_43
+  - first:
+      213: 3059290552694025079
+    second: gold_atlas_44
+  - first:
+      213: 3222258213621162291
+    second: gold_atlas_45
+  - first:
+      213: 6726003400013728295
+    second: gold_atlas_46
+  - first:
+      213: 3631806283878016880
+    second: gold_atlas_47
+  - first:
+      213: 5807206480416376016
+    second: gold_atlas_48
+  - first:
+      213: -3849638682025343326
+    second: gold_atlas_49
+  - first:
+      213: 3910746996727432776
+    second: gold_atlas_50
+  - first:
+      213: 5413741833618808439
+    second: gold_atlas_51
+  - first:
+      213: -8431346569759355764
+    second: gold_atlas_52
+  - first:
+      213: 2060461726564663939
+    second: gold_atlas_53
+  - first:
+      213: -1980097725495866730
+    second: gold_atlas_54
+  - first:
+      213: -1329391237041623166
+    second: gold_atlas_55
+  - first:
+      213: -9152143808058785641
+    second: gold_atlas_56
+  - first:
+      213: 3428786307863208844
+    second: gold_atlas_57
+  - first:
+      213: -3456227645286530218
+    second: gold_atlas_58
+  - first:
+      213: 640724972160517383
+    second: gold_atlas_59
+  - first:
+      213: -8786878096964288378
+    second: gold_atlas_60
+  - first:
+      213: -5367788229578016158
+    second: gold_atlas_61
+  - first:
+      213: 5398193300401386199
+    second: gold_atlas_62
+  - first:
+      213: 4667416581591734225
+    second: gold_atlas_63
+  - first:
+      213: 3516667486104017262
+    second: gold_atlas_64
+  - first:
+      213: 3815149789668653001
+    second: gold_atlas_65
+  - first:
+      213: -7669384594925713387
+    second: gold_atlas_66
+  - first:
+      213: 6924124792462319915
+    second: gold_atlas_67
+  - first:
+      213: -1710274974039644877
+    second: gold_atlas_68
+  - first:
+      213: 887152093337192261
+    second: gold_atlas_69
+  - first:
+      213: 304621375253860805
+    second: gold_atlas_70
+  - first:
+      213: -6898045495562947839
+    second: gold_atlas_71
+  - first:
+      213: 5485451385953014852
+    second: gold_atlas_72
+  - first:
+      213: -5658804220668639900
+    second: gold_atlas_73
+  - first:
+      213: -6178272867976235193
+    second: gold_atlas_74
+  - first:
+      213: -6418452318840834663
+    second: gold_atlas_75
+  - first:
+      213: 6953545908394845648
+    second: gold_atlas_76
+  - first:
+      213: -3857059002982010329
+    second: gold_atlas_77
+  - first:
+      213: 927026735212513691
+    second: gold_atlas_78
+  - first:
+      213: -7898334532646320632
+    second: gold_atlas_79
+  - first:
+      213: 5914091447332467800
+    second: gold_atlas_80
+  - first:
+      213: -4648547733469654259
+    second: gold_atlas_81
+  - first:
+      213: 5705389885277442157
+    second: gold_atlas_82
+  - first:
+      213: -1766667564599140271
+    second: gold_atlas_83
+  - first:
+      213: -3866084924472609940
+    second: gold_atlas_84
+  - first:
+      213: -7505335330133298607
+    second: gold_atlas_85
+  - first:
+      213: 2150139520845828715
+    second: gold_atlas_86
+  - first:
+      213: 4518767052254381582
+    second: gold_atlas_87
+  - first:
+      213: -5611926802887071813
+    second: gold_atlas_88
+  - first:
+      213: -3306115686727053173
+    second: gold_atlas_89
+  - first:
+      213: 2201868526346080010
+    second: gold_atlas_90
+  - first:
+      213: -8209117188037847795
+    second: gold_atlas_91
+  - first:
+      213: 7862891123499474869
+    second: gold_atlas_92
+  - first:
+      213: -225732788476761648
+    second: gold_atlas_93
+  - first:
+      213: -1018182582794899162
+    second: gold_atlas_94
+  - first:
+      213: -2198634210149327263
+    second: gold_atlas_95
+  - first:
+      213: 617256335356740268
+    second: gold_atlas_96
+  - first:
+      213: 3325016090521417682
+    second: gold_atlas_97
+  - first:
+      213: 7438364079406939431
+    second: gold_atlas_98
+  - first:
+      213: -2485559509866124159
+    second: gold_atlas_99
+  - first:
+      213: -7682918540847266685
+    second: gold_atlas_100
+  - first:
+      213: 7639545897407688756
+    second: gold_atlas_101
+  - first:
+      213: 6383954312758903900
+    second: gold_atlas_102
+  - first:
+      213: 7390851342006069875
+    second: gold_atlas_103
+  - first:
+      213: 3850151665112834706
+    second: gold_atlas_104
+  - first:
+      213: 6074922090425245852
+    second: gold_atlas_105
+  - first:
+      213: -3922778845473492854
+    second: gold_atlas_106
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gold_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1013
+        width: 140
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8454fc95560d26930800000000000000
+      internalID: 4135096541596566856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1013
+        width: 139
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f1e3a3adba42350800000000000000
+      internalID: 5991102358077972365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1013
+        width: 138
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3589c6e098b209a90800000000000000
+      internalID: -7309294327569803181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1013
+        width: 136
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bc4356722ce3740800000000000000
+      internalID: 5133754099706415972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1013
+        width: 135
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83f253057371c820800000000000000
+      internalID: 2936755378426409867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1013
+        width: 135
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465d56ddc5c451e50800000000000000
+      internalID: 6779408775811290468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1013
+        width: 137
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1e1b75b3f4322a0800000000000000
+      internalID: -6763475099087412774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1013
+        width: 139
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbfda8903f17cc70800000000000000
+      internalID: 8991189474648914931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 868
+        width: 139
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effaf0f887b8f0410800000000000000
+      internalID: 1445527355321724926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 869
+        width: 140
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687d295f233cf32c0800000000000000
+      internalID: -4449623283182938234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 869
+        width: 140
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e705ba88d402fb190800000000000000
+      internalID: -7944595700280766338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 868
+        width: 139
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbe598931bbfb1a0800000000000000
+      internalID: -6791504020212683779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 868
+        width: 137
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8219445a16dc980800000000000000
+      internalID: -8517043957839877897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 869
+        width: 136
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70edc7f1cc41cb7b0800000000000000
+      internalID: -5207264202212975097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 869
+        width: 136
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922e63ab2f99570f0800000000000000
+      internalID: -1119819664546405847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 868
+        width: 138
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647668f474eec09f0800000000000000
+      internalID: -500763468500670650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 724
+        width: 150
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c95061a4dbb4eb70800000000000000
+      internalID: 8927466883270072772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 724
+        width: 150
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5baa7287dc85292b0800000000000000
+      internalID: -5579299348851217739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 725
+        width: 150
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d2e373b2515ff40800000000000000
+      internalID: 5761534573645016406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 724
+        width: 150
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd319fb3d4451c40800000000000000
+      internalID: 5482363797636201972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 724
+        width: 150
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897fb2bb613a528c0800000000000000
+      internalID: -4024631373960841320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_21
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 724
+        width: 149
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e09122bf8af96c0800000000000000
+      internalID: -4134400136340500930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 725
+        width: 149
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1e31fb45d51b7e0800000000000000
+      internalID: -1751516161506025024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_23
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 724
+        width: 149
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d02008da85e78480800000000000000
+      internalID: -8896890154354990894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 581
+        width: 138
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a4ef80c520ed610800000000000000
+      internalID: 1647757107975309848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_25
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 594
+        width: 145
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3194743be853a31e0800000000000000
+      internalID: -2217400979517126381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_26
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 623
+        width: 149
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db65823ffbf89e010800000000000000
+      internalID: 1218663228761462461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_27
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 618
+        width: 150
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8eccecc10e136830800000000000000
+      internalID: 4063124281900191370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_28
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 590
+        width: 144
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b448d38d818fcca40800000000000000
+      internalID: 5389955639646454859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_29
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 581
+        width: 136
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad15b324b56707440800000000000000
+      internalID: 4931571726295978458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 437
+        width: 136
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09b0309aa1647e00800000000000000
+      internalID: 1041564799020873994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_31
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 437
+        width: 132
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5778a0d4862484030800000000000000
+      internalID: 3479103727880275829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_32
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 452
+        width: 148
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc270f0bb3646080800000000000000
+      internalID: -9195114884121547589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_33
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 457
+        width: 159
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5bd07c99b924a30800000000000000
+      internalID: 4198088887434589663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_34
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 448
+        width: 161
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928d432725c583580800000000000000
+      internalID: -8847219958796199895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_35
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 436
+        width: 146
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0485caa077416ef0800000000000000
+      internalID: -116733566107941874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_36
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 436
+        width: 138
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450d3795442841390800000000000000
+      internalID: -7848505020529782700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_37
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 293
+        width: 141
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db70889871524ca0800000000000000
+      internalID: -6034170972326560808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_38
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 293
+        width: 141
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c4f68fdf0073f10800000000000000
+      internalID: 2249267629689621572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_39
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 293
+        width: 147
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab26acc56d00dc640800000000000000
+      internalID: 5101734873560408762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_40
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 293
+        width: 141
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd59f64c54b399c10800000000000000
+      internalID: 2060743475333141983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_41
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 368
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5a2a9a001816a60800000000000000
+      internalID: 7665549880607286689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_42
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 293
+        width: 159
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb94bd4dbe4dcf1a0800000000000000
+      internalID: -6774305630118524482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_43
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 370
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba2252ff3530ff00800000000000000
+      internalID: 1148476453744159411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_44
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 293
+        width: 151
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b29028c88c47a20800000000000000
+      internalID: 3059290552694025079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_45
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 358
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3316975e5c2c7bc20800000000000000
+      internalID: 3222258213621162291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_46
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 363
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a43e7d470975d50800000000000000
+      internalID: 6726003400013728295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_47
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 368
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077a493b294c66230800000000000000
+      internalID: 3631806283878016880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_48
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 293
+        width: 142
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4809aa687579050800000000000000
+      internalID: 5807206480416376016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_49
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 358
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6c644d306539ac0800000000000000
+      internalID: -3849638682025343326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_50
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 363
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8464d5a6ca3c54630800000000000000
+      internalID: 3910746996727432776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_51
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 293
+        width: 142
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e5582b389712b40800000000000000
+      internalID: 5413741833618808439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_52
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 359
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c094b47f6ddfa80800000000000000
+      internalID: -8431346569759355764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 148
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382cc25060b389c10800000000000000
+      internalID: 2060461726564663939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 148
+        width: 139
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a82431c974584e0800000000000000
+      internalID: -1980097725495866730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_55
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 148
+        width: 134
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fed9c96bd0d8de0800000000000000
+      internalID: -1329391237041623166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_56
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 149
+        width: 137
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7908d5b52bd0df080800000000000000
+      internalID: -9152143808058785641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_57
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 141
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83e8e20bfe759f20800000000000000
+      internalID: 3428786307863208844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_58
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 4
+        width: 141
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653cfcbb4430900d0800000000000000
+      internalID: -3456227645286530218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_59
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 5
+        width: 138
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705895ca7ff44e800800000000000000
+      internalID: 640724972160517383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_60
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 5
+        width: 123
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68088c9fcecbe0680800000000000000
+      internalID: -8786878096964288378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_61
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 5
+        width: 118
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26aba728b09c185b0800000000000000
+      internalID: -5367788229578016158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_62
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 51
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d27153b43c3aea40800000000000000
+      internalID: 5398193300401386199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_63
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 43
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d71b84e6aef5c040800000000000000
+      internalID: 4667416581591734225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_64
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 50
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69556e4276bdc030800000000000000
+      internalID: 3516667486104017262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_65
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 67
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c73b1a258222f430800000000000000
+      internalID: 3815149789668653001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_66
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 58
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5188995585fd09590800000000000000
+      internalID: -7669384594925713387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_67
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 31
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21213b20de671060800000000000000
+      internalID: 6924124792462319915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_68
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 54
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3356028f8f1e348e0800000000000000
+      internalID: -1710274974039644877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_69
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 31
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5478b19e02ccf4c00800000000000000
+      internalID: 887152093337192261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_70
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 70
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c15ffed68b3a3400800000000000000
+      internalID: 304621375253860805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_71
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 73
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103bc705b283540a0800000000000000
+      internalID: -6898045495562947839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_72
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 50
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444576ce8fc302c40800000000000000
+      internalID: 5485451385953014852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_73
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 65
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465809dfa83e771b0800000000000000
+      internalID: -5658804220668639900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_74
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 37
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747b7da7f8d524aa0800000000000000
+      internalID: -6178272867976235193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_75
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 50
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995b5b75f931de6a0800000000000000
+      internalID: -6418452318840834663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_76
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 62
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5ee378925ff7060800000000000000
+      internalID: 6953545908394845648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_77
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 43
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722f889b549f87ac0800000000000000
+      internalID: -3857059002982010329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_78
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 42
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99c1a177e57ddc00800000000000000
+      internalID: 927026735212513691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_79
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 35
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8064a68f69a736290800000000000000
+      internalID: -7898334532646320632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_80
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 25
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8547d6f46d2131250800000000000000
+      internalID: 5914091447332467800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_81
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 33
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d031819277a0d7fb0800000000000000
+      internalID: -4648547733469654259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_82
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 29
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6091194fdd9d2f40800000000000000
+      internalID: 5705389885277442157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_83
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 41
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1502ddfc5398b77e0800000000000000
+      internalID: -1766667564599140271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_84
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 33
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63315d9e38e85ac0800000000000000
+      internalID: -3866084924472609940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_85
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 37
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152373f3841b7d790800000000000000
+      internalID: -7505335330133298607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_86
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 26
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b625b859084d6dd10800000000000000
+      internalID: 2150139520845828715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_87
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 17
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e068c5c41b2e5be30800000000000000
+      internalID: 4518767052254381582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_88
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 18
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb72c685e4e6e12b0800000000000000
+      internalID: -5611926802887071813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_89
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 23
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80994aac415e12d0800000000000000
+      internalID: -3306115686727053173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_90
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 5
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f88fa32cb9e8e10800000000000000
+      internalID: 2201868526346080010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_91
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 26
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d055377496b531e80800000000000000
+      internalID: -8209117188037847795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_92
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 15
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf12c341d99e1d60800000000000000
+      internalID: 7862891123499474869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_93
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 22
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d92fa099390edcf0800000000000000
+      internalID: -225732788476761648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_94
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 14
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6213504e550bed1f0800000000000000
+      internalID: -1018182582794899162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_95
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 21
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e1701b5d1ec71e0800000000000000
+      internalID: -2198634210149327263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_96
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 10
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca24c4cdd5fe09800800000000000000
+      internalID: 617256335356740268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_97
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 14
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7bcf38484d42e20800000000000000
+      internalID: 3325016090521417682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_98
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 7
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d731758b06a3760800000000000000
+      internalID: 7438364079406939431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_99
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 15
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ce55a7bc4818dd0800000000000000
+      internalID: -2485559509866124159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_100
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 10
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384498efa4ac06590800000000000000
+      internalID: -7682918540847266685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_101
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 14
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4303744848e150a60800000000000000
+      internalID: 7639545897407688756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_102
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 5
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c544152bf9c589850800000000000000
+      internalID: 6383954312758903900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_103
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 14
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37aadfb1324919660800000000000000
+      internalID: 7390851342006069875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_104
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 15
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292ed6a5a8c7e6530800000000000000
+      internalID: 3850151665112834706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_105
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 6
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9068f574757e4450800000000000000
+      internalID: 6074922090425245852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_atlas_106
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 9
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80b22f7c6d7f89c0800000000000000
+      internalID: -3922778845473492854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gold_atlas_0: 4135096541596566856
+      gold_atlas_1: 5991102358077972365
+      gold_atlas_10: -7944595700280766338
+      gold_atlas_100: -7682918540847266685
+      gold_atlas_101: 7639545897407688756
+      gold_atlas_102: 6383954312758903900
+      gold_atlas_103: 7390851342006069875
+      gold_atlas_104: 3850151665112834706
+      gold_atlas_105: 6074922090425245852
+      gold_atlas_106: -3922778845473492854
+      gold_atlas_11: -6791504020212683779
+      gold_atlas_12: -8517043957839877897
+      gold_atlas_13: -5207264202212975097
+      gold_atlas_14: -1119819664546405847
+      gold_atlas_15: -500763468500670650
+      gold_atlas_16: 8927466883270072772
+      gold_atlas_17: -5579299348851217739
+      gold_atlas_18: 5761534573645016406
+      gold_atlas_19: 5482363797636201972
+      gold_atlas_2: -7309294327569803181
+      gold_atlas_20: -4024631373960841320
+      gold_atlas_21: -4134400136340500930
+      gold_atlas_22: -1751516161506025024
+      gold_atlas_23: -8896890154354990894
+      gold_atlas_24: 1647757107975309848
+      gold_atlas_25: -2217400979517126381
+      gold_atlas_26: 1218663228761462461
+      gold_atlas_27: 4063124281900191370
+      gold_atlas_28: 5389955639646454859
+      gold_atlas_29: 4931571726295978458
+      gold_atlas_3: 5133754099706415972
+      gold_atlas_30: 1041564799020873994
+      gold_atlas_31: 3479103727880275829
+      gold_atlas_32: -9195114884121547589
+      gold_atlas_33: 4198088887434589663
+      gold_atlas_34: -8847219958796199895
+      gold_atlas_35: -116733566107941874
+      gold_atlas_36: -7848505020529782700
+      gold_atlas_37: -6034170972326560808
+      gold_atlas_38: 2249267629689621572
+      gold_atlas_39: 5101734873560408762
+      gold_atlas_4: 2936755378426409867
+      gold_atlas_40: 2060743475333141983
+      gold_atlas_41: 7665549880607286689
+      gold_atlas_42: -6774305630118524482
+      gold_atlas_43: 1148476453744159411
+      gold_atlas_44: 3059290552694025079
+      gold_atlas_45: 3222258213621162291
+      gold_atlas_46: 6726003400013728295
+      gold_atlas_47: 3631806283878016880
+      gold_atlas_48: 5807206480416376016
+      gold_atlas_49: -3849638682025343326
+      gold_atlas_5: 6779408775811290468
+      gold_atlas_50: 3910746996727432776
+      gold_atlas_51: 5413741833618808439
+      gold_atlas_52: -8431346569759355764
+      gold_atlas_53: 2060461726564663939
+      gold_atlas_54: -1980097725495866730
+      gold_atlas_55: -1329391237041623166
+      gold_atlas_56: -9152143808058785641
+      gold_atlas_57: 3428786307863208844
+      gold_atlas_58: -3456227645286530218
+      gold_atlas_59: 640724972160517383
+      gold_atlas_6: -6763475099087412774
+      gold_atlas_60: -8786878096964288378
+      gold_atlas_61: -5367788229578016158
+      gold_atlas_62: 5398193300401386199
+      gold_atlas_63: 4667416581591734225
+      gold_atlas_64: 3516667486104017262
+      gold_atlas_65: 3815149789668653001
+      gold_atlas_66: -7669384594925713387
+      gold_atlas_67: 6924124792462319915
+      gold_atlas_68: -1710274974039644877
+      gold_atlas_69: 887152093337192261
+      gold_atlas_7: 8991189474648914931
+      gold_atlas_70: 304621375253860805
+      gold_atlas_71: -6898045495562947839
+      gold_atlas_72: 5485451385953014852
+      gold_atlas_73: -5658804220668639900
+      gold_atlas_74: -6178272867976235193
+      gold_atlas_75: -6418452318840834663
+      gold_atlas_76: 6953545908394845648
+      gold_atlas_77: -3857059002982010329
+      gold_atlas_78: 927026735212513691
+      gold_atlas_79: -7898334532646320632
+      gold_atlas_8: 1445527355321724926
+      gold_atlas_80: 5914091447332467800
+      gold_atlas_81: -4648547733469654259
+      gold_atlas_82: 5705389885277442157
+      gold_atlas_83: -1766667564599140271
+      gold_atlas_84: -3866084924472609940
+      gold_atlas_85: -7505335330133298607
+      gold_atlas_86: 2150139520845828715
+      gold_atlas_87: 4518767052254381582
+      gold_atlas_88: -5611926802887071813
+      gold_atlas_89: -3306115686727053173
+      gold_atlas_9: -4449623283182938234
+      gold_atlas_90: 2201868526346080010
+      gold_atlas_91: -8209117188037847795
+      gold_atlas_92: 7862891123499474869
+      gold_atlas_93: -225732788476761648
+      gold_atlas_94: -1018182582794899162
+      gold_atlas_95: -2198634210149327263
+      gold_atlas_96: 617256335356740268
+      gold_atlas_97: 3325016090521417682
+      gold_atlas_98: 7438364079406939431
+      gold_atlas_99: -2485559509866124159
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

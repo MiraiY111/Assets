@@ -1,0 +1,136 @@
+{
+ "sheets": [
+  {
+   "file": "wood/bar_fill_health.png",
+   "frame": [
+    64,
+    12
+   ],
+   "frames": 17,
+   "fps": 12,
+   "loop": false,
+   "what": "bar empty to full: frame i is i/16 full"
+  },
+  {
+   "file": "wood/bar_damage_health.png",
+   "frame": [
+    64,
+    12
+   ],
+   "frames": 12,
+   "fps": 12,
+   "loop": false,
+   "what": "a hit from 3/4 to 1/2: the fill flashes, the trail drains"
+  },
+  {
+   "file": "wood/orb_fill_health.png",
+   "frame": [
+    32,
+    32
+   ],
+   "frames": 17,
+   "fps": 12,
+   "loop": false,
+   "what": "orb empty to full: frame i is i/16 full"
+  },
+  {
+   "file": "wood/bar_fill_mana.png",
+   "frame": [
+    64,
+    12
+   ],
+   "frames": 17,
+   "fps": 12,
+   "loop": false,
+   "what": "bar empty to full: frame i is i/16 full"
+  },
+  {
+   "file": "wood/bar_damage_mana.png",
+   "frame": [
+    64,
+    12
+   ],
+   "frames": 12,
+   "fps": 12,
+   "loop": false,
+   "what": "a hit from 3/4 to 1/2: the fill flashes, the trail drains"
+  },
+  {
+   "file": "wood/orb_fill_mana.png",
+   "frame": [
+    32,
+    32
+   ],
+   "frames": 17,
+   "fps": 12,
+   "loop": false,
+   "what": "orb empty to full: frame i is i/16 full"
+  },
+  {
+   "file": "wood/bar_fill_stamina.png",
+   "frame": [
+    64,
+    12
+   ],
+   "frames": 17,
+   "fps": 12,
+   "loop": false,
+   "what": "bar empty to full: frame i is i/16 full"
+  },
+  {
+   "file": "wood/bar_damage_stamina.png",
+   "frame": [
+    64,
+    12
+   ],
+   "frames": 12,
+   "fps": 12,
+   "loop": false,
+   "what": "a hit from 3/4 to 1/2: the fill flashes, the trail drains"
+  },
+  {
+   "file": "wood/orb_fill_stamina.png",
+   "frame": [
+    32,
+    32
+   ],
+   "frames": 17,
+   "fps": 12,
+   "loop": false,
+   "what": "orb empty to full: frame i is i/16 full"
+  },
+  {
+   "file": "hearts/heart_break.png",
+   "frame": [
+    16,
+    16
+   ],
+   "frames": 6,
+   "fps": 12,
+   "loop": false,
+   "what": "a heart's break"
+  },
+  {
+   "file": "hearts/heart_heal.png",
+   "frame": [
+    16,
+    16
+   ],
+   "frames": 6,
+   "fps": 12,
+   "loop": false,
+   "what": "a heart's heal"
+  },
+  {
+   "file": "hearts/heart_beat.png",
+   "frame": [
+    16,
+    16
+   ],
+   "frames": 6,
+   "fps": 8,
+   "loop": true,
+   "what": "a heart's beat"
+  }
+ ]
+}

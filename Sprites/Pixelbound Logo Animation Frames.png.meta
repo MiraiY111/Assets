@@ -1,0 +1,317 @@
+fileFormatVersion: 2
+guid: 5e9cf67f725445d4e9750be74d1ee921
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3006950851501842167
+    second: Pixelbound Logo Animation Frames_0
+  - first:
+      213: 3026838237741397859
+    second: Pixelbound Logo Animation Frames_1
+  - first:
+      213: -3081884434033885404
+    second: Pixelbound Logo Animation Frames_2
+  - first:
+      213: 2544469758839080619
+    second: Pixelbound Logo Animation Frames_3
+  - first:
+      213: -1405618548654337602
+    second: Pixelbound Logo Animation Frames_4
+  - first:
+      213: 1389829383818944367
+    second: Pixelbound Logo Animation Frames_5
+  - first:
+      213: -6482064384063724466
+    second: Pixelbound Logo Animation Frames_6
+  - first:
+      213: -4582567868673980321
+    second: Pixelbound Logo Animation Frames_7
+  - first:
+      213: -9221702483013409662
+    second: Pixelbound Logo Animation Frames_8
+  - first:
+      213: 8581050361205778766
+    second: Pixelbound Logo Animation Frames_9
+  - first:
+      213: -4651413744263974071
+    second: Pixelbound Logo Animation Frames_10
+  - first:
+      213: 4759621875780582411
+    second: Pixelbound Logo Animation Frames_11
+  - first:
+      213: -4398101084818902811
+    second: Pixelbound Logo Animation Frames_12
+  - first:
+      213: 6541948782162860090
+    second: Pixelbound Logo Animation Frames_13
+  - first:
+      213: 204414272959782733
+    second: Pixelbound Logo Animation Frames_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixelbound Logo Animation Frames_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 822
+        width: 1024
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901ac2fc12a2546d0800000000000000
+      internalID: -3006950851501842167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelbound Logo Animation Frames_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 1024
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8016aa6b878a6ed4a8127acdbaf7fff4
+      internalID: 639103033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelbound Logo Animation Frames_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1072
+        width: 1024
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db696b6389a92b0479c811b527c35b69
+      internalID: -137197664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelbound Logo Animation Frames_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1321
+        width: 1024
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8339156391dd00f49bde7deccc4c792f
+      internalID: -2058625880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelbound Logo Animation Frames_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 333
+        width: 1024
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db1fe6e2244ab343870b72ea612e1c7
+      internalID: -334088832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelbound Logo Animation Frames_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 1024
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624799f72e26e444e8277260d8db2559
+      internalID: -1672287641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b2cc6193246ceaf46ac6d46bc1a48b3c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1024.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Pixelbound Logo Animation Frames_0: -3006950851501842167
+      Pixelbound Logo Animation Frames_1: -137197664
+      Pixelbound Logo Animation Frames_2: -2058625880
+      Pixelbound Logo Animation Frames_3: 639103033
+      Pixelbound Logo Animation Frames_4: -334088832
+      Pixelbound Logo Animation Frames_5: -1672287641
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

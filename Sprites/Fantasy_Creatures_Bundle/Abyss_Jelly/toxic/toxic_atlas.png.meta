@@ -1,0 +1,2342 @@
+fileFormatVersion: 2
+guid: d26a7fb35924d4b45b4b20e5ab2ebd0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7539944560458598027
+    second: toxic_atlas_0
+  - first:
+      213: -1956792773942070167
+    second: toxic_atlas_1
+  - first:
+      213: -8706011752666243719
+    second: toxic_atlas_2
+  - first:
+      213: 2572341722280586867
+    second: toxic_atlas_3
+  - first:
+      213: 6013610288643011765
+    second: toxic_atlas_4
+  - first:
+      213: -4862376176834140748
+    second: toxic_atlas_5
+  - first:
+      213: -5136647594167673477
+    second: toxic_atlas_6
+  - first:
+      213: 7055162784897279098
+    second: toxic_atlas_7
+  - first:
+      213: 244701333115525957
+    second: toxic_atlas_8
+  - first:
+      213: 5432249287714565408
+    second: toxic_atlas_9
+  - first:
+      213: 2354993782154007014
+    second: toxic_atlas_10
+  - first:
+      213: -3669984500285904885
+    second: toxic_atlas_11
+  - first:
+      213: 6493307120281547146
+    second: toxic_atlas_12
+  - first:
+      213: 6716329533014128053
+    second: toxic_atlas_13
+  - first:
+      213: -6184406796410953824
+    second: toxic_atlas_14
+  - first:
+      213: -5316174423697455772
+    second: toxic_atlas_15
+  - first:
+      213: -6676592308959162349
+    second: toxic_atlas_16
+  - first:
+      213: -7404988635106515481
+    second: toxic_atlas_17
+  - first:
+      213: -2355700346192655435
+    second: toxic_atlas_18
+  - first:
+      213: -7274799672983560268
+    second: toxic_atlas_19
+  - first:
+      213: -8422558477965738990
+    second: toxic_atlas_20
+  - first:
+      213: 6474904907717136001
+    second: toxic_atlas_21
+  - first:
+      213: -5660508582248626682
+    second: toxic_atlas_22
+  - first:
+      213: 6894771056936144255
+    second: toxic_atlas_23
+  - first:
+      213: 6836161065905531090
+    second: toxic_atlas_24
+  - first:
+      213: -7985356683706129848
+    second: toxic_atlas_25
+  - first:
+      213: -9113585374788122019
+    second: toxic_atlas_26
+  - first:
+      213: -180698948062756910
+    second: toxic_atlas_27
+  - first:
+      213: -4394350357552722244
+    second: toxic_atlas_28
+  - first:
+      213: 1892592544274356261
+    second: toxic_atlas_29
+  - first:
+      213: 1010798882651647487
+    second: toxic_atlas_30
+  - first:
+      213: 6536747368932696606
+    second: toxic_atlas_31
+  - first:
+      213: 680200863398341017
+    second: toxic_atlas_32
+  - first:
+      213: -7014372943901449502
+    second: toxic_atlas_33
+  - first:
+      213: -9204671714908808262
+    second: toxic_atlas_34
+  - first:
+      213: 3553236975714555241
+    second: toxic_atlas_35
+  - first:
+      213: 5952380448236831485
+    second: toxic_atlas_36
+  - first:
+      213: -8875447180293316432
+    second: toxic_atlas_37
+  - first:
+      213: -1983905961599553578
+    second: toxic_atlas_38
+  - first:
+      213: -7577605537632227875
+    second: toxic_atlas_39
+  - first:
+      213: 9153450162116549514
+    second: toxic_atlas_40
+  - first:
+      213: 8944969907421562575
+    second: toxic_atlas_41
+  - first:
+      213: -4264941988335961597
+    second: toxic_atlas_42
+  - first:
+      213: -424905532196990483
+    second: toxic_atlas_43
+  - first:
+      213: 8961949751145132761
+    second: toxic_atlas_44
+  - first:
+      213: -3164866630924647419
+    second: toxic_atlas_45
+  - first:
+      213: -7302182675162092056
+    second: toxic_atlas_46
+  - first:
+      213: 8541449960654696717
+    second: toxic_atlas_47
+  - first:
+      213: -9138535757633619208
+    second: toxic_atlas_48
+  - first:
+      213: -5035810451301209122
+    second: toxic_atlas_49
+  - first:
+      213: 2093810741782814609
+    second: toxic_atlas_50
+  - first:
+      213: -1051623815284491965
+    second: toxic_atlas_51
+  - first:
+      213: -2827110404421920577
+    second: toxic_atlas_52
+  - first:
+      213: 5279810227446554172
+    second: toxic_atlas_53
+  - first:
+      213: -3022409679606195595
+    second: toxic_atlas_54
+  - first:
+      213: 6898655952155691191
+    second: toxic_atlas_55
+  - first:
+      213: -8099890309510793507
+    second: toxic_atlas_56
+  - first:
+      213: 7819522153090005789
+    second: toxic_atlas_57
+  - first:
+      213: -2096050360434014355
+    second: toxic_atlas_58
+  - first:
+      213: 975907024926836120
+    second: toxic_atlas_59
+  - first:
+      213: -8998268172457198581
+    second: toxic_atlas_60
+  - first:
+      213: -5260181896411238913
+    second: toxic_atlas_61
+  - first:
+      213: -8112337255101736833
+    second: toxic_atlas_62
+  - first:
+      213: -7837163978429476339
+    second: toxic_atlas_63
+  - first:
+      213: -2424580723982143848
+    second: toxic_atlas_64
+  - first:
+      213: 3495359363744546851
+    second: toxic_atlas_65
+  - first:
+      213: 6570200290731839949
+    second: toxic_atlas_66
+  - first:
+      213: 1610532779045871479
+    second: toxic_atlas_67
+  - first:
+      213: 6551656827971071232
+    second: toxic_atlas_68
+  - first:
+      213: -1740073636464277318
+    second: toxic_atlas_69
+  - first:
+      213: -5438262469918286332
+    second: toxic_atlas_70
+  - first:
+      213: -1568244156078552374
+    second: toxic_atlas_71
+  - first:
+      213: 8478981214476062007
+    second: toxic_atlas_72
+  - first:
+      213: -955650138488861881
+    second: toxic_atlas_73
+  - first:
+      213: 6992775398173228832
+    second: toxic_atlas_74
+  - first:
+      213: -432733104659291027
+    second: toxic_atlas_75
+  - first:
+      213: -1796589233738296867
+    second: toxic_atlas_76
+  - first:
+      213: -2641296194997162395
+    second: toxic_atlas_77
+  - first:
+      213: -4890761309004318648
+    second: toxic_atlas_78
+  - first:
+      213: -796395621732449790
+    second: toxic_atlas_79
+  - first:
+      213: -7613214428038306002
+    second: toxic_atlas_80
+  - first:
+      213: 1790526864843522749
+    second: toxic_atlas_81
+  - first:
+      213: 464708265815619758
+    second: toxic_atlas_82
+  - first:
+      213: 3932662539597830585
+    second: toxic_atlas_83
+  - first:
+      213: -6144272032668335018
+    second: toxic_atlas_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: toxic_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 942
+        width: 99
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86064021a343a860800000000000000
+      internalID: 7539944560458598027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 945
+        width: 99
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964b122f65318d4e0800000000000000
+      internalID: -1956792773942070167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 948
+        width: 99
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dd3f7ff680e2780800000000000000
+      internalID: -8706011752666243719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 950
+        width: 95
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e6375ea2bc2b320800000000000000
+      internalID: 2572341722280586867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 949
+        width: 95
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4733032b2a47350800000000000000
+      internalID: 6013610288643011765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 945
+        width: 95
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5aa7f01ae558cb0800000000000000
+      internalID: -4862376176834140748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 942
+        width: 99
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d554d6a36f6b8b0800000000000000
+      internalID: -5136647594167673477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 940
+        width: 99
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74ab5a4c29f8e160800000000000000
+      internalID: 7055162784897279098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 762
+        width: 99
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b5a64e09a556300800000000000000
+      internalID: 244701333115525957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 771
+        width: 95
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d689522f9336b40800000000000000
+      internalID: 5432249287714565408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 779
+        width: 87
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e11b891e5e9ea020800000000000000
+      internalID: 2354993782154007014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 784
+        width: 83
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08e4499a88911dc0800000000000000
+      internalID: -3669984500285904885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 775
+        width: 83
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8175e14c6cdc1a50800000000000000
+      internalID: 6493307120281547146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 766
+        width: 91
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5b5c92022353d50800000000000000
+      internalID: 6716329533014128053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 762
+        width: 99
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afd969f8c29c2aa0800000000000000
+      internalID: -6184406796410953824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 761
+        width: 99
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4650f7727872936b0800000000000000
+      internalID: -5316174423697455772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 578
+        width: 107
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310526a4baaf753a0800000000000000
+      internalID: -6676592308959162349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 723
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5eba6d1123c3990800000000000000
+      internalID: -7404988635106515481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 571
+        width: 142
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb0ce3240fde4fd0800000000000000
+      internalID: -2355700346192655435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 722
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfdfafad38ba0b90800000000000000
+      internalID: -7274799672983560268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 724
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cb5ec50bf0d1b80800000000000000
+      internalID: -8422558477965738990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_21
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 561
+        width: 164
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ec9e245bb7bd950800000000000000
+      internalID: 6474904907717136001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 562
+        width: 148
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60645036f65d171b0800000000000000
+      internalID: -5660508582248626682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_23
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 717
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7dc2580fb52faf50800000000000000
+      internalID: 6894771056936144255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 576
+        width: 99
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8a7a8154ceede50800000000000000
+      internalID: 6836161065905531090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_25
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 581
+        width: 91
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842a7e687605e2190800000000000000
+      internalID: -7985356683706129848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_26
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 706
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a0f81336a068180800000000000000
+      internalID: -9113585374788122019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_27
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 697
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfbe6d93470e7df0800000000000000
+      internalID: -180698948062756910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_28
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 566
+        width: 115
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe857fc1a12403c0800000000000000
+      internalID: -4394350357552722244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_29
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 574
+        width: 99
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528960244e6d34a10800000000000000
+      internalID: 1892592544274356261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_30
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 395
+        width: 95
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd20d37a34170e00800000000000000
+      internalID: 1010798882651647487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_31
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 400
+        width: 87
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12e3bf491137ba50800000000000000
+      internalID: 6536747368932696606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_32
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 401
+        width: 83
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999a5c6d41f807900800000000000000
+      internalID: 680200863398341017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_33
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 391
+        width: 99
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2a4a4a8f0f7ae90800000000000000
+      internalID: -7014372943901449502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_34
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 394
+        width: 99
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb56cef7df624080800000000000000
+      internalID: -9204671714908808262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_35
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 394
+        width: 119
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965df3c1432af4130800000000000000
+      internalID: 3553236975714555241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_36
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 393
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df203290b7a1b9250800000000000000
+      internalID: 5952380448236831485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_37
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 392
+        width: 173
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0efdb40d314d480800000000000000
+      internalID: -8875447180293316432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_38
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 214
+        width: 85
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df24130a00c774e0800000000000000
+      internalID: -1983905961599553578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_39
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 207
+        width: 91
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddde56159efe6d690800000000000000
+      internalID: -7577605537632227875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_40
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 205
+        width: 103
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bd236ec66970f70800000000000000
+      internalID: 9153450162116549514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_41
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 206
+        width: 101
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6cb620dbae22c70800000000000000
+      internalID: 8944969907421562575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_42
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 24
+        width: 99
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a3695bbd1efc4c0800000000000000
+      internalID: -4264941988335961597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_43
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 30
+        width: 99
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1dc427bae6a1af0800000000000000
+      internalID: -424905532196990483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_44
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 34
+        width: 107
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2f7e3f0dd3f5c70800000000000000
+      internalID: 8961949751145132761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_45
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 42
+        width: 115
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504cf3e31922414d0800000000000000
+      internalID: -3164866630924647419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_46
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 44
+        width: 119
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eda3f9ab8f69aa90800000000000000
+      internalID: -7302182675162092056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_47
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01f8931c73598670800000000000000
+      internalID: 8541449960654696717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_48
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 106
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fafa0f75266d2180800000000000000
+      internalID: -9138535757633619208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_49
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 121
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbedfd43153d1ab0800000000000000
+      internalID: -5035810451301209122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_50
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 33
+        width: 97
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f9cd2b6c5be0d10800000000000000
+      internalID: 2093810741782814609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_51
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 44
+        width: 121
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34970a436b1e761f0800000000000000
+      internalID: -1051623815284491965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_52
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 38
+        width: 91
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8de9bd01614c8d0800000000000000
+      internalID: -2827110404421920577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_53
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e1d60ad67a54940800000000000000
+      internalID: 5279810227446554172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_54
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 86
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ade59e86e3e06d0800000000000000
+      internalID: -3022409679606195595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_55
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 52
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8cfdfa903fcbf50800000000000000
+      internalID: 6898655952155691191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_56
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 73
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6faf5bda8679f80800000000000000
+      internalID: -8099890309510793507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_57
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 68
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b3a38f7f5848c60800000000000000
+      internalID: 7819522153090005789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_58
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 38
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6740037d4559e2e0800000000000000
+      internalID: -2096050360434014355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_59
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 49
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8958292c44e1b8d00800000000000000
+      internalID: 975907024926836120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_60
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 70
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c3cf2a5cabf1380800000000000000
+      internalID: -8998268172457198581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_61
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 68
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffda7725f641007b0800000000000000
+      internalID: -5260181896411238913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_62
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 70
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f785e7b5f303b6f80800000000000000
+      internalID: -8112337255101736833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_63
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 75
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02593b72eccc3390800000000000000
+      internalID: -7837163978429476339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_64
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 75
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ee8c17da82a5ed0800000000000000
+      internalID: -2424580723982143848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_65
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 68
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320445672d2028030800000000000000
+      internalID: 3495359363744546851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_66
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 64
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc15d30aa5a0e2b50800000000000000
+      internalID: 6570200290731839949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_67
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 79
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fd6229703c95610800000000000000
+      internalID: 1610532779045871479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_68
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 77
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d6a714c292cea50800000000000000
+      internalID: 6551656827971071232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_69
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 69
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab846873f340ad7e0800000000000000
+      internalID: -1740073636464277318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_70
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 47
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e9e25c8196784b0800000000000000
+      internalID: -5438262469918286332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_71
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 64
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca0bdbbf3a7c3ae0800000000000000
+      internalID: -1568244156078552374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_72
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 54
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d4e02bd746ba570800000000000000
+      internalID: 8478981214476062007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_73
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 48
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b81d52349dcb2f0800000000000000
+      internalID: -955650138488861881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_74
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 53
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fb432ec245b0160800000000000000
+      internalID: 6992775398173228832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_75
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 41
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d642b36b88f9ef9f0800000000000000
+      internalID: -432733104659291027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_76
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 44
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1dcb35c9b3117e0800000000000000
+      internalID: -1796589233738296867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_77
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 44
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e6a96da1b385bd0800000000000000
+      internalID: -2641296194997162395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_78
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 57
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848b2977086802cb0800000000000000
+      internalID: -4890761309004318648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_79
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 42
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20206f9c662a2f4f0800000000000000
+      internalID: -796395621732449790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_80
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 42
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27e5e170dd685690800000000000000
+      internalID: -7613214428038306002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_81
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 45
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2cacb62ba39d810800000000000000
+      internalID: 1790526864843522749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_82
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 43
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8b024a4b9f27600800000000000000
+      internalID: 464708265815619758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_83
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 43
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9d63e5ebf939630800000000000000
+      internalID: 3932662539597830585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toxic_atlas_84
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 48
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654cf69d3292bbaa0800000000000000
+      internalID: -6144272032668335018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      toxic_atlas_0: 7539944560458598027
+      toxic_atlas_1: -1956792773942070167
+      toxic_atlas_10: 2354993782154007014
+      toxic_atlas_11: -3669984500285904885
+      toxic_atlas_12: 6493307120281547146
+      toxic_atlas_13: 6716329533014128053
+      toxic_atlas_14: -6184406796410953824
+      toxic_atlas_15: -5316174423697455772
+      toxic_atlas_16: -6676592308959162349
+      toxic_atlas_17: -7404988635106515481
+      toxic_atlas_18: -2355700346192655435
+      toxic_atlas_19: -7274799672983560268
+      toxic_atlas_2: -8706011752666243719
+      toxic_atlas_20: -8422558477965738990
+      toxic_atlas_21: 6474904907717136001
+      toxic_atlas_22: -5660508582248626682
+      toxic_atlas_23: 6894771056936144255
+      toxic_atlas_24: 6836161065905531090
+      toxic_atlas_25: -7985356683706129848
+      toxic_atlas_26: -9113585374788122019
+      toxic_atlas_27: -180698948062756910
+      toxic_atlas_28: -4394350357552722244
+      toxic_atlas_29: 1892592544274356261
+      toxic_atlas_3: 2572341722280586867
+      toxic_atlas_30: 1010798882651647487
+      toxic_atlas_31: 6536747368932696606
+      toxic_atlas_32: 680200863398341017
+      toxic_atlas_33: -7014372943901449502
+      toxic_atlas_34: -9204671714908808262
+      toxic_atlas_35: 3553236975714555241
+      toxic_atlas_36: 5952380448236831485
+      toxic_atlas_37: -8875447180293316432
+      toxic_atlas_38: -1983905961599553578
+      toxic_atlas_39: -7577605537632227875
+      toxic_atlas_4: 6013610288643011765
+      toxic_atlas_40: 9153450162116549514
+      toxic_atlas_41: 8944969907421562575
+      toxic_atlas_42: -4264941988335961597
+      toxic_atlas_43: -424905532196990483
+      toxic_atlas_44: 8961949751145132761
+      toxic_atlas_45: -3164866630924647419
+      toxic_atlas_46: -7302182675162092056
+      toxic_atlas_47: 8541449960654696717
+      toxic_atlas_48: -9138535757633619208
+      toxic_atlas_49: -5035810451301209122
+      toxic_atlas_5: -4862376176834140748
+      toxic_atlas_50: 2093810741782814609
+      toxic_atlas_51: -1051623815284491965
+      toxic_atlas_52: -2827110404421920577
+      toxic_atlas_53: 5279810227446554172
+      toxic_atlas_54: -3022409679606195595
+      toxic_atlas_55: 6898655952155691191
+      toxic_atlas_56: -8099890309510793507
+      toxic_atlas_57: 7819522153090005789
+      toxic_atlas_58: -2096050360434014355
+      toxic_atlas_59: 975907024926836120
+      toxic_atlas_6: -5136647594167673477
+      toxic_atlas_60: -8998268172457198581
+      toxic_atlas_61: -5260181896411238913
+      toxic_atlas_62: -8112337255101736833
+      toxic_atlas_63: -7837163978429476339
+      toxic_atlas_64: -2424580723982143848
+      toxic_atlas_65: 3495359363744546851
+      toxic_atlas_66: 6570200290731839949
+      toxic_atlas_67: 1610532779045871479
+      toxic_atlas_68: 6551656827971071232
+      toxic_atlas_69: -1740073636464277318
+      toxic_atlas_7: 7055162784897279098
+      toxic_atlas_70: -5438262469918286332
+      toxic_atlas_71: -1568244156078552374
+      toxic_atlas_72: 8478981214476062007
+      toxic_atlas_73: -955650138488861881
+      toxic_atlas_74: 6992775398173228832
+      toxic_atlas_75: -432733104659291027
+      toxic_atlas_76: -1796589233738296867
+      toxic_atlas_77: -2641296194997162395
+      toxic_atlas_78: -4890761309004318648
+      toxic_atlas_79: -796395621732449790
+      toxic_atlas_8: 244701333115525957
+      toxic_atlas_80: -7613214428038306002
+      toxic_atlas_81: 1790526864843522749
+      toxic_atlas_82: 464708265815619758
+      toxic_atlas_83: 3932662539597830585
+      toxic_atlas_84: -6144272032668335018
+      toxic_atlas_9: 5432249287714565408
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

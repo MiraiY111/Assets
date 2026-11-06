@@ -1,0 +1,6 @@
+{
+    "name": "HeyHeyThere.PixelBarsFree",
+    "rootNamespace": "HeyHeyThere.PixelBarsFree",
+    "references": ["UnityEngine.UI"],
+    "autoReferenced": true
+}

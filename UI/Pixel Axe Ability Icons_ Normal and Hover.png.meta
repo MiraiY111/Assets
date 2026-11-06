@@ -1,0 +1,303 @@
+fileFormatVersion: 2
+guid: 04cea10c81d87b4428c14f670d1ee68d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7070130791417162648
+    second: Pixel Axe Ability Icons_ Normal and Hover_0
+  - first:
+      213: -3549187769287238041
+    second: Pixel Axe Ability Icons_ Normal and Hover_1
+  - first:
+      213: 1721086941850387843
+    second: Pixel Axe Ability Icons_ Normal and Hover_2
+  - first:
+      213: -8580418129865534249
+    second: Pixel Axe Ability Icons_ Normal and Hover_3
+  - first:
+      213: 1720526181769983566
+    second: Pixel Axe Ability Icons_ Normal and Hover_4
+  - first:
+      213: 3493550707813190825
+    second: Pixel Axe Ability Icons_ Normal and Hover_5
+  - first:
+      213: -6001633812742459983
+    second: Pixel Axe Ability Icons_ Normal and Hover_6
+  - first:
+      213: 4634044472573290058
+    second: Pixel Axe Ability Icons_ Normal and Hover_7
+  - first:
+      213: -1920924125958006781
+    second: Pixel Axe Ability Icons_ Normal and Hover_8
+  - first:
+      213: 3424818582056059061
+    second: Pixel Axe Ability Icons_ Normal and Hover_9
+  - first:
+      213: -2382256655930286286
+    second: Pixel Axe Ability Icons_ Normal and Hover_10
+  - first:
+      213: -8228324925043313839
+    second: Pixel Axe Ability Icons_ Normal and Hover_11
+  - first:
+      213: 7825068298600545617
+    second: Pixel Axe Ability Icons_ Normal and Hover_12
+  - first:
+      213: -6873858594841838001
+    second: Pixel Axe Ability Icons_ Normal and Hover_13
+  - first:
+      213: -5989750840074264207
+    second: Pixel Axe Ability Icons_ Normal and Hover_14
+  - first:
+      213: 3033147513795636280
+    second: Pixel Axe Ability Icons_ Normal and Hover_15
+  - first:
+      213: 12840554233835127
+    second: Pixel Axe Ability Icons_ Normal and Hover_16
+  - first:
+      213: -2815885965162329398
+    second: Pixel Axe Ability Icons_ Normal and Hover_17
+  - first:
+      213: 8526021193737465626
+    second: Pixel Axe Ability Icons_ Normal and Hover_18
+  - first:
+      213: -1448748046941250136
+    second: Pixel Axe Ability Icons_ Normal and Hover_19
+  - first:
+      213: 4116964633165290885
+    second: Pixel Axe Ability Icons_ Normal and Hover_20
+  - first:
+      213: 1364473484076481960
+    second: Pixel Axe Ability Icons_ Normal and Hover_21
+  - first:
+      213: 1917585334987643550
+    second: Pixel Axe Ability Icons_ Normal and Hover_22
+  - first:
+      213: 2763363515130581316
+    second: Pixel Axe Ability Icons_ Normal and Hover_23
+  - first:
+      213: 8231321005375331014
+    second: Pixel Axe Ability Icons_ Normal and Hover_24
+  - first:
+      213: 5826153201358441839
+    second: Pixel Axe Ability Icons_ Normal and Hover_25
+  - first:
+      213: -625258607660068485
+    second: Pixel Axe Ability Icons_ Normal and Hover_26
+  - first:
+      213: 2259935388688748029
+    second: Pixel Axe Ability Icons_ Normal and Hover_27
+  - first:
+      213: -3680104180660278324
+    second: Pixel Axe Ability Icons_ Normal and Hover_28
+  - first:
+      213: -1111045892495015903
+    second: Pixel Axe Ability Icons_ Normal and Hover_29
+  - first:
+      213: -2353546323170588561
+    second: Pixel Axe Ability Icons_ Normal and Hover_30
+  - first:
+      213: 503528788169802144
+    second: Pixel Axe Ability Icons_ Normal and Hover_31
+  - first:
+      213: 743665279924053733
+    second: Pixel Axe Ability Icons_ Normal and Hover_32
+  - first:
+      213: -5529257783856073815
+    second: Pixel Axe Ability Icons_ Normal and Hover_33
+  - first:
+      213: -8291055670798114954
+    second: Pixel Axe Ability Icons_ Normal and Hover_34
+  - first:
+      213: 2258663653635312184
+    second: Pixel Axe Ability Icons_ Normal and Hover_35
+  - first:
+      213: -1613096828128289639
+    second: Pixel Axe Ability Icons_ Normal and Hover_36
+  - first:
+      213: -7451207652509579194
+    second: Pixel Axe Ability Icons_ Normal and Hover_37
+  - first:
+      213: 3315352522083418472
+    second: Pixel Axe Ability Icons_ Normal and Hover_38
+  - first:
+      213: 678925759620054964
+    second: Pixel Axe Ability Icons_ Normal and Hover_39
+  - first:
+      213: -5942176964440945680
+    second: Pixel Axe Ability Icons_ Normal and Hover_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixel Axe Ability Icons_ Normal and Hover_0
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 292
+        width: 419
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ba8f1ee762e1260800000000000000
+      internalID: 7070130791417162648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Axe Ability Icons_ Normal and Hover_1
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 291
+        width: 429
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e197a3780cebec0800000000000000
+      internalID: -3549187769287238041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 445edb58a2250cd4fbbd389c90449a74
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":517.0,"y":456.0},"gridSpriteOffset":{"x":0.0,"y":154.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Pixel Axe Ability Icons_ Normal and Hover_0: 7070130791417162648
+      Pixel Axe Ability Icons_ Normal and Hover_1: -3549187769287238041
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

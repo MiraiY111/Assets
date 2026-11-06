@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: a539fdcab0c19554e9232d35ce0a9e9f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4242233527345232699
+    second: Pixel-Art Defeated Screen UI_0
+  - first:
+      213: -2868767192230008060
+    second: Pixel-Art Defeated Screen UI_1
+  - first:
+      213: 4174974415354117687
+    second: Pixel-Art Defeated Screen UI_2
+  - first:
+      213: -6158108087893567431
+    second: Pixel-Art Defeated Screen UI_3
+  - first:
+      213: 5314607520482190994
+    second: Pixel-Art Defeated Screen UI_4
+  - first:
+      213: 3882218696190639783
+    second: Pixel-Art Defeated Screen UI_5
+  - first:
+      213: -2424041905318521783
+    second: Pixel-Art Defeated Screen UI_6
+  - first:
+      213: -2240211301490728099
+    second: Pixel-Art Defeated Screen UI_7
+  - first:
+      213: 3686773038333281425
+    second: Pixel-Art Defeated Screen UI_8
+  - first:
+      213: 243741925280615742
+    second: Pixel-Art Defeated Screen UI_9
+  - first:
+      213: 1077739677609501338
+    second: Pixel-Art Defeated Screen UI_10
+  - first:
+      213: 8233614173818415061
+    second: Pixel-Art Defeated Screen UI_11
+  - first:
+      213: 5126547503400067862
+    second: Pixel-Art Defeated Screen UI_12
+  - first:
+      213: 7204111420446618916
+    second: Pixel-Art Defeated Screen UI_13
+  - first:
+      213: -4230654576566453524
+    second: Pixel-Art Defeated Screen UI_14
+  - first:
+      213: 5708100812231239337
+    second: Pixel-Art Defeated Screen UI_15
+  - first:
+      213: 4381307469453676069
+    second: Pixel-Art Defeated Screen UI_16
+  - first:
+      213: -4938733776239219321
+    second: Pixel-Art Defeated Screen UI_17
+  - first:
+      213: -201071287119572545
+    second: Pixel-Art Defeated Screen UI_18
+  - first:
+      213: -2311040842695019112
+    second: Pixel-Art Defeated Screen UI_19
+  - first:
+      213: -4394354088013982374
+    second: Pixel-Art Defeated Screen UI_20
+  - first:
+      213: -8181836162805581030
+    second: Pixel-Art Defeated Screen UI_21
+  - first:
+      213: 7596793286444833220
+    second: Pixel-Art Defeated Screen UI_22
+  - first:
+      213: -4689790765984986012
+    second: Pixel-Art Defeated Screen UI_23
+  - first:
+      213: 6712251857196112582
+    second: Pixel-Art Defeated Screen UI_24
+  - first:
+      213: -3740882329186634209
+    second: Pixel-Art Defeated Screen UI_25
+  - first:
+      213: 3835052195575909478
+    second: Pixel-Art Defeated Screen UI_26
+  - first:
+      213: 5493253299014063570
+    second: Pixel-Art Defeated Screen UI_27
+  - first:
+      213: -4807942559531438711
+    second: Pixel-Art Defeated Screen UI_28
+  - first:
+      213: -8517749725601818923
+    second: Pixel-Art Defeated Screen UI_29
+  - first:
+      213: 5154101933170077891
+    second: Pixel-Art Defeated Screen UI_30
+  - first:
+      213: 4417562105637952006
+    second: Pixel-Art Defeated Screen UI_31
+  - first:
+      213: -2356443162654235274
+    second: Pixel-Art Defeated Screen UI_32
+  - first:
+      213: 7586481616730305453
+    second: Pixel-Art Defeated Screen UI_33
+  - first:
+      213: 3228072739290598415
+    second: Pixel-Art Defeated Screen UI_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixel-Art Defeated Screen UI_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1536
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4c55c451f8025c0800000000000000
+      internalID: -4242233527345232699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9e23ee6833eed614b96020bdae954a41
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1536.0,"y":1024.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Pixel-Art Defeated Screen UI_0: -4242233527345232699
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

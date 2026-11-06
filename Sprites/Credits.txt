@@ -1,0 +1,4 @@
+Aset: Tiny Dungeon
+Pembuat: Kenney (kenney.nl)
+Lisensi: Creative Commons CC0 1.0
+Dipakai untuk: tile arena

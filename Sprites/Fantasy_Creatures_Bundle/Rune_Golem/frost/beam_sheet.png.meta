@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: c2ec57a8e0240bc48ad23728ed9fede8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3510200166695678757
+    second: beam_sheet_0
+  - first:
+      213: -25287370818022927
+    second: beam_sheet_1
+  - first:
+      213: -2682466192579546451
+    second: beam_sheet_2
+  - first:
+      213: -725212464070164029
+    second: beam_sheet_3
+  - first:
+      213: 8708180467836928295
+    second: beam_sheet_4
+  - first:
+      213: 1180260692778310730
+    second: beam_sheet_5
+  - first:
+      213: -2912037947440294001
+    second: beam_sheet_6
+  - first:
+      213: -1992008011393889732
+    second: beam_sheet_7
+  - first:
+      213: 2761895916192787735
+    second: beam_sheet_8
+  - first:
+      213: -5054289218984546094
+    second: beam_sheet_9
+  - first:
+      213: 4134442827661958159
+    second: beam_sheet_10
+  - first:
+      213: 8203994933875914565
+    second: beam_sheet_11
+  - first:
+      213: 6018284206689415551
+    second: beam_sheet_12
+  - first:
+      213: 2842037678746979260
+    second: beam_sheet_13
+  - first:
+      213: -8550076257919376367
+    second: beam_sheet_14
+  - first:
+      213: -4789815482818025157
+    second: beam_sheet_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: beam_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3
+        width: 102
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523b96a247cb6b030800000000000000
+      internalID: 3510200166695678757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 3
+        width: 111
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1961d254926aff0800000000000000
+      internalID: -25287370818022927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 3
+        width: 119
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da23d4dc537f5cad0800000000000000
+      internalID: -2682466192579546451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 3
+        width: 119
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c189643b178fe5f0800000000000000
+      internalID: -725212464070164029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 3
+        width: 163
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7214a616ffba9d870800000000000000
+      internalID: 8708180467836928295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 3
+        width: 178
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c5867c8d0216010800000000000000
+      internalID: 1180260692778310730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 3
+        width: 165
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f871d5a5aec5697d0800000000000000
+      internalID: -2912037947440294001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 3
+        width: 170
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a822b8447fa54e0800000000000000
+      internalID: -1992008011393889732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 3
+        width: 84
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71de54fd3b9345620800000000000000
+      internalID: 2761895916192787735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 133
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0f65eebbe8bd9b0800000000000000
+      internalID: -5054289218984546094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 99
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cd3f6b8dd706930800000000000000
+      internalID: 4134442827661958159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 101
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54737ccfce17ad170800000000000000
+      internalID: 8203994933875914565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 80
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71f019899d358350800000000000000
+      internalID: 6018284206689415551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 81
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb4df70632f07720800000000000000
+      internalID: 2842037678746979260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 82
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114e63491f6085980800000000000000
+      internalID: -8550076257919376367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 83
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3927f62238278db0800000000000000
+      internalID: -4789815482818025157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      beam_sheet_0: 3510200166695678757
+      beam_sheet_1: -25287370818022927
+      beam_sheet_10: 4134442827661958159
+      beam_sheet_11: 8203994933875914565
+      beam_sheet_12: 6018284206689415551
+      beam_sheet_13: 2842037678746979260
+      beam_sheet_14: -8550076257919376367
+      beam_sheet_15: -4789815482818025157
+      beam_sheet_2: -2682466192579546451
+      beam_sheet_3: -725212464070164029
+      beam_sheet_4: 8708180467836928295
+      beam_sheet_5: 1180260692778310730
+      beam_sheet_6: -2912037947440294001
+      beam_sheet_7: -1992008011393889732
+      beam_sheet_8: 2761895916192787735
+      beam_sheet_9: -5054289218984546094
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

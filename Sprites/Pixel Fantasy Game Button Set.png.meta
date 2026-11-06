@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: 1c362ea21e29fc644bc7c48f557594c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1105241072658371830
+    second: Pixel Fantasy Game Button Set_0
+  - first:
+      213: -2360589486599293056
+    second: Pixel Fantasy Game Button Set_1
+  - first:
+      213: 74550629185265220
+    second: Pixel Fantasy Game Button Set_2
+  - first:
+      213: -8810049565732620454
+    second: Pixel Fantasy Game Button Set_3
+  - first:
+      213: -6135867808672017044
+    second: Pixel Fantasy Game Button Set_4
+  - first:
+      213: 4862250563358625626
+    second: Pixel Fantasy Game Button Set_5
+  - first:
+      213: 2914355023975211724
+    second: Pixel Fantasy Game Button Set_6
+  - first:
+      213: 3742580325869753361
+    second: Pixel Fantasy Game Button Set_7
+  - first:
+      213: 7927955576397520592
+    second: Pixel Fantasy Game Button Set_8
+  - first:
+      213: -7312493481523450910
+    second: Pixel Fantasy Game Button Set_9
+  - first:
+      213: 2591489288724670665
+    second: Pixel Fantasy Game Button Set_10
+  - first:
+      213: 3865765455613425899
+    second: Pixel Fantasy Game Button Set_11
+  - first:
+      213: -7437790909995944416
+    second: Pixel Fantasy Game Button Set_12
+  - first:
+      213: 5983108985189794001
+    second: Pixel Fantasy Game Button Set_13
+  - first:
+      213: -5814566416529623989
+    second: Pixel Fantasy Game Button Set_14
+  - first:
+      213: 5291834794294030
+    second: Pixel Fantasy Game Button Set_15
+  - first:
+      213: 799321616877118675
+    second: Pixel Fantasy Game Button Set_16
+  - first:
+      213: 7254431455475448256
+    second: Pixel Fantasy Game Button Set_17
+  - first:
+      213: -8779920183694742950
+    second: Pixel Fantasy Game Button Set_18
+  - first:
+      213: -4983253616664896205
+    second: Pixel Fantasy Game Button Set_19
+  - first:
+      213: 3092463823066303238
+    second: Pixel Fantasy Game Button Set_20
+  - first:
+      213: 1680188400818586662
+    second: Pixel Fantasy Game Button Set_21
+  - first:
+      213: -5605780608702965127
+    second: Pixel Fantasy Game Button Set_22
+  - first:
+      213: 7735185616904975632
+    second: Pixel Fantasy Game Button Set_23
+  - first:
+      213: -8926456494250037879
+    second: Pixel Fantasy Game Button Set_24
+  - first:
+      213: 7974967117740744622
+    second: Pixel Fantasy Game Button Set_25
+  - first:
+      213: 3132321105787909299
+    second: Pixel Fantasy Game Button Set_26
+  - first:
+      213: 2830121808615287529
+    second: Pixel Fantasy Game Button Set_27
+  - first:
+      213: -3659319583404491749
+    second: Pixel Fantasy Game Button Set_28
+  - first:
+      213: -3510773900678527345
+    second: Pixel Fantasy Game Button Set_29
+  - first:
+      213: -2870456946234501593
+    second: Pixel Fantasy Game Button Set_30
+  - first:
+      213: 8723571906954018971
+    second: Pixel Fantasy Game Button Set_31
+  - first:
+      213: -5453027684494358912
+    second: Pixel Fantasy Game Button Set_32
+  - first:
+      213: 8695035188347038671
+    second: Pixel Fantasy Game Button Set_33
+  - first:
+      213: 5995264559202238897
+    second: Pixel Fantasy Game Button Set_34
+  - first:
+      213: 1746983866654666798
+    second: Pixel Fantasy Game Button Set_35
+  - first:
+      213: 7118121226207426264
+    second: Pixel Fantasy Game Button Set_36
+  - first:
+      213: -1863955344744357556
+    second: Pixel Fantasy Game Button Set_37
+  - first:
+      213: 8629074887388207001
+    second: Pixel Fantasy Game Button Set_38
+  - first:
+      213: -5370950498296979391
+    second: Pixel Fantasy Game Button Set_39
+  - first:
+      213: -4515938787016246213
+    second: Pixel Fantasy Game Button Set_40
+  - first:
+      213: 1462573066775495307
+    second: Pixel Fantasy Game Button Set_41
+  - first:
+      213: -2812601545552453200
+    second: Pixel Fantasy Game Button Set_42
+  - first:
+      213: -541717649633496651
+    second: Pixel Fantasy Game Button Set_43
+  - first:
+      213: -8762475033072768746
+    second: Pixel Fantasy Game Button Set_44
+  - first:
+      213: 7501697436705169939
+    second: Pixel Fantasy Game Button Set_45
+  - first:
+      213: 1879784640794441624
+    second: Pixel Fantasy Game Button Set_46
+  - first:
+      213: -7012343239486127944
+    second: Pixel Fantasy Game Button Set_47
+  - first:
+      213: 4091507010473088836
+    second: Pixel Fantasy Game Button Set_48
+  - first:
+      213: 6641581827550545663
+    second: Pixel Fantasy Game Button Set_49
+  - first:
+      213: 8044599412490288400
+    second: Pixel Fantasy Game Button Set_50
+  - first:
+      213: 4154581434671532970
+    second: Pixel Fantasy Game Button Set_51
+  - first:
+      213: 6196730702539556698
+    second: Pixel Fantasy Game Button Set_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixel Fantasy Game Button Set_0
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 530
+        width: 726
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ba609a91569a0f0800000000000000
+      internalID: -1105241072658371830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Fantasy Game Button Set_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 78
+        width: 723
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0873abe6e508d3fd0800000000000000
+      internalID: -2360589486599293056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Fantasy Game Button Set_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 532
+        width: 726
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e9e5af66bd80100800000000000000
+      internalID: 74550629185265220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Fantasy Game Button Set_3
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 76
+        width: 723
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a573cecf89a6cb580800000000000000
+      internalID: -8810049565732620454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cbd8f744b927cc34a90ab9b7a88adcf4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":768.0,"y":512.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Pixel Fantasy Game Button Set_0: -1105241072658371830
+      Pixel Fantasy Game Button Set_1: -2360589486599293056
+      Pixel Fantasy Game Button Set_2: 74550629185265220
+      Pixel Fantasy Game Button Set_3: -8810049565732620454
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

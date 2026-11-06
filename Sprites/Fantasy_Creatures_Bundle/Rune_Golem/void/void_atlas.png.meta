@@ -1,0 +1,3174 @@
+fileFormatVersion: 2
+guid: a567e22d1df015146b7fa5a312df65fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1317423890372706534
+    second: void_atlas_0
+  - first:
+      213: 6826585562268568070
+    second: void_atlas_1
+  - first:
+      213: -6837543526240696050
+    second: void_atlas_2
+  - first:
+      213: 2434587896544920486
+    second: void_atlas_3
+  - first:
+      213: 1042998514130651072
+    second: void_atlas_4
+  - first:
+      213: 6649513074950186056
+    second: void_atlas_5
+  - first:
+      213: -4297873681581982671
+    second: void_atlas_6
+  - first:
+      213: -876799223870866507
+    second: void_atlas_7
+  - first:
+      213: -1369978596445780052
+    second: void_atlas_8
+  - first:
+      213: 3470472158618259315
+    second: void_atlas_9
+  - first:
+      213: 3515975769055172831
+    second: void_atlas_10
+  - first:
+      213: 5647225545276116166
+    second: void_atlas_11
+  - first:
+      213: 6119230256450734908
+    second: void_atlas_12
+  - first:
+      213: -6207449737122145366
+    second: void_atlas_13
+  - first:
+      213: -174114248034689098
+    second: void_atlas_14
+  - first:
+      213: 6171212483618967298
+    second: void_atlas_15
+  - first:
+      213: -2682146852401409213
+    second: void_atlas_16
+  - first:
+      213: -3393926226392021661
+    second: void_atlas_17
+  - first:
+      213: -8862928996175089347
+    second: void_atlas_18
+  - first:
+      213: 1153052112452735886
+    second: void_atlas_19
+  - first:
+      213: 6707140116128413771
+    second: void_atlas_20
+  - first:
+      213: -5682128956514547360
+    second: void_atlas_21
+  - first:
+      213: 3233119870369237281
+    second: void_atlas_22
+  - first:
+      213: -3151504209552133600
+    second: void_atlas_23
+  - first:
+      213: 3297900359298954945
+    second: void_atlas_24
+  - first:
+      213: 1619071196041752369
+    second: void_atlas_25
+  - first:
+      213: 3492145972117519326
+    second: void_atlas_26
+  - first:
+      213: 3893448149055788942
+    second: void_atlas_27
+  - first:
+      213: 1956848275889237749
+    second: void_atlas_28
+  - first:
+      213: 6888695967817125853
+    second: void_atlas_29
+  - first:
+      213: 4047236525393636820
+    second: void_atlas_30
+  - first:
+      213: 3931025645659735378
+    second: void_atlas_31
+  - first:
+      213: 1615036940221354157
+    second: void_atlas_32
+  - first:
+      213: 4971777367950180184
+    second: void_atlas_33
+  - first:
+      213: -3856353294043340193
+    second: void_atlas_34
+  - first:
+      213: -8393516159205856196
+    second: void_atlas_35
+  - first:
+      213: 8786893544139655083
+    second: void_atlas_36
+  - first:
+      213: -4104552272462422250
+    second: void_atlas_37
+  - first:
+      213: -982689174760747942
+    second: void_atlas_38
+  - first:
+      213: -4233749753688282372
+    second: void_atlas_39
+  - first:
+      213: -8497809964419588425
+    second: void_atlas_40
+  - first:
+      213: -3980424736970393821
+    second: void_atlas_41
+  - first:
+      213: -7360389618817936485
+    second: void_atlas_42
+  - first:
+      213: -28159840820995475
+    second: void_atlas_43
+  - first:
+      213: 3433698738887010933
+    second: void_atlas_44
+  - first:
+      213: -1338889544849572189
+    second: void_atlas_45
+  - first:
+      213: -8066302455314360682
+    second: void_atlas_46
+  - first:
+      213: 7782953402928053524
+    second: void_atlas_47
+  - first:
+      213: -3975048849757520031
+    second: void_atlas_48
+  - first:
+      213: -2880284829506985817
+    second: void_atlas_49
+  - first:
+      213: 5676901055683296959
+    second: void_atlas_50
+  - first:
+      213: -5033307888185037664
+    second: void_atlas_51
+  - first:
+      213: 4955880498834044395
+    second: void_atlas_52
+  - first:
+      213: 2839900178748618352
+    second: void_atlas_53
+  - first:
+      213: 5680015542991059232
+    second: void_atlas_54
+  - first:
+      213: -2513635221119026918
+    second: void_atlas_55
+  - first:
+      213: 6061572965365135159
+    second: void_atlas_56
+  - first:
+      213: -2622358186092087219
+    second: void_atlas_57
+  - first:
+      213: 638012226235281991
+    second: void_atlas_58
+  - first:
+      213: -2825654405013151731
+    second: void_atlas_59
+  - first:
+      213: 1714254866800734581
+    second: void_atlas_60
+  - first:
+      213: -2719157925935307812
+    second: void_atlas_61
+  - first:
+      213: 3121156329126093649
+    second: void_atlas_62
+  - first:
+      213: 3768722809553245407
+    second: void_atlas_63
+  - first:
+      213: -3460540519677543756
+    second: void_atlas_64
+  - first:
+      213: 55395044406603581
+    second: void_atlas_65
+  - first:
+      213: 8658922368787652880
+    second: void_atlas_66
+  - first:
+      213: 5636052508600808167
+    second: void_atlas_67
+  - first:
+      213: 3177991806666622721
+    second: void_atlas_68
+  - first:
+      213: -1640677339502431204
+    second: void_atlas_69
+  - first:
+      213: -7390305211661084429
+    second: void_atlas_70
+  - first:
+      213: 5789236634802827619
+    second: void_atlas_71
+  - first:
+      213: -5341606741836575820
+    second: void_atlas_72
+  - first:
+      213: 388326902374506293
+    second: void_atlas_73
+  - first:
+      213: 4150357029501788715
+    second: void_atlas_74
+  - first:
+      213: 2112664824917887518
+    second: void_atlas_75
+  - first:
+      213: -4435431747079796068
+    second: void_atlas_76
+  - first:
+      213: 2228745600888410301
+    second: void_atlas_77
+  - first:
+      213: 2586790805503484268
+    second: void_atlas_78
+  - first:
+      213: 4860260849156966726
+    second: void_atlas_79
+  - first:
+      213: 1842675561546481939
+    second: void_atlas_80
+  - first:
+      213: 5784963028920481533
+    second: void_atlas_81
+  - first:
+      213: -8502575485030409683
+    second: void_atlas_82
+  - first:
+      213: 695652355615973917
+    second: void_atlas_83
+  - first:
+      213: 6668160244249213190
+    second: void_atlas_84
+  - first:
+      213: -1916963268454173494
+    second: void_atlas_85
+  - first:
+      213: 4747988925921729041
+    second: void_atlas_86
+  - first:
+      213: -4667858685558224172
+    second: void_atlas_87
+  - first:
+      213: 1954904450411962051
+    second: void_atlas_88
+  - first:
+      213: -8067019427796594515
+    second: void_atlas_89
+  - first:
+      213: 6226685576792408491
+    second: void_atlas_90
+  - first:
+      213: 5823767121626774944
+    second: void_atlas_91
+  - first:
+      213: 4957937013441598613
+    second: void_atlas_92
+  - first:
+      213: 5831662968539027148
+    second: void_atlas_93
+  - first:
+      213: 4232534681855725777
+    second: void_atlas_94
+  - first:
+      213: -1834625556962854272
+    second: void_atlas_95
+  - first:
+      213: -1397188098649400839
+    second: void_atlas_96
+  - first:
+      213: 6509225226349527715
+    second: void_atlas_97
+  - first:
+      213: 731851475552868709
+    second: void_atlas_98
+  - first:
+      213: -2227980759556173954
+    second: void_atlas_99
+  - first:
+      213: 2287106064135013947
+    second: void_atlas_100
+  - first:
+      213: -1204397383624645092
+    second: void_atlas_101
+  - first:
+      213: -6931379702077746151
+    second: void_atlas_102
+  - first:
+      213: 8442890655400689674
+    second: void_atlas_103
+  - first:
+      213: -2582842928347324813
+    second: void_atlas_104
+  - first:
+      213: -5854964335485971279
+    second: void_atlas_105
+  - first:
+      213: 9055368464788351212
+    second: void_atlas_106
+  - first:
+      213: 600872578621249589
+    second: void_atlas_107
+  - first:
+      213: -6893540849258214950
+    second: void_atlas_108
+  - first:
+      213: 9063618764720151427
+    second: void_atlas_109
+  - first:
+      213: 8338260597753849224
+    second: void_atlas_110
+  - first:
+      213: -5700626735315171683
+    second: void_atlas_111
+  - first:
+      213: 7076927676743757411
+    second: void_atlas_112
+  - first:
+      213: 6788447342057599835
+    second: void_atlas_113
+  - first:
+      213: 6026505198240279254
+    second: void_atlas_114
+  - first:
+      213: 4029740826400805325
+    second: void_atlas_115
+  - first:
+      213: 6714543975383902561
+    second: void_atlas_116
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: void_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1107
+        width: 92
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0474c5c0e684210800000000000000
+      internalID: 1317423890372706534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1208
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a04db6667ecbe50800000000000000
+      internalID: 6826585562268568070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1107
+        width: 91
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09c626c36a2c11a0800000000000000
+      internalID: -6837543526240696050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1204
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3860cfac469c120800000000000000
+      internalID: 2434587896544920486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1107
+        width: 90
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c784006f99797e00800000000000000
+      internalID: 1042998514130651072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1202
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844a8b939e0d74c50800000000000000
+      internalID: 6649513074950186056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1107
+        width: 89
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c3ecf58a2ea54c0800000000000000
+      internalID: -4297873681581982671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1202
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbb6d950cbf4d3f0800000000000000
+      internalID: -876799223870866507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1107
+        width: 89
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca706f899bbdcfce0800000000000000
+      internalID: -1369978596445780052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1204
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f03597a08992030800000000000000
+      internalID: 3470472158618259315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1107
+        width: 91
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd81a6165514bc030800000000000000
+      internalID: 3515975769055172831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1207
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccc1b096b9fe5e40800000000000000
+      internalID: 5647225545276116166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 1107
+        width: 92
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b81964f7fdbe450800000000000000
+      internalID: 6119230256450734908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1210
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab1eb14a55bad9a0800000000000000
+      internalID: -6207449737122145366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1107
+        width: 92
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfde8f830c659df0800000000000000
+      internalID: -174114248034689098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1210
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f809fae0d84a550800000000000000
+      internalID: 6171212483618967298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 923
+        width: 88
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3439e2bf5a917cad0800000000000000
+      internalID: -2682146852401409213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 923
+        width: 76
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3658502341a56e0d0800000000000000
+      internalID: -3393926226392021661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1054
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d317979290d800580800000000000000
+      internalID: -8862928996175089347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 923
+        width: 82
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83524289c6700010800000000000000
+      internalID: 1153052112452735886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1054
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b483b90566c841d50800000000000000
+      internalID: 6707140116128413771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_21
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 923
+        width: 84
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0694dfab1d50521b0800000000000000
+      internalID: -5682128956514547360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1050
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1298d9d64695edc20800000000000000
+      internalID: 3233119870369237281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_23
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 923
+        width: 89
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0223f796e9b9344d0800000000000000
+      internalID: -3151504209552133600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 923
+        width: 111
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6b5ac57ee74cd20800000000000000
+      internalID: 3297900359298954945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_25
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 923
+        width: 114
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fa222bca8187610800000000000000
+      internalID: 1619071196041752369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_26
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 923
+        width: 103
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb30eb6248967030800000000000000
+      internalID: 3492145972117519326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_27
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1023
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e875fd3967e480630800000000000000
+      internalID: 3893448149055788942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_28
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1022
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fea6bb932f182b10800000000000000
+      internalID: 1956848275889237749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_29
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1022
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfc76f1c70999f50800000000000000
+      internalID: 6888695967817125853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_30
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1020
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dde21a3d2caa2830800000000000000
+      internalID: 4047236525393636820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_31
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1019
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255cf7c4ffecd8630800000000000000
+      internalID: 3931025645659735378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 739
+        width: 90
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da017015a83c96610800000000000000
+      internalID: 1615036940221354157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_33
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 865
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f3ffeac2d4ff440800000000000000
+      internalID: 4971777367950180184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_34
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 739
+        width: 89
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52a3246c1b7b7ac0800000000000000
+      internalID: -3856353294043340193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_35
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 739
+        width: 82
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ca802268d348b80800000000000000
+      internalID: -8393516159205856196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_36
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 870
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba70e999f1151f970800000000000000
+      internalID: 8786893544139655083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_37
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 739
+        width: 113
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fdadd7473b907c0800000000000000
+      internalID: -4104552272462422250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_38
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 739
+        width: 83
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c83cde669cc52f0800000000000000
+      internalID: -982689174760747942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_39
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 860
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa2387c703be35c0800000000000000
+      internalID: -4233749753688282372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_40
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 739
+        width: 87
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bedef55cd6b11a80800000000000000
+      internalID: -8497809964419588425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_41
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 738
+        width: 96
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327b3b97ac0b2c8c0800000000000000
+      internalID: -3980424736970393821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_42
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 865
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9352e183a4aad990800000000000000
+      internalID: -7360389618817936485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_43
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 737
+        width: 105
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6adee226c4fb9ff0800000000000000
+      internalID: -28159840820995475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_44
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 836
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a211d7fc2f6af20800000000000000
+      internalID: 3433698738887010933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_45
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 839
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aeb1cd7d0f4b6de0800000000000000
+      internalID: -1338889544849572189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_46
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 838
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696502c67acbe0090800000000000000
+      internalID: -8066302455314360682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_47
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 832
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41db1f452ea920c60800000000000000
+      internalID: 7782953402928053524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_48
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 836
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fb061c12ac5d8c0800000000000000
+      internalID: -3975048849757520031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_49
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 840
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a02a4d353c2708d0800000000000000
+      internalID: -2880284829506985817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_50
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 841
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbefa01ce6768ce40800000000000000
+      internalID: 5676901055683296959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_51
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 746
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac2f8fa429162ab0800000000000000
+      internalID: -5033307888185037664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_52
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 755
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5f94a6e03d6c440800000000000000
+      internalID: 4955880498834044395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_53
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 746
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07631e78a2a596720800000000000000
+      internalID: 2839900178748618352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_54
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 749
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029fda6da0873de40800000000000000
+      internalID: 5680015542991059232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_55
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 751
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a193a4e8516cd1dd0800000000000000
+      internalID: -2513635221119026918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_56
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 555
+        width: 93
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73733b41f780f1450800000000000000
+      internalID: 6061572965365135159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_57
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 685
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48b424af138b9bd0800000000000000
+      internalID: -2622358186092087219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_58
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 555
+        width: 93
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7423c1b4dbcaad800800000000000000
+      internalID: 638012226235281991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_59
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 685
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d006c232a4249c8d0800000000000000
+      internalID: -2825654405013151731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_60
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 555
+        width: 100
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571742608b14ac710800000000000000
+      internalID: 1714254866800734581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_61
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 555
+        width: 100
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd32078e54c934ad0800000000000000
+      internalID: -2719157925935307812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_62
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 555
+        width: 79
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153e50e0523905b20800000000000000
+      internalID: 3121156329126093649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_63
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 680
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd455508d613d4430800000000000000
+      internalID: 3768722809553245407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_64
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 555
+        width: 89
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba36c96bb0b9ffc0800000000000000
+      internalID: -3460540519677543756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_65
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 656
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f2c28df7dc4c000800000000000000
+      internalID: 55395044406603581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_66
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 653
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011a549740caa2870800000000000000
+      internalID: 8658922368787652880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_67
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 651
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2b99e35e7473e40800000000000000
+      internalID: 5636052508600808167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_68
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 653
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107477fd5be7a1c20800000000000000
+      internalID: 3177991806666622721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_69
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 371
+        width: 102
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14bce307a42b39e0800000000000000
+      internalID: -1640677339502431204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_70
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 371
+        width: 111
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f81935c09c507990800000000000000
+      internalID: -7390305211661084429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_71
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 371
+        width: 119
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361b912fb00875050800000000000000
+      internalID: 5789236634802827619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_72
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 371
+        width: 119
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbcff628fcced5b0800000000000000
+      internalID: -5341606741836575820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_73
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 371
+        width: 163
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f92c0a24d936500800000000000000
+      internalID: 388326902374506293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_74
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 371
+        width: 178
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22ef729ab7099930800000000000000
+      internalID: 4150357029501788715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_75
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 371
+        width: 165
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a81b20771b15d10800000000000000
+      internalID: 2112664824917887518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_76
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 371
+        width: 170
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a81d1735e2272c0800000000000000
+      internalID: -4435431747079796068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_77
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 371
+        width: 84
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db01babc0581eee10800000000000000
+      internalID: 2228745600888410301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_78
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 501
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61284e388026e320800000000000000
+      internalID: 2586790805503484268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_79
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 467
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6494db5dd7d137340800000000000000
+      internalID: 4860260849156966726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_80
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 469
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311854a09af729910800000000000000
+      internalID: 1842675561546481939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_81
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 448
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6b2998931584050800000000000000
+      internalID: 5784963028920481533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_82
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 449
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a51da15a8c00a80800000000000000
+      internalID: -8502575485030409683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_83
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 450
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1267a7b12477a900800000000000000
+      internalID: 695652355615973917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_84
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 451
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6093bd7a9601a8c50800000000000000
+      internalID: 6668160244249213190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_85
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 187
+        width: 91
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4315850149565e0800000000000000
+      internalID: -1916963268454173494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_86
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 317
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a9d0fa5ce34e140800000000000000
+      internalID: 4747988925921729041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_87
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 187
+        width: 93
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da8491c14f683fb0800000000000000
+      internalID: -4667858685558224172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_88
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 315
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce92a87d37312b10800000000000000
+      internalID: 1954904450411962051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_89
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 187
+        width: 90
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0520242903c0090800000000000000
+      internalID: -8067019427796594515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_90
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 313
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba182ccaa81a96650800000000000000
+      internalID: 6226685576792408491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_91
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 187
+        width: 88
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adb92b675d22d050800000000000000
+      internalID: 5823767121626774944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_92
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 312
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59492f802712ec440800000000000000
+      internalID: 4957937013441598613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_93
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 287
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc69199829a3ee050800000000000000
+      internalID: 5831662968539027148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_94
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 283
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d018834edbfcba30800000000000000
+      internalID: 4232534681855725777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_95
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 282
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a3065b6c91a86e0800000000000000
+      internalID: -1834625556962854272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_96
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 284
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9599fa3d03c9ce0800000000000000
+      internalID: -1397188098649400839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_97
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 3
+        width: 82
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a243932bd9655a50800000000000000
+      internalID: 6509225226349527715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_98
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 133
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5699cac1a0f082a00800000000000000
+      internalID: 731851475552868709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_99
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 3
+        width: 86
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fcf34bd4f9411e0800000000000000
+      internalID: -2227980759556173954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_100
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 128
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36c86409de6dbf10800000000000000
+      internalID: 2287106064135013947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_101
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 3
+        width: 90
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16a4a4f5fe194fe0800000000000000
+      internalID: -1204397383624645092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_102
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 119
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9149d4e82eacecf90800000000000000
+      internalID: -6931379702077746151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_103
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 104
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a008f98915c2b2570800000000000000
+      internalID: 8442890655400689674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_104
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 99
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e5a398a06e72cd0800000000000000
+      internalID: -2582842928347324813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_105
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 90
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b417c235fcfebea0800000000000000
+      internalID: -5854964335485971279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_106
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 3
+        width: 95
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8ebfd24a12bad70800000000000000
+      internalID: 9055368464788351212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_107
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 109
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5381efb3d6ab65800800000000000000
+      internalID: 600872578621249589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_108
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 111
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9c1530f193550a0800000000000000
+      internalID: -6893540849258214950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_109
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 82
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b95b2de3178cd70800000000000000
+      internalID: 9063618764720151427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_110
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 11
+        width: 120
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88521cde5d377b370800000000000000
+      internalID: 8338260597753849224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_111
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 25
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96c17cff2e43e0b0800000000000000
+      internalID: -5700626735315171683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_112
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 9
+        width: 134
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e21711a3c463260800000000000000
+      internalID: 7076927676743757411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_113
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 5
+        width: 143
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53b9cf04e8653e50800000000000000
+      internalID: 6788447342057599835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_114
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 5
+        width: 143
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da282a4c8272a350800000000000000
+      internalID: 6026505198240279254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_115
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 12
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1528e5ee38ce730800000000000000
+      internalID: 4029740826400805325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_atlas_116
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 12
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1692f71ab2ade2d50800000000000000
+      internalID: 6714543975383902561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      void_atlas_0: 1317423890372706534
+      void_atlas_1: 6826585562268568070
+      void_atlas_10: 3515975769055172831
+      void_atlas_100: 2287106064135013947
+      void_atlas_101: -1204397383624645092
+      void_atlas_102: -6931379702077746151
+      void_atlas_103: 8442890655400689674
+      void_atlas_104: -2582842928347324813
+      void_atlas_105: -5854964335485971279
+      void_atlas_106: 9055368464788351212
+      void_atlas_107: 600872578621249589
+      void_atlas_108: -6893540849258214950
+      void_atlas_109: 9063618764720151427
+      void_atlas_11: 5647225545276116166
+      void_atlas_110: 8338260597753849224
+      void_atlas_111: -5700626735315171683
+      void_atlas_112: 7076927676743757411
+      void_atlas_113: 6788447342057599835
+      void_atlas_114: 6026505198240279254
+      void_atlas_115: 4029740826400805325
+      void_atlas_116: 6714543975383902561
+      void_atlas_12: 6119230256450734908
+      void_atlas_13: -6207449737122145366
+      void_atlas_14: -174114248034689098
+      void_atlas_15: 6171212483618967298
+      void_atlas_16: -2682146852401409213
+      void_atlas_17: -3393926226392021661
+      void_atlas_18: -8862928996175089347
+      void_atlas_19: 1153052112452735886
+      void_atlas_2: -6837543526240696050
+      void_atlas_20: 6707140116128413771
+      void_atlas_21: -5682128956514547360
+      void_atlas_22: 3233119870369237281
+      void_atlas_23: -3151504209552133600
+      void_atlas_24: 3297900359298954945
+      void_atlas_25: 1619071196041752369
+      void_atlas_26: 3492145972117519326
+      void_atlas_27: 3893448149055788942
+      void_atlas_28: 1956848275889237749
+      void_atlas_29: 6888695967817125853
+      void_atlas_3: 2434587896544920486
+      void_atlas_30: 4047236525393636820
+      void_atlas_31: 3931025645659735378
+      void_atlas_32: 1615036940221354157
+      void_atlas_33: 4971777367950180184
+      void_atlas_34: -3856353294043340193
+      void_atlas_35: -8393516159205856196
+      void_atlas_36: 8786893544139655083
+      void_atlas_37: -4104552272462422250
+      void_atlas_38: -982689174760747942
+      void_atlas_39: -4233749753688282372
+      void_atlas_4: 1042998514130651072
+      void_atlas_40: -8497809964419588425
+      void_atlas_41: -3980424736970393821
+      void_atlas_42: -7360389618817936485
+      void_atlas_43: -28159840820995475
+      void_atlas_44: 3433698738887010933
+      void_atlas_45: -1338889544849572189
+      void_atlas_46: -8066302455314360682
+      void_atlas_47: 7782953402928053524
+      void_atlas_48: -3975048849757520031
+      void_atlas_49: -2880284829506985817
+      void_atlas_5: 6649513074950186056
+      void_atlas_50: 5676901055683296959
+      void_atlas_51: -5033307888185037664
+      void_atlas_52: 4955880498834044395
+      void_atlas_53: 2839900178748618352
+      void_atlas_54: 5680015542991059232
+      void_atlas_55: -2513635221119026918
+      void_atlas_56: 6061572965365135159
+      void_atlas_57: -2622358186092087219
+      void_atlas_58: 638012226235281991
+      void_atlas_59: -2825654405013151731
+      void_atlas_6: -4297873681581982671
+      void_atlas_60: 1714254866800734581
+      void_atlas_61: -2719157925935307812
+      void_atlas_62: 3121156329126093649
+      void_atlas_63: 3768722809553245407
+      void_atlas_64: -3460540519677543756
+      void_atlas_65: 55395044406603581
+      void_atlas_66: 8658922368787652880
+      void_atlas_67: 5636052508600808167
+      void_atlas_68: 3177991806666622721
+      void_atlas_69: -1640677339502431204
+      void_atlas_7: -876799223870866507
+      void_atlas_70: -7390305211661084429
+      void_atlas_71: 5789236634802827619
+      void_atlas_72: -5341606741836575820
+      void_atlas_73: 388326902374506293
+      void_atlas_74: 4150357029501788715
+      void_atlas_75: 2112664824917887518
+      void_atlas_76: -4435431747079796068
+      void_atlas_77: 2228745600888410301
+      void_atlas_78: 2586790805503484268
+      void_atlas_79: 4860260849156966726
+      void_atlas_8: -1369978596445780052
+      void_atlas_80: 1842675561546481939
+      void_atlas_81: 5784963028920481533
+      void_atlas_82: -8502575485030409683
+      void_atlas_83: 695652355615973917
+      void_atlas_84: 6668160244249213190
+      void_atlas_85: -1916963268454173494
+      void_atlas_86: 4747988925921729041
+      void_atlas_87: -4667858685558224172
+      void_atlas_88: 1954904450411962051
+      void_atlas_89: -8067019427796594515
+      void_atlas_9: 3470472158618259315
+      void_atlas_90: 6226685576792408491
+      void_atlas_91: 5823767121626774944
+      void_atlas_92: 4957937013441598613
+      void_atlas_93: 5831662968539027148
+      void_atlas_94: 4232534681855725777
+      void_atlas_95: -1834625556962854272
+      void_atlas_96: -1397188098649400839
+      void_atlas_97: 6509225226349527715
+      void_atlas_98: 731851475552868709
+      void_atlas_99: -2227980759556173954
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
