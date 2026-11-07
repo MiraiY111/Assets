@@ -68,6 +68,24 @@ public class BossAttackController : MonoBehaviour
         stunDuration = 1f
     };
 
+    // [DRAGON] serangan ketiga, opsional. Dimatikan (default) = perilaku sama persis seperti sebelumnya (ubur-ubur).
+    [Header("Serangan ke-3 (opsional)")]
+    [Tooltip("Centang untuk memakai serangan ke-3. Urutan prioritas: Attack 1 (terdekat) > Attack 2 > Attack 3 (terjauh).")]
+    [SerializeField] private bool useAttack3 = false;
+
+    [SerializeField]
+    private BossAttack attack3 = new BossAttack
+    {
+        triggerName = "Attack3",
+        clipName = "Firebreath",
+        rangeOffset = new Vector2(3f, 0f),
+        rangeSize = new Vector2(6f, 1.5f),
+        damage = 1,
+        knockbackSpeed = 4f,
+        knockbackDuration = 0.15f,
+        stunDuration = 0f
+    };
+
     [Header("Gerak")]
     [SerializeField] private float moveSpeed = 1f;
     [SerializeField] private string walkParam = "isWalking";
@@ -75,6 +93,10 @@ public class BossAttackController : MonoBehaviour
     [Header("Pemilihan serangan")]
     [Tooltip("Boss diam selama ini setelah satu serangan selesai, sebelum bergerak/menyerang lagi.")]
     [SerializeField] private float delayBetweenAttacks = 1f;
+    // [DRAGON]
+    [Tooltip("Aktif: kalau Player ada di jangkauan tapi semua serangan masih cooldown, boss tetap mendekat " +
+             "(bukan berdiri diam). Matikan untuk perilaku lama.")]
+    [SerializeField] private bool approachWhileOnCooldown = false;
     [Tooltip("Skala area saat damage dihitung (1.1 = 10% lebih lega dari elips).")]
     [SerializeField] private float hitScale = 1.1f;
     [Tooltip("Boss baru mulai bersiap kalau Player sudah di dalam area sebesar ini (0.7 = 70% dari ukuran elips).")]
@@ -113,6 +135,7 @@ public class BossAttackController : MonoBehaviour
 
         attack1.length = ClipLength(attack1.clipName, attack1.clipLengthFallback);
         attack2.length = ClipLength(attack2.clipName, attack2.clipLengthFallback);
+        if (useAttack3) attack3.length = ClipLength(attack3.clipName, attack3.clipLengthFallback);   // [DRAGON]
 
         if (anim != null && anim.runtimeAnimatorController != null)
             foreach (var p in anim.parameters)
@@ -162,6 +185,10 @@ public class BossAttackController : MonoBehaviour
 
     bool Ready(BossAttack a) => Time.time >= a.nextReadyTime;
 
+    // [DRAGON] daftar serangan aktif, urut prioritas
+    int AttackCount => useAttack3 ? 3 : 2;
+    BossAttack AttackAt(int i) => i == 0 ? attack1 : (i == 1 ? attack2 : attack3);
+
     // ---------- logika utama ----------
     void Update()
     {
@@ -180,23 +207,29 @@ public class BossAttackController : MonoBehaviour
             if (Mathf.Abs(dx) > 0.05f) sr.flipX = spriteFacesLeft ? dx > 0f : dx < 0f;
         }
 
-        bool in1 = InRange(attack1, tp, engageScale);
-        bool in2 = InRange(attack2, tp, engageScale);
+        // [DRAGON] cek serangan berurutan dari yang terdekat (Attack 1) ke terjauh: pakai yang pertama
+        // yang Player-nya sudah di dalam jangkauan DAN sudah siap (tidak cooldown)
+        BossAttack chosen = null;
+        bool anyInRange = false;
+        for (int i = 0; i < AttackCount; i++)
+        {
+            var a = AttackAt(i);
+            if (!InRange(a, tp, engageScale)) continue;
+            anyInRange = true;
+            if (Ready(a)) { chosen = a; break; }
+        }
 
-        if (in1)
+        if (chosen != null)
         {
-            // area kecil diprioritaskan; kalau masih cooldown, tunggu
-            if (Ready(attack1)) StartCoroutine(AttackRoutine(attack1));
+            StartCoroutine(AttackRoutine(chosen));
         }
-        else if (in2)
+        else if (!anyInRange || (approachWhileOnCooldown && !InRange(attack1, tp, engageScale)))
         {
-            if (Ready(attack2)) StartCoroutine(AttackRoutine(attack2));
-        }
-        else
-        {
+            // belum ada serangan yang kena, atau semua cooldown dan opsi 'mendekat' aktif: kejar Player
             Vector2 d = tp - (Vector2)transform.position;
             moveDir = d.sqrMagnitude > 0.0001f ? d.normalized : Vector2.zero;
         }
+        // selain itu: Player di jangkauan tapi semua cooldown, boss berdiri diam (perilaku lama)
 
         SetWalking(moveDir.sqrMagnitude > 0.01f);
     }
@@ -294,6 +327,7 @@ public class BossAttackController : MonoBehaviour
         bool left = s != null && (spriteFacesLeft ? !s.flipX : s.flipX);
         DrawEllipse(attack1, left, Color.red);
         DrawEllipse(attack2, left, Color.magenta);
+        if (useAttack3) DrawEllipse(attack3, left, new Color(1f, 0.6f, 0f));   // [DRAGON] oranye
     }
 
     void DrawEllipse(BossAttack a, bool left, Color c)

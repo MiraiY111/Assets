@@ -25,6 +25,11 @@ public class BossEntrance : MonoBehaviour
     [SerializeField] private bool spriteFacesLeft = false;
     [Tooltip("Parameter bool Animator untuk animasi jalan. Kosongkan atau biarkan kalau boss tidak punya (dilewati diam-diam).")]
     [SerializeField] private string walkParam = "isWalking";
+    // [DRAGON]
+    [Tooltip("Parameter bool Animator untuk animasi TERBANG selama jalan masuk (mis. isFlying). Kalau diisi dan ada di Animator, " +
+             "boss terbang (bukan jalan) saat masuk, lalu otomatis kembali normal begitu sampai di titik terakhir. " +
+             "Kosongkan untuk boss yang berjalan masuk seperti biasa.")]
+    [SerializeField] private string flyParam = "";
 
     [Header("Tembus tembok")]
     [Tooltip("Aktif: collider boss dimatikan selama berjalan (menembus tembok, tidak bisa dilukai). " +
@@ -38,6 +43,7 @@ public class BossEntrance : MonoBehaviour
     Animator anim;
     SpriteRenderer sr;
     bool hasWalkParam;
+    bool hasFlyParam;   // [DRAGON]
 
     Behaviour[] brains;
     bool[] brainWasEnabled;
@@ -186,14 +192,27 @@ public class BossEntrance : MonoBehaviour
     void CacheWalkParam()
     {
         hasWalkParam = false;
-        if (anim == null || anim.runtimeAnimatorController == null || string.IsNullOrEmpty(walkParam)) return;
+        hasFlyParam = false;
+        if (anim == null || anim.runtimeAnimatorController == null) return;
         foreach (var p in anim.parameters)
-            if (p.name == walkParam && p.type == AnimatorControllerParameterType.Bool) { hasWalkParam = true; return; }
+        {
+            if (p.type != AnimatorControllerParameterType.Bool) continue;
+            if (!string.IsNullOrEmpty(walkParam) && p.name == walkParam) hasWalkParam = true;
+            if (!string.IsNullOrEmpty(flyParam) && p.name == flyParam) hasFlyParam = true;
+        }
     }
 
+    // [DRAGON] kalau ada parameter terbang: selama masuk boss TERBANG (jalan dimatikan); selesai masuk keduanya mati
+    // dan BossAttackController yang menyalakan isWalking lagi saat bertarung
     void SetWalking(bool on)
     {
-        if (anim != null && hasWalkParam) anim.SetBool(walkParam, on);
+        if (anim == null) return;
+        if (hasFlyParam)
+        {
+            anim.SetBool(flyParam, on);
+            if (hasWalkParam) anim.SetBool(walkParam, false);
+        }
+        else if (hasWalkParam) anim.SetBool(walkParam, on);
     }
 
     // PathGrid dihitung untuk monster kecil; boss lebih besar, jadi peringatan ini hanya batas minimum
