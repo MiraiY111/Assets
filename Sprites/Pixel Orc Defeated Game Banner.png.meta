@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: 95a17c0f9bd2f0940a5f804fc89ad1df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6060981676084520725
+    second: Pixel Orc Defeated Game Banner_0
+  - first:
+      213: 376884965979914275
+    second: Pixel Orc Defeated Game Banner_1
+  - first:
+      213: -2888088757830106571
+    second: Pixel Orc Defeated Game Banner_2
+  - first:
+      213: -8886652777502077231
+    second: Pixel Orc Defeated Game Banner_3
+  - first:
+      213: 995206110035932247
+    second: Pixel Orc Defeated Game Banner_4
+  - first:
+      213: 8643496725253778774
+    second: Pixel Orc Defeated Game Banner_5
+  - first:
+      213: -4235185842497844148
+    second: Pixel Orc Defeated Game Banner_6
+  - first:
+      213: 2394319823622579213
+    second: Pixel Orc Defeated Game Banner_7
+  - first:
+      213: 667901253708346181
+    second: Pixel Orc Defeated Game Banner_8
+  - first:
+      213: -7964711423796855133
+    second: Pixel Orc Defeated Game Banner_9
+  - first:
+      213: 5456389919734842995
+    second: Pixel Orc Defeated Game Banner_10
+  - first:
+      213: -200179682198974396
+    second: Pixel Orc Defeated Game Banner_11
+  - first:
+      213: -1113714368958571779
+    second: Pixel Orc Defeated Game Banner_12
+  - first:
+      213: -4720953838248557875
+    second: Pixel Orc Defeated Game Banner_13
+  - first:
+      213: -4249040754601020444
+    second: Pixel Orc Defeated Game Banner_14
+  - first:
+      213: -6599901225407946329
+    second: Pixel Orc Defeated Game Banner_15
+  - first:
+      213: 1653606033544192037
+    second: Pixel Orc Defeated Game Banner_16
+  - first:
+      213: 4468622119051286177
+    second: Pixel Orc Defeated Game Banner_17
+  - first:
+      213: -7399235824312510255
+    second: Pixel Orc Defeated Game Banner_18
+  - first:
+      213: 7631095192643536258
+    second: Pixel Orc Defeated Game Banner_19
+  - first:
+      213: -8953890246940369807
+    second: Pixel Orc Defeated Game Banner_20
+  - first:
+      213: 668649501047742838
+    second: Pixel Orc Defeated Game Banner_21
+  - first:
+      213: -867111989362280481
+    second: Pixel Orc Defeated Game Banner_22
+  - first:
+      213: 3893522087122433721
+    second: Pixel Orc Defeated Game Banner_23
+  - first:
+      213: -5804367470387348492
+    second: Pixel Orc Defeated Game Banner_24
+  - first:
+      213: -8900734919167704186
+    second: Pixel Orc Defeated Game Banner_25
+  - first:
+      213: -1546106608865896202
+    second: Pixel Orc Defeated Game Banner_26
+  - first:
+      213: -4230668117012271917
+    second: Pixel Orc Defeated Game Banner_27
+  - first:
+      213: -4589113651187488
+    second: Pixel Orc Defeated Game Banner_28
+  - first:
+      213: -7491397612504516828
+    second: Pixel Orc Defeated Game Banner_29
+  - first:
+      213: 3267587023807127682
+    second: Pixel Orc Defeated Game Banner_30
+  - first:
+      213: -4249429561954087987
+    second: Pixel Orc Defeated Game Banner_31
+  - first:
+      213: -7306647814148579313
+    second: Pixel Orc Defeated Game Banner_32
+  - first:
+      213: -3533331872630552574
+    second: Pixel Orc Defeated Game Banner_33
+  - first:
+      213: 4496730476539677325
+    second: Pixel Orc Defeated Game Banner_34
+  - first:
+      213: -3044415736315802576
+    second: Pixel Orc Defeated Game Banner_35
+  - first:
+      213: -1312877777892865772
+    second: Pixel Orc Defeated Game Banner_36
+  - first:
+      213: -8398743000094718037
+    second: Pixel Orc Defeated Game Banner_37
+  - first:
+      213: -4626031122189187491
+    second: Pixel Orc Defeated Game Banner_38
+  - first:
+      213: 7439865548661016931
+    second: Pixel Orc Defeated Game Banner_39
+  - first:
+      213: 7436295488209713576
+    second: Pixel Orc Defeated Game Banner_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixel Orc Defeated Game Banner_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1774
+        height: 887
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be894de274113eba0800000000000000
+      internalID: -6060981676084520725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ee1c0250c9a2f9348b1e482803ca5c08
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1774.0,"y":887.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Pixel Orc Defeated Game Banner_0: -6060981676084520725
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

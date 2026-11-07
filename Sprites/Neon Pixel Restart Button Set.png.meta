@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: e6c15a6ad5b054f42b34d2274489882c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -867303236319132586
+    second: Neon Pixel Restart Button Set_0
+  - first:
+      213: -6955915824792186887
+    second: Neon Pixel Restart Button Set_1
+  - first:
+      213: -5489967112417162394
+    second: Neon Pixel Restart Button Set_2
+  - first:
+      213: -4999685789517995989
+    second: Neon Pixel Restart Button Set_3
+  - first:
+      213: -3386173743551375382
+    second: Neon Pixel Restart Button Set_4
+  - first:
+      213: -5607202240295844846
+    second: Neon Pixel Restart Button Set_5
+  - first:
+      213: -2819921867423401495
+    second: Neon Pixel Restart Button Set_6
+  - first:
+      213: 6941588453837206203
+    second: Neon Pixel Restart Button Set_7
+  - first:
+      213: -2736632913538120862
+    second: Neon Pixel Restart Button Set_8
+  - first:
+      213: 8336590962222555722
+    second: Neon Pixel Restart Button Set_9
+  - first:
+      213: 7781802791365452540
+    second: Neon Pixel Restart Button Set_10
+  - first:
+      213: 2816056385912408806
+    second: Neon Pixel Restart Button Set_11
+  - first:
+      213: 1516560895850689831
+    second: Neon Pixel Restart Button Set_12
+  - first:
+      213: 8149095796414833302
+    second: Neon Pixel Restart Button Set_13
+  - first:
+      213: 6106514980147450139
+    second: Neon Pixel Restart Button Set_14
+  - first:
+      213: -5092801308708166706
+    second: Neon Pixel Restart Button Set_15
+  - first:
+      213: -6240180457196924137
+    second: Neon Pixel Restart Button Set_16
+  - first:
+      213: 3891173033241826639
+    second: Neon Pixel Restart Button Set_17
+  - first:
+      213: 950787077233401844
+    second: Neon Pixel Restart Button Set_18
+  - first:
+      213: -3546776298630875616
+    second: Neon Pixel Restart Button Set_19
+  - first:
+      213: -7699951893989719371
+    second: Neon Pixel Restart Button Set_20
+  - first:
+      213: -9063076538224814782
+    second: Neon Pixel Restart Button Set_21
+  - first:
+      213: 7190418157494017705
+    second: Neon Pixel Restart Button Set_22
+  - first:
+      213: 7513008036665595849
+    second: Neon Pixel Restart Button Set_23
+  - first:
+      213: -2131151885204921751
+    second: Neon Pixel Restart Button Set_24
+  - first:
+      213: 2849755463285973116
+    second: Neon Pixel Restart Button Set_25
+  - first:
+      213: -425991507835120076
+    second: Neon Pixel Restart Button Set_26
+  - first:
+      213: -8573006694325016728
+    second: Neon Pixel Restart Button Set_27
+  - first:
+      213: 4674075454938033804
+    second: Neon Pixel Restart Button Set_28
+  - first:
+      213: 123552325301547189
+    second: Neon Pixel Restart Button Set_29
+  - first:
+      213: 3593467146626731682
+    second: Neon Pixel Restart Button Set_30
+  - first:
+      213: 4322522619720623109
+    second: Neon Pixel Restart Button Set_31
+  - first:
+      213: -4305866178771342849
+    second: Neon Pixel Restart Button Set_32
+  - first:
+      213: -106128448529070693
+    second: Neon Pixel Restart Button Set_33
+  - first:
+      213: -7796093948730127395
+    second: Neon Pixel Restart Button Set_34
+  - first:
+      213: -9123557204250816603
+    second: Neon Pixel Restart Button Set_35
+  - first:
+      213: -425601852294981078
+    second: Neon Pixel Restart Button Set_36
+  - first:
+      213: 7035855809513625734
+    second: Neon Pixel Restart Button Set_37
+  - first:
+      213: -8501196049431303568
+    second: Neon Pixel Restart Button Set_38
+  - first:
+      213: 4599826465672227627
+    second: Neon Pixel Restart Button Set_39
+  - first:
+      213: 5440896908482414319
+    second: Neon Pixel Restart Button Set_40
+  - first:
+      213: 4748205968707130180
+    second: Neon Pixel Restart Button Set_41
+  - first:
+      213: -4361072701091889504
+    second: Neon Pixel Restart Button Set_42
+  - first:
+      213: -8773247805640396513
+    second: Neon Pixel Restart Button Set_43
+  - first:
+      213: -8243006181656389108
+    second: Neon Pixel Restart Button Set_44
+  - first:
+      213: -7835138236136167308
+    second: Neon Pixel Restart Button Set_45
+  - first:
+      213: 9149637187034006477
+    second: Neon Pixel Restart Button Set_46
+  - first:
+      213: -6813347437447871019
+    second: Neon Pixel Restart Button Set_47
+  - first:
+      213: -3121618776186404115
+    second: Neon Pixel Restart Button Set_48
+  - first:
+      213: -6821791784549321770
+    second: Neon Pixel Restart Button Set_49
+  - first:
+      213: 7109500501510299303
+    second: Neon Pixel Restart Button Set_50
+  - first:
+      213: 110435135441508426
+    second: Neon Pixel Restart Button Set_51
+  - first:
+      213: 8895090410076723248
+    second: Neon Pixel Restart Button Set_52
+  - first:
+      213: -6331396402636072468
+    second: Neon Pixel Restart Button Set_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neon Pixel Restart Button Set_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 528
+        width: 724
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654c6ae3d48b6f3f0800000000000000
+      internalID: -867303236319132586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Pixel Restart Button Set_1
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 528
+        width: 724
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3faad6cb77363f43943ddbbc2809b1b
+      internalID: -1972094599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fe42830aa5c295941a6c3572fd552a28
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1536.0,"y":1024.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Neon Pixel Restart Button Set_0: -867303236319132586
+      Neon Pixel Restart Button Set_1: -1972094599
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
