@@ -192,6 +192,22 @@ public class PlayerController : MonoBehaviour
         if (dashSmoke != null) dashSmoke.Stop(); // partikel yang sudah keluar tetap memudar sendiri
     }
 
+    // ---------- [DASHBTN] dibaca DashButton (tombol UI dash) ----------
+
+    public float DashCooldown => dashCooldown;
+
+    // cooldown dihitung dari AKHIR dash, jadi selama dash tombol tetap tampil penuh abu-abu,
+    // lalu mulai berputar begitu dash selesai
+    public float DashRemaining => isDashing ? dashCooldown : Mathf.Max(0f, dashReadyAt - Time.time);
+
+    // true hanya kalau dash benar-benar mulai (bukan ditolak cooldown, terpental, atau sedang menyerang)
+    public bool TryDash()
+    {
+        bool wasDashing = isDashing;
+        OnDashButton();
+        return !wasDashing && isDashing;
+    }
+
     // dipasang di OnClick tombol Attack
     public void OnAttackButton()
     {
