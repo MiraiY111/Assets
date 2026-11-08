@@ -18407,7 +18407,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 492b614f0c1f3e54dbf67553cf0083a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DashButton
-  player: {fileID: 0}
+  player: {fileID: 927702521}
   image: {fileID: 1872633508}
   normalSprite: {fileID: -1397962279273095751, guid: 9432f8148f532cb4484ec2c7a4c47958, type: 3}
   pressedSprite: {fileID: -5654055902104871595, guid: 9432f8148f532cb4484ec2c7a4c47958, type: 3}

@@ -47,6 +47,12 @@ public class PlayerAttack : MonoBehaviour
 
     private Vector2 Center(Vector2 origin, Vector2 dir) => origin + dir * reach;
 
+    /// <summary>[DASH CANCEL] Batalkan semua damage yang sudah dijadwalkan tapi belum jatuh (serangan dipotong dash).</summary>
+    public void CancelPending()
+    {
+        StopAllCoroutines();   // script ini hanya menjalankan HitRoutine, jadi aman
+    }
+
     /// <summary>
     /// Dipanggil PlayerController saat serangan dimulai.
     /// Arah dan target dikunci sekarang, damage diterapkan setelah 'delay' detik.

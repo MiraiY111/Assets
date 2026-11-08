@@ -18,6 +18,8 @@ public class PlayerController : MonoBehaviour
     public ParticleSystem dashSmoke;
     [Tooltip("Posisi asap relatif ke Player untuk dash KE KANAN. X negatif = di belakang, Y negatif = ke bawah. Dash ke kiri dicerminkan otomatis; dash atas/bawah memakai jarak |X|. Posisi Transform DashSmoke diabaikan.")]
     public Vector2 dashSmokeOffset = new Vector2(-0.3f, -0.4f);
+    [Tooltip("[DASH CANCEL] Nama state Animator yang langsung diputar saat dash memotong serangan (animasi jalan). Kosong = animasi serangan hanya berhenti lewat transisi Animator.")]
+    public string dashAnimState = "Orc_Walk";
 
     [Header("Serangan")]
     public float comboWindow = 0.5f;     // waktu setelah Attack1 selesai untuk menekan Attack2
@@ -144,8 +146,10 @@ public class PlayerController : MonoBehaviour
         if (Time.time < knockbackUntil) return;
         if (Time.time < dashReadyAt) return;
 
-        // sedang menyerang (termasuk jeda setelah Attack2). Hapus baris ini kalau dash boleh memotong serangan.
-        if (Time.time < busyUntil) return;
+        // [DASH CANCEL] dash boleh memotong serangan (termasuk jeda setelah Attack2): animasi serangan diputus
+        // dan damage yang belum jatuh dibatalkan. Sengaja SETELAH semua pengecekan di atas, jadi dash yang
+        // ditolak (cooldown/terpental) tidak ikut membatalkan serangan.
+        if (Time.time < busyUntil) CancelAttack();
 
         // arah = input saat ini; kalau tidak ada input, ke arah hadap terakhir
         dashDir = moveInput.sqrMagnitude > 0.01f
@@ -190,6 +194,27 @@ public class PlayerController : MonoBehaviour
         dashReadyAt = Time.time + dashCooldown;
         transform.localScale = baseScale;
         if (dashSmoke != null) dashSmoke.Stop(); // partikel yang sudah keluar tetap memudar sendiri
+    }
+
+    // [DASH CANCEL] putus serangan yang sedang berjalan sekarang juga
+    void CancelAttack()
+    {
+        busyUntil = 0f;
+        comboDeadline = -1f;
+        anim.ResetTrigger("Attack");
+        anim.ResetTrigger("Attack2");
+
+        // damage yang dijadwalkan tapi belum jatuh dibatalkan (serangan dipotong sebelum titik hit = tidak kena)
+        if (attack != null) attack.CancelPending();
+
+        // putus animasi serangan sekarang juga, jangan menunggu transisi/exit time Animator
+        anim.SetBool("isWalking", true);
+        if (!string.IsNullOrEmpty(dashAnimState))
+        {
+            int hash = Animator.StringToHash(dashAnimState);
+            if (anim.HasState(0, hash)) anim.Play(hash, 0, 0f);
+            else Debug.LogWarning($"State '{dashAnimState}' tidak ada di Animator Player. Isi Dash Anim State dengan nama state jalan.");
+        }
     }
 
     // ---------- [DASHBTN] dibaca DashButton (tombol UI dash) ----------
