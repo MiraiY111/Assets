@@ -8,18 +8,16 @@ using UnityEngine.UI;
 /// (panel itu sempat dimatikan, misalnya saat mode edit UI).
 ///
 /// Volume : slider langsung terdengar (AudioListener.volume), tetapi baru ditulis ke PlayerPrefs saat Save.
+///          Nilai tersimpan diambil sekali di Start dan hanya berubah lewat Save(). Tidak ada script lain
+///          yang boleh menulis volume ke PlayerPrefs.
 /// Tata letak UI : lewat UICustomizePanel (CommitAll / RevertAll / HasChanges).
 ///
 /// Alur:
-///   tombol Settings -> BeginSession()   (ambil nilai tersimpan sebagai acuan; tambahkan sebagai OnClick KEDUA)
 ///   tombol Save     -> Save()
 ///   tombol Close    -> RequestClose()   (tanpa perubahan: langsung menutup; ada perubahan: muncul dialog)
 ///   dialog Yes      -> simpan lalu menutup
 ///   dialog No       -> semua perubahan dikembalikan ke yang tersimpan, lalu menutup
 /// Tombol Yes dan No di dialog dihubungkan oleh script ini, tidak perlu diisi di OnClick.
-///
-/// PENTING: kosongkan field Volume Slider di MainMenu dan PauseMenu. Kalau tidak, keduanya tetap menulis volume
-/// ke PlayerPrefs setiap slider digeser, dan pilihan "No" tidak akan bisa mengembalikannya.
 /// </summary>
 public class SettingsController : MonoBehaviour
 {
@@ -44,12 +42,16 @@ public class SettingsController : MonoBehaviour
     [SerializeField] private UnityEvent onClose;
 
     float savedVolume = 1f;
-    bool sessionActive;
     bool dialogOpen;
     bool closing;   // true selama event On Close berjalan; mencegah pemanggilan berulang tanpa henti
 
     void Start()
     {
+        // nilai tersimpan diambil sekali di sini; setelahnya hanya berubah lewat Save()
+        savedVolume = PlayerPrefs.GetFloat(VolumeKey, 1f);
+        if (volumeSlider != null) volumeSlider.SetValueWithoutNotify(savedVolume);
+        AudioListener.volume = savedVolume;
+
         if (confirmDialog != null) confirmDialog.SetActive(false);
 
         if (volumeSlider != null) volumeSlider.onValueChanged.AddListener(OnVolumeChanged);
@@ -75,17 +77,13 @@ public class SettingsController : MonoBehaviour
         }
     }
 
-    /// <summary>Dipanggil saat panel Setting dibuka. Aman dipanggil berulang selama sesi belum selesai.</summary>
+    /// <summary>
+    /// Tidak wajib lagi: nilai tersimpan sudah diambil di Start. Dibiarkan supaya OnClick lama
+    /// yang menunjuk ke sini tidak rusak.
+    /// </summary>
     public void BeginSession()
     {
-        if (sessionActive) return;
-        sessionActive = true;
         dialogOpen = false;
-
-        savedVolume = PlayerPrefs.GetFloat(VolumeKey, 1f);
-        if (volumeSlider != null) volumeSlider.SetValueWithoutNotify(savedVolume);
-        AudioListener.volume = savedVolume;
-
         if (confirmDialog != null) confirmDialog.SetActive(false);
     }
 
@@ -111,8 +109,6 @@ public class SettingsController : MonoBehaviour
         }
         if (dialogOpen) return;
         if (customize != null && customize.IsOpen) return;   // sedang mode edit: keluar dulu lewat Done
-
-        BeginSession(); // jaga-jaga kalau OnClick Settings belum menyambungkan BeginSession
 
         if (HasChanges && confirmDialog != null)
         {
@@ -146,7 +142,6 @@ public class SettingsController : MonoBehaviour
     void FinishClose()
     {
         dialogOpen = false;
-        sessionActive = false;
         if (confirmDialog != null) confirmDialog.SetActive(false);
         closing = true;
         try { onClose?.Invoke(); }

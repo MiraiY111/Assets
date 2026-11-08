@@ -29,8 +29,6 @@ public static class GamePause
 /// </summary>
 public class PauseMenu : MonoBehaviour
 {
-    const string VolumeKey = "MasterVolume";
-
     [Header("Panel")]
     [SerializeField] private GameObject pausePanel;
     [Tooltip("Objek induk ketiga tombol. Dipakai untuk menahan klik selama animasi.")]
@@ -38,8 +36,6 @@ public class PauseMenu : MonoBehaviour
     [Tooltip("Urut dari atas ke bawah: Resume, Settings, Main Menu.")]
     [SerializeField] private RectTransform[] buttons;
     [SerializeField] private GameObject settingsPanel;
-    [Tooltip("Opsional: slider volume di panel Setting stage ini.")]
-    [SerializeField] private Slider volumeSlider;
 
     [Header("Animasi tombol")]
     [Tooltip("Lama tiap tombol turun dari atas saat Pause (detik).")]
@@ -124,16 +120,10 @@ public class PauseMenu : MonoBehaviour
 
         if (pausePanel != null) pausePanel.SetActive(false);
 
-        if (volumeSlider != null)
-        {
-            volumeSlider.SetValueWithoutNotify(PlayerPrefs.GetFloat(VolumeKey, 1f));
-            volumeSlider.onValueChanged.AddListener(SetVolume);
-        }
     }
 
     void OnDestroy()
     {
-        if (volumeSlider != null) volumeSlider.onValueChanged.RemoveListener(SetVolume);
         if (paused) { Time.timeScale = 1f; GamePause.IsPaused = false; }
     }
 
@@ -214,12 +204,6 @@ public class PauseMenu : MonoBehaviour
             return;
         }
         StartCoroutine(GoToMainMenuRoutine());
-    }
-
-    void SetVolume(float v)
-    {
-        AudioListener.volume = v;
-        PlayerPrefs.SetFloat(VolumeKey, v);
     }
 
     // ---------- urutan ----------

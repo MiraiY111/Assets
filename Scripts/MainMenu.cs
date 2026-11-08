@@ -42,8 +42,6 @@ public class MainMenu : MonoBehaviour
     [SerializeField] private float panelCloseTime = 0.25f;
     [Tooltip("Seberapa melewati ukuran penuh saat membuka (0 = tanpa membal, 1.2 = sedikit membal).")]
     [SerializeField] private float panelOvershoot = 1.2f;
-    [Tooltip("Opsional: slider volume 0-1 di dalam panel Setting.")]
-    [SerializeField] private Slider volumeSlider;
 
     [Header("Musik")]
     [Tooltip("Opsional: AudioSource BGM Main Menu (objek MenuBGM). Kosong = tanpa fade-out saat Play.")]
@@ -84,18 +82,8 @@ public class MainMenu : MonoBehaviour
             settingsPanel.SetActive(false);
         }
 
-        float v = PlayerPrefs.GetFloat(VolumeKey, 1f);
-        AudioListener.volume = v;
-        if (volumeSlider != null)
-        {
-            volumeSlider.SetValueWithoutNotify(v);
-            volumeSlider.onValueChanged.AddListener(SetVolume);
-        }
-    }
-
-    void OnDestroy()
-    {
-        if (volumeSlider != null) volumeSlider.onValueChanged.RemoveListener(SetVolume);
+        // volume awal; pengaturan volume di panel Setting diurus SettingsController
+        AudioListener.volume = PlayerPrefs.GetFloat(VolumeKey, 1f);
     }
 
     static CanvasGroup GetOrAddGroup(GameObject go)
@@ -160,12 +148,6 @@ public class MainMenu : MonoBehaviour
     {
         if (busy || !settingsOpen || settingsPanel == null) return;
         StartCoroutine(CloseRoutine());
-    }
-
-    void SetVolume(float v)
-    {
-        AudioListener.volume = v;
-        PlayerPrefs.SetFloat(VolumeKey, v);
     }
 
     // aksi yang keluar dari menu: tombol lain diabaikan setelah klik

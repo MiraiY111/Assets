@@ -1546,7 +1546,6 @@ MonoBehaviour:
   - {fileID: 865331967}
   - {fileID: 1804302793}
   settingsPanel: {fileID: 29413707}
-  volumeSlider: {fileID: 310455482}
   enterTime: 0.4
   exitTime: 0.25
   staggerDelay: 0.06
@@ -3252,8 +3251,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::WaveSpawner
   zones: {fileID: 656697550}
   entrance: {fileID: 49985518}
-  monstersPerWave: 4
-  totalWaves: 3
+  monstersPerWave: 1
+  totalWaves: 1
   spawnDelay: 0.4
   delayBetweenWaves: 1.5
   enemies:
@@ -8648,8 +8647,8 @@ MonoBehaviour:
   controlsRoot: {fileID: 527360665}
   sizeSlider: {fileID: 305654196}
   opacitySlider: {fileID: 2137499032}
-  resetButton: {fileID: 0}
-  doneButton: {fileID: 0}
+  resetButton: {fileID: 656863317}
+  doneButton: {fileID: 1850205138}
   hideWhileEditing:
   - {fileID: 506766541}
   - {fileID: 29413707}
