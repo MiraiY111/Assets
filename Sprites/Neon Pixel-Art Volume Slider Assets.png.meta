@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: 18fab24a75fdcb048b2ab98ea5bf3d26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4619522770606535563
+    second: Neon Pixel-Art Volume Slider Assets_0
+  - first:
+      213: -4183319980491210059
+    second: Neon Pixel-Art Volume Slider Assets_1
+  - first:
+      213: 6867184840281943090
+    second: Neon Pixel-Art Volume Slider Assets_2
+  - first:
+      213: 4231716281126578499
+    second: Neon Pixel-Art Volume Slider Assets_3
+  - first:
+      213: 5868265867651838987
+    second: Neon Pixel-Art Volume Slider Assets_4
+  - first:
+      213: 1325947042918304677
+    second: Neon Pixel-Art Volume Slider Assets_5
+  - first:
+      213: -6933574444238164182
+    second: Neon Pixel-Art Volume Slider Assets_6
+  - first:
+      213: -5251138435164278702
+    second: Neon Pixel-Art Volume Slider Assets_7
+  - first:
+      213: -1274838252958565230
+    second: Neon Pixel-Art Volume Slider Assets_8
+  - first:
+      213: -4115084611207431951
+    second: Neon Pixel-Art Volume Slider Assets_9
+  - first:
+      213: 1102671004510581799
+    second: Neon Pixel-Art Volume Slider Assets_10
+  - first:
+      213: -6774806133328123362
+    second: Neon Pixel-Art Volume Slider Assets_11
+  - first:
+      213: 231551093961928415
+    second: Neon Pixel-Art Volume Slider Assets_12
+  - first:
+      213: 1046787170230690714
+    second: Neon Pixel-Art Volume Slider Assets_13
+  - first:
+      213: -3736783952961036127
+    second: Neon Pixel-Art Volume Slider Assets_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neon Pixel-Art Volume Slider Assets_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 257
+        width: 1659
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83b4dd0c77db1040800000000000000
+      internalID: 4619522770606535563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Pixel-Art Volume Slider Assets_1
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 476
+        width: 330
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8599e95bbf21f8e45b1a28bdd51c4aa3
+      internalID: -4183319980491210059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Pixel-Art Volume Slider Assets_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 476
+        width: 330
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7182897c17583bd41b2264e4eeac0b4b
+      internalID: 6867184840281943090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 63118d661437c53479b81a7e356efaef
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1774.0,"y":887.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Neon Pixel-Art Volume Slider Assets_0: 4619522770606535563
+      Neon Pixel-Art Volume Slider Assets_1: -4183319980491210059
+      Neon Pixel-Art Volume Slider Assets_2: 6867184840281943090
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,6 +1,7 @@
 ﻿using System;
 using UnityEngine;
 using UnityEngine.EventSystems;
+using UnityEngine.UI;
 
 /// <summary>
 /// Penyimpanan tata letak HUD (PlayerPrefs). Yang disimpan hanya SELISIH dari posisi/ukuran bawaan di scene,
@@ -83,13 +84,33 @@ public class CustomizableUI : MonoBehaviour, IPointerDownHandler, IDragHandler
     public float Scale { get; private set; } = 1f;
     public float Alpha { get; private set; } = 1f;
 
+    /// <summary>
+    /// True kalau nilai sekarang berbeda dari nilai terakhir yang disimpan/dimuat (perubahan yang belum di-Save).
+    /// Dibandingkan dengan keadaan setelah dimuat (bukan langsung dengan PlayerPrefs), supaya elemen yang
+    /// sekadar digeser otomatis oleh batas layar tidak dianggap berubah.
+    /// </summary>
+    public bool IsDirty
+    {
+        get
+        {
+            Init();
+            return (Offset - baseOffset).sqrMagnitude > 0.01f
+                || Mathf.Abs(Scale - baseScale) > 0.001f
+                || Mathf.Abs(Alpha - baseAlpha) > 0.001f;
+        }
+    }
+
     bool initialized;
+    Vector2 baseOffset;
+    float baseScale = 1f;
+    float baseAlpha = 1f;
     Vector2 defaultPos;
     Vector3 defaultScale;
     CanvasGroup group;
     Canvas canvas;
     bool[] behaviourWasEnabled;
     bool wasActive;
+    GameObject editHit;
     readonly Vector3[] canvasCorners = new Vector3[4];
     readonly Vector3[] selfCorners = new Vector3[4];
 
@@ -101,6 +122,15 @@ public class CustomizableUI : MonoBehaviour, IPointerDownHandler, IDragHandler
         Canvas.ForceUpdateCanvases();
         ClampToCanvas();
         Offset = Rect.anchoredPosition - defaultPos;
+        MarkClean();
+    }
+
+    // keadaan sekarang dianggap "belum diubah" (dipanggil setelah dimuat atau disimpan)
+    void MarkClean()
+    {
+        baseOffset = Offset;
+        baseScale = Scale;
+        baseAlpha = Alpha;
     }
 
     /// <summary>
@@ -137,6 +167,7 @@ public class CustomizableUI : MonoBehaviour, IPointerDownHandler, IDragHandler
         Offset = e.offset;
         SetScale(e.scale, false);
         SetAlpha(e.alpha);
+        MarkClean();
     }
 
     /// <summary>Kembalikan ke bawaan scene (belum menghapus data tersimpan; itu terjadi saat Save).</summary>
@@ -172,6 +203,7 @@ public class CustomizableUI : MonoBehaviour, IPointerDownHandler, IDragHandler
     public void Save()
     {
         UILayoutStore.Set(id, new UILayoutStore.Entry { offset = Offset, scale = Scale, alpha = Alpha });
+        MarkClean();
     }
 
     /// <summary>Dipanggil UICustomizePanel saat mode edit dibuka/ditutup.</summary>
@@ -180,6 +212,8 @@ public class CustomizableUI : MonoBehaviour, IPointerDownHandler, IDragHandler
         Init();
         if (on == IsEditing) return;
         IsEditing = on;
+
+        SetHitArea(on);
 
         // script fungsi asli: dimatikan selama edit, dikembalikan ke keadaan semula sesudahnya
         if (disableWhileEditing != null && disableWhileEditing.Length > 0)
@@ -215,6 +249,34 @@ public class CustomizableUI : MonoBehaviour, IPointerDownHandler, IDragHandler
             Canvas.ForceUpdateCanvases();
             ClampToCanvas();
             Offset = Rect.anchoredPosition - defaultPos;
+        }
+    }
+
+    // Lapisan transparan yang menerima sentuhan selama edit. Perlu karena beberapa elemen (mis. bar HP dari PixelStatBar)
+    // tidak punya gambar yang bisa disentuh, jadi tanpa ini tidak bisa dipilih atau diseret.
+    void SetHitArea(bool on)
+    {
+        if (on)
+        {
+            if (editHit != null) return;
+
+            editHit = new GameObject("EditHit", typeof(RectTransform), typeof(Image));
+            var rt = (RectTransform)editHit.transform;
+            rt.SetParent(transform, false);
+            rt.anchorMin = Vector2.zero;
+            rt.anchorMax = Vector2.one;
+            rt.offsetMin = Vector2.zero;
+            rt.offsetMax = Vector2.zero;
+            rt.SetAsLastSibling();
+
+            var img = editHit.GetComponent<Image>();
+            img.color = new Color(0f, 0f, 0f, 0f);
+            img.raycastTarget = true;
+        }
+        else if (editHit != null)
+        {
+            Destroy(editHit);
+            editHit = null;
         }
     }
 

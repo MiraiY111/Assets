@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: c6ccb8276bf4f7d45afcbb7e7b143b7c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2404369185963067605
+    second: Retro Neon Reset and Done Buttons_0
+  - first:
+      213: -6791206811155980563
+    second: Retro Neon Reset and Done Buttons_1
+  - first:
+      213: -9113937180294514076
+    second: Retro Neon Reset and Done Buttons_2
+  - first:
+      213: -830393407376606923
+    second: Retro Neon Reset and Done Buttons_3
+  - first:
+      213: -6307751026196573077
+    second: Retro Neon Reset and Done Buttons_4
+  - first:
+      213: -7863807485574895121
+    second: Retro Neon Reset and Done Buttons_5
+  - first:
+      213: -8782580370312485680
+    second: Retro Neon Reset and Done Buttons_6
+  - first:
+      213: -8822292266200241870
+    second: Retro Neon Reset and Done Buttons_7
+  - first:
+      213: 5701562023035829757
+    second: Retro Neon Reset and Done Buttons_8
+  - first:
+      213: 5214452909751190222
+    second: Retro Neon Reset and Done Buttons_9
+  - first:
+      213: 6262143320764207214
+    second: Retro Neon Reset and Done Buttons_10
+  - first:
+      213: 7507750899159171145
+    second: Retro Neon Reset and Done Buttons_11
+  - first:
+      213: -3460900380641121452
+    second: Retro Neon Reset and Done Buttons_12
+  - first:
+      213: -8683873361657002493
+    second: Retro Neon Reset and Done Buttons_13
+  - first:
+      213: -1741679318470099804
+    second: Retro Neon Reset and Done Buttons_14
+  - first:
+      213: -9182005651788060817
+    second: Retro Neon Reset and Done Buttons_15
+  - first:
+      213: -1898020257174163215
+    second: Retro Neon Reset and Done Buttons_16
+  - first:
+      213: -8984229750848473714
+    second: Retro Neon Reset and Done Buttons_17
+  - first:
+      213: -6698280685377621384
+    second: Retro Neon Reset and Done Buttons_18
+  - first:
+      213: -3683756369029257296
+    second: Retro Neon Reset and Done Buttons_19
+  - first:
+      213: 3503678531505998577
+    second: Retro Neon Reset and Done Buttons_20
+  - first:
+      213: 2687020999716338393
+    second: Retro Neon Reset and Done Buttons_21
+  - first:
+      213: -4193166070663949986
+    second: Retro Neon Reset and Done Buttons_22
+  - first:
+      213: 4706787305075865176
+    second: Retro Neon Reset and Done Buttons_23
+  - first:
+      213: 1490261137218884291
+    second: Retro Neon Reset and Done Buttons_24
+  - first:
+      213: -7359653046033964435
+    second: Retro Neon Reset and Done Buttons_25
+  - first:
+      213: -5378661119260107231
+    second: Retro Neon Reset and Done Buttons_26
+  - first:
+      213: 3351094141596313455
+    second: Retro Neon Reset and Done Buttons_27
+  - first:
+      213: -7258465627589018103
+    second: Retro Neon Reset and Done Buttons_28
+  - first:
+      213: 2966310240307586912
+    second: Retro Neon Reset and Done Buttons_29
+  - first:
+      213: -8215654285753838883
+    second: Retro Neon Reset and Done Buttons_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Retro Neon Reset and Done Buttons_0
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 545
+        width: 733
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27b6c9d6f6f1aed0800000000000000
+      internalID: -2404369185963067605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Neon Reset and Done Buttons_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 547
+        width: 733
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11de01e8c46f7c5448c1264580e005ed
+      internalID: -6791206811155980563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Neon Reset and Done Buttons_2
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 113
+        width: 733
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56417a5e7e9c78f4baadff602b8bf7ef
+      internalID: -9113937180294514076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro Neon Reset and Done Buttons_3
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 116
+        width: 733
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afee1b955023a6448468508facf2274
+      internalID: -830393407376606923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bd5928b4f1a3961488b61ae171ef187c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1536.0,"y":1024.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Retro Neon Reset and Done Buttons_0: -2404369185963067605
+      Retro Neon Reset and Done Buttons_1: -6791206811155980563
+      Retro Neon Reset and Done Buttons_2: -9113937180294514076
+      Retro Neon Reset and Done Buttons_3: -830393407376606923
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

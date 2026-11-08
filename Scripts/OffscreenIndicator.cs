@@ -19,6 +19,8 @@ public class OffscreenIndicator : MonoBehaviour
     [SerializeField] private Vector2 arrowSize = new Vector2(48f, 48f);
     [Tooltip("Jarak panah dari tepi layar (piksel). Naikkan kalau tertutup tombol.")]
     [SerializeField] private float edgePaddingPixels = 60f;
+    [Tooltip("Tambahan jarak KHUSUS tepi atas (piksel), supaya panah tidak menimpa health bar boss. Isi kira-kira tinggi bar + sedikit ruang.")]
+    [SerializeField] private float extraTopPixels = 0f;
     [Tooltip("Sprite aslinya menunjuk ke ATAS = -90. Menunjuk ke kanan = 0.")]
     [SerializeField] private float rotationOffset = -90f;
     [Tooltip("Monster dianggap sudah terlihat kalau ada di dalam layar + margin ini (0.05 = 5%).")]
@@ -80,8 +82,11 @@ public class OffscreenIndicator : MonoBehaviour
 
         float padX = edgePaddingPixels / Mathf.Max(1, Screen.width);
         float padY = edgePaddingPixels / Mathf.Max(1, Screen.height);
-        float halfX = 0.5f - padX;
-        float halfY = 0.5f - padY;
+        float padTop = (edgePaddingPixels + extraTopPixels) / Mathf.Max(1, Screen.height);
+
+        // area tempat panah boleh berada (koordinat viewport); atas bisa lebih sempit dari bawah
+        float minX = padX, maxX = 1f - padX;
+        float minY = padY, maxY = Mathf.Max(0.55f, 1f - padTop);   // pusat layar harus tetap di dalam area
 
         for (int i = 0; i < count; i++)
         {
@@ -90,8 +95,12 @@ public class OffscreenIndicator : MonoBehaviour
 
             Vector2 d = candidates[i].viewport - new Vector2(0.5f, 0.5f);
 
-            float tx = Mathf.Abs(d.x) > 0.0001f ? halfX / Mathf.Abs(d.x) : float.MaxValue;
-            float ty = Mathf.Abs(d.y) > 0.0001f ? halfY / Mathf.Abs(d.y) : float.MaxValue;
+            float tx = d.x > 0.0001f ? (maxX - 0.5f) / d.x
+                     : d.x < -0.0001f ? (minX - 0.5f) / d.x
+                     : float.MaxValue;
+            float ty = d.y > 0.0001f ? (maxY - 0.5f) / d.y
+                     : d.y < -0.0001f ? (minY - 0.5f) / d.y
+                     : float.MaxValue;
             float t = Mathf.Min(tx, ty);
             Vector2 pos = new Vector2(0.5f, 0.5f) + d * t;
 

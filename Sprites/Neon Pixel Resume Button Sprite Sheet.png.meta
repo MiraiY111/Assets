@@ -100,7 +100,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -140,7 +140,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -181,12 +181,12 @@ TextureImporter:
       name: Neon Pixel Resume Button Sprite Sheet_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1536
-        height: 1002
+        x: 11
+        y: 493
+        width: 749
+        height: 320
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -203,460 +203,20 @@ TextureImporter:
       name: Neon Pixel Resume Button Sprite Sheet_1
       rect:
         serializedVersion: 2
-        x: 230
-        y: 954
-        width: 11
-        height: 20
+        x: 776
+        y: 493
+        width: 749
+        height: 320
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c2cddba8903875020800000000000000
+      spriteID: 0b62c227132032544b3e28f49db545c5
       internalID: 2330475409193163820
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Resume Button Sprite Sheet_2
-      rect:
-        serializedVersion: 2
-        x: 290
-        y: 957
-        width: 41
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7f4a312ddefab82d0800000000000000
-      internalID: -3275330868015291145
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Resume Button Sprite Sheet_3
-      rect:
-        serializedVersion: 2
-        x: 350
-        y: 966
-        width: 17
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 340c0c6d01feb15b0800000000000000
-      internalID: -5396456872871935933
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Resume Button Sprite Sheet_4
-      rect:
-        serializedVersion: 2
-        x: 1136
-        y: 967
-        width: 7
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bb29d0db88a4e9e00800000000000000
-      internalID: 1053361313999065787
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Resume Button Sprite Sheet_5
-      rect:
-        serializedVersion: 2
-        x: 186
-        y: 943
-        width: 37
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aab88fd5e634ae430800000000000000
-      internalID: 3812934175824579498
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Resume Button Sprite Sheet_6
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 943
-        width: 9
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 09f14a548b0088610800000000000000
-      internalID: 1623548457109430160
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Resume Button Sprite Sheet_7
-      rect:
-        serializedVersion: 2
-        x: 238
-        y: 943
-        width: 17
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 672da8c214c408f60800000000000000
-      internalID: 8034505578032845430
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Resume Button Sprite Sheet_8
-      rect:
-        serializedVersion: 2
-        x: 590
-        y: 943
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bfc6ea3eecbea3540800000000000000
-      internalID: 4988558811081895163
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Resume Button Sprite Sheet_9
-      rect:
-        serializedVersion: 2
-        x: 248
-        y: 869
-        width: 23
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f99417830c4ff4c10800000000000000
-      internalID: 2040118262639970719
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Resume Button Sprite Sheet_10
-      rect:
-        serializedVersion: 2
-        x: 168
-        y: 111
-        width: 397
-        height: 319
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ea15a28af0d1c40e0800000000000000
-      internalID: -2284418957900623442
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Resume Button Sprite Sheet_11
-      rect:
-        serializedVersion: 2
-        x: 584
-        y: 367
-        width: 7
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9a23593527988a390800000000000000
-      internalID: -7806838829925190999
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Resume Button Sprite Sheet_12
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 109
-        width: 371
-        height: 325
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b2841fe2ebc74d7a0800000000000000
-      internalID: -6353316018039732181
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Resume Button Sprite Sheet_13
-      rect:
-        serializedVersion: 2
-        x: 386
-        y: 67
-        width: 11
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5c0fa5478020db750800000000000000
-      internalID: 6322211687233155269
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Resume Button Sprite Sheet_14
-      rect:
-        serializedVersion: 2
-        x: 392
-        y: 64
-        width: 7
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 44407d8768b9180a0800000000000000
-      internalID: -6881047753790127036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Resume Button Sprite Sheet_15
-      rect:
-        serializedVersion: 2
-        x: 398
-        y: 63
-        width: 13
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fd82920a95758d6e0800000000000000
-      internalID: -1812602807565866785
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Resume Button Sprite Sheet_16
-      rect:
-        serializedVersion: 2
-        x: 360
-        y: 47
-        width: 21
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a971d63e491038ef0800000000000000
-      internalID: -107240227144394854
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Resume Button Sprite Sheet_17
-      rect:
-        serializedVersion: 2
-        x: 400
-        y: 47
-        width: 9
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f53fdceb949b16850800000000000000
-      internalID: 6368575074463511391
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Resume Button Sprite Sheet_18
-      rect:
-        serializedVersion: 2
-        x: 527
-        y: 37
-        width: 8
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c49671e2ad31c6770800000000000000
-      internalID: 8605274815795259724
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Resume Button Sprite Sheet_19
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 15
-        width: 11
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: adc364a9193ee17f0800000000000000
-      internalID: -639823882541974310
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Resume Button Sprite Sheet_20
-      rect:
-        serializedVersion: 2
-        x: 216
-        y: 15
-        width: 7
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6665c0b9e7ed99270800000000000000
-      internalID: 8257876027109037670
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Resume Button Sprite Sheet_21
-      rect:
-        serializedVersion: 2
-        x: 456
-        y: 16
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3874e547c76237560800000000000000
-      internalID: 7310228936122582915
       vertices: []
       indices: 
       edges: []
@@ -665,7 +225,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 0ea6f5c29acf54947b4ad3aec8bccad8
     internalID: 0
     vertices: []
     indices: 
@@ -673,30 +233,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1536.0,"y":1024.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Neon Pixel Resume Button Sprite Sheet_0: 5919361512040289195
       Neon Pixel Resume Button Sprite Sheet_1: 2330475409193163820
-      Neon Pixel Resume Button Sprite Sheet_10: -2284418957900623442
-      Neon Pixel Resume Button Sprite Sheet_11: -7806838829925190999
-      Neon Pixel Resume Button Sprite Sheet_12: -6353316018039732181
-      Neon Pixel Resume Button Sprite Sheet_13: 6322211687233155269
-      Neon Pixel Resume Button Sprite Sheet_14: -6881047753790127036
-      Neon Pixel Resume Button Sprite Sheet_15: -1812602807565866785
-      Neon Pixel Resume Button Sprite Sheet_16: -107240227144394854
-      Neon Pixel Resume Button Sprite Sheet_17: 6368575074463511391
-      Neon Pixel Resume Button Sprite Sheet_18: 8605274815795259724
-      Neon Pixel Resume Button Sprite Sheet_19: -639823882541974310
-      Neon Pixel Resume Button Sprite Sheet_2: -3275330868015291145
-      Neon Pixel Resume Button Sprite Sheet_20: 8257876027109037670
-      Neon Pixel Resume Button Sprite Sheet_21: 7310228936122582915
-      Neon Pixel Resume Button Sprite Sheet_3: -5396456872871935933
-      Neon Pixel Resume Button Sprite Sheet_4: 1053361313999065787
-      Neon Pixel Resume Button Sprite Sheet_5: 3812934175824579498
-      Neon Pixel Resume Button Sprite Sheet_6: 1623548457109430160
-      Neon Pixel Resume Button Sprite Sheet_7: 8034505578032845430
-      Neon Pixel Resume Button Sprite Sheet_8: 4988558811081895163
-      Neon Pixel Resume Button Sprite Sheet_9: 2040118262639970719
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

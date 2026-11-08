@@ -100,7 +100,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -140,7 +140,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -181,12 +181,12 @@ TextureImporter:
       name: Neon Pixel Yes and No Button States_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1536
-        height: 1008
+        x: 57
+        y: 700
+        width: 661
+        height: 221
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -203,19 +203,19 @@ TextureImporter:
       name: Neon Pixel Yes and No Button States_1
       rect:
         serializedVersion: 2
-        x: 45
-        y: 655
-        width: 678
-        height: 361
+        x: 57
+        y: 411
+        width: 661
+        height: 221
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0e00a23ef62884010800000000000000
+      spriteID: 908e08bf528583c479a736993ef8653e
       internalID: 1173331119994175712
       vertices: []
       indices: 
@@ -225,19 +225,19 @@ TextureImporter:
       name: Neon Pixel Yes and No Button States_2
       rect:
         serializedVersion: 2
-        x: 263
-        y: 997
-        width: 8
-        height: 13
+        x: 821
+        y: 411
+        width: 657
+        height: 221
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5d5aedfa269bdf290800000000000000
+      spriteID: 5b8933a5c2b505d4ebb5e8a87dfb5dbd
       internalID: -7854918341555739179
       vertices: []
       indices: 
@@ -247,416 +247,20 @@ TextureImporter:
       name: Neon Pixel Yes and No Button States_3
       rect:
         serializedVersion: 2
-        x: 348
-        y: 943
-        width: 115
-        height: 57
+        x: 821
+        y: 700
+        width: 657
+        height: 221
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c4d9c0bb46d9ff560800000000000000
+      spriteID: f301d79290ef4004b8a56f28165da290
       internalID: 7349766172852395340
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Yes and No Button States_4
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 998
-        width: 11
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c3f806cfc92e14cd0800000000000000
-      internalID: -2575528348002250948
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Yes and No Button States_5
-      rect:
-        serializedVersion: 2
-        x: 972
-        y: 993
-        width: 41
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5c68ad9c1fec2e2e0800000000000000
-      internalID: -2097886938532247867
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Yes and No Button States_6
-      rect:
-        serializedVersion: 2
-        x: 1110
-        y: 991
-        width: 12
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ba3f1c4766661bd90800000000000000
-      internalID: -7083768148645514325
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Yes and No Button States_7
-      rect:
-        serializedVersion: 2
-        x: 1184
-        y: 945
-        width: 35
-        height: 59
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a74d5ac3eda715a40800000000000000
-      internalID: 5355196526839059578
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Yes and No Button States_8
-      rect:
-        serializedVersion: 2
-        x: 1232
-        y: 971
-        width: 27
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 84805d6ad550b7ff0800000000000000
-      internalID: -37430272113440696
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Yes and No Button States_9
-      rect:
-        serializedVersion: 2
-        x: 1280
-        y: 974
-        width: 23
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 17e4774d268cc0a80800000000000000
-      internalID: -8499198069958029711
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Yes and No Button States_10
-      rect:
-        serializedVersion: 2
-        x: 248
-        y: 983
-        width: 9
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9bb135305d4807b80800000000000000
-      internalID: -8399067254627296327
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Yes and No Button States_11
-      rect:
-        serializedVersion: 2
-        x: 263
-        y: 983
-        width: 8
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dfebf9baff322a130800000000000000
-      internalID: 3576460635088600829
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Yes and No Button States_12
-      rect:
-        serializedVersion: 2
-        x: 1008
-        y: 975
-        width: 7
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2c5808d09c198bfa0800000000000000
-      internalID: -5784713428656421438
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Yes and No Button States_13
-      rect:
-        serializedVersion: 2
-        x: 1022
-        y: 975
-        width: 13
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6160f75f131a0c410800000000000000
-      internalID: 1495372312231216662
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Yes and No Button States_14
-      rect:
-        serializedVersion: 2
-        x: 952
-        y: 947
-        width: 15
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: be0a33838cc056470800000000000000
-      internalID: 8387123935123316971
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Yes and No Button States_15
-      rect:
-        serializedVersion: 2
-        x: 998
-        y: 949
-        width: 21
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 123fb4d9eee4c6f20800000000000000
-      internalID: 3417193004015547169
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Yes and No Button States_16
-      rect:
-        serializedVersion: 2
-        x: 1030
-        y: 950
-        width: 7
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1c42611aa92f5eac0800000000000000
-      internalID: -3826385562439899967
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Yes and No Button States_17
-      rect:
-        serializedVersion: 2
-        x: 1082
-        y: 955
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a5ab4974825659f80800000000000000
-      internalID: -8100457131081942438
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Yes and No Button States_18
-      rect:
-        serializedVersion: 2
-        x: 1128
-        y: 954
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b0915d49819653e00800000000000000
-      internalID: 1023840044593781003
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Yes and No Button States_19
-      rect:
-        serializedVersion: 2
-        x: 1256
-        y: 961
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 138d0eaf22f86a060800000000000000
-      internalID: 6964411254175750193
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Yes and No Button States_20
-      rect:
-        serializedVersion: 2
-        x: 1264
-        y: 950
-        width: 15
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 96ebc15e585db07e0800000000000000
-      internalID: -1798108855153148311
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Neon Pixel Yes and No Button States_21
-      rect:
-        serializedVersion: 2
-        x: 1310
-        y: 949
-        width: 13
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d8222c3492a2dfca0800000000000000
-      internalID: -5981578373359328627
       vertices: []
       indices: 
       edges: []
@@ -665,7 +269,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 994c732b75c9d114092c2655c30e8534
     internalID: 0
     vertices: []
     indices: 
@@ -673,30 +277,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1536.0,"y":1024.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Neon Pixel Yes and No Button States_0: 299295578630158967
       Neon Pixel Yes and No Button States_1: 1173331119994175712
-      Neon Pixel Yes and No Button States_10: -8399067254627296327
-      Neon Pixel Yes and No Button States_11: 3576460635088600829
-      Neon Pixel Yes and No Button States_12: -5784713428656421438
-      Neon Pixel Yes and No Button States_13: 1495372312231216662
-      Neon Pixel Yes and No Button States_14: 8387123935123316971
-      Neon Pixel Yes and No Button States_15: 3417193004015547169
-      Neon Pixel Yes and No Button States_16: -3826385562439899967
-      Neon Pixel Yes and No Button States_17: -8100457131081942438
-      Neon Pixel Yes and No Button States_18: 1023840044593781003
-      Neon Pixel Yes and No Button States_19: 6964411254175750193
       Neon Pixel Yes and No Button States_2: -7854918341555739179
-      Neon Pixel Yes and No Button States_20: -1798108855153148311
-      Neon Pixel Yes and No Button States_21: -5981578373359328627
       Neon Pixel Yes and No Button States_3: 7349766172852395340
-      Neon Pixel Yes and No Button States_4: -2575528348002250948
-      Neon Pixel Yes and No Button States_5: -2097886938532247867
-      Neon Pixel Yes and No Button States_6: -7083768148645514325
-      Neon Pixel Yes and No Button States_7: 5355196526839059578
-      Neon Pixel Yes and No Button States_8: -37430272113440696
-      Neon Pixel Yes and No Button States_9: -8499198069958029711
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
