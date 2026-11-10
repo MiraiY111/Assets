@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
@@ -11,15 +12,16 @@ public class PlayerController : MonoBehaviour
     public float dashSpeed = 9f;          // kecepatan saat dash
     public float dashDuration = 0.15f;    // lama dash (jarak = speed x durasi, +-1,35 unit)
     public float dashCooldown = 0.8f;     // jeda sebelum bisa dash lagi, dihitung dari akhir dash
-    [Tooltip("Skala sprite saat dash. X > 1 melebar, Y < 1 memipih (gepeng).")]
-    public float dashSquashX = 1.3f;
-    public float dashSquashY = 0.7f;
-    [Tooltip("Opsional: Particle System asap (child Player). Kosong = dash tanpa asap.")]
-    public ParticleSystem dashSmoke;
-    [Tooltip("Posisi asap relatif ke Player untuk dash KE KANAN. X negatif = di belakang, Y negatif = ke bawah. Dash ke kiri dicerminkan otomatis; dash atas/bawah memakai jarak |X|. Posisi Transform DashSmoke diabaikan.")]
-    public Vector2 dashSmokeOffset = new Vector2(-0.3f, -0.4f);
     [Tooltip("[DASH CANCEL] Nama state Animator yang langsung diputar saat dash memotong serangan (animasi jalan). Kosong = animasi serangan hanya berhenti lewat transisi Animator.")]
     public string dashAnimState = "Orc_Walk";
+
+    [Header("Dash: bayangan")]
+    [Tooltip("Jarak antar bayangan (unit dunia). Kecil = rapat, besar = renggang. Sekitar selebar badan Player kalau mau seperti contoh.")]
+    public float ghostSpacing = 0.5f;
+    [Tooltip("Lama tiap bayangan memudar sampai hilang (detik).")]
+    public float ghostLifetime = 0.3f;
+    [Tooltip("Warna dan transparansi awal bayangan. Warna dikalikan dengan warna sprite, jadi pilih yang gelap/pudar. A = transparansi awal.")]
+    public Color ghostColor = new Color(0.25f, 0.6f, 0.6f, 0.6f);
 
     [Header("Serangan")]
     public float comboWindow = 0.5f;     // waktu setelah Attack1 selesai untuk menekan Attack2
@@ -51,7 +53,12 @@ public class PlayerController : MonoBehaviour
     float dashUntil;
     float dashReadyAt;
     Vector2 dashDir;
-    Vector3 baseScale;
+
+    // bayangan dash
+    struct Ghost { public SpriteRenderer sr; public float spawnTime; }
+    readonly List<Ghost> activeGhosts = new List<Ghost>();
+    readonly Stack<SpriteRenderer> ghostPool = new Stack<SpriteRenderer>();
+    Vector2 lastGhostPos;
 
     void Awake()
     {
@@ -59,17 +66,17 @@ public class PlayerController : MonoBehaviour
         anim = GetComponent<Animator>();
         sr = GetComponent<SpriteRenderer>();
         if (attack == null) attack = GetComponent<PlayerAttack>();
-        baseScale = transform.localScale;
 
         attack1Length = GetClipLength("Orc_Attack1", attack1Length);
         attack2Length = GetClipLength("Orc_Attack2", attack2Length);
     }
 
     // Player mati (PlayerHealth mematikan script ini) atau dimatikan PlayerEntrance/Exit:
-    // pastikan sprite tidak tertinggal gepeng dan asap berhenti.
+    // hentikan dash dan buang bayangan (Update berhenti, jadi bayangan tidak akan memudar sendiri).
     void OnDisable()
     {
         if (isDashing) EndDash();
+        ClearGhosts();
     }
 
     float GetClipLength(string clipName, float fallback)
@@ -84,6 +91,15 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
+        // [PAUSE] Time.timeScale = 0 menghentikan fisika dan Time.time, tetapi Update tetap berjalan.
+        // Tanpa pengecekan ini, input A/D tetap membalik sprite dan tombol Attack/Dash tetap "terpasang"
+        // lalu baru jalan setelah Resume.
+        if (GamePause.IsPaused)
+        {
+            moveInput = Vector2.zero;
+            return;
+        }
+
         // tes di editor
         if (Input.GetKeyDown(KeyCode.Space)) OnAttackButton();
 
@@ -102,6 +118,11 @@ public class PlayerController : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.E)) OnDashButton();
 
         if (isDashing && Time.time >= dashUntil) EndDash();
+
+        // tinggalkan bayangan tiap ghostSpacing unit selama dash
+        if (isDashing && Vector2.Distance(transform.position, lastGhostPos) >= ghostSpacing)
+            SpawnGhost();
+        UpdateGhosts();
 
         bool knockedBack = Time.time < knockbackUntil;
 
@@ -141,6 +162,9 @@ public class PlayerController : MonoBehaviour
         // Player sudah mati / dimatikan
         if (!enabled) return;
 
+        // [PAUSE] tombol Dash di HUD tidak boleh dianggap saat game di-pause
+        if (GamePause.IsPaused) return;
+
         // sedang dash, terpental, atau masih cooldown
         if (isDashing) return;
         if (Time.time < knockbackUntil) return;
@@ -162,38 +186,14 @@ public class PlayerController : MonoBehaviour
         // batalkan combo yang menggantung
         comboDeadline = -1f;
 
-        // dash lebih ke atas/bawah -> bentuk ikut sumbu vertikal (sempit di X, memanjang di Y)
-        bool vertical = Mathf.Abs(dashDir.y) > Mathf.Abs(dashDir.x);
-
-        transform.localScale = vertical
-            ? new Vector3(baseScale.x * dashSquashY, baseScale.y * dashSquashX, baseScale.z)
-            : new Vector3(baseScale.x * dashSquashX, baseScale.y * dashSquashY, baseScale.z);
-
-        if (dashSmoke != null)
-        {
-            // asap digambar untuk dash ke kanan (ekor di kiri):
-            // atas = putar +90, bawah = putar -90, kiri = cermin (Y 180)
-            float rotZ = vertical ? (dashDir.y > 0f ? 90f : -90f) : 0f;
-            float rotY = (!vertical && dashDir.x < 0f) ? 180f : 0f;
-            dashSmoke.transform.localRotation = Quaternion.Euler(0f, rotY, rotZ);
-
-            // posisi: selalu di belakang arah dash. Child tidak ikut flipX, jadi dihitung manual.
-            // samping = cerminkan X; atas/bawah = geser sejauh jarak "belakang" di sumbu Y
-            float behind = Mathf.Abs(dashSmokeOffset.x);
-            Vector3 pos = vertical
-                ? new Vector3(0f, dashDir.y > 0f ? -behind : behind, 0f)
-                : new Vector3(dashDir.x < 0f ? -dashSmokeOffset.x : dashSmokeOffset.x, dashSmokeOffset.y, 0f);
-            dashSmoke.transform.localPosition = pos;
-            dashSmoke.Play();
-        }
+        SpawnGhost(); // bayangan pertama di titik awal
     }
 
     void EndDash()
     {
         isDashing = false;
         dashReadyAt = Time.time + dashCooldown;
-        transform.localScale = baseScale;
-        if (dashSmoke != null) dashSmoke.Stop(); // partikel yang sudah keluar tetap memudar sendiri
+        // bayangan yang sudah ada tetap memudar sendiri di UpdateGhosts()
     }
 
     // [DASH CANCEL] putus serangan yang sedang berjalan sekarang juga
@@ -217,6 +217,67 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+    // ---------- bayangan dash ----------
+
+    void SpawnGhost()
+    {
+        SpriteRenderer g = ghostPool.Count > 0 ? ghostPool.Pop() : null;
+        if (g == null)
+        {
+            var go = new GameObject("DashGhost");
+            g = go.AddComponent<SpriteRenderer>();
+        }
+
+        g.sprite = sr.sprite;
+        g.flipX = sr.flipX;
+        g.sharedMaterial = sr.sharedMaterial;
+        g.sortingLayerID = sr.sortingLayerID;
+        g.sortingOrder = sr.sortingOrder - 1;   // tepat di belakang Player
+        g.color = ghostColor;
+
+        g.transform.SetPositionAndRotation(transform.position, transform.rotation);
+        g.transform.localScale = transform.lossyScale;
+        g.gameObject.SetActive(true);
+
+        activeGhosts.Add(new Ghost { sr = g, spawnTime = Time.time });
+        lastGhostPos = transform.position;
+    }
+
+    void UpdateGhosts()
+    {
+        float life = Mathf.Max(0.01f, ghostLifetime);
+        for (int i = activeGhosts.Count - 1; i >= 0; i--)
+        {
+            var gh = activeGhosts[i];
+            if (gh.sr == null) { activeGhosts.RemoveAt(i); continue; }
+
+            float t = (Time.time - gh.spawnTime) / life;
+            if (t >= 1f)
+            {
+                gh.sr.gameObject.SetActive(false);
+                ghostPool.Push(gh.sr);
+                activeGhosts.RemoveAt(i);
+                continue;
+            }
+
+            Color c = ghostColor;
+            c.a = Mathf.Lerp(ghostColor.a, 0f, t);
+            gh.sr.color = c;
+        }
+    }
+
+    void ClearGhosts()
+    {
+        for (int i = activeGhosts.Count - 1; i >= 0; i--)
+        {
+            var gh = activeGhosts[i];
+            if (gh.sr == null) continue;
+            gh.sr.gameObject.SetActive(false);
+            ghostPool.Push(gh.sr);
+        }
+        activeGhosts.Clear();
+    }
+
     // ---------- [DASHBTN] dibaca DashButton (tombol UI dash) ----------
 
     public float DashCooldown => dashCooldown;
@@ -238,6 +299,9 @@ public class PlayerController : MonoBehaviour
     {
         // Player sudah mati (PlayerHealth mematikan script ini), jangan serang
         if (!enabled) return;
+
+        // [PAUSE] serangan tidak boleh dianggap saat game di-pause
+        if (GamePause.IsPaused) return;
 
         // sedang dash
         if (isDashing) return;

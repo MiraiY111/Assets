@@ -11,9 +11,12 @@ using UnityEngine.UI;
 /// Tombol memakai PressSpriteButton untuk ganti sprite normal/pressed; script ini hanya menangani aksinya.
 /// BGM: AudioSource ada di scene Main Menu saja (tanpa DontDestroyOnLoad), jadi berhenti sendiri saat pindah scene.
 ///
-/// Play    : kalau ada save, memuat stage yang tersimpan (mengulang stage itu dari awal, dengan Level/EXP
-///           yang dimiliki sebelum masuk stage). Kalau tidak ada save, mulai dari Stage 1 dengan Level 0.
-/// NewGame : menghapus save dan mulai dari Stage 1. Belum dipasang ke tombol; beri dialog konfirmasi dulu.
+/// Play     : selalu mulai dari Stage 1 dengan Level 0. Save yang ada TIDAK dihapus (baru tertimpa kalau
+///            pemain menekan Save di menu pause), jadi salah tekan Play tidak menghilangkan save.
+/// Continue : memuat stage yang tersimpan (mengulang stage itu dari awal, dengan Level/EXP yang dimiliki
+///            sebelum masuk stage). Kalau belum ada save (atau datanya rusak / scene-nya tidak ada di
+///            Build Settings), tombol berwarna abu-abu dan tidak bisa diklik.
+/// NewGame  : menghapus save dan mulai dari Stage 1. Belum dipasang ke tombol; beri dialog konfirmasi dulu.
 ///
 /// Buka Setting : tombol (ButtonGroup) mundur sedikit ke kanan lalu meluncur halus ke kiri keluar layar,
 ///                panel Setting membesar dari skala 0. Selama panel terbuka, tombol kiri tidak bisa diklik.
@@ -38,6 +41,13 @@ public class MainMenu : MonoBehaviour
     [SerializeField] private float slideInTime = 0.5f;
     [Tooltip("Tambahan jarak di luar tepi kiri layar supaya tombol benar-benar tidak kelihatan.")]
     [SerializeField] private float offscreenMargin = 60f;
+
+    [Header("Continue")]
+    [Tooltip("Tombol Continue. Letakkan di DALAM Button Group supaya ikut meluncur saat Setting dibuka. " +
+             "Kosong = tombol Continue tidak diatur oleh script ini.")]
+    [SerializeField] private Button continueButton;
+    [Tooltip("Warna pengali saat Continue tidak tersedia (putih = tanpa perubahan, makin gelap = makin abu-abu).")]
+    [SerializeField] private Color disabledTint = new Color(0.45f, 0.45f, 0.45f, 1f);
 
     [Header("Panel")]
     [Tooltip("Panel Setting (dimatikan di awal). Pivot sebaiknya 0.5, 0.5 supaya membesar dari tengah. Kosong = tombol Setting belum melakukan apa-apa.")]
@@ -68,6 +78,9 @@ public class MainMenu : MonoBehaviour
     readonly Vector3[] cornersA = new Vector3[4];
     readonly Vector3[] cornersB = new Vector3[4];
 
+    Graphic[] continueGraphics;
+    Color[] continueOriginalColors;
+
     void Start()
     {
         Time.timeScale = 1f; // jaga-jaga kalau datang dari scene yang sempat di-pause
@@ -88,6 +101,44 @@ public class MainMenu : MonoBehaviour
 
         // volume awal; pengaturan volume di panel Setting diurus SettingsController
         AudioListener.volume = PlayerPrefs.GetFloat(VolumeKey, 1f);
+
+        RefreshContinue();
+    }
+
+    // ---------- tombol Continue ----------
+    /// <summary>True kalau ada save yang valid dan scene-nya ada di Build Settings.</summary>
+    bool CanContinue()
+    {
+        return SaveGameStore.TryLoad(out SaveData save) && Application.CanStreamedLevelBeLoaded(save.sceneName);
+    }
+
+    /// <summary>
+    /// Atur tampilan Continue: normal kalau ada save, abu-abu dan tidak bisa diklik kalau tidak.
+    /// Button.Transition = None (sprite diganti PressSpriteButton), jadi warna diatur langsung di semua gambar tombol.
+    /// </summary>
+    void RefreshContinue()
+    {
+        if (continueButton == null) return;
+
+        // simpan warna asli sekali, supaya bisa dikembalikan kalau save muncul lagi
+        if (continueGraphics == null)
+        {
+            continueGraphics = continueButton.GetComponentsInChildren<Graphic>(true);
+            continueOriginalColors = new Color[continueGraphics.Length];
+            for (int i = 0; i < continueGraphics.Length; i++)
+                continueOriginalColors[i] = continueGraphics[i].color;
+        }
+
+        bool available = CanContinue();
+        continueButton.interactable = available;
+
+        for (int i = 0; i < continueGraphics.Length; i++)
+        {
+            if (continueGraphics[i] == null) continue;
+            continueGraphics[i].color = available
+                ? continueOriginalColors[i]
+                : continueOriginalColors[i] * disabledTint;
+        }
     }
 
     static CanvasGroup GetOrAddGroup(GameObject go)
@@ -97,32 +148,33 @@ public class MainMenu : MonoBehaviour
     }
 
     // ---------- aksi tombol ----------
+    /// <summary>Run baru dari Stage 1, Level 0. Save yang ada dibiarkan (tidak dihapus).</summary>
     public void Play()
     {
         if (busy || settingsOpen) return;
-
-        string target;
-
-        if (SaveGameStore.TryLoad(out SaveData save) && Application.CanStreamedLevelBeLoaded(save.sceneName))
+        if (string.IsNullOrEmpty(gameSceneName))
         {
-            // lanjut dari save: stage tersimpan diulang dari awal dengan Level/EXP sebelum masuk stage itu
-            ExpSystem.LoadSnapshot(save.level, save.exp);
-            target = save.sceneName;
-        }
-        else
-        {
-            if (string.IsNullOrEmpty(gameSceneName))
-            {
-                Debug.LogWarning($"{name}: Game Scene Name kosong.");
-                return;
-            }
-
-            // tidak ada save (atau scene-nya tidak ada di Build Settings): run baru
-            ExpSystem.ResetRun();
-            target = gameSceneName;
+            Debug.LogWarning($"{name}: Game Scene Name kosong.");
+            return;
         }
 
-        StartCoroutine(PlayRoutine(target));
+        ExpSystem.ResetRun();
+        StartCoroutine(PlayRoutine(gameSceneName));
+    }
+
+    /// <summary>Lanjut dari save: stage tersimpan diulang dari awal dengan Level/EXP sebelum masuk stage itu.</summary>
+    public void ContinueGame()
+    {
+        if (busy || settingsOpen) return;
+
+        if (!SaveGameStore.TryLoad(out SaveData save) || !Application.CanStreamedLevelBeLoaded(save.sceneName))
+        {
+            RefreshContinue();   // save hilang atau rusak sejak menu dibuka: tombol kembali abu-abu
+            return;
+        }
+
+        ExpSystem.LoadSnapshot(save.level, save.exp);
+        StartCoroutine(PlayRoutine(save.sceneName));
     }
 
     /// <summary>Hapus save dan mulai dari Stage 1. Pasang ke tombol hanya setelah ada dialog konfirmasi.</summary>

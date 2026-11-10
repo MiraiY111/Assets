@@ -3959,9 +3959,9 @@ RectTransform:
   - {fileID: 1503756450}
   m_Father: {fileID: 1026370123}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: -527.2, y: 392}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: -577.2, y: 524}
   m_SizeDelta: {x: 96, y: 6.0999985}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &782429475
@@ -8277,9 +8277,9 @@ RectTransform:
   - {fileID: 1870531351}
   m_Father: {fileID: 1552714011}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0}
-  m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: -130, y: 372}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 915, y: -706}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.1, y: 0.1}
 --- !u!225 &1026370124
@@ -11046,7 +11046,7 @@ RectTransform:
   m_GameObject: {fileID: 1310280676}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 6.8900003, y: 6.8900003, z: 1.378}
+  m_LocalScale: {x: 5.88, y: 5.88, z: 5.88}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 1494110738}
@@ -11054,7 +11054,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 132, y: -115}
+  m_AnchoredPosition: {x: 141.5, y: -151}
   m_SizeDelta: {x: 120, y: 16}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1310280678
@@ -20017,7 +20017,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -165, y: -159}
+  m_AnchoredPosition: {x: -172, y: -159}
   m_SizeDelta: {x: 331, y: 321}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &2072597387
@@ -20055,7 +20055,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
   m_AnchoredPosition: {x: 0, y: -391}
-  m_SizeDelta: {x: 265.4, y: 50}
+  m_SizeDelta: {x: 542.8, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2072597389
 MonoBehaviour:
@@ -20079,8 +20079,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Progress saved
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: b5363d02abbe1e84c90073bdccf35340, type: 2}
+  m_sharedMaterial: {fileID: -187907324958101265, guid: b5363d02abbe1e84c90073bdccf35340, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

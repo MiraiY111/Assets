@@ -5179,9 +5179,9 @@ RectTransform:
   - {fileID: 1051400542}
   m_Father: {fileID: 1047984076}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: -527, y: 476}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: -577, y: 576}
   m_SizeDelta: {x: 96, y: 12}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &518930858
@@ -6755,6 +6755,7 @@ GameObject:
   - component: {fileID: 805568632}
   - component: {fileID: 805568631}
   - component: {fileID: 805568630}
+  - component: {fileID: 805568633}
   m_Layer: 5
   m_Name: EXPBar
   m_TagString: Untagged
@@ -6777,9 +6778,9 @@ RectTransform:
   - {fileID: 1639753820}
   m_Father: {fileID: 1047984076}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: -527.2, y: 392}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: -577.2, y: 524}
   m_SizeDelta: {x: 96, y: 6.0999985}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &805568630
@@ -6847,6 +6848,22 @@ MonoBehaviour:
   flash: 0
   low: 0
   ghost: -1
+--- !u!114 &805568633
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 805568628}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 155bb5cae85bcdd4c9c9f50fbbe3f88e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CustomizableUI
+  id: EXP
+  allowScale: 1
+  showWhileEditing: 0
+  disableWhileEditing: []
 --- !u!1 &808661960
 GameObject:
   m_ObjectHideFlags: 0
@@ -7738,7 +7755,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -165, y: -159}
+  m_AnchoredPosition: {x: -172, y: -159}
   m_SizeDelta: {x: 331, y: 321}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &889148054
@@ -9808,7 +9825,7 @@ RectTransform:
   m_GameObject: {fileID: 982286001}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 6.8900003, y: 6.8900003, z: 1.378}
+  m_LocalScale: {x: 5.88, y: 5.88, z: 5.88}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 1443075803}
@@ -9816,7 +9833,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 132, y: -115}
+  m_AnchoredPosition: {x: 141.5, y: -151}
   m_SizeDelta: {x: 120, y: 16}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1023876770
@@ -10439,9 +10456,9 @@ RectTransform:
   - {fileID: 518930857}
   m_Father: {fileID: 1337882939}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0}
-  m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: -130, y: 372}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 915, y: -706}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.1, y: 0.1}
 --- !u!225 &1047984077
@@ -19911,8 +19928,8 @@ MonoBehaviour:
   resetButton: {fileID: 661822125}
   doneButton: {fileID: 744992697}
   hideWhileEditing:
-  - {fileID: 798536999}
-  - {fileID: 949511085}
+  - {fileID: 163329184}
+  - {fileID: 1339428713}
   hudPreview: {fileID: 1337882935}
   showStrokeOnAll: 1
   selectedColor: {r: 1, g: 0.85, b: 0.2, a: 1}
