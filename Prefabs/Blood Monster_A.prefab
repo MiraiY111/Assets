@@ -17,6 +17,7 @@ GameObject:
   - component: {fileID: 8356526180853860987}
   - component: {fileID: 7971975374663520568}
   - component: {fileID: 2121247093569906489}
+  - component: {fileID: 8221204508102497717}
   m_Layer: 3
   m_Name: Blood Monster_A
   m_TagString: Enemy
@@ -301,3 +302,16 @@ MonoBehaviour:
   sortingLayerName: WorldUI
   sortingOrder: 1
   debugLog: 0
+--- !u!114 &8221204508102497717
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8703574896654212139}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dfcbc4090b943d4a86d156580f7863d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyExpReward
+  exp: 4

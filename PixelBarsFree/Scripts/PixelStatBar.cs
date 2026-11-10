@@ -53,6 +53,8 @@ namespace HeyHeyThere.PixelBarsFree
         public bool flash = true;
         [Tooltip("The fill pulses at or below this share of the bar (0: never)"), Range(0, 1)]
         public float low;
+        [Tooltip("[EXP] Nilai tujuan yang digambar pucat di depan isi bar (dipakai ExpBarUI). -1 = mati.")]
+        public float ghost = -1f;
 
         static readonly Dictionary<string, Sprite> loaded = new Dictionary<string, Sprite>();
         readonly List<GameObject> parts = new List<GameObject>();
@@ -151,7 +153,13 @@ namespace HeyHeyThere.PixelBarsFree
             trailValue = Mathf.Max(trailValue, value);
             flashLeft = Mathf.Max(0f, flashLeft - dt / FlashTime);
             float pulse = low > 0f && Ratio <= low && Ratio > 0f ? 0.5f + 0.5f * Mathf.Sin(clock * Mathf.PI * 3f) : 0f;
-            Lay(Ratio, TrailRatio);
+
+            // [EXP] area pucat di depan isi bar: EXP yang baru didapat, sebelum isi bar menyusul
+            float trailShare = TrailRatio;
+            if (ghost > value && maxValue > 0f)
+                trailShare = Mathf.Max(trailShare, Mathf.Clamp01(ghost / maxValue));
+            Lay(Ratio, trailShare);
+
             flashImage.color = new Color(1f, 1f, 1f, Mathf.Clamp01(0.7f * flashLeft + 0.3f * pulse));
             trailImage.color = trailColor;
         }

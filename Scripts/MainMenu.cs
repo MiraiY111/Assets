@@ -11,6 +11,10 @@ using UnityEngine.UI;
 /// Tombol memakai PressSpriteButton untuk ganti sprite normal/pressed; script ini hanya menangani aksinya.
 /// BGM: AudioSource ada di scene Main Menu saja (tanpa DontDestroyOnLoad), jadi berhenti sendiri saat pindah scene.
 ///
+/// Play    : kalau ada save, memuat stage yang tersimpan (mengulang stage itu dari awal, dengan Level/EXP
+///           yang dimiliki sebelum masuk stage). Kalau tidak ada save, mulai dari Stage 1 dengan Level 0.
+/// NewGame : menghapus save dan mulai dari Stage 1. Belum dipasang ke tombol; beri dialog konfirmasi dulu.
+///
 /// Buka Setting : tombol (ButtonGroup) mundur sedikit ke kanan lalu meluncur halus ke kiri keluar layar,
 ///                panel Setting membesar dari skala 0. Selama panel terbuka, tombol kiri tidak bisa diklik.
 /// Tutup Setting: panel mengecil sampai hilang, tombol meluncur masuk halus dari kiri.
@@ -96,16 +100,48 @@ public class MainMenu : MonoBehaviour
     public void Play()
     {
         if (busy || settingsOpen) return;
+
+        string target;
+
+        if (SaveGameStore.TryLoad(out SaveData save) && Application.CanStreamedLevelBeLoaded(save.sceneName))
+        {
+            // lanjut dari save: stage tersimpan diulang dari awal dengan Level/EXP sebelum masuk stage itu
+            ExpSystem.LoadSnapshot(save.level, save.exp);
+            target = save.sceneName;
+        }
+        else
+        {
+            if (string.IsNullOrEmpty(gameSceneName))
+            {
+                Debug.LogWarning($"{name}: Game Scene Name kosong.");
+                return;
+            }
+
+            // tidak ada save (atau scene-nya tidak ada di Build Settings): run baru
+            ExpSystem.ResetRun();
+            target = gameSceneName;
+        }
+
+        StartCoroutine(PlayRoutine(target));
+    }
+
+    /// <summary>Hapus save dan mulai dari Stage 1. Pasang ke tombol hanya setelah ada dialog konfirmasi.</summary>
+    public void NewGame()
+    {
+        if (busy || settingsOpen) return;
         if (string.IsNullOrEmpty(gameSceneName))
         {
             Debug.LogWarning($"{name}: Game Scene Name kosong.");
             return;
         }
-        StartCoroutine(PlayRoutine());
+
+        SaveGameStore.Delete();
+        ExpSystem.ResetRun();
+        StartCoroutine(PlayRoutine(gameSceneName));
     }
 
     // jeda klik, musik memudar, baru pindah scene
-    IEnumerator PlayRoutine()
+    IEnumerator PlayRoutine(string sceneName)
     {
         busy = true;
         if (clickDelay > 0f) yield return new WaitForSecondsRealtime(clickDelay);
@@ -122,7 +158,7 @@ public class MainMenu : MonoBehaviour
             }
         }
 
-        SceneManager.LoadScene(gameSceneName);
+        SceneManager.LoadScene(sceneName);
     }
 
     public void Quit()

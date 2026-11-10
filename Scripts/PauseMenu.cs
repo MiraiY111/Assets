@@ -16,12 +16,13 @@ public static class GamePause
 ///
 /// Susunan yang diharapkan:
 ///   PausePanel (nonaktif di awal)  = gambar peredup selayar penuh (Raycast Target aktif, menahan klik ke HUD)
-///       PauseButtons               = objek induk, berisi tombol Resume / Settings / Main Menu
+///       PauseButtons               = objek induk, berisi tombol Resume / Save / Settings / Main Menu
 ///   SettingsPanel (nonaktif di awal) = panel Setting (volume, Close)
-/// Letakkan ketiga tombol di posisi AKHIR (di tengah) saat edit; animasi mulai dari luar layar lalu berhenti di sana.
+/// Letakkan semua tombol di posisi AKHIR (di tengah) saat edit; animasi mulai dari luar layar lalu berhenti di sana.
 /// JANGAN pakai Layout Group / Content Size Fitter pada PauseButtons: posisi tombol akan ditimpa dan animasi rusak.
 ///
 /// Pause   : tombol turun dari atas ke tengah, satu per satu.
+/// Save    : menyimpan titik awal stage ini (SaveGameStore). Pemain mengulang stage dari awal saat memuat.
 /// Settings: panel Setting membesar dari skala 0; tombol mundur sedikit ke kanan lalu meluncur ke kiri keluar layar,
 ///           bergantian dari atas ke bawah (jeda Stagger Delay).
 /// Close   : panel mengecil; tombol meluncur masuk dari kiri, bergantian dari atas ke bawah.
@@ -31,11 +32,17 @@ public class PauseMenu : MonoBehaviour
 {
     [Header("Panel")]
     [SerializeField] private GameObject pausePanel;
-    [Tooltip("Objek induk ketiga tombol. Dipakai untuk menahan klik selama animasi.")]
+    [Tooltip("Objek induk semua tombol. Dipakai untuk menahan klik selama animasi.")]
     [SerializeField] private GameObject pauseButtons;
-    [Tooltip("Urut dari atas ke bawah: Resume, Settings, Main Menu.")]
+    [Tooltip("Urut dari atas ke bawah: Resume, Save, Settings, Main Menu.")]
     [SerializeField] private RectTransform[] buttons;
     [SerializeField] private GameObject settingsPanel;
+
+    [Header("Save")]
+    [Tooltip("Opsional: objek teks/gambar 'Progress saved' (nonaktif di awal) yang tampil sebentar setelah Save.")]
+    [SerializeField] private GameObject saveToast;
+    [Tooltip("Lama pesan Saved tampil (detik).")]
+    [SerializeField] private float saveToastTime = 1.5f;
 
     [Header("Animasi tombol")]
     [Tooltip("Lama tiap tombol turun dari atas saat Pause (detik).")]
@@ -83,6 +90,7 @@ public class PauseMenu : MonoBehaviour
     bool paused;
     bool settingsOpen;
     bool busy;
+    Coroutine toastRoutine;
 
     RectTransform panelRect;
     CanvasGroup panelGroup;
@@ -118,6 +126,7 @@ public class PauseMenu : MonoBehaviour
             settingsPanel.SetActive(false);
         }
 
+        if (saveToast != null) saveToast.SetActive(false);
         if (pausePanel != null) pausePanel.SetActive(false);
 
     }
@@ -135,6 +144,10 @@ public class PauseMenu : MonoBehaviour
 
     void Update()
     {
+        // game di-pause (Time.timeScale = 0): Update tetap jalan, jadi input harus diabaikan di sini
+        if (GamePause.IsPaused) return;
+
+        // tes di editor
         if (!backKeyTogglesPause || !Input.GetKeyDown(KeyCode.Escape)) return;
         if (busy) return;
         if (customize != null && customize.IsOpen) return;
@@ -183,6 +196,25 @@ public class PauseMenu : MonoBehaviour
         StartCoroutine(ResumeRoutine());
     }
 
+    /// <summary>
+    /// Tombol Save. Menyimpan titik awal stage ini (scene + Level/EXP sebelum masuk stage).
+    /// Memuat save = mengulang stage ini dari awal, bukan melanjutkan di tengah stage.
+    /// </summary>
+    public void SaveGame()
+    {
+        if (!paused || busy || settingsOpen || !CanPause()) return;
+
+        SaveGameStore.Save(SceneManager.GetActiveScene().name);
+        Debug.Log($"[PauseMenu] Save: scene {SceneManager.GetActiveScene().name}, " +
+                  $"Level {ExpSystem.SnapshotLevel}, EXP {ExpSystem.SnapshotExp}");
+
+        if (saveToast != null)
+        {
+            if (toastRoutine != null) StopCoroutine(toastRoutine);
+            toastRoutine = StartCoroutine(ToastRoutine());
+        }
+    }
+
     public void OpenSettings()
     {
         if (!paused || busy || settingsOpen || settingsPanel == null) return;
@@ -207,11 +239,20 @@ public class PauseMenu : MonoBehaviour
     }
 
     // ---------- urutan ----------
+    IEnumerator ToastRoutine()
+    {
+        saveToast.SetActive(true);
+        yield return new WaitForSecondsRealtime(saveToastTime);
+        saveToast.SetActive(false);
+        toastRoutine = null;
+    }
+
     IEnumerator EnterRoutine()
     {
         busy = true;
 
         if (settingsPanel != null) settingsPanel.SetActive(false);
+        if (saveToast != null) saveToast.SetActive(false);
         pausePanel.SetActive(true);
         SetInteractable(buttonsGroup, false);
 
