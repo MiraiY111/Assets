@@ -11103,8 +11103,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -14}
-  m_SizeDelta: {x: 2214, y: 1371.7}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 2214, y: 1245.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &988939883
 MonoBehaviour:
@@ -11126,7 +11126,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: -4376064403044963457, guid: f601b3801e516564db4a986181fb369a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -14790,6 +14790,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::MainMenu
   gameSceneName: Stage1
   buttonGroup: {fileID: 1849600282}
+  slideOrder: []
+  staggerDelay: 0.06
+  rowTolerance: 30
   anticipationDistance: 40
   anticipationTime: 0.15
   slideOutTime: 0.45

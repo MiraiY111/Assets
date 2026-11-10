@@ -108,6 +108,11 @@ public class BossAttackController : MonoBehaviour
     [Tooltip("Warna boss selama windup, sebagai tanda peringatan. Putih = tanpa tanda.")]
     [SerializeField] private Color windupTint = new Color(1f, 0.7f, 0.7f, 1f);
 
+    [Header("Indikator serangan")]
+    [Tooltip("Area merah di tanah yang menunjukkan area damage sebelum serangan kena. " +
+             "Kosong = dicari otomatis di objek ini; tidak ada komponen BossAttackTelegraph = tanpa indikator.")]
+    [SerializeField] private BossAttackTelegraph telegraph;
+
     [Header("Debug")]
     [SerializeField] private bool debugLog = true;
 
@@ -132,6 +137,7 @@ public class BossAttackController : MonoBehaviour
         health = GetComponent<EnemyHealth>();
         rb = GetComponent<Rigidbody2D>();
         if (sr != null) baseColor = sr.color;
+        if (telegraph == null) telegraph = GetComponent<BossAttackTelegraph>();
 
         attack1.length = ClipLength(attack1.clipName, attack1.clipLengthFallback);
         attack2.length = ClipLength(attack2.clipName, attack2.clipLengthFallback);
@@ -251,6 +257,10 @@ public class BossAttackController : MonoBehaviour
         moveDir = Vector2.zero;
         SetWalking(false);
 
+        // indikator: area yang sama dengan yang dipakai untuk menghitung damage (rangeSize x hitScale)
+        if (telegraph != null)
+            telegraph.Begin(() => Center(a, FacingLeft), a.rangeSize * hitScale, a.windupTime + a.length * a.hitPoint);
+
         // ---- windup: diam dulu, belum menyerang ----
         if (a.windupTime > 0f)
         {
@@ -268,7 +278,12 @@ public class BossAttackController : MonoBehaviour
             if (sr != null && !(health != null && health.IsDead)) sr.color = baseColor;
         }
 
-        if (health != null && health.IsDead) { isAttacking = false; yield break; }
+        if (health != null && health.IsDead)
+        {
+            if (telegraph != null) telegraph.Cancel();
+            isAttacking = false;
+            yield break;
+        }
 
         // ---- serangan sebenarnya ----
         if (anim != null) anim.SetTrigger(a.triggerName);
@@ -287,6 +302,12 @@ public class BossAttackController : MonoBehaviour
             Debug.Log($"[BOSS] {a.triggerName} CEK HIT | nilaiElips={v1:F2} (harus <=1) inRange={inRange} damage={a.damage}");
 
         if (alive && inRange) ApplyHit(a);
+
+        if (telegraph != null)
+        {
+            if (alive) telegraph.Hit();
+            else telegraph.Cancel();
+        }
 
         yield return new WaitForSeconds(a.length * (1f - a.hitPoint));
 

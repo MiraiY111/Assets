@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -18,9 +19,10 @@ using UnityEngine.UI;
 ///            Build Settings), tombol berwarna abu-abu dan tidak bisa diklik.
 /// NewGame  : menghapus save dan mulai dari Stage 1. Belum dipasang ke tombol; beri dialog konfirmasi dulu.
 ///
-/// Buka Setting : tombol (ButtonGroup) mundur sedikit ke kanan lalu meluncur halus ke kiri keluar layar,
-///                panel Setting membesar dari skala 0. Selama panel terbuka, tombol kiri tidak bisa diklik.
-/// Tutup Setting: panel mengecil sampai hilang, tombol meluncur masuk halus dari kiri.
+/// Buka Setting : tiap tombol di dalam ButtonGroup mundur sedikit ke kanan lalu meluncur halus ke kiri keluar layar,
+///                BERGANTIAN dari atas ke bawah (jeda Stagger Delay), sementara panel Setting membesar dari skala 0.
+///                Selama panel terbuka, tombol kiri tidak bisa diklik.
+/// Tutup Setting: panel mengecil sampai hilang, tombol meluncur masuk halus dari kiri, juga bergantian.
 /// Semua animasi memakai waktu unscaled, jadi tetap jalan walau Time.timeScale = 0.
 /// </summary>
 public class MainMenu : MonoBehaviour
@@ -32,8 +34,16 @@ public class MainMenu : MonoBehaviour
     [SerializeField] private string gameSceneName = "Stage1";
 
     [Header("Tombol kiri (Play, Setting, Exit)")]
-    [Tooltip("Objek induk yang berisi 3 tombol. Ukuran (Rect) objek ini harus membungkus semua tombol.")]
+    [Tooltip("Objek induk semua tombol kiri (Play, Continue, Setting, Exit). Tiap anak langsungnya yang aktif meluncur sendiri-sendiri. " +
+             "Ukuran (Rect) objek ini tidak berpengaruh pada jarak luncur.")]
     [SerializeField] private RectTransform buttonGroup;
+    [Tooltip("Opsional: urutan tombol meluncur, dari yang pertama ke yang terakhir. " +
+             "Kosong = otomatis dari atas ke bawah, dan kiri ke kanan kalau satu baris (mis. Play lalu Continue).")]
+    [SerializeField] private RectTransform[] slideOrder;
+    [Tooltip("Jeda antar tombol saat meluncur (detik). 0.06 = 60 milidetik. 0 = semua bersamaan.")]
+    [SerializeField] private float staggerDelay = 0.06f;
+    [Tooltip("Dua tombol dengan selisih tinggi di bawah angka ini dianggap satu baris (satuan Canvas).")]
+    [SerializeField] private float rowTolerance = 30f;
     [Tooltip("Mundur sedikit ke kanan sebelum meluncur ke kiri (satuan Canvas).")]
     [SerializeField] private float anticipationDistance = 40f;
     [SerializeField] private float anticipationTime = 0.15f;
@@ -73,8 +83,11 @@ public class MainMenu : MonoBehaviour
     RectTransform panelRect;
     CanvasGroup panelGroup;
     CanvasGroup buttonsCanvasGroup;
-    Vector2 shownPos;
-    float hiddenOffset = -1f;
+    // tombol yang meluncur: posisi akhir (tampil) dan jarak ke luar layar dicatat sekali, saat pertama dipakai
+    RectTransform[] slideButtons;
+    Vector2[] shownPos;
+    float[] hiddenOffset;
+    bool slideReady;
     readonly Vector3[] cornersA = new Vector3[4];
     readonly Vector3[] cornersB = new Vector3[4];
 
@@ -86,10 +99,7 @@ public class MainMenu : MonoBehaviour
         Time.timeScale = 1f; // jaga-jaga kalau datang dari scene yang sempat di-pause
 
         if (buttonGroup != null)
-        {
-            shownPos = buttonGroup.anchoredPosition;
             buttonsCanvasGroup = GetOrAddGroup(buttonGroup.gameObject);
-        }
 
         if (settingsPanel != null)
         {
@@ -296,35 +306,128 @@ public class MainMenu : MonoBehaviour
     // ---------- animasi ----------
     IEnumerator ButtonsOut()
     {
-        if (hiddenOffset < 0f) hiddenOffset = ComputeHiddenOffset();
-
-        Vector2 shown = shownPos;
-        Vector2 back = shown + Vector2.right * anticipationDistance;
-        Vector2 hidden = shown + Vector2.left * hiddenOffset;
-
-        // 1) mundur sedikit ke kanan
-        yield return Tween(anticipationTime, t =>
-            buttonGroup.anchoredPosition = Vector2.LerpUnclamped(shown, back, EaseOutQuad(t)));
-
-        // 2) meluncur halus ke kiri sampai keluar layar (mulai pelan, makin cepat)
-        yield return Tween(slideOutTime, t =>
-            buttonGroup.anchoredPosition = Vector2.LerpUnclamped(back, hidden, EaseInCubic(t)));
-
-        buttonGroup.anchoredPosition = hidden;
+        EnsureSlideSetup();
+        yield return StartCoroutine(Staggered(SlideOutOne));
     }
 
     IEnumerator ButtonsIn()
     {
-        if (hiddenOffset < 0f) hiddenOffset = ComputeHiddenOffset();
+        EnsureSlideSetup();
+        yield return StartCoroutine(Staggered(SlideInOne));
+    }
 
-        Vector2 hidden = shownPos + Vector2.left * hiddenOffset;
-        Vector2 shown = shownPos;
+    // Menjalankan 'make' untuk tiap tombol dengan jeda i * staggerDelay (urut dari yang pertama),
+    // lalu menunggu semuanya selesai.
+    IEnumerator Staggered(Func<int, IEnumerator> make)
+    {
+        int pending = 0;
+        for (int k = 0; k < slideButtons.Length; k++)
+        {
+            int i = k;
+            if (slideButtons[i] == null) continue;
+            pending++;
+            StartCoroutine(RunDelayed(i, make, () => pending--));
+        }
+        while (pending > 0) yield return null;
+    }
+
+    IEnumerator RunDelayed(int i, Func<int, IEnumerator> make, Action done)
+    {
+        float delay = i * Mathf.Max(0f, staggerDelay);
+        if (delay > 0f) yield return new WaitForSecondsRealtime(delay);
+        yield return StartCoroutine(make(i));
+        done();
+    }
+
+    IEnumerator SlideOutOne(int i)
+    {
+        RectTransform rt = slideButtons[i];
+        Vector2 shown = shownPos[i];
+        Vector2 back = shown + Vector2.right * anticipationDistance;
+        Vector2 hidden = shown + Vector2.left * hiddenOffset[i];
+
+        // 1) mundur sedikit ke kanan
+        yield return Tween(anticipationTime, t =>
+            rt.anchoredPosition = Vector2.LerpUnclamped(shown, back, EaseOutQuad(t)));
+
+        // 2) meluncur halus ke kiri sampai keluar layar (mulai pelan, makin cepat)
+        yield return Tween(slideOutTime, t =>
+            rt.anchoredPosition = Vector2.LerpUnclamped(back, hidden, EaseInCubic(t)));
+
+        rt.anchoredPosition = hidden;
+    }
+
+    IEnumerator SlideInOne(int i)
+    {
+        RectTransform rt = slideButtons[i];
+        Vector2 shown = shownPos[i];
+        Vector2 hidden = shown + Vector2.left * hiddenOffset[i];
 
         // masuk dari kiri, cepat di awal lalu melambat halus di posisi akhir
         yield return Tween(slideInTime, t =>
-            buttonGroup.anchoredPosition = Vector2.LerpUnclamped(hidden, shown, EaseOutCubic(t)));
+            rt.anchoredPosition = Vector2.LerpUnclamped(hidden, shown, EaseOutCubic(t)));
 
-        buttonGroup.anchoredPosition = shown;
+        rt.anchoredPosition = shown;
+    }
+
+    // Dipanggil sekali, saat semua tombol masih di posisi tampil: kumpulkan tombol, urutkan,
+    // catat posisi tampil, dan hitung jarak tiap tombol ke luar layar.
+    void EnsureSlideSetup()
+    {
+        if (slideReady) return;
+        slideReady = true;
+
+        slideButtons = BuildSlideList();
+        shownPos = new Vector2[slideButtons.Length];
+        hiddenOffset = new float[slideButtons.Length];
+
+        Canvas canvas = buttonGroup.GetComponentInParent<Canvas>();
+        canvas = canvas != null ? canvas.rootCanvas : null;
+        if (canvas != null) ((RectTransform)canvas.transform).GetWorldCorners(cornersA);   // [0] = kiri bawah canvas
+        float scale = canvas != null ? Mathf.Max(0.0001f, canvas.transform.lossyScale.x) : 1f;
+
+        for (int i = 0; i < slideButtons.Length; i++)
+        {
+            if (slideButtons[i] == null) continue;
+            shownPos[i] = slideButtons[i].anchoredPosition;
+
+            // jarak (satuan Canvas) sampai tepi KANAN tombol ini melewati tepi KIRI layar, ditambah margin
+            if (canvas != null)
+            {
+                slideButtons[i].GetWorldCorners(cornersB);                                  // [2] = kanan atas tombol
+                hiddenOffset[i] = Mathf.Max(0f, (cornersB[2].x - cornersA[0].x) / scale) + offscreenMargin;
+            }
+            else hiddenOffset[i] = 1200f;
+        }
+    }
+
+    // Urutan tombol: pakai Slide Order kalau diisi. Kalau kosong, semua anak langsung ButtonGroup yang aktif,
+    // dari atas ke bawah; tombol yang satu baris (selisih tinggi <= Row Tolerance) dari kiri ke kanan.
+    RectTransform[] BuildSlideList()
+    {
+        if (slideOrder != null && slideOrder.Length > 0) return slideOrder;
+
+        var list = new List<RectTransform>();
+        foreach (Transform child in buttonGroup)
+            if (child.gameObject.activeSelf && child is RectTransform rt) list.Add(rt);
+
+        list.Sort((a, b) => b.localPosition.y.CompareTo(a.localPosition.y));   // atas dulu
+
+        var result = new List<RectTransform>();
+        int idx = 0;
+        while (idx < list.Count)
+        {
+            float rowY = list[idx].localPosition.y;
+            var row = new List<RectTransform>();
+            while (idx < list.Count && Mathf.Abs(list[idx].localPosition.y - rowY) <= rowTolerance)
+            {
+                row.Add(list[idx]);
+                idx++;
+            }
+            row.Sort((a, b) => a.localPosition.x.CompareTo(b.localPosition.x));  // kiri dulu
+            result.AddRange(row);
+        }
+        return result.ToArray();
     }
 
     IEnumerator PanelScale(bool opening)
@@ -341,21 +444,6 @@ public class MainMenu : MonoBehaviour
                 panelRect.localScale = Vector3.one * (1f - EaseInCubic(t)));
             panelRect.localScale = Vector3.zero;
         }
-    }
-
-    // Jarak (satuan Canvas) yang dibutuhkan supaya tepi KANAN ButtonGroup melewati tepi KIRI layar.
-    float ComputeHiddenOffset()
-    {
-        Canvas canvas = buttonGroup.GetComponentInParent<Canvas>();
-        if (canvas == null) return 1200f;
-        canvas = canvas.rootCanvas;
-
-        ((RectTransform)canvas.transform).GetWorldCorners(cornersA);   // [0] = kiri bawah canvas
-        buttonGroup.GetWorldCorners(cornersB);                         // [2] = kanan atas group
-
-        float worldDist = cornersB[2].x - cornersA[0].x;
-        float scale = Mathf.Max(0.0001f, canvas.transform.lossyScale.x);
-        return Mathf.Max(0f, worldDist / scale) + offscreenMargin;
     }
 
     static IEnumerator Tween(float duration, Action<float> apply)

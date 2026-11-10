@@ -18990,6 +18990,7 @@ GameObject:
   - component: {fileID: 1892304201}
   - component: {fileID: 1892304203}
   - component: {fileID: 1892304204}
+  - component: {fileID: 1892304205}
   m_Layer: 10
   m_Name: Sheet(miniboss)
   m_TagString: Enemy
@@ -19312,6 +19313,7 @@ MonoBehaviour:
   faceTarget: 1
   spriteFacesLeft: 0
   windupTint: {r: 1, g: 0.7, b: 0.7, a: 1}
+  telegraph: {fileID: 0}
   debugLog: 1
 --- !u!114 &1892304204
 MonoBehaviour:
@@ -19326,6 +19328,28 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyExpReward
   exp: 30
+--- !u!114 &1892304205
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1892304192}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72550bcfcf0141341a4d79cea732874a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BossAttackTelegraph
+  outlineColor: {r: 1, g: 0.2, b: 0.15, a: 0.95}
+  areaColor: {r: 1, g: 0.1, b: 0.1, a: 0.15}
+  fillColor: {r: 1, g: 0.2, b: 0.15, a: 0.4}
+  hitColor: {r: 1, g: 0.95, b: 0.85, a: 0.9}
+  pixelsPerUnit: 32
+  outlineThickness: 2
+  fadeInTime: 0.12
+  hitFlashTime: 0.15
+  blinkLastSeconds: 0.25
+  sortingOffset: -2
 --- !u!1 &1917658361
 GameObject:
   m_ObjectHideFlags: 0
