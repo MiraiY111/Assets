@@ -48,6 +48,7 @@ public class ExpSystem : MonoBehaviour
         Instance = this;
         Level = savedLevel;
         CurrentExp = savedExp;
+        PlayerUpgrades.BeginStage();   // kemampuan (Dash) kembali ke keadaan awal stage ini
     }
 
     void Start()
@@ -67,6 +68,7 @@ public class ExpSystem : MonoBehaviour
     {
         savedLevel = 0;
         savedExp = 0;
+        PlayerUpgrades.ResetRun();
     }
 
     /// <summary>Pasang Level/EXP dari save, dipanggil sebelum scene stage dimuat.</summary>
@@ -74,6 +76,7 @@ public class ExpSystem : MonoBehaviour
     {
         savedLevel = Mathf.Max(0, level);
         savedExp = Mathf.Max(0, exp);
+        PlayerUpgrades.LoadFromLevel(savedLevel);
     }
 
     /// <summary>Kunci level/EXP sekarang sebagai titik awal stage berikutnya.</summary>
@@ -81,6 +84,7 @@ public class ExpSystem : MonoBehaviour
     {
         savedLevel = Level;
         savedExp = CurrentExp;
+        PlayerUpgrades.Commit();
     }
 
     /// <summary>EXP yang dibutuhkan untuk naik dari 'level' ke level berikutnya.</summary>

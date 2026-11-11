@@ -162,6 +162,9 @@ public class PlayerController : MonoBehaviour
         // Player sudah mati / dimatikan
         if (!enabled) return;
 
+        // [DASH UNLOCK] Dash baru bisa dipakai setelah kartu Dash dipilih (Level 1)
+        if (!PlayerUpgrades.DashUnlocked) return;
+
         // [PAUSE] tombol Dash di HUD tidak boleh dianggap saat game di-pause
         if (GamePause.IsPaused) return;
 
