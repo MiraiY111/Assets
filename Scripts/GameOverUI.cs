@@ -7,6 +7,7 @@ using UnityEngine.SceneManagement;
 /// Layar Defeated saat Player mati.
 /// Pasang di objek yang SELALU aktif (mis. Canvas atau objek kosong GameOverManager), bukan di panelnya sendiri,
 /// karena panel dimatikan sampai Player mati.
+/// Saat Player mati: save dihapus (SaveGameStore.Delete), jadi Continue di Main Menu abu-abu.
 /// Restart  : memuat ulang stage (kosong = scene yang sedang aktif, sekarang stage 1).
 /// Main Menu: sementara hanya bisa diklik tanpa efek; isi Main Menu Scene Name nanti kalau menu sudah dibuat.
 /// </summary>
@@ -65,6 +66,7 @@ public class GameOverUI : MonoBehaviour
     {
         if (shown) return;
         shown = true;
+        SaveGameStore.Delete();   // mati = semua save hilang, tombol Continue di Main Menu jadi abu-abu
         if (spawner != null) spawner.StopWaves();
         StartCoroutine(ShowRoutine());
     }

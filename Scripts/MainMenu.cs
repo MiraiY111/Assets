@@ -169,6 +169,7 @@ public class MainMenu : MonoBehaviour
         }
 
         ExpSystem.ResetRun();
+        CoinSystem.ResetRun();
         StartCoroutine(PlayRoutine(gameSceneName));
     }
 
@@ -184,6 +185,7 @@ public class MainMenu : MonoBehaviour
         }
 
         ExpSystem.LoadSnapshot(save.level, save.exp);
+        CoinSystem.LoadSnapshot(save.coins);
         StartCoroutine(PlayRoutine(save.sceneName));
     }
 
@@ -199,6 +201,7 @@ public class MainMenu : MonoBehaviour
 
         SaveGameStore.Delete();
         ExpSystem.ResetRun();
+        CoinSystem.ResetRun();
         StartCoroutine(PlayRoutine(gameSceneName));
     }
 

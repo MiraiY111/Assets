@@ -17,6 +17,7 @@ public class SaveData
     public string sceneName;
     public int level;
     public int exp;
+    public int coins;
     // Nanti: public int coins; public string[] inventory; dst. (nilai awal stage, bukan nilai saat menekan Save)
 }
 
@@ -33,7 +34,8 @@ public static class SaveGameStore
         {
             sceneName = sceneName,
             level = ExpSystem.SnapshotLevel,
-            exp = ExpSystem.SnapshotExp
+            exp = ExpSystem.SnapshotExp,
+            coins = CoinSystem.SnapshotCoins
         };
 
         PlayerPrefs.SetString(Key, JsonUtility.ToJson(data));
@@ -57,6 +59,7 @@ public static class SaveGameStore
 
         data.level = Mathf.Max(0, data.level);
         data.exp = Mathf.Max(0, data.exp);
+        data.coins = Mathf.Max(0, data.coins);
         return true;
     }
 

@@ -18,6 +18,7 @@ GameObject:
   - component: {fileID: 7971975374663520568}
   - component: {fileID: 2121247093569906489}
   - component: {fileID: 8221204508102497717}
+  - component: {fileID: 2209175563246354546}
   m_Layer: 3
   m_Name: Blood Monster_A
   m_TagString: Enemy
@@ -315,3 +316,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyExpReward
   exp: 4
+--- !u!114 &2209175563246354546
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8703574896654212139}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d9db93fa6813cb4eb4008e3782b4b08, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyCoinReward
+  minCoins: 4
+  maxCoins: 5
